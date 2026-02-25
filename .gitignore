@@ -1,0 +1,15 @@
+# --- Security (CRITICAL) ---
+# Environment variables / API keys
+.env
+*.env
+
+# Virtual environments
+.venv1/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector databases / embeddings
+vector_db/
+chroma.sqlite3
