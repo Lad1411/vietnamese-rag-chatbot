@@ -64,6 +64,8 @@ GOOGLE_API_KEY = ""
 python main.py
 ```
 
+## 🤖 Chatbot Demo
+![img.png](img.png)![img_1.png](img_1.png)
 
 ## 📊 Evaluation
 This project is evaluated using **RAGAS** (Retrieval-Augmented Generation Assessment) to measure retrieval quality, generation correctness, and overall end-to-end RAG performance. 
@@ -126,6 +128,3 @@ Evaluation:""",
 | Generation | Correctness (Pass Rate) | 100%  |
 | End-to-End | Correctness (Pass Rate) | 97.5% |
 
-
-## 🤖 Chatbot Demo
-![img.png](img.png)![img_1.png](img_1.png)
