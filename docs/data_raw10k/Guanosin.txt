@@ -1,0 +1,10 @@
+Guanosin
+
+Guanôzin (guanosine) là một nucleoside thuộc nhóm purine, gồm một phân tử guanin gắn vào vòng ribôza (dạng ribofuranose) nhờ liên kết -N9-glycosid.
+Guanosine có thể được phosphoryl hóa để trở thành GMP (guanosine monophosphate), GMP vòng (cyclic GMP), GDP (guanosine diphosphate) và GTP (guanosine triphosphate). Các dạng này đóng vai trò quan trọng trong nhiều quá trình sinh hóa ở tế bào, như tổng hợp axit nuclêic, tổng hợp prôtêin (dịch mã di truyền), quang hợp, hô hấp, truyền tín hiệu nội bào (qua cGMP) và co cơ của động vật. Nếu một guanine đã được liên kết giữa nitơ N9 của nó với carbon C1 của vòng đêoxyribôza, thì tạo thành deoxyguanosine.
+Chức năng sinh học.
+Guanosine cần thiết cho quá trình cắt nối ARN (RNA splicing) khi intrôn (không có mã di truyền) tách khỏi ARN thông tin (mRNA) bằng cách cắt ở cả hai đầu, nối lại và chỉ để các êxôn (có mã di truyền) ở hai bên nối lại, tạo thành khuôn cho dịch mã ở sinh vật nhân thực.
+Nó đóng vai trò quan trọng trong hoạt động thần kinh của người.
+Nguồn cấp.
+Guanosine được cung cấp trong những thức ăn nguồn gốc động vật, đặc biệt nhiều trong tuyến tụy; ngoài ra một số loài thực vật có khá giàu chất này, như cỏ ba lá, cây cà phê và phấn hoa của nhiều loài thông.
+

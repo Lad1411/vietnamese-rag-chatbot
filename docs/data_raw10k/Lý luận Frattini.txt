@@ -1,0 +1,13 @@
+Lý luận Frattini
+
+Trong lý thuyết nhóm, một nhánh toán học, lý luận Frattini là bổ đề quan trọng trong lý thuyết cấu trúc của các nhóm hữu hạn. Lý luận này được đặt tên theo Giovanni Frattini, người sử dụng nó trong bài viết năm 1885 để lý giải cho nhóm con Frattini của nhóm. Lý luận đưa bởi Frattini, được lấy từ bài của Alfredo Capelli năm 1884.
+Lý luận Frattini.
+Phát biểu.
+Nếu formula_1 là nhóm hữu hạn có nhóm con chuẩn tắc formula_2, và formula_3 là p-nhóm con Sylow của formula_2, thì
+trong đó formula_6 ký hiệu nhóm chuẩn hóa của formula_3 trong formula_1 và formula_9 là tích các tập con của nhóm.
+Chứng minh.
+Nhóm formula_3 là formula_11-nhóm con Sylow của formula_2, do đó mọi formula_11-nhóm con Sylow của formula_2 là liên hợp formula_2 của formula_3, nghĩa là nó có dạng formula_17, với formula_18 (xem định lý Sylow). Gọi formula_19 là bất kỳ phần tử thuộc formula_1. Bởi formula_2 chuẩn tắc trong formula_1, nên nhóm con formula_23 nằm trong formula_2. Điều này nghĩa là formula_23 là formula_11-nhóm con Sylow của formula_2. Từ trên, ta sẽ suy ra được rằng formula_2 phải liên hợp với formula_3: nghĩa là cho formula_18
+và vì vậy
+nên,
+do đó formula_34. Nhưng vì formula_35 được chọn tùy ý, do đó formula_36
+

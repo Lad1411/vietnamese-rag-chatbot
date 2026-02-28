@@ -1,0 +1,11 @@
+Raltitrexed
+
+Raltitrexed (Tomudex, TDX, ZD 1694) là một loại thuốc chống chuyển hóa được sử dụng trong hóa trị ung thư. Nó là một chất ức chế của thymidylate synthase, và được sản xuất bởi AstraZeneca.
+Công dụng.
+Được sử dụng trong điều trị ung thư đại trực tràng từ năm 1998, nó cũng có thể được sử dụng trong điều trị ung thư trung biểu mô ác tính. Raltitrexed được chấp thuận sử dụng ở Canada và một số nước châu Âu, nhưng không được FDA Hoa Kỳ chấp thuận.
+Cơ chế hoạt động.
+Raltitrexed tương tự về mặt hóa học với axit folic và thuộc nhóm thuốc hóa trị gọi là chất chống dị ứng folate, có tác dụng ức chế một hoặc ba enzyme sử dụng folate và dẫn xuất làm cơ chất: DHFR, GARFT và thymidylate synthase. Raltitrexed hoạt động hoàn toàn sau khi polyglutamylation, cho phép giữ tế bào của thuốc.
+Bằng cách ức chế Thymidylate synthase (TS), do đó hình thành các nucleotide tiền chất pyrimidine, raltitrexed ngăn chặn sự hình thành DNA và RNA, cần thiết cho sự tăng trưởng và sống sót của cả tế bào bình thường và tế bào ung thư.
+Ức chế sự tăng trưởng tế bào L1210 trong nuôi cấy IC50 = 9 nM, là một trong những chất chống dị ứng mạnh nhất được sử dụng.
+Cấu trúc và thử nghiệm lâm sàng giai đoạn I của thuốc tiền chất, CB3717, được mô tả vào năm 1986.
+

@@ -1,0 +1,17 @@
+Máy khoan
+
+Máy khoan là một thiết bị với một đầu mũi khoan dùng để khoan lỗ trên bề mặt vật liệu khác nhau. Thường dùng cho nghề mộc và kim khí.
+Đuôi mũi khoan được cặp vào đầu máy khoan, và được ấn vào mục tiêu và xoay tròn. Đầu mũi khoan thực hiện việc cắt bằng các vật liệu từng lát mỏng.
+Phân loại.
+Khoan điện.
+Năm 1895, FEIN - CHLB ĐỨC cho ra đời sản phẩm mang tính cách mạng cầm tay đầu tiên trên thế giới đó là dụng cụ khoan tay bằng điện.
+Ngày nay khoan tay điện rất phổ biến. Chúng thường giống như là một súng ngắn, với một cái đồ siết cò. Có thể dùng để vặn ốc và có chế độ dùng như búa, ví dụ khoan bê tông. Các máy khoan hiện đại có thể quay trở chiều và có thể điều chỉnh tốc độ quay khác nhau.
+Khoan PIN.
+Khoan PIN là khoan sử dụng điện áp một chiều được cung cấp năng lượng bằng một cục PIN. Loại máy khoan dùng PIN này có thiết kế nhỏ gọn khá tiện lợi, hỗ trợ đầu mũi vặn vít, mũi khoan và có chế độ động lực dùng để khoan bề mặt gỗ hoặc sắt mỏng. Loại máy này có chức năng đảo chiều, nút tăng giảm tốc độ giúp cho người sử dụng chủ động các mối khoan, loại khoan này thường được sử dụng nhiều, hoặc các hộ gia đình.
+Điện áp.
+Điện áp máy khoan pin là dòng điện 1 chiều tùy vào kích thước và chức năng có các dòng vol khác nhau như 3.6v; 7.2v; 9.6v; 12v; 14.4v; 18v; 24v; 29v; 36v; 40v; 60v
+Đa số dòng máy khoan pin trung quốc ghi số vol không chính xác như 72v, 88v, thực tế chỉ có 18v
+Khoan không dây điện.
+Khoan không dây điện thực tế là khoan sử dụng động cơ điện một chiều và được cung cấp năng lượng bằng ACCU. Các loại khoan này có cùng tính năng tương tự như khoan điện, thường có hỗ trợ đầu mũi vặn vít cho phép chúng xoay ốc.
+Ngoài ra còn có khoan sử dụng khí nén làm quay 1 tuốc bin nhỏ qua bộ giảm tốc để tăng moment truyền tới đầu khoan, thường được áp dụng trong môi trường ẩm ướt, thi công dưới nước...
+

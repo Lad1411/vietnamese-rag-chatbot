@@ -1,0 +1,8 @@
+Lưỡng chiết
+
+Lưỡng chiết (hay khúc xạ đúp, khúc xạ kép) là hiện tượng xảy ra khi tia sáng khi đi qua một số loại tinh thể (như canxít) bị tách ra thành hai tia sáng: tia thường và tia khác thường (thượng đẳng), tùy thuộc vào trạng thái phân cực của tia sáng.
+Các tinh thể gây ra hiện tượng lưỡng chiết được gọi là tinh thể lưỡng chiết. Các tinh thể này đều có tính chất không đẳng hướng. Sóng điện từ khi đi vào các môi trường này có thể có độ điện dịch không song song với véctơ cường độ điện trường. Nếu tinh thể chỉ có một trục quang học, hiện tượng lưỡng chiết có thể được mô tả bằng cách gán 2 chiết suất cho 2 phương phân cực, "n""o" cho phương vuông góc (ứng với tia thường) và "n""e" cho phương song song (ứng với tia bất thường) với trục quang học. Khi đó độ lưỡng chiết của vật liệu có thể được định nghĩa là: Δ"n" = "n""e" - "n""o". 
+Một số vật liệu lưỡng chiết.
+Một số khoáng chất thể hiện tính lưỡng chiết (đơn trục) như ở bảng bên.
+Nhiều chất dẻo có tính lưỡng chiết, vì phân tử của chúng bị "đóng băng" trong tình trạng chịu sức căng nhất định, khi chất dẻo được đúc hoặc dập.
+

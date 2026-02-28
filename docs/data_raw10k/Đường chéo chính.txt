@@ -1,0 +1,6 @@
+Đường chéo chính
+
+Trong đại số tuyến tính, đường chéo chính của một ma trận formula_1 bao gồm các phần tử formula_2 với formula_3. Mọi phần tử không nằm trên đường chéo chính của một ma trận đường chéo đều bằng 0. Ba ma trận sau đây đều có đường chéo chính được biểu thị bởi các số 1 màu đỏ:
+Đường chéo phụ.
+Đường chéo phụ của một ma trận vuông formula_5 với cấp formula_6 gồm các phần tử formula_7 sao cho formula_8 với mọi formula_9. Tức là, nó là đường chéo chạy từ góc phía trên cùng bên phải xuống góc phía dưới cùng bên trái:
+

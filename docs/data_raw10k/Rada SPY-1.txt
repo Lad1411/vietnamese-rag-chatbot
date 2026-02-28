@@ -1,0 +1,4 @@
+Rada SPY-1
+
+AN/SPY-1 là một hệ thống radar của hải quân Hoa Kỳ được sản xuất bởi hãng Lockheed Martin. Mảng này là một hệ thống điện tử tự động quét và là thành phần chính của hệ thống chiến đấu Aegis. Hệ thống do máy tính kiểm soát, sử dụng bổ sung bốn ăng-ten mục đích để bảo vệ 360 độ. Hệ thống này lần đầu tiên được cài đặt vào năm 1973 trên tàu USS Norton Sound (AVM-1) và bắt đầu hoạt động vào năm 1983 như là Spy-1A trên tàu USS Ticonderoga. The-1A đã được cài đặt trên tàu lên đến CG-58, sau nâng cấp 1B-lần đầu tiên được cài đặt trên tàu Princeton vào năm 1986. Việc nâng cấp-1B (V) được trang bị cho tàu hiện tại từ CG-59 cho đến, cuối CG-73.
+

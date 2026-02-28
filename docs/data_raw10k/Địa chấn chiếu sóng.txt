@@ -1,0 +1,11 @@
+Địa chấn chiếu sóng
+
+Địa chấn chiếu sóng hay chiếu sóng địa chấn (tiếng Anh: "Seismic tomography") là một phương pháp của Địa vật lý thăm dò, sử dụng sóng đàn hồi chiếu qua môi trường nhằm thu được hình ảnh phân bố của tốc độ truyền sóng đàn hồi, và có thể cả tham số đàn hồi khác, để phục vụ khảo sát địa chất công trình.
+Chú ý là trong Vật lý Địa cầu sử dụng các quan sát động đất tích lũy được để phân tách sóng truyền qua các lớp và dựng ra hình ảnh bên trong Trái Đất, và cũng được gọi là Seismic Tomography.
+Đo đạc và xử lý số liệu.
+Các điểm nguồn (ĐN) và điểm thu (ĐT) bố trí trong hố khoan, hầm lò và/hoặc trên mặt đất, sao cho đủ tia chiếu trùm lên đối tượng. Kết quả đo là các đường ghi địa chấn, được đưa vào phần mềm vạch sóng (Pick) để thu được thời gian truyền của sóng dọc Tp, đôi khi lấy cả sóng ngang Ts, và cường độ sóng Ap, As tương ứng.
+Số liệu đó cùng với tọa độ XYZ của ĐN và ĐT được nhập vào phần mềm Tomography để thực hiện giải ngược. Ví dụ "phần mềm GeoTomCG" của GeoTom, LLC (Mỹ) là phần mềm giải 3D cho địa chấn chiếu sóng.
+Chiếu sóng với nguồn trong hố khoan, thu sóng bằng hai dãy thu giao nhau trên mặt đất, giải bằng GeoTomCG.
+Kết quả được biểu diễn ra sẽ tự động là một mặt cắt 2D, các mặt cắt, hay khối 3D. Có hai điểm cần chú ý khi thiết kế đo thực địa:
+Tại Việt Nam phép đo này đã được Liên đoàn Vật lý Địa chất thực hiện khi tham gia khảo sát công trường xây dựng Formosa Vũng Áng năm 2010.
+

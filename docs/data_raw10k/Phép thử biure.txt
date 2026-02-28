@@ -1,0 +1,16 @@
+Phép thử biure
+
+Phép thử biuret, còn gọi là phản ứng màu biuret hay phép thử Piotrowski, là một phép thử hóa học dùng để nhận biết sự hiện diện của liên kết peptide. Khi có mặt peptide, ion đồng(II) hình thành phức chất màu tím cẩm quỳ trong dung dịch kiềm. Một số biến thể của phép thử này đã được phát hiện, như là phép thử BCA và phép thử Lowry sửa đổi.
+Phản ứng màu biuret cũng có thể dùng để đánh giá nồng độ của protein, bởi các liên kết peptit xuất hiện với cùng tần suất của amino acid trong peptide. Theo định luật Beer–Lambert, độ đậm của màu tím cũng như khả năng hấp thụ ánh sáng tại bước sóng 540 nm tỉ lệ thuận với nồng độ protein.
+Trái với tên gọi, thuốc thử của phản ứng này không chứa biuret (H2N-CO-)2NH. Tên gọi này là do nó cho kết quả dương tính với liên kết peptide như trong phân tử biuret.
+Trong phản ứng này, đồng(II) liên kết với nitơ có trong peptide của protein, đồng thời bị đẩy xuống đồng(I). Các chất đệm, như Tris và amoni cản trở phản ứng này, khiến nó không phù hợp cho mẫu protein chiết từ kết tủa amoni sunfat. Do tính nhạy kém và ít bị amino acid tự do ảnh hưởng, phương pháp này chủ yếu được dùng cho mẫu mô lớn và những nguồn chứa nhiều protein khác.
+Quy trình.
+Cho vào dung dịch mẫu thử được một lượng dung dịch 1% base mạnh như natri hydroxide hay kali hydroxide cùng thể tích, sau đó thêm vào giọt đồng(II) sunfat. Nếu hỗn hợp chuyển sang màu tím, đó là dấu hiệu của protein. Phản ứng có thể phát hiện nồng độ protein 5–160 mg/mL. Peptit phải có độ dài ít nhất 3 amino acid mới xảy ra sự đổi màu đáng kể.
+Thuốc thử biuret.
+Thuốc thử cho phản ứng biuret gồm natri hydroxide (NaOH) và đồng(II) sunfat ngậm nước, cùng với kali natri tartrate, dùng để thêm vào phức chất và làm ổn định ion đồng. Phản ứng của ion Cu2+ với nguyên tử nitơ trong liên kết peptit dẫn đến sự thế nguyên tử hydro peptide trong môi trường kiềm..
+Biến thể độ nhạy cao.
+Hai biến thể của phép thử biuret thường được dùng trong việc phân tích màu hiện đại để phát hiện peptide: phân tích axit bicinchoninic (BCA) và phân tích Lowry. Trong những phương pháp thử nghiệm này, ion Cu+ tạo thành trong phản ứng màu biuret tiếp tục tác dụng với chất khác, dẫn đến màu đậm hơn.
+Trong phép thử BCA, Cu+ tạo thành một phức chất tím đậm sau khi phản ứng với axit bicinchoninic (BCA), hấp thụ bước sóng khoảng 562 nm, tạo thành màu cẩm quỳ đặc trưng. Phức chất BCA/đồng tan được và hấp thụ mạnh hơn nhiều so với phức chất peptide/đồng, làm tăng độ nhạy của phép thử biuret lên khoảng 100 lần: phân tích BCA cho phép phát hiện protein trong khoảng nồng độ từ 0,0005 đến 2 mg/mL. Ngoài ra, phương pháp phân tích protein BCA còn tương thích với nhiều chất hơn, như chất hoạt động bề mặt với nồng độ lên đến 5% trong mẫu thử protein.
+Trong phương pháp phân tích protein Lowry, Cu+ bị oxy hóa lại thành Cu2+ bởi MoVI (có trong thuốc thử Folin–Ciocalteu, tạo thành molypden xanh dương MoIV. Tyrosine có trong protein cũng tạo thành molypden xanh trong điều kiện này. Phương pháp này có thể phát hiện protein với nồng độ từ 0,005 đến 2 mg/mL. Molypden xanh dương lại có thể liên kết với những chất nhuộm hữu cơ như malachi xanh lục hay Auramine O, càng làm tăng độ nhạy của phản ứng.
+Tại Ba Lan, phép thử còn được gọi là phép thử Piotrowski, nhằm vinh danh nhà sinh lý học người Ba Lan Gustaw Piotrowski (sinh năm 1833), mô tả thí nghiệm này lần đầu năm 1857.
+

@@ -1,0 +1,19 @@
+Yakovlev Yak-28
+
+Yakovlev Yak-28 là một loại máy bay chiến đấu phản lực cánh cụp, 2 động cơ được Liên Xô sử dụng trong thời kỳ Chiến tranh lạnh. Lúc đầu được sản xuất như một máy bay ném bom, nhưng về sau nó còn được chế tạo thành nhiều phiên bản với các mục đích như máy bay trinh sát, tác chiến điện tử, máy bay tiêm kích đánh chặn, và máy bay huấn luyện. Tên ký hiệu của NATO là Brewer, Firebar, và Maestro cho từng phiên bản.
+Miêu tả.
+Mẫu thử nghiệm cơ bản của Yak-28 bay lần đầu tiên vào 5 tháng 3-1958, và bắt đầu phục vụ trong biên chế các đơn vị vào năm 1960.
+Phương Tây được tận mắt chứng kiến Yak-28 lần đầu tiên tại ngày hàng không Tushino, đúng vào ngày quốc tế lao động 1 tháng 5-1961. Các học giả phương Tây lúc đầu đánh giá nó là máy bay tiêm kích hơn là máy bay cường kích, và đây là một bản mở rộng của Yak-25M, do đó nó có tên ký hiệu là 'Flashlight'. Sau khi vai trò của nó được làm sáng tỏ, seri Yak-28 ném bom lại có tên gọi là 'Brewer' - người ủ bia.
+Tổng cộng đã có khoảng 700 chiếc Yak-28 đủ mọi phiên bản được chế tạo. Yak-28P được rút khỏi biên chế vào đầu những năm 1980, nhưng phiên bản huấn luyện và các phiên bản khác còn được sử dụng cho đến khi Liên Xô sụp đổ, đến năm 1992. Máy bay trinh sát 'Brewer' và ECM cuối cùng được thay thế bởi các biến thể của Sukhoi Su-24 'Fencer'.
+Yak-28 có một đôi cánh giữa lớn, cụp một góc 45°. Trên cánh thẳng đứng ở đuôi, còn có 2 cánh nhỏ hơn được thêm vào để tăng khả năng điều khiển bay). Những cánh tà nhỏ được đặt lên cánh chính. 2 động cơ phản lực Tumansky R-11, lúc đầu lực đẩy mỗi chiếc là 57 kN (12.795 lbf), được đặt ở 2 cánh chính, giống như là Yak-25 trước đây. Ở phần cánh chính còn được đặt các bánh máy bay, điều này làm thân máy bay rộng hơn, cho phép mang nhiều nhiên liệu hơn. Yak-28 có thể đạt đến vận tốc âm thanh, tốc độ Mach 1 có thể đạt được ở trên độ cao lớn.
+Các phiên bản.
+Rất nhiều phiên bản của Yak-28 đã được sản xuất. Đầu tiên là 3 mẫu có tên ký hiệu của NATO là 'Brewer-A', 'Brewer-B', và 'Brewer-C', là những máy bay ném bom chiến thuật, với phần ghế ngồi ở mũi cho sĩ quan hoa tiêu kiêm điều khiển vũ khí, nó có thể mang 3.000 kg (6.600 lb) vũ khí, và một khẩu pháo (lúc đầu là pháo 23 mm NR-23, sau đó được thay thế bằng GSh-23L), ở cánh có các giá treo vũ khí để mang thêm bom hoặc tên lửa chùm. 2 mẫu 'Brewer-A' và 'Brewer-B' không được sản xuất hàng loạt với số lượng lớn, và mẫu được sản xuất hàng loạt đầu tiên là Yak-28B ('Brewer-C'). Nó được trang bị loại radar đặc biệt là RBP-3.
+Vào năm 1961, Yak-28B được nâng cấp thành Yak-28L, với radar với có hệ thống hỗ trợ ném bom 'Lotos', và vào năm 1962 nó được thay thế bởi Yak-28I, với radar 'Initiativa'. Động cơ được thay thế bởi loại R-11AF2-300 với lực đẩy 61 kN or 13.700 lbf).
+Một vài chiếc Yak-28B được nâng cấp với radar 'Initiativa' và có tên gọi là Yak-28BI. Một số Yak-28L sau đó được cải tạo để làm nhiệm vụ giám sát sự ô nhiễm phóng xạ và có tên gọi là Yak-28RR.
+Yak-28R (NATO 'Brewer-D') là phiên bản chuyên dụng để trinh sát, được thêm vào radar dò tìm.
+Yak-28PP (NATO 'Brewer-E') được cải tạo từ 'Brewer-C' được trang bị để tác chiến điện tử/đối phó điện tử. Các giá treo ở cánh có thể được dùng để treo thùng nhiên liệu phụ hoặc chùm rốc két. Những chiếc Yak-28PP đầu tiên có thể giữ lại pháo, nhưng sau đó đã bị loại bỏ.
+Yak-28U (NATO 'Maestro') là phiên bản huấn luyện với một buồng lái dành cho giáo viên bên cạnh buồng lái tiêu chuẩn.
+Một phiên bản máy bay tiêm kích đánh chặn tầm xa cũng được chế tạo, Yak-28P (NATO 'Firebar'), nó được phát triển vào những năm 1965-1966. Nó bỏ qua khoang chứa vũ khí trong thân để tăng khả năng mang nhiên liệu, và thêm vào radar đánh chặn 'Oriol-D', có khả năng mang tên lửa không đối không R-98 (AA-3 'Anab'). Các khẩu pháo cũng bị loại bỏ.
+Trong văn hóa đại chúng.
+Trong bộ phim hoạt hình của Nhật Bản mang tên "Stratos 4", máy bay hư cấu "Yak-28MST" được dựa trên Yak-28.
+

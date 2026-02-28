@@ -1,0 +1,5 @@
+Giấu tin
+
+Giấu tin (tiếng Anh: Information hiding) là kỹ thuật nhúng (hay còn gọi là giấu) một lượng thông tin số nào đó vào trong một đối tượng dữ liệu số khác. Kỹ thuật giấu tin nhằm hai mục đích: một là bảo mật cho dữ liệu được đem giấu, hai là bảo vệ cho chính đối tượng mang tin giấu. Hai mục đích khác nhau này dẫn đến hai kĩ thuật chủ yếu của giấu tin, đó là ẩn mã và thủy vân số.
+Nói chung, giấu tin trong đa phương tiện là tận dụng “độ dư thừa” của phương tiện giấu để thực hiện việc giấu tin mà người ngoài cuộc “khó” cảm nhận được có thông tin giấu trong đó.
+

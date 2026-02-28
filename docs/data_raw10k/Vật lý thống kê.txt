@@ -1,0 +1,6 @@
+Vật lý thống kê
+
+Vật lý thống kê là một ngành trong vật lý học, áp dụng các phương pháp thống kê để giải quyết các bài toán liên quan đến các hệ chứa một số rất lớn những phần tử, có số bậc tự do cao đến mức không thể giải chính xác bằng cách theo dõi từng phần tử, mà phải giả thiết các phần tử có tính hỗn loạn và tuân theo các quy luật thống kê.
+Ví dụ của các hệ có thể là các vật chất trong tự nhiên, chứa điện tử, quang tử, nguyên tử, phân tử, tồn tại dưới những trạng thái vật chất khác nhau (chất khí, chất lỏng, chất rắn, plasma...). Các phương pháp của vật lý thống kê hoàn toàn có thể mở rộng cho các hệ như hệ nơ-ron thần kinh, quần thể sinh vật, quần thể người trong xã hội, hay các hệ hỗn loạn trong kinh tế học.
+Một số bài toán của vật lý thống kê có lời giải đại số, nhờ các phép xấp xỉ hay phân tích chuỗi. Tuy nhiên đa số phải sử dụng các phương pháp số để giải, đặc biệt là phương pháp Monte-Carlo.
+

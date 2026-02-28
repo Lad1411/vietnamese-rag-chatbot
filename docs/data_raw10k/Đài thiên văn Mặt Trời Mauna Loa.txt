@@ -1,0 +1,9 @@
+Đài thiên văn Mặt Trời Mauna Loa
+
+Đài thiên văn Mặt Trời Mauna Loa (MLSO) là đài quan sát mặt trời nằm trên sườn núi Mauna Loa trên đảo Hawaii thuộc bang Hawaii của Mỹ. Nó được vận hành bởi Đài quan sát Độ cao (HAO), một phòng thí nghiệm thuộc Trung tâm Nghiên cứu Khí quyển Quốc gia (NCAR). MLSO nằm trên tài sản được quản lý bởi Đài thiên văn Mauna Loa (MLO), một phần của Cơ quan Khí quyển và Đại dương Quốc gia Hoa Kỳ (NOAA). MLSO được xây dựng vào năm 1965.
+MLSO được giao nhiệm vụ theo dõi bầu khí quyển Mặt Trời và ghi lại dữ liệu về phát xạ plasmic và năng lượng từ tầng quyển và vành nhật hoa. Các nghiên cứu về các lần đẩy khối năng lượng ra vành nhật hoa (CME) cũng được tiến hành tại MLSO. Một số đài quan sát thiên văn phi Mặt Trời được đặt tại địa điểm này. Các công cụ MLSO ghi lại hình ảnh của đĩa mặt trời và các tay lửa cứ sau 3 phút trong 3-10 giờ hàng ngày bắt đầu từ 17:00 UT, khi thời tiết cho phép.
+Thiết bị.
+Thiết bị hiện tại.
+Máy đo phân cực đa kênh (CoMP) theo dõi từ trường trong corona bằng cách ghi lại cường độ và độ phân cực của ánh sáng nhận được từ corona.
+Thiết bị đo nhật hoa K-cor là công cụ 5 thế hệ để tạo ra các bản đồ phân cực của vành nhật hoa được quan sát dưới ánh sáng trắng.
+

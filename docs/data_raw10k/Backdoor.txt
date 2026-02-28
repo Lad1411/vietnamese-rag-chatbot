@@ -1,0 +1,4 @@
+Backdoor
+
+Backdoor, nghĩa là "cửa hậu" hay lối vào phía sau. Trong một hệ thống máy tính, "cửa hậu" là một phương pháp vượt qua thủ tục chứng thực người dùng thông thường hoặc để giữ đường truy nhập từ xa tới một máy tính, trong khi cố gắng không bị phát hiện bởi việc giám sát thông thường. Cửa hậu có thể có hình thức một chương trình được cài đặt (ví dụ Back Orifice hoặc cửa hậu rookit Sony/BMG rootkit được cài đặt khi một đĩa bất kỳ trong số hàng triệu đĩa CD nhạc của Sony được chơi trên một máy tính chạy Windows), hoặc có thể là một sửa đổi đối với một chương trình hợp pháp - đó là khi nó đi kèm với Trojan.
+

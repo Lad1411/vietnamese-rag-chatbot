@@ -1,0 +1,115 @@
+Tetration
+
+Trong toán học, tetration hoặc hyper-4 trong hyperoperation là một phép toán dựa trên phép lặp hoặc sự lặp lại của luỹ thừa, tetration được hiểu là "luỹ thừa chồng chất". 
+Theo định nghĩa tetration là "luỹ thừa lặp" (hoặc "chồng") nên tetration là một phép toán hai ngôi được viết dưới dạng formula_1, trong đó formula_2 được gọi là "cơ số" và formula_3 là số lần formula_2 luỹ thừa lặp chính nó (hoặc số lần lặp lại của formula_2) được gọi là "chiều cao", tương tự như luỹ thừa. Như vậy, formula_1 sẽ được biến đổi thành một tháp luỹ thừa formula_7và formula_3 là số tầng luỹ thừa của formula_2 tính từ cơ số và formula_1 sẽ được đọc là "tetration bậc formula_3 của formula_2" hoặc "formula_2 tetration bậc formula_3". 
+Tetration là phép toán bậc tiếp theo sau lũy thừa, nhưng trước pentation. Thuật ngữ "tetration" theo tiếng Anh được Reuben Louis Goodstein đặt ra từ từ tetra- nghĩa là "bốn" trong tiền tố Hy Lạp và itetration nghĩa là "sự lặp lại" để chỉ phép lặp tạm dịch là "sự lặp lại lần thứ bốn". 
+Tetration cũng được định nghĩa đệ quy như
+formula_15
+cho phép cố gắng mở rộng "chiều cao" của tetration thành các số không phải số tự nhiên chẳng hạn như số thực hoặc số phức.
+Hai phép toán nghịch đảo của tetration được gọi là siêu căn và siêu logarit, tương tự như căn bậc n và hàm logarit. Không có hàm nào trong ba hàm này là hàm số sơ cấp.
+Tetration được sử dụng để ký hiệu các số rất lớn.
+Giới thiệu.
+Dưới đây là bốn phép toán đầu tiên, tetration được coi là phép toán thứ tư trong đó. Phép toán một ngôi successor, được định nghĩa là formula_16.
+Phép toán sau là sự lặp lại của phép toán liền trước đó.
+Lưu ý rằng các số mũ chồng nhau được tính theo quy ước từ trên xuống: formula_29 có nghĩa là formula_30 chứ không phải formula_31.
+Phép successor, formula_32 là phép toán cơ bản nhất; trong khi phép cộng formula_33 là một phép toán chính, đối với phép cộng các số tự nhiên, nó có thể được coi là chuỗi lặp lại các phép successor của ; phép nhân formula_34 cũng là một phép toán chính mặc dù đối với các số tự nhiên, nó có thể được coi là một chuỗi lặp lại các phép cộng của với chính nó. Luỹ thừa formula_35 có thể được coi là chuỗi lặp lại các phép nhân của với chính nó và tetration formula_36 cũng được coi như chuỗi lặp lại hay các tầng luỹ thừa chính nó được xếp chồng lên nhau. Mỗi phép toán ở trên được xác định bằng cách lặp lại phép toán liền trước đó. Tuy nhiên, không giống như các phép toán trước nó, tetration không phải là một hàm số sơ cấp.
+Tham số được gọi là cơ số, trong khi tham số trong tetration có thể được gọi là chiều cao. Trong định nghĩa ban đầu của tetration, chiều cao phải là số tự nhiên; chẳng hạn, sẽ là không đúng nếu nói "ba tetration âm năm" hoặc "bốn tetration một phần hai". Tuy nhiên, cũng giống như phép cộng, phép nhân và lũy thừa có thể được định nghĩa theo những cách cho phép mở rộng lên số thực và số phức, một số nỗ lực đã được thực hiện để tổng quát hóa tham số chiều cao của tetration thành số âm, số thực và số phức. Một trong những cách làm như vậy là sử dụng một định nghĩa đệ quy cho tetration; đối với bất kỳ số thực formula_37 và số nguyên không âm formula_38, chúng ta có thể xác định formula_39 đệ quy dưới dạng:
+Định nghĩa này tương đương với số lần lặp luỹ thừa cho các tham số chiều cao tự nhiên. Tuy nhiên, định nghĩa này cho phép mở rộng lên các tham số chiều cao khác chẳng hạn như formula_41, formula_42, và formula_43 - nhiều phần mở rộng trong số này là những mở rộng đang được nghiên cứu.
+Thuật ngữ.
+Có rất nhiều thuật ngữ cho tetration, mỗi thuật ngữ đều có tính logic đằng sau nó, nhưng một số thuật ngữ đã không được sử dụng phổ biến vì lý do này hay lý do khác. Dưới đây là sự so sánh của từng thuật ngữ với cơ sở lý luận và phản biện của nó.
+Do một phần thuật ngữ được chia sẻ và ký hiệu tượng trưng tương tự, tetration thường xuyên bị nhầm lẫn với các chức năng và biểu thức liên quan. Dưới đây là một số thuật ngữ liên quan:
+Trong hai biểu thức đầu tiên formula_2 là "cơ số", và các tầng giá trị formula_2 là chiều cao (thêm một tầng cho giá trị formula_47). Trong biểu thức thứ ba, formula_18 là chiều cao, nhưng mỗi tầng lại có giá trị khác nhau.
+Cần lưu ý khi đề cập đến số mũ lặp, vì thông thường gọi biểu thức của dạng này là luỹ thừa lặp, đó là điều mơ hồ, bởi vì điều này có thể có nghĩa là mũ lặp hoặc số mũ lặp.
+Kí hiệu.
+Có rất nhiều kiểu ký hiệu khác nhau để diễn đạt tetration. Một số ký hiệu cũng có thể được sử dụng để mô tả các hyperoperation khác, trong khi một số chỉ giới hạn ở tetration và không có phần mở rộng ngay lập tức.
+Một ký hiệu ở trên sử dụng ký hiệu số mũ lặp, điều này được định nghĩa chung như sau:
+Không có nhiều ký hiệu cho số mũ lặp, dưới đây là một vài ký hiệu được sử dụng để mô tả chỉ số lặp:
+Thí dụ.
+Bởi vì tetration có sự gia tăng nhanh chóng, hầu hết các giá trị trong bảng sau đây là quá lớn để viết bằng ký hiệu khoa học. Trong những trường hợp này, ký hiệu số mũ lặp được sử dụng để thể hiện chúng trong cơ số 10. Các giá trị chứa dấu thập phân là gần đúng.
+Tính chất.
+Tetration có những tính chất tương tự như luỹ thừa, cũng như các thuộc tính cụ thể dành riêng cho nó và bị mất hoặc thu được từ lũy thừa. Bởi vì luỹ thừa không có tính chất giao hoán, kết quả và quy tắc không có sự tương tự với tetration, các câu formula_50 and formula_51 không nhất thiết đúng với mọi trường hợp.
+Tuy nhiên, tetration theo một tính chất khác, trong đó formula_52. Sự thật này được thể hiện rõ nhất bằng cách sử dụng định nghĩa đệ quy. Từ thuộc tính này, một mệnh đề theo sau formula_53, cho phép chuyển đổi "b" và "c" trong các phương trình nhất định. Mệnh đề như sau:
+Thứ tự này rất quan trọng vì lũy thừa không có tính kết hợp, và tính toán biểu thức theo thứ tự ngược lại sẽ cho ra một kết quả khác:
+Tính toán biểu thức từ trái sang phải được coi là ít thú vị hơn, tính toán từ trái sang phải, mọi biểu thức formula_56 có thể được hạ xuống thành formula_57. Bởi vì điều này, các tháp phải được tính từ phải sang trái (hoặc từ trên xuống dưới). Lập trình viên máy tính nhắc đến sự lựa chọn này như kết hợp phải.
+Mở rộng.
+Tetration có thể được mở rộng theo hai cách khác nhau. Trong phương trình formula_58, cả cơ số và chiều cao có thể được khái quát bằng cách sử dụng định nghĩa và tính chất của tetration. Mặc dù cơ số và chiều cao có thể được mở rộng vượt ra ngoài các số nguyên dương đến các miền khác, kể cả formula_59, các hàm phức như formula_60, và chiều cao của vô hạn , các tính chất hạn chế hơn của tetration làm giảm khả năng mở rộng tetration.
+Mở rộng miền cho cơ số.
+Cơ số không.
+Số mũ formula_61 không được xác định nhất quán. Như vậy, các tetration formula_62 không được xác định rõ ràng bởi các công thức đưa ra trước đó. Tuy nhiên, formula_63 được xác định rõ, và tồn tại:
+Do đó, chúng ta có thể xác định nhất quán formula_65. Điều này tương tự như việc định nghĩa formula_66.
+Theo phần mở rộng này, formula_67, do đó, quy tắc formula_68 từ định nghĩa ban đầu vẫn giữ.
+Cơ số phức.
+Kể từ khi các số phức được nâng lên thành các mũ, tetration có thể được áp dụng cho "các cơ số" có dạng formula_69 (trong đó formula_2 và formula_3 là số thực). Ví dụ, trong formula_72 với formula_73, tetration đạt được bằng cách sử dụng các nhánh chính của logarit tự nhiên, sử dụng công thức Euler chúng ta được mối quan hệ:
+Điều này cho thấy một định nghĩa đệ quy cho formula_75 với bất kỳ formula_76:
+Các giá trị gần đúng sau đây có thể được lấy:
+Giải quyết các quan hệ nghịch đảo, như trong phần trước, mang lại formula_78 và formula_79, với các giá trị âm của cho kết quả vô hạn trên trục ảo. Vẽ sơ đồ trong mặt phẳng phức, toàn bộ chuỗi xoắn ốc đến giới hạn formula_80, mà có thể được hiểu là giá trị trong đó formula_18 là vô hạn.
+Trình tự tetration như vậy đã được nghiên cứu kể từ thời Euler, nhưng được hiểu một cách kém cỏi do hành vi hỗn loạn của chúng. Hầu hết các nghiên cứu được công bố trong lịch sử đã tập trung vào sự hội tụ của hàm số mũ lặp vô hạn. Nghiên cứu hiện tại đã được hưởng lợi rất nhiều từ sự có mặt của các máy tính mạnh mẽ với fractal và phần mềm toán học tượng trưng. Phần lớn những gì được biết về tetration xuất phát từ kiến thức chung về động lực học phức tạp và nghiên cứu cụ thể về bản đồ số mũ.
+Phần mở rộng của miền cho các chiều cao khác nhau.
+Chiều cao vô hạn.
+Tetration có thể được mở rộng đến các chiều cao vô hạn. Tức là, đối với một số giá trị và nhất định trong formula_82, tồn tại một kết quả được xác định rõ ràng cho một vô hạn. Điều này là vì các cơ số trong một khoảng nhất định, tetration hội tụ đến một giá trị hữu hạn khi chiều cao có xu hướng tiến đến vô cùng. Ví dụ, formula_83 hội tụ tại 2, và do đó, có thể nói là bằng 2. Xu hướng tới 2 có thể được nhìn thấy bằng cách đánh giá một tháp mũ hữu hạn nhỏ:
+Nói chung, số mũ lặp lại vô hạn formula_85, được định nghĩa là giới hạn của formula_86 khi tiến đến vô cùng, hội tụ cho , đại khái khoảng từ 0.066 đến 1.44, một kết quả được hiển thị bởi Leonhard Euler. Giới hạn, nó nên tồn tại, là một số thực dương của phương trình . Như vậy, . Giới hạn xác định tetration vô hạn của không hội tụ cho bởi vì tối đa của là .
+Điều này có thể được mở rộng thành số phức với định nghĩa:
+Trong đó W đại diện cho hàm W Lambert.
+Như giới hạn (nếu tồn tại, tức là cho ) phải thoả mãn chúng ta thấy rằng là (nhánh dưới của) hàm nghịch đảo của .
+Chiều cao âm.
+Chúng ta có thể sử dụng quy tắc đệ quy cho tetration,
+để chứng minh formula_89:
+Thay −1 cho sẽ cho
+Các giá trị âm nhỏ hơn không thể được xác định rõ theo cách này. Thay −2 cho k trong cùng phương trình sẽ cho
+mà không được xác định rõ. Họ có thể, tuy nhiên, đôi khi được coi là các bộ.
+Đối với formula_93, mọi định nghĩa của formula_94 đều phù hợp với quy tắc bởi vì
+Chiều cao thực.
+Tại thời điểm này không có giải pháp thông thường được chấp nhận cho vấn đề chung là mở rộng tetration thành giá trị thực và phức của . Tuy nhiên, đã có nhiều cách tiếp cận đối với vấn đề này và các cách tiếp cận khác nhau được nêu ra dưới đây.
+Nói chung, vấn đề là tìm kiếm — với mọi số thực — một "hàm siêu mũ" formula_97 trên số thực thỏa mãn
+Để tìm thêm phần mở rộng số tự nhiên, thường cần một hoặc nhiều yêu cầu bổ sung. Điều này thường là một số tập hợp sau đây:
+Yêu cầu thứ tư khác nhau từ tác giả đến tác giả, và giữa các cách tiếp cận. Có hai cách tiếp cận chính để mở rộng tetration lên chiều cao thực, một là dựa trên yêu cầu "thường xuyên", và một là dựa trên yêu cầu "khả vi". Hai cách tiếp cận này dường như khác nhau đến mức chúng có thể không thể đối chiếu, vì chúng tạo ra kết quả không nhất quán với nhau.
+Khi formula_106 được xác định cho một khoảng có độ dài một, toàn bộ hàm dễ dàng theo sau với tất cả .
+Xấp xỉ tuyến tính cho chiều cao thực.
+Một xấp xỉ tuyến tính (giải pháp cho yêu cầu liên tục, gần đúng với yêu cầu khả vi) được đưa ra bởi:
+vì thế:
+vân vân. Tuy nhiên, nó chỉ là khả vi, tại các giá trị nguyên của đạo hàm được nhân với formula_108. Nó liên tục được khả vi cho formula_109 khi và chỉ khi formula_110. Ví dụ, sử dụng các phương pháp này formula_111 và formula_112
+Một định lý chính trong bài báo Hooshmand phát biểu: Đặt formula_113. Nếu formula_114 là liên tục và thỏa mãn các điều kiện sau:
+thì formula_116 được xác định duy nhất thông qua phương trình
+trong đó formula_121 biểu thị phần phân số của formula_122 là formula_123-hàm lặp của hàm formula_124.
+Bằng chứng là điều kiện thứ hai đến thứ tư ngụ ý tầm thường rằng là hàm tuyến tính trên .
+Phép xấp xỉ tuyến tính với hàm tetration tự nhiên formula_125 liên tục được khả vi, nhưng đạo hàm thứ hai của nó không tồn tại ở các giá trị nguyên của đối số của nó. Hooshmand đã đưa ra một định lý duy nhất cho nó, trong đó nêu rõ:
+Nếu formula_126 là một hàm liên tục thỏa mãn:
+sau đó formula_130. [Ở đây formula_130 là tên của Hooshmand cho phép tính gần đúng tuyến tính với hàm tetration tự nhiên.]
+Bằng chứng là giống như trước đây, phương trình đệ quy đảm bảo rằng formula_132 và sau đó điều kiện lồi ngụ ý rằng formula_116 là tuyến tính trên .
+Do đó, phép xấp xỉ tuyến tính với tetration tự nhiên là giải pháp duy nhất của phương trình formula_134 và formula_135 là hàm lồi trên . Tất cả các giải pháp đủ khả vi khác phải có điểm uốn trên khoảng .
+Xấp xỉ bậc cao hơn cho chiều cao thực.
+Ngoài các xấp xỉ tuyến tính, xấp xỉ bậc hai (theo yêu cầu khả vi) được đưa ra bởi:
+có thể phân biệt cho tất cả formula_103, nhưng không hai lần khả vi. Ví dụ, formula_138 Nếu formula_110 thì đây gần giống như xấp xỉ tuyến tính.
+Bởi vì cách tính toán, hàm này không "hủy bỏ", trái với số mũ, trong đó formula_140. Cụ thể là,
+Cũng như có một xấp xỉ bậc hai, xấp xỉ bậc ba và phương pháp để khái quát hóa cho xấp xỉ bậc cũng tồn tại, mặc dù chúng khó sử dụng hơn nhiều.
+Chiều cao phức.
+Hiện tại đã chứng minh rằng tồn tại một hàm duy nhất là một nghiệm của phương trình và thỏa mãn các điều kiện bổ sung mà và tiếp cận các điểm cố định của logarit (khoảng ) khi tiếp cận và là biến hình trong toàn bộ mặt phẳng phức -phức, ngoại trừ một phần của trục sô thực tại . Bằng chứng này xác nhận một phỏng đoán trước đó. Bản đồ phức của chức năng này được hiển thị trong hình bên phải. Bằng chứng cũng hoạt động cho các cơ số khác ngoài "e", miễn là cơ sở đó lớn hơn formula_142.
+Yêu cầu của tetration là chỉnh hình rất quan trọng cho tính độc đáo của nó. Nhiều chức năng có thể được xây dựng như
+trong đó và là các chuỗi thực sự phân rã đủ nhanh để cung cấp sự hội tụ của dãy liên tiếp nhau, ít nhất là ở các giá trị vừa phải của .
+Hàm thỏa mãn các phương trình tetration , , và nếu và tiếp cận 0 đủ nhanh nó sẽ được phân tích trên một vùng lân cận của trục số thực dương. Tuy nhiên, nếu một số phần tử của hoặc không bằng không, thì hàm có vô số các điểm kỳ dị bổ sung và đường cắt trong mặt phẳng phức, do sự tăng trưởng theo cấp số nhân của sin và cos dọc theo trục tưởng tượng. Các hệ số và càng nhỏ thì, các điểm kỳ dị này càng xa trục thực.
+Do đó, việc mở rộng tetration vào mặt phẳng phức là rất cần thiết cho sự độc đáo. tetration phân tích thực không phải là duy nhất.
+Đệ quy phi cơ bản.
+Tetration (bị giới hạn ở formula_144) không phải là một hàm đệ quy nguyên thủy. Người ta có thể chứng minh bằng cảm ứng rằng với mọi hàm đệ quy sơ cấp , có một hằng số sao cho
+Chúng ta biểu thị phía bên tay phải bởi formula_146. Giả sử ngược lại rằng tetration là đệ quy sơ cấp. formula_147 cũng là đệ quy sơ cấp. Theo bất đẳng thức trên, có một hằng số sao cho formula_148. Bằng cách để formula_149, chúng ta có formula_150, một mâu thuẫn.
+Phép toán nghịch đảo.
+Lũy thừa có hai phép toán nghịch đảo: căn và logarit. Tương tự, nghịch đảo của tetration thường được gọi là "siêu căn", và "siêu logarit" (Trong thực tế, tất cả các phép toán có bậc lớn hơn hoặc bằng 3 đều có phép nghịch đảo tương tự). Ví dụ, trong hàm formula_151, hai nghịch đảo là siêu căn bậc 3 của và siêu logarit cơ số của .
+Siêu căn.
+Các siêu căn là phép toán nghịch đảo của tetration đối với cơ số: nếu formula_152, thì là siêu căn bậc của (formula_153 hoặc formula_154).
+Ví dụ,
+vì vậy 2 là siêu căn bậc 4 của 65,536.
+Siêu căn bậc 2.
+"Siêu căn bậc 2" có hai ký hiệu tương đương, formula_156 và formula_157. Nó là nghịch đảo của formula_158 và có thể được biểu diễn bằng hàm W Lambert:
+Hàm này cũng minh họa bản chất phản xạ của hàm căn và hàm logarit vì phương trình dưới đây chỉ đúng khi formula_160:
+Giống như căn bậc hai, siêu căn bậc hai của có thể không có một giải pháp duy nhất. Không giống như căn bậc hai, việc xác định số lượng siêu căn bậc hai của có thể khó khăn. Nói chung, nếu formula_162, thì có hai siêu căn bậc hai dương giữa 0 và 1, thì có một siêu căn bậc 2 dương lớn hơn 1. Nếu là số dương và nhỏ hơn formula_163 thì nó không có bất kỳ siêu căn bậc 2 thực nào, nhưng công thức đã cho ở trên mang lại vô cùng nhiều công thức phức cho bất kỳ hữu hạn nào không bằng 1. Hàm đã được sử dụng để xác định kích thước của cụm dữ liệu.
+Tại formula_164:
+formula_165
+Các siêu căn khác.
+Đối với mỗi số nguyên , hàm được xác định và tăng cho , và , sao cho siêu căn bậc của , formula_153, tồn tại cho .
+Tuy nhiên, nếu sử dụng xấp xỉ tuyến tính ở trên, thì formula_167 nếu , vì vậy formula_168 không thể tồn tại.
+Cũng giống như siêu căn bậc hai, thuật ngữ cho các siêu căn khác có thể dựa trên các căn thông thường:"siêu căn bậc 3" có thể được thể hiện như formula_169, "siêu căn bậc 4" có thể được thể hiện như formula_170, và "siêu căn bậc là formula_153. Lưu ý rằng formula_153 có thể không được xác định duy nhất, bởi vì có thể có nhiều hơn căn thứ . Ví dụ, có một siêu căn đơn (số thực) nếu lẻ và lên đến hai nếu chẵn.
+Cũng giống như việc mở rộng tetration lên chiều cao vô hạn, siêu căn có thể được mở rộng đến , được xác định rõ nếu . Lưu ý rằng formula_173 và do đó formula_174. Do đó, khi nó được xác định rõ, formula_175 và, không giống như tetration thường, là một hàm số sơ cấp. Ví dụ, formula_176.
+Nó xuất phát từ Định lý Schelfider Schneider siêu căn cho bất kỳ số nguyên dưformula_177ơng là số nguyên hoặc số siêu việt, và formula_178 là số nguyên hoặc không hợp lý. Vẫn còn là một câu hỏi mở cho dù các siêu căn phi lý có siêu việt trong trường hợp sau hay không.
+Siêu logarit.
+Khi định nghĩa tăng liên tục (tính bằng formula_47) của tetration, formula_180, đã được chọn, siêu logarit tương ứng formula_181 hoặc formula_182 được định nghĩa cho tất cả các số thực formula_47, và formula_184.
+Hàm formula_185 thỏa mãn:
+

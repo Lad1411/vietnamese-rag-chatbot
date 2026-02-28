@@ -1,0 +1,18 @@
+Số Hex
+
+Khái niệm số Hex là viết tắt trong tiếng Anh để biểu diễn các số hay chuỗi số dưới dạng của hệ đếm thập lục phân (cơ số 16).
+Thiết kế Web.
+Trong việc thiết kế Web bằng ngôn ngữ HTML hay CSS, khi cần biểu diễn giá trị của màu sắc dưới dạng RGB, người ta thường sử dụng hệ đếm cơ số này. Nó là một chuỗi trong hệ thập lục phân có sáu chữ hay số dạng ghép của ba số dạng một byte. Các byte biểu diễn cho ba thành phần màu của các loại màu sắc khác nhau là màu đỏ, xanh lá cây và xanh lam. Mỗi byte đại diện cho một số trong khoảng 00 đến FF (trong hệ thập lục phân), tức 0 đến 255 trong hệ thập phân. Số Hex trong Web được tạo thành bằng cách ghép nối ba số dạng một byte trong hệ thập lục phân.
+Ví dụ, một màu có giá trị trong hệ thập phân là đỏ = 36, xanh lá cây = 104, xanh lam = 160 (màu xanh lam ánh xám). Các số 36, 104 và 160 trong hệ thập phân sẽ tương đương với 24, 68 và A0 trong hệ thập lục phân. Để tạo thành số Hex này, đơn giản ta chỉ cần ghép chúng với nhau theo trật tự sau: 2468A0. Lưu ý rằng nếu giá trị của một hay nhiều hơn trong ba thành phần này có giá trị nhỏ hơn 10 (trong hệ thập lục phân) thì cần phải bổ sung thêm một số 0 vào đằng trước. Ví dụ để biểu diễn giá trị màu có đỏ = 12, xanh lá cây = 27, xanh lam = 64 trong hệ thập phân, ta cần viết chuỗi số Hex trong Web như sau: đỏ = 12 = 0C (thập lục phân), xanh lá cây = 27 = 1B (thập lục phân), xanh lam = 64 = 40. Do vậy chuỗi số Hex tạo thành sẽ là "0C1B40".
+tức là các giá trị cần đọc theo trật tự từ trái qua phải là (Đỏ)-(Xanh lá cây)-(Xanh lam).
+Ứng dụng máy tính khác.
+Chuỗi số Hex tạo thành bằng cách ghép nối ba số dạng một byte trong thiết kế Web là ngược lại với số Hex thực sự được tạo thành trong các ngôn ngữ lập trình để tạo các ứng dụng không phải là Web (chẳng hạn như Visual Basic). Trật tự này là ngược lại với cách ghép chữ và số trong số Hex của Web. Ví dụ chuỗi số 2468A0 trong Web sẽ tương đương với số A06824 (hay 10.512.408 theo hệ thập phân) trong ngôn ngữ này. Có thể hiểu đơn giản như là ghép của ba byte theo trật tự sau (tuy không chính xác):
+tức là các giá trị cần đọc theo trật tự từ trái qua phải là (Xanh lam)-(Xanh lá cây)-(Đỏ).
+Số Hex trong trường hợp này là một số "Long" (số nguyên lớn) có giá trị 4 byte.
+Ví dụ trong VB 6.0, câu lệnh sau sẽ tạo ra màu vàng nhạt ánh xanh cho nền của Form1.
+Form1.BackColor = &amp;HABF0D9
+Giá trị của xanh lam = AB hay 171 (trong hệ thập phân), xanh lá cây = F0 hay 240, màu đỏ bằng D9 hay 217. Nó tương đương với:
+Form1.BackColor = RGB(217, 240, 171)
+hay:
+Form1.BackColor = 11268313
+

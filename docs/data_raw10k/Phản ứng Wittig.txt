@@ -1,0 +1,13 @@
+Phản ứng Wittig
+
+Phản ứng Wittig là phản ứng giữa phosphoran hay phosphonium ylide với aldehyde hay ketone thu được alkene và triphenylphosphine oxid.
+Phản ứng có thể xảy ra trong môi trường ẩm với sự hiện diện của chất xúc tác chuyển pha(PTC- Phase Transfer Catalysis). Tuy nhiên, ở phản ứng dùng xúc tác chuyển pha này có hạn chế ở chỗ chỉ dùng cho aldehyde. Không alkene nào được tổng hợp từ ketone. Đây là phản ứng hữu hệu hay được dùng trong việc tổng hợp các hợp chất chứa nối đôi.
+Phản ứng Wittig được nhà hóa học người Đức Georg Wittig phát hiện năm 1954, sau đó ông được trao Giải Nobel Hoá học năm 1979. Nó được sử dụng rộng rãi trong việc tổng hợp hữu cơ để điều chế alken. Các phản ứng Wittig thường được sử dụng để ghép các aldehy và xeton vào các phosphine ylides được thay thế một cách đơn lẻ.
+Cơ chế của phản ứng: Phản ứng wittig chuyển nối đôi -C=O- thành nối đôi -C=C-bằng cách sử dụng tác nhân phosphorus ylide với sự chọn lọc lập thể tốt nhất.
+Giai đoạn tạo ylide: Phản ứng thế SN2 giữa triphenylphosphrine và alkyl halide bậc 1 và 2. Deproton hóa muối triphenylphosphonium với base mạnh như t- BuOK hoặc n- BuLi. Hóa học lập thể của ylide ảnh hưởng đến sự lựa chọn vị trí thay thế của carbon nucleophile vào carbon electrophile trong nhóm carbonyl để cho sản phẩm ưu thế betaine 3. Liên kết carbon- carbon quay để cho sản phẩm betaine 4, hình thành hexaphosphate 5. Sự phá hủy vòng bốn bằng cắt đứt liên kết carbon-phosphor và carbon-oxygen dẫn đến việc hình thành hợp chất triphenylphosphine oxide 6 và liên kết π carbon-carbon của alkene 7.
+Ưu điểm:
+- Phương pháp thông dụng để tổng hợp alken một cách chính xác
+- Có thể tổng hợp alken 1,2,3 nhóm thế
+- Hợp chất carbonil có thể mang nhóm thế -OH, -OR, vòng hương phương chứa N, và cả nhóm ester
+- Tác chất phosphoran có thể mang nhóm thế alken, vòng hương phương, eter, ester, C=O, nitril.
+

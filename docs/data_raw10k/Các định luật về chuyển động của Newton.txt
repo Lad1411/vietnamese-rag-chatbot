@@ -1,0 +1,47 @@
+Các định luật về chuyển động của Newton
+
+Các định luật về chuyển động của Newton là một hệ thống gồm 3 định luật đặt nền móng cơ bản cho cơ học cổ điển. Chúng mô tả mối quan hệ giữa một vật thể và các lực tác động cũng như chuyển động của vật thể đó. Các định luật đã được diễn giải theo nhiều cách khác nhau trong suốt 3 thế kỷ sau đó, và có thể tóm tắt như sau:
+Cả ba định luật được nhà vật lý học Isaac Newton tìm ra lần đầu tiên và được xuất bản trong cuốn sách "Philosophiæ Naturalis Principia Mathematica" (Các nguyên lý toán học của triết học tự nhiên) năm 1687. Newton dùng những định luật này để giải thích và nghiên cứu chuyển động của các vật thể, ví dụ như chuyển động của các hành tinh trong hệ mặt trời.
+Tổng quan.
+Các định luật chuyển động của Newton đều được áp dụng cho các vật thể được lý tưởng hóa thành các chất điểm với kích thước vô cùng nhỏ so với quỹ đạo của nó. Do vậy, các định luật này có thể áp dụng được cả với các ngôi sao và các hành tinh, khi mà kích thước của các vật thể rất lớn nhưng vẫn có thể coi là các chất điểm nếu so sánh với quỹ đạo của chúng.
+Ban đầu, các định luật của Newton không thể sử dụng được với chuyển động của các vật rắn hoặc các vật thể có khối lượng biến đổi. Năm 1750, Leonard Euler tổng quát hoá các định luật của Newton và đưa ra Các định luật về chuyển động của Euler. Nếu như một vật rắn được biểu thị như tập hợp của vô số chất điểm thì định luật của Euler có thể được coi là một hệ quả của định luật Newton. Tuy nhiên, các định luật của Euler có thể áp dụng cho chuyển động của các vật thể mà không cần biết đến hình dáng của vật thể.
+Định luật I.
+Phát biểu.
+Định luật I của Newton được phát biểu như sau:
+Định luật có thể viết dưới dạng lý học:
+Lịch sử.
+Nhà khoa học Hy Lạp cổ Aristotle tin rằng tất cả mọi thứ đều có vị trí riêng của nó trong vũ trụ. Những vật nặng như hòn đá hay cây cỏ do vậy sẽ có xu hướng ở lại Trái Đất, còn những vật nhẹ như lửa hay không khí sẽ có xu hướng ở trên không trung và những ngôi sao sẽ có xu hướng ở trên thiên đàng . Từ đó, Aristotle cho rằng mọi vật thể đều ở trạng thái ban đầu là trạng thái nghỉ (trạng thái trong vị trí của nó), do vậy để một vật thể chuyển động thẳng đều, cần phải có một lực không đổi tác dụng vào vật trong suốt quá trình chuyển động.
+Tuy nhiên, Galileo Galilei cho rằng không cần đến lực để vật thể di chuyển thẳng đều. Theo Gallilei, một vật chuyển động luôn có khuynh hướng giữ nguyên trạng thái chuyển động (quán tính) của nó. Trạng thái chuyển động ở đây được đặc trưng bởi vận tốc (hay tổng quát là động lượng) của chuyển động. Nếu không chịu tác dụng bởi một tổng lực khác không thì một vật đang đứng yên sẽ đứng yên mãi mãi, và một vật đang chuyển động sẽ chuyển động thẳng đều mãi mãi. Định luật I của Newton được bắt nguồn từ định luật quán tính của Galilei và được mở rộng cho trường hợp tổng các lực bằng 0.
+Cùng thời với Newton, nhiều nhà khoa học khác cũng đã phát biểu định luật quán tính, tiêu biểu như Thomas Hobbes và René Descartes.
+Ý Nghĩa.
+Định luật I chỉ ra rằng lực "không" phải là nguyên nhân "cơ bản" gây ra chuyển động của các vật, mà đúng hơn là nguyên nhân gây ra sự thay đổi trạng thái chuyển động (thay đổi vận tốc/động lượng của vật).
+Nếu không xét tới các lực quán tính, định luật I của Newton chỉ nghiệm đúng trong các hệ quy chiếu quán tính, tức là hệ quy chiếu có vận tốc không đổi so với nhau. Nói cách khác, định luật I tiên đoán sự tồn tại của ít nhất một hệ quy chiếu quán tính, trong đó vật thể không thay đổi vận tốc nếu như tổng các lực tác dụng lên nó bằng 0. Nếu áp dụng định luật này đối với các hệ quy chiếu phi quán tính, chúng ta phải thêm vào "lực quán tính". Khi đó, tổng lực bằng lực cơ bản cộng lực quán tính. Như vậy, định luật I Newton còn có thể phát biểu dưới dạng:
+Trong thực tế, không có hệ quy chiếu nào là hệ quy chiếu quán tính hoàn toàn. Tuy nhiên, trong nhiều trường hợp cụ thể, một hệ quy chiếu có thể coi "gần đúng" là hệ quy chiếu quán tính. Ví dụ, khi xét chuyển động của các vật trên bề mặt Trái đất, người ta thường xem hệ quy chiếu gắn với mặt đất như một hệ quy chiếu quán tính .
+Định luật II.
+Phát biểu.
+Định luật II phát biểu như sau:
+Định luật có thể viết dưới dạng toán học:
+Với:
+Ý nghĩa.
+Theo phát biểu ban đầu của Newton, xung lực J được hiểu như là tích phân của một ngoại lực F trong khoảng thời gian Δ"t" :
+formula_5
+Từ đó ta có:
+formula_6 hay:
+formula_7
+Bởi vì chủ yếu các vật thể sẽ có khối lượng không thay đổi , định luật thường được biết đến dưới dạng:
+Với F là ngoại lực tác dụng lên vật, "m" là khối lượng của vật và a là gia tốc của vật. Như vậy, mọi ngoại lực tác dụng lên vật sẽ sản sinh ra một gia tốc tỉ lệ thuận với độ lớn của lực. Nói cách khác, nếu một vật có gia tốc, ta biết có lực tác dụng lên vật đó. 
+Phương trình toán học trên đưa ra một định nghĩa cụ thể và chính xác cho khái niệm lực. "Lực, trong vật lý, được định nghĩa là sự thay đổi của động lượng trong một đơn vị thời gian". Như vậy, tổng ngoại lực tác dụng lên một vật tại một thời điểm nhất định (lực tức thời) được biểu thị bởi tốc độ thay đổi động lượng của vật tại thời điểm đó. Động lượng của vật biến đổi càng nhanh khi ngoại lực tác dụng lên vật càng lớn và ngược lại.
+Ngoài việc đưa ra định nghĩa cho lực, định luật 2 Newton còn là nền tảng của định luật bảo toàn động lượng và định luật bảo toàn cơ năng. Hai định luật này có ý nghĩa quan trọng trong việc đơn giản hóa nghiên cứu về chuyển động và tương tác giữa các vật.
+Định luật 2 Newton trong cơ học cổ điển.
+Trong cơ học cổ điển, khối lượng có giá trị không đổi, bất kể chuyển động của vật. Do đó, phương trình định luật 2 Newton trở thành:
+Với:
+Như vậy trong cơ học cổ điển, tổng ngoại lực bằng tích của khối lượng và gia tốc.
+Cũng trong cơ học cổ điển, khi không xét tới lực quán tính, định luật 2, giống như định luật 1, chỉ đúng trong hệ quy chiếu quán tính. Khi áp dụng cho hệ quy chiếu không quán tính, cần thêm vào lực quán tính.
+Định luật 2 Newton trong thuyết tương đối hẹp.
+Trong thuyết tương đối hẹp, định luật 2 Newton được mở rộng để áp dụng cho liên hệ giữa lực-4 và động lượng-4 hay gia tốc-4:
+Định luật III.
+Định luật III của Newton về chuyển động phát biểu như sau
+Ý Nghĩa.
+Định luật 3 Newton chỉ ra rằng lực không xuất hiện riêng lẻ mà xuất hiện theo từng cặp động lực-phản lực. Nói cách khác, lực chỉ xuất hiện khi có sự tương tác qua lại giữa hai hay nhiều vật với nhau. Cặp lực này, định luật 3 nói rõ thêm, là cặp lực "trực đối". Chúng có cùng độ lớn nhưng ngược chiều vật A và B. Nếu A tác dụng một lực formula_14 lên B, thì B cũng gây ra một lực formula_15 lên A và
+Hơn nữa, trong tương tác, A làm thay đổi động lượng của B bao nhiêu thì động lượng của A cũng bị thay đổi bấy nhiêu theo chiều ngược lại.
+

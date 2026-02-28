@@ -1,0 +1,15 @@
+Biểu diễn nhóm
+
+Trong lý thuyết biểu diễn, biểu diễn nhóm mô tả các nhóm trừu tượng theo các phép biến đổi tuyến tính (nghĩa là các tự đồng cấu) trên một không gian vectơ; đặc biệt, chúng có thể được sử dụng để biểu diễn các phần tử nhóm dưới dạng ma trận khả nghịch để toán tử nhân nhóm có thể được biểu diễn bằng phép nhân ma trận. Biểu diễn nhóm rất quan trọng vì chúng cho phép chuyển nhiều vấn đề trong lý thuyết nhóm về các vấn đề trong đại số tuyến tính. Chúng cũng quan trọng trong vật lý bởi vì, chẳng hạn chúng mô tả cách nhóm đối xứng của một hệ vật lý ảnh hưởng đến các nghiệm của phương trình mô tả hệ thống đó.
+Thuật ngữ "biểu diễn nhóm" cũng được sử dụng theo nghĩa tổng quát hơn có nghĩa là bất kỳ "mô tả" nào của một nhóm như là một nhóm biến đổi của một số đối tượng toán học. Chính thức hơn, một biểu diễn là một đồng cấu từ nhóm sang nhóm tự đồng cấu của một đối tượng. Nếu đối tượng là một không gian vectơ, chúng ta có một "biểu diễn tuyến tính".
+Định nghĩa.
+Một biểu diễn của nhóm "G" trên một "k-"không gian véc-tơ "V" là một đồng cấu nhóm:
+sao cho
+"V" được gọi là không gian biểu diễn và số chiều "V" được gọi là số chiều của biểu diễn. Một biểu diễn chung thủy là một biểu diễn sao cho đồng cấu là một đơn ánh.
+Ví dụ.
+Xét "u" = e2πi / 3 thỏa mãn "u"3 = 1. Nhóm cyclic "C"3 = {1, "u", "u"2} có một biểu diễn ρ trên C2 được cho bởi:
+Biểu diễn này chung thủy.
+Một biểu diễn khác của "C"3 trên C2, đẳng cấu với biểu diễn trên, là σ:
+"C"3 cũng có thể được biểu diễn chung thủy trên R2 bởi τ:
+với
+

@@ -1,0 +1,14 @@
+Danh sách máy bay
+
+ 
+Đây là danh sách các máy bay được phần loại theo thứ tự bảng chữ cái abc, bắt đầu với tên của hãng sản xuất (hoặc, trong những trường hợp nhất định là tên của người thiết kế). Đây là một danh sách bao hàm hơn là riêng biệt một loại, nghĩa là một chiếc máy bay được biết đến với nhiều tên gọi, biệt danh, hoặc hãng sản xuất, tất cả chúng sẽ được liệt kê.
+Danh sách này tự nó không nói chung bao gồm những phiên bản hay những kiểu con của máy bay chính (mặc dù có sự khác nhau đáng kể trong số những hãng sản xuất và những hệ thống tên gọi được chỉ định cho loại máy bay mới lại ngược với một phiên bản của loại máy bay hiện hữu).
+Kích thước của danh sách rất dài, nên nó đã được phân vào thành những nhóm sau:
+A
+B
+C-D 
+E-H
+I-M
+N-S
+T-Z
+

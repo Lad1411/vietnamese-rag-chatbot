@@ -1,0 +1,12 @@
+Robert Langlands
+
+Robert Phelan Langlands, nhà toán học người Mỹ gốc Canada; là Cha đẻ của Chương trình Langlands, một vấn đề quan trọng cần giải quyết trong toán học hiện đại. Ông nghiên cứu toán học về các hình thái tự đẳng cấu (để phục vụ nghiên cứu về nhóm Galois trong lý thuyết số) và lý thuyết cấu trúc đại số trừu tượng, phân nhánh có ảnh hưởng tới lý thuyết số. Gần đây, Ngô Bảo Châu, giáo sư trẻ tuổi người Việt, đã chứng minh thành công Bổ đề cơ bản (Một phép chứng minh nhằm khẳng định giả thuyết của Chương trình Langlands) và sau đó được vinh danh tại lễ trao giải thưởng Fields tại Hyderabah, Ấn Độ vào ngày 19 tháng 8 năm 2010.
+Langlands được trao giải Abel năm 2018 cho chương trình tầm nhìn của ông về mối liên hệ giữa lý thuyết biểu diễn và lý thuyết số.
+Sơ lược tiểu sử.
+Ông nhận bằng tiến sĩ ở đại học Yale năm 1960.
+Vào khoảng năm 1966/67 ông đưa ra giả thuyết về cái mà ngày nay người ta gọi là Chương trình Langlands.
+Năm 1981, ông được bầu làm thành viên Hội Khoa học hoàng gia Luân Đôn.
+Tháng 1 năm 2007, trở thành giáo sư danh dự tại Viện nghiên cứu cấp tiến, nơi ông bắt đầu làm việc từ năm 1972.
+Chương Trình Langlands.
+Năm 1979, Robert Langlands đưa ra một "lý thuyết toán học" đầy tham vọng và có tính chất cách mạng; Lý thuyết toán học này liên quan tới hai bộ môn toán học được gọi là lý thuyết số và lý thuyết nhóm, lý thuyết này đã nắm bắt các cấu trúc kết hợp với các phương trình liên hệ tới toàn bộ các con số - sắp xếp trong cái gọi là chương trình Langlands. Robert Langlands cho rằng việc chứng minh những giả thiết làm nền tảng cho lý thuyết của ông là công việc và trí tuệ của các thế hệ sau.
+

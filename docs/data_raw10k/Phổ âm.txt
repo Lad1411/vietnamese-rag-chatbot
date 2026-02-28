@@ -1,0 +1,11 @@
+Phổ âm
+
+Trong âm nhạc, Phổ âm là mức độ trầm bổng của một âm thanh hoặc nốt nhạc được chơi bởi một nhạc cụ, tạo ra bởi sự kết hợp của một số lượng những tần số vật lý âm thanh riêng biệt.
+Giá trị tần số thấp nhất được gọi là tần số nền hay tần số cơ bản và cường độ mà tần số này sinh ra được sử dụng để đặt tên nốt nhạc. Ví dụ, trong âm nhạc Tây phương, nhạc cụ thường được chỉnh tại nốt La (A) có tần số 440 Hz.
+Những tần số khác được gọi là bội âm của tần số cơ bản, đó có thể là bội số hoặc thương số của tần số cơ bản. Bội âm bao gồm hai loại:
+Hầu hết những nhạc cụ Tây phương đều cho những bội âm theo kiểu thứ nhất. Nhưng cũng có nhiều nhạc cụ tạo những bội âm theo kiểu thứ hai.
+Âm phát ra là sự tổng hợp của âm cơ bản và các họa âm. Nó có tần số f1 của âm cơ bản, nhưng đường biểu diễn của nó không phải là đường sin, mà trở thành một đường phức tạp có chu kì.
+Khi nốt nhạc trong một dàn nhạc được chơi lên, âm thanh là sự kết hợp của những tần số 440 Hz, 880 Hz, 1320 Hz, 1760 Hz và tiếp tục. Sự cân bằng biên độ của những tần số khác nhau bảo đảm cho phẩm chất âm thanh trong từng nhạc cụ được nhất quán. Chi tiết này được dùng trong hệ thống tổng hợp điều biến tần số.
+Tần số cơ bản không phải là một yếu tố cần thiết ảnh hưởng mạnh mẽ nhất đến toàn bộ thanh âm. Nhưng nó ảnh hưởng đến sự nhất quán của một loạt những bội âm du dương.
+Nốt La (A) được đề cập bên trên có thể phân biệt được với một nốt La bên dưới cách một quãng tám ("octave") ở những tần số 220 Hz, 440 Hz, 660 Hz, 880 Hz.
+

@@ -1,0 +1,6 @@
+Trạng thái cơ bản
+
+Trạng thái cơ bản của một hệ cơ học lượng tử là trạng thái có năng lượng thấp nhất. Năng lượng của trạng thái cơ bản được gọi là năng lượng điểm không của hệ thống. Một trạng thái kích thích là trạng thái bất kỳ, có năng lượng lớn hơn so với trạng thái cơ bản. Trạng thái cơ bản trong lý thuyết trường lượng tử thường được gọi là trạng thái chân không hoặc chân không .
+Nếu có nhiều hơn một trạng thái cơ bản tồn tại thì chúng được coi là thoái hóa (suy sập). Nhiều hệ thống có trạng thái cơ bản thoái hóa. Thoái hóa xảy ra bất cứ khi nào có tồn tại một toán tử unitar có tác động không tầm thường vào một trạng thái cơ bản và giao hoán với Hamiltonian của hệ thống.
+Theo định luật thứ ba của nhiệt động lực học, một hệ thống ở nhiệt độ không tuyệt đối thì tồn tại ở trạng thái cơ bản của nó. Do đó entropy của nó được xác định bởi sự suy biến của các trạng thái cơ bản. Nhiều hệ thống, chẳng hạn như một mạng tinh thể hoàn hảo, có một trạng thái cơ bản đơn nhất và do đó có entropy bằng không ở độ không tuyệt đối. Cũng có thể là đối với trạng thái kích thích cao nhất thì để có nhiệt độ tuyệt đối bằng không cho các hệ thống mà nó có thể hiện nhiệt độ âm .
+

@@ -1,0 +1,99 @@
+Acid
+
+Acid (bắt nguồn từ ), thường được phiên âm là axít, là các hợp chất hóa học có thể hòa tan trong nước, thường được biểu diễn dưới dạng công thức tổng quát HxA.
+Thông thường, acid là bất kỳ chất nào tạo ra dung dịch có độ pH nhỏ hơn 7 khi nó hòa tan trong nước. Độ pH càng nhỏ thì tính acid càng mạnh. Các chất có đặc tính giống acid được gọi là có tính acid.
+Về mặt khoa học, acid là các phân tử hay ion có khả năng nhường proton (ion H+) cho base, hay nhận (các) cặp electron không chia từ base.
+Tính chất chung.
+Tính chất vật lý.
+Vị giác: acid có vị chua khi hòa tan trong nước (chỉ một số acid có vị chua).
+Xúc giác: acid có cảm giác bỏng rát (với các acid mạnh) khi rơi trên da.
+Độ dẫn điện: acid là các chất điện li nên có khả năng dẫn điện.
+Tính chất hóa học.
+Làm đổi màu chất chỉ thị (làm quỳ tím hóa đỏ hoặc hồng).
+Tác dụng với kim loại (Li, K, Ba, Cs, Ca, Na, Mg, Al, Mn, Zn, Cr, Fe, Co, Ni, Sn, Pb) tạo thành muối và giải phóng khí hydro.
+Ví dụ:
+&lt;chem&gt;Zn + 2HCl -&gt; ZnCl2 + H2 ^&lt;/chem&gt;
+&lt;chem&gt;Mg + H2SO4 -&gt; MgSO4 + H2 ^&lt;/chem&gt;
+Trong trường hợp kim loại tác dụng với : 
+H2SO4 đặc : sẽ tạo ra muối , khí SO2 và H2O .
+VD : &lt;chem&gt;Cu + 2H2SO4 -&gt; CuSO4 + SO2 ^ + 2H2O &lt;/chem&gt;
+HNO3 loãng : sẽ tạo ra muối , khí NO và H2O .
+VD : &lt;chem&gt;Al + 4HNO3 -&gt; Al(NO3)3 + NO ^ + H2O&lt;/chem&gt;
+HNO3 đặc : sẽ tạo ra muối , khí NO2 và H2O .
+VD : &lt;chem&gt;Ag + 2HNO3 -&gt; AgNO3 + NO2 ^ + H2O&lt;/chem&gt;
+Tác dụng với base : xem phần phản ứng trung hòa.
+Tác dụng với oxide base/lưỡng tính (tạo thành muối và nước).
+Ví dụ:
+&lt;chem&gt;CuO +2HCl -&gt;CuCl2 +H2O&lt;/chem&gt;
+&lt;chem&gt;Al2O3 + 3H2SO4 -&gt; Al2(SO4)3 + 3H2O &lt;/chem&gt;
+Tác dụng với muối (tạo acid mới và muối mới)
+Ví dụ:
+&lt;chem&gt;BaCl2 + H2SO4 -&gt; BaSO4 v +2HCl&lt;/chem&gt;
+&lt;chem&gt;2NaCN + H2SO4 -&gt; Na2SO4 + 2HCN ^&lt;/chem&gt;
+Tính điện li.
+Trong nước phản ứng sau diễn ra giữa acid và nước, là chất đóng vai trò của 1 base:
+Hằng số acid (hay hằng số phân li của acid) là hằng số cân bằng cho phản ứng của acid với nước:
+Các acid mạnh có giá trị Ka lớn (có nghĩa là cân bằng của phản ứng nghiêng về bên phải, có rất nhiều ion H3O+ tồn tại; acid gần như điện ly hoàn toàn). Ví dụ, giá trị của Ka đối với acid hydrochloric (HCl) là 107.
+Các acid yếu có giá trị Ka nhỏ (có nghĩa là ở mức cân bằng thì có 1 lượng đáng kể của AH và A- tồn tại cùng nhau trong dung dịch; các ion H3O+ tồn tại ở mức vừa phải; acid chỉ điện ly một phần). Ví dụ, giá trị của Ka cho acid acetic là 1,8 x 10−5.
+Các acid mạnh bao gồm các acid của các halogen như HCl, HBr, và HI. (Tuy nhiên, acid hydrofluoric (HF) lại tương đối yếu). Các acid chứa oxy, có xu hướng với các nguyên tử trung tâm ở các trạng thái oxy hóa cao, được bao quanh bởi oxy, cũng là các acid mạnh chẳng hạn HNO3, H2SO4, HClO4. Phần lớn các acid hữu cơ là acid yếu.
+Chú ý:
+Phản ứng trung hòa.
+Phản ứng trung hòa là phản ứng hóa học giữa acid và base. Sản phẩm tạo thành là muối và nước. Vì thế nó còn được gọi là phản ứng tạo nước. Ví dụ: 
+Dạng phản ứng này tạo thành nền tảng của các phương pháp thử chuẩn độ để phân tích acid, trong đó các chất chỉ thị độ pH chỉ ra điểm trung hòa.
+Bậc điện li acid.
+Một số phân tử acid có thể cung cấp nhiều hơn 1 ion H+ (proton). Các acid mà chỉ có thể cho 1 ion H+ trên 1 phân tử được gọi là acid monoproton, các phân tử acid nào mà có thể cung cấp 2 ion H+ là acid diproton, các phân tử acid nào có thể cho 3 ion H+ là acid triproton... 1 acid monoproton chỉ có 1 nấc điện li (đôi khi gọi là ion hóa) như sau và đơn giản chỉ có 1 hằng số điện li:
+1 acid diproton (được ký hiệu tượng trưng là H2A) có thể có 1 hoặc 2 nấc điện li phụ thuộc vào các điều kiện môi trường (tức pH). Mỗi nấc điện li có hằng số điện li riêng, là Ka1 và Ka2.
+Thông thường hằng số điện li thứ nhất lớn hơn so với hằng số điện li thứ 2; hay Ka1 &gt; Ka2. Ví dụ, acid sulfuric (H2SO4) có thể cho 1 ion H+ để tạo ra một anion bisulfat (HSO4-), với hệ số Ka1 là rất lớn; sau đó nó có thể cho tiếp ion H+ thứ 2 để tạo ra anion sulfat (SO4−2) trong đó Ka2 là có giá trị trung bình. Giá trị lớn của Ka1 cho nấc điện li thứ nhất làm cho acid sulfuric là 1 acid mạnh. Tương tự, acid yếu và không ổn định như acid carbonic (H2CO3) có thể mất 1 ion H+ để tạo ra anion bicarbonat (HCO3-) và mất tiếp ion H+ thứ hai để tạo ra anion carbonat (CO32-). Cả hai giá trị Ka đều nhỏ, nhưng Ka1 &gt; Ka2.
+Tương tự, 1 acid triproton (H3A) có thể có 1, 2, 3 nấc điện li và có ba hằng số điện li, trong đó Ka1 &gt; Ka2 &gt; Ka3.
+1 ví dụ của acid triproton vô cơ là acid orthophosphoric (H3PO4), thông thường gọi là acid phosphoric. 3 nguyên tử H của nó có thể kế tiếp nhau mất đi như là ion H+ (hay H3O+ trong nước) để sinh ra H2PO4-, sau đó là HPO42−, và cuối cùng là PO43−, ion orthophosphat mang điện tích -3, thông thường gọi là phosphat. Ví dụ của acid triproton hữu cơ là acid citric, nó cũng có thể kế tiếp nhau mất 3 ion H+ để cuối cùng tạo ra ion citrat mang điện tích -3. Mặc dù vị trí của cả ba nguyên tử H trong phân tử gốc có thể là tương đương, nhưng các giá trị Ka kế tiếp nhau sẽ giảm dần do về mặt năng lượng, nó càng khó mất ion H+ hơn nếu ion mang điện tích âm cao dần lên và thường giảm khoảng 1000 lần qua mỗi bậc.
+Các định nghĩa khác.
+Các định nghĩa hiện đại liên quan đến các phản ứng hóa học cơ bản phổ biến cho tất cả các acid.
+Hầu hết các acid gặp phải trong cuộc sống hàng ngày là dung dịch nước, hoặc có thể hòa tan trong nước, vì vậy định nghĩa Arrhenius và Brønsted-Lowry là phù hợp nhất.
+Định nghĩa Brønsted-Lowry là định nghĩa được sử dụng rộng rãi nhất, các phản ứng acid-base được cho là liên quan đến việc chuyển proton (H+) từ acid sang base.
+Các ion hydronium là acid theo cả ba định nghĩa. Mặc dù rượu và amin có thể là acid Brønsted-Lowry, chúng cũng có thể hoạt động như các base Lewis do các cặp electron đơn độc trên các nguyên tử oxy và nitơ của chúng.
+Acid Arrhenius.
+Nhà hóa học người Thụy Điển Svante Arrhenius quy các tính chất của acid cho các ion hydro (H+) hoặc proton vào năm 1884. Acid Arrhenius là 1 chất mà khi thêm vào nước sẽ làm tăng nồng độ của các ion H+ trong nước. Lưu ý rằng các nhà hóa học thường viết H+ ("aq") và đề cập đến ion hydro khi mô tả các phản ứng acid-base nhưng hạt nhân hydro tự do và 1 proton, không tồn tại một mình trong nước, nó tồn tại dưới dạng ion hydronium, H3O+. Do đó, acid Arrhenius cũng có thể được mô tả như 1 chất làm tăng nồng độ của các ion hydronium khi thêm vào nước. Ví dụ bao gồm các chất phân tử như HCl và acid acetic.
+Mặt khác, base Arrhenius là 1 chất làm tăng nồng độ của các ion hydroxide (OH-) khi hòa tan trong nước. Điều này làm giảm nồng độ hydronium vì các ion phản ứng tạo thành các phân tử H2O:
+&lt;chem&gt;{H3O_{(aq)}+} +{OH^-_{(aq)}} &lt;=&gt;{H2O_{(l)}} +H2O_{(l)}&lt;/chem&gt;
+Do trạng thái cân bằng này, bất kỳ sự gia tăng nồng độ hydronium đều đi kèm với việc giảm nồng độ hydroxide. Do đó, acid Arrhenius cũng có thể được coi là 1 chất làm giảm nồng độ hydroxide, trong khi base Arrhenius làm tăng nó.
+Trong dung dịch acid, nồng độ của các ion hydronium lớn hơn 10−7mol/lít. Do pH được định nghĩa là logarit âm của nồng độ các ion hydronium, do đó các dung dịch acid có độ pH nhỏ hơn 7.
+Acid Bronsted–Lowry.
+Mặc dù lý thuyết Arrhenius rất hữu ích để mô tả nhiều phản ứng, nhưng nó cũng khá hạn chế trong phạm vi của nó. Năm 1923, các nhà hóa học, Julian Nicolaus Brønsted và Thomas Martin Lowry đã công nhận độc lập rằng các phản ứng acid-base liên quan đến việc chuyển 1 proton. Acid Brønsted-Lowry (hay đơn giản là acid Brønsted) tặng 1 proton cho base Brønsted-Lowry . Lý thuyết acid-base Brønsted-Lowry có một số lợi thế so với lý thuyết Arrhenius. Hãy xem xét các phản ứng sau đây của acid acetic (CH3COOH), acid hữu cơ mang đến cho giấm hương vị đặc trưng của nó:
+&lt;chem&gt;CH3COOH +H2O &lt;=&gt;CH3COO- +H3O+&lt;/chem&gt;
+&lt;chem&gt;CH3COOH +NH3 &lt;=&gt;CH3COO- +NH+4&lt;/chem&gt;
+Cả hai lý thuyết đều dễ dàng mô tả phản ứng đầu tiên: CH3COOH hoạt động như acid Arrhenius vì nó hoạt động như 1 nguồn H3O+ khi hòa tan trong nước và nó hoạt động như 1 acid Brønsted bằng cách cho proton vào nước. Trong ví dụ thứ 2 CH3COOH trải qua quá trình biến đổi tương tự, trong trường hợp này tặng 1 proton cho amonia (NH3), nhưng không liên quan đến định nghĩa Arrhenius của 1 acid vì phản ứng không tạo ra hydronium. Tuy nhiên, CH3COOH vừa là Arrhenius vừa là acid Brønsted-Lowry.
+Lý thuyết Brønsted-Lowry có thể được sử dụng để mô tả các phản ứng của các hợp chất phân tử trong dung dịch không màu hoặc pha khí. Hydro chloride (HCl) và amonia kết hợp trong một số điều kiện khác nhau để tạo thành amoni chloride (NH4Cl). Trong dung dịch nước HCl hoạt động như acid hydrochloric và tồn tại dưới dạng ion hydronium và chloride. Các phản ứng sau đây minh họa những hạn chế trong định nghĩa của Arrhenius:
+Như với các phản ứng acid acetic, cả hai định nghĩa đều hoạt động trong ví dụ đầu tiên, trong đó nước là dung môi và ion hydronium được tạo thành bởi chất tan HCl. 2 phản ứng tiếp theo không liên quan đến sự hình thành các ion nhưng vẫn là phản ứng chuyển proton. Trong phản ứng thứ 2 hydro chloride và amonia (hòa tan trong benzen) phản ứng tạo thành amoni chloride rắn trong dung môi benzen và trong khí HCl và NH3 dạng khí thứ 3 kết hợp với nhau tạo thành chất rắn.
+Acid Lewis.
+1 khái niệm thứ 3, chỉ liên quan đến lề được đề xuất vào năm 1923 bởi Gilbert N. Lewis, bao gồm các phản ứng với các đặc tính acid-base không liên quan đến việc chuyển proton. Acid Lewis là 1 acid chấp nhận 1 cặp electron từ các chất khác; nói cách khác, nó là 1 acid chấp nhận cặp electron .Phản ứng acid-base Brønsted là phản ứng chuyển proton trong khi phản ứng acid-base Lewis là chuyển cặp electron. Nhiều acid Lewis không phải là acid Brønsted-Lowry. Tương phản như thế nào các phản ứng sau được mô tả về mặt hóa học acid-base:
+Trong phản ứng đầu tiên, 1 ion fluoride, F-, từ bỏ 1 cặp electron thành boron trifluoride để tạo thành sản phẩm tetrafluoroborate. Fluoride"mất"1 cặp electron hóa trị vì các electron được chia sẻ trong liên kết B lợi F nằm ở vùng không gian giữa 2 hạt nhân nguyên tử và do đó ở xa hạt nhân fluoride hơn so với ion fluoride đơn độc. BF3 là acid Lewis vì nó chấp nhận cặp electron từ fluoride. Phản ứng này không thể được mô tả theo lý thuyết Brønsted vì không có sự chuyển proton. Phản ứng thứ 2 có thể được mô tả bằng cách sử dụng 1 trong 2 lý thuyết. 1 proton được chuyển từ acid Brønsted không xác định sang amonia, 1 base Brønsted; cách khác, amonia hoạt động như base Lewis và chuyển 1 cặp electron đơn độc để tạo liên kết với ion hydro. Chất thu được cặp electron là acid Lewis; ví dụ, nguyên tử oxy trong H3O+ thu được 1 cặp electron khi 1t trong các liên kết H-O bị phá vỡ và các electron được chia sẻ trong liên kết trở thành cục bộ trên oxy. Tùy thuộc vào ngữ cảnh, acid Lewis cũng có thể được mô tả là chất oxy hóa hoặc chất điện li. Các acid Brønsted hữu cơ, như acid acetic, citric hoặc acid oxalic, chứ không phải là acid Lewis. Chúng phân ly trong nước để tạo ra acid Lewis, H+, nhưng đồng thời cũng tạo ra 1 lượng tương đương với base Lewis (tương ứng acetate, citrate hoặc oxalate cho các acid được đề cập).
+Chỉ số acid.
+Chỉ số này được sử dụng để định lượng số lượng acid tồn tại, chẳng hạn như trong dầu điêzen sinh học. Nó là lượng base, biểu diễn theo lượng miligam kali hydroxide (KOH), cần phải có để trung hòa các thành phần acid trong 1 g mẫu thử.
+Veq là lượng chất thử chuẩn (ml) được tiêu thụ bởi 1 mẫu dầu mỏ và 1 ml (spiking solution?) ở điểm tương đương, và beq là lượng chất thử chuẩn (ml) được tiêu thụ bởi 1 ml (spiking solution?) ở điểm tương đương.
+Nồng độ phân tử gam của chất thử chuẩn (N) được tính như sau:
+N = 1000 × WKHP / (204,23 × Veq).
+Trong đó, WKHP là lượng (g) của KHP trong 50 ml dung dịch KHP tiêu chuẩn, và Veq là lượng của chất thử chuẩn (ml) được tiêu thụ bởi 50ml dung dịch KHP tiêu chuẩn ở điểm tương đương.
+Chỉ số acid (mg KOH/g dầu) cho dầu điêzen sinh học được ưa chuộng phải thấp hơn 3.
+Ứng dụng của acid.
+Có rất nhiều ứng dụng cho acid. Acid thường được sử dụng để loại bỏ sự gỉ sắt và sự ăn mòn khác từ kim loại trong quá trình được gọi là tẩy. Chúng có thể được sử dụng như 1 chất điện phân trong pin, chẳng hạn như acid sulfuric trong pin xe hơi. Acid mạnh, đặc biệt là acid sulfuric, được sử dụng rộng rãi trong chế biến khoáng sản. Ví dụ, khoáng chất phosphat phản ứng với acid sulfuric để tạo ra acid phosphoric để sản xuất phân bón phosphat, và kẽm được tạo ra bằng cách hòa tan kẽm oxide thành acid sulfuric, làm sạch dung dịch và electrowinning. Trong ngành công nghiệp hóa học, acid phản ứng trong phản ứng trung hòa để tạo ra muối. Ví dụ, acid nitric phản ứng với amonia để tạo ra amoni nitrat, 1 phân bón. Ngoài ra, các acid carboxylic có thể được este hóa với rượu cồn, để tạo ra este. Acid được sử dụng làm chất phụ gia cho đồ uống và thực phẩm, vì chúng làm thay đổi khẩu vị và phục vụ như chất bảo quản. Acid phosphoric, ví dụ, là 1 thành phần của đồ uống cola. Acid acetic được sử dụng trong cuộc sống hàng ngày như dấm. Acid carbonic là một phần quan trọng của một số loại nước uống cola và soda. Acid citric được sử dụng làm chất bảo quản trong nước sốt và dưa chua. Acid tartaric là 1 thành phần quan trọng của một số thực phẩm thông dụng như xoài chưa chín và me. Trái cây và rau quả tự nhiên cũng chứa acid. Acid citric có trong cam, chanh và các loại quả có múi khác. Acid oxalic có trong cà chua, rau bina, và đặc biệt là carambola và đại hoàng; lá rhubarb và carambolas chưa chín là độc tính vì nồng độ cao của acid oxalic.
+Acid ascorbic (Vitamin C) là 1 vitamin cần thiết cho cơ thể con người và có trong các loại thực phẩm như amla (quả mâm xôi Ấn Độ), chanh, quả cam, quýt và ổi.
+Một số acid được sử dụng làm thuốc. Acid acetylsalicylic (Aspirin) được sử dụng như thuốc giảm đau và làm giảm cơn sốt.
+Acid đóng vai trò quan trọng trong cơ thể con người. Acid hydrochloric có trong dạ dày giúp tiêu hóa bằng cách phá vỡ các phân tử thức ăn lớn và phức tạp. amino acid được yêu cầu để tổng hợp các protein cần thiết cho sự phát triển và sửa chữa các mô cơ thể. Acid béo cũng cần cho sự phát triển và sửa chữa các mô của cơ thể. Các acid nucleic rất quan trọng cho việc sản xuất DNA và RNA và chuyển các đặc tính sang con lai qua gen. Acid carbonic rất quan trọng để duy trì độ cân bằng pH trong cơ thể.
+Tên gọi của acid.
+Các acid được đặt tên phù hợp với anion của chúng. Phần cuối của ion bị bỏ đi và thay thế với các hậu tố mới theo bảng dưới đây.
+Ví dụ:
+Acid không có oxy.
+Tên acid: acid + hydro + tên phi kim + ic.
+VD: HCl: Acid hydrochloric; H2S: acid hydrosulfuric
+Gốc acid tương ứng là: -Cl: chloride; =S: sulfide.
+Acid có oxy.
+Acid có nhiều nguyên tử oxy:
+Tên acid: acid + tên của phi kim + ic.
+Vd: HNO3: acid nitric; H2SO4: Acid sulfuric; H3PO4: Acid phosphoric
+NO3 : nitrat; = SO4: sulfat; = PO4: phosphat.
+Acid có ít nguyên tử oxy.
+Tên acid: acid + tên phi kim + ơ.
+Vd: H2SO3: Acid sulfurơ; SO3: sulfit.
+Các acid điển hình.
+Acid được phân thành hai loại lớn có cấu tạo phân tử rất khác nhau: acid hữu cơ và acid vô cơ.
+

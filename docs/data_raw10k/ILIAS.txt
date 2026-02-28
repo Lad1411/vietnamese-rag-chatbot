@@ -1,0 +1,7 @@
+ILIAS
+
+ILIAS là một phần mềm nguồn mở hỗ trợ việc tổ chức xây dựng và triển khai nội dung giảng dạy và học trực tuyến (tiếng Anh: "e-learning"). Phần mềm này là phần mềm nguồn mở đầu tiên hỗ trợ chuẩn SCORM 1.2 RTE-3, do đó khi sử dụng, không phải băn khoăn về việc sử dụng lại những nội dung đã thiết kế trên ILIAS.
+ILIAS được thiết kế theo lối lập trình hướng đối tượng nên có thể phát triển tiếp để phục vụ các nhu cầu đặc biệt.
+ILIAS được phát triển từ năm 1998 trong khuôn khổ của dự án VIRTUS của trường Đại học Tổng hợp Köln (tiếng Đức:"Universität zu Köln") và từ năm 2000 bởi một mạng lưới phát triển có tên là "ILIAS opensource" mà trong đó bao gồm nhiều cơ quan cũng như cá nhân riêng lẻ.
+Đặc biệt cho người sử dụng Việt Nam, hiện nay ILIAS đã hỗ trợ tốt tiếng Việt.
+

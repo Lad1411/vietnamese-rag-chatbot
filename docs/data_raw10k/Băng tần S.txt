@@ -1,0 +1,18 @@
+Băng tần S
+
+Băng tần S là một phần của băng tần vi ba thuộc phổ điện từ. Nó được định nghĩa theo một tiêu chuẩn của IEEE cho sóng vô tuyến với tần số trong dải 2 tới 4 GHz, tần số 3 GHz là ranh giới giữa UHF và SHF. Băng S được dùng cho radar thời tiết, radar tàu biển, vệ tinh thông tin, đặc biệt là NASA dùng cho liên lạc giữa tàu con thoi và trạm không gian quốc tế. Radar băng ngắn 10 cm có dải tần 1,55 tới 5,2 GHz.
+Vệ tinh thông tin.
+Tại Mỹ, Ủy ban Truyền thông Liên bang chấp nhận phát thanh số vệ tinh (DARS) được hoạt động trong băng tần S trong dải tần 2,31 tới 2,36 GHz, hiện đang được Sirius XM Radio sử dụng. Gần đây, một phần tần số của băng S từ 2 tới 2,2 GHz được dùng để lập mạng dịch vụ vệ tinh di động (MSS) kết nối với Các thiết bị phụ trợ mặt đất (ATC). Hiện nay chỉ có một số công ty đang cố gắng triển khai các mạng này, như ICO Satellite Management và TerreStar.
+Dải tần 2,6 GHz được dùng cho phát quảng bá di động đa phương tiện ở Trung Quốc, đây là một chuẩn truyền hình di động và phát thanh vệ tinh của Trung Quốc, cũng như các hệ thống sở hữu độc quyền ở Mỹ, nó không tương thích với các chuẩn mở được dùng ở các nước khác.
+Tháng 5/2009, Inmarsat và Solaris Mobile (một liên doanh giữa Eutelsat và Astra) đã được Ủy ban châu Âu cấp băng thông 2×15 MHz thuộc băng S. Hai công ty này trong 2 năm phải cung cấp dịch vụ MSS ở châu Âu. Tần số được cấp phát là 1,98 tới 2,01 GHz cho đường lên (trạm mặt đất tới vệ tinh) và từ 2,17 tới 2,2 GHz cho đường xuống (vệ tinh xuống trạm mặt đất). Vệ tinh Eutelsat W2A được phóng lên quỹ đạo vào tháng 4/2009 ở tọa độ 10° Đông hiện là vệ tinh duy nhất ở châu Âu hoạt động ở băng S.
+Ở một số nước, băng S được dùng cho truyền hình vệ tinh gia đình (không giống như dịch vụ tương tự ở hầu hết các quốc gia dùng băng Ku). Tần số cấp phát cho dịch vụ này là 2,5 tới 2,7 GHz (LOF 1,570 GHz).
+Ứng dụng khác.
+Thiết bị mạng không dây tương thích với chuẩn IEEE 802.11b và 802.11g dùng dải 2,4 GHz của băng tần S. Điện thoại không dây số cũng dùng băng tần này. Lò vi sóng hoạt động ở tần số 2495 hoặc 2450 MHz. Chuẩn IEEE 802.16a và 802.16e dùng một phần dải tần của băng S, theo chuẩn WiMAX hầu hết các nhà cung cấp thiết bị hoạt động trong dải 3,5 GHz. Dải tần chính xác được ấn định cho các chuẩn này là khác nhau tùy quốc gia.
+Tại Bắc Mỹ, dải tần 2,4 - 2,483 GHz là băng tần ISM dùng cho các thiết bị phổ không li-xăng (unlicensed) như điện thoại không dây, tai nghe không dây… trong số những công nghệ điện tử dân dụng khác còn có Bluetooth dùng dải tần 2,402 GHz và 2,480 GHz.
+Vô tuyến nghiệp dư và vệ tinh nghiệp dư hoạt động ở 2 dải tần của băng S, đó là 13 cm (2,4 GHz) và 9 cm (3.4 GHz).
+Thông tin quang dùng băng tần S.
+Băng tần S cũng được dùng trong thông tin quang với dải bước sóng 1460 nm tới 1530 nm.
+Các băng tần sóng cực ngắn khác.
+Phổ sóng cực ngắn thường được định nghĩa là phổ điện từ trong dải tần số 1.0 GHz đến 30 GHz, nhưng một số định nghĩa cũ hơn tính cả các tần số thấp hơn. Hầu hết các ứng dụng phổ biến trong dải tần 1,0 đến 30 GHz. Các băng tần số sóng cực ngắn, được định nghĩa bởi Hiệp hội Vô tuyến Anh (RSGB), được thể hiện trong bảng dưới đây. Chú ý là các tần số trên 30 GHz thường được gọi là "sóng mm". Tần số 30 GHz tương ứng với bước sóng 10 mm, hay 1 cm.
+Chú thích: "Băng tần P " đôi khi được dùng không chính xác cho băng tần Ku. "P" có nghĩa là "previous" (trước) là băng tần radar dùng ở Anh có dải tần 250 đến 500 MHz, hiện nay băng tần hoàn toàn lỗi thời theo tiêu chuẩn 521 của IEEE, xem và . Đối với các định nghĩa khác, xem Letter Designations of Microwave Bands
+

@@ -1,0 +1,13 @@
+Vôn kế
+
+Vôn kế hay volt kế là dụng cụ đo điện dùng để đo hiệu điện thế giữa hai đầu đoạn mạch (hoặc các dụng cụ điện như đèn...).
+Trong các sơ đồ mạch điện Vôn kế thường được thể hiện bằng ký hiệu (V).
+Phân loại.
+Hiện có các loại volt kế chính:
+Khi nối volt kế vào mạch cần đo, thì volt kế trích ra một phần năng lượng điện để xác định độ lớn điện áp. Mức độ trích xác định bởi điện trở của volt kế ở thang đo đó, và để tránh làm sai lệch mạch cần đo thì điện trở này phải đủ lớn.
+Trước đây đề có volt kế trở lớn dùng cho phép đo trong các thí nghiệm người ta chế ra "volt kế đèn", là volt kế có mạch khuếch đại dùng đèn điện tử hoặc transistor, đảm bảo điện trở vào hàng chục mega Ohm. Ngày nay kỹ thuật vi mạch phát triển, các thang đo volt của đồng hồ vạn năng hiện số phổ thông đảm bảo được các yêu cầu về trở kháng vào cao này.
+Sử dụng.
+Người ta có thể sử dụng vôn kế trên máy bay đo hiệu điện thế để suy ra vận tốc máy bay (xét về mặt lí thuyết). Tuy nhiên trên thực tế, do từ trường Trái Đất có hướng và độ lớn thay đổi liên tục theo từng vị trí (do máy bay có lúc bay cao, có lúc bay thấp tuỳ từng vị trí) nên người ta không dùng cách này vì Vôn kế thay đổi giá trị liên tục nên khó xác định vận tốc máy bay. Thay vào đó, người ta dùng ống pitot để đo vận tốc máy bay.
+Liên kết ngoài.
+Vôn kế là gì?
+

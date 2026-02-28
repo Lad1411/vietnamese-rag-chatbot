@@ -1,0 +1,24 @@
+Đường cao tốc Vân Phong – Nha Trang
+
+Đường cao tốc Vân Phong – Nha Trang (ký hiệu toàn tuyến là CT.01) là một đoạn đường cao tốc thuộc hệ thống đường cao tốc Bắc – Nam phía Đông nằm trong địa phận của tỉnh Khánh Hòa.
+Theo thiết kế, tuyến đường có chiều dài là 83 km, đoạn đường có điểm đầu giao với quốc lộ 1 thuộc địa phận xã Vạn Thọ, huyện Vạn Ninh, tỉnh Khánh Hòa, kết nối với đường dẫn phía Nam hầm Cổ Mã và đường cao tốc Chí Thạnh – Vân Phong; điểm cuối tại nút giao với quốc lộ 27C thuộc địa phận xã Diên Thọ, huyện Diên Khánh, tỉnh Khánh Hòa, nối tiếp với đường cao tốc Nha Trang – Cam Lâm. Giai đoạn phân kì, tuyến đường có mặt cắt ngang đạt tiêu chuẩn đường cao tốc 4 làn xe chưa có làn dừng khẩn cấp (có một số điểm dừng khẩn cấp), bề rộng nền đường 17m, vận tốc thiết kế 80 km/h. Giai đoạn hoàn chỉnh, đường sẽ có 6 làn xe, 2 làn dừng khẩn cấp, vận tốc thiết kế 120 km/h.
+Công trình có tổng mức đầu tư là 11.808 tỷ đồng, được khởi công vào ngày 1 tháng 1 năm 2023. Thời gian xây dựng dự kiến là 34 tháng.
+Lộ trình chi tiết.
+!Ký hiệu
+!Tên
+!Khoảng cách&lt;br&gt;từ đầu tuyến
+!Kết nối
+!Ghi chú
+! colspan="2" |Vị trí
+!colspan="7" style="text-align: center; background:#dff9f9;"|Kết nối với  Đường cao tốc Chí Thạnh – Vân Phong thông qua Hầm Cổ Mã và Hầm Đèo Cả
+!style="background-color: #BFB;"|IC.1
+!style="background-color: #BFB;"| -
+!style="background-color: #BFB;"|BR
+!style="background-color: #BFB;"|IC.2
+!style="background-color: #BFB;"|IC.3
+!style="background-color: #BFB;"|BR
+!style="background-color: #BFB;"|BR
+!style="background-color: #BFB;"|BR
+!style="background-color: #BFB;"|IC.4
+!colspan="7" style="text-align: center; background:#dff9f9;"|Kết nối trực tiếp với  Đường cao tốc Nha Trang – Cam Lâm
+

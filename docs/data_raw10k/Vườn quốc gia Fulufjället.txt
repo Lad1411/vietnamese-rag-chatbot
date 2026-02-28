@@ -1,0 +1,16 @@
+Vườn quốc gia Fulufjället
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;64717016&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-01-17T18:34:12Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;InternetArchiveBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Đã cứu 2 nguồn và đánh dấu 0 nguồn là hỏng.) #IABot (v2.0.8.6&lt;/comment&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Vườn quốc gia Fulufjället là một vườn quốc gia ở khu vực trung tâm Thụy Điển. Tổng diện tích của nó là 385 km² và nằm ​​hoàn toàn bên trong Älvdalens thuộc tỉnh Dalarna. Tên của vườn quốc gia cũng chính là tên của một ngọn núi nằm trong đó, núi Fulufjället cao 1.044 mét.
+Đây là vườn quốc gia đầu tiên cũng là duy nhất tính đến thời điểm hiện tại là một vườn quốc gia thuộc Mạng lưới khu bảo tồn châu Âu, một dự án quốc tế để kết hợp bảo tồn với du lịch.
+Địa lý của vườn quốc gia này bị chi phối bởi địa y, núi trọc, và các thung lũng dày đặc rừng nguyên sinh. Thạch nam tại Dãy núi Scandinavia chỉ có duy nhất tại vườn quốc gia này. Đây cũng là một điểm đáng chú ý cho một số loài chim. Điểm tham quan đáng chú ý bao gồm thác nước Njupeskär, là thác nước lớn nhất Thụy Điển với tổng chiều cao 93 mét. Đây cũng là nhà của cây Tjikko cổ, là một trong số những cây lâu đời nhất thế giới với tuổi thọ ước đạt 9.500 năm tuổi.
+

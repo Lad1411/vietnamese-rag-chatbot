@@ -1,0 +1,7 @@
+HD DVD
+
+HD DVD (viết tắt của High Definition Digital Verspose Disc) là định dạng đĩa quang mật độ cao để lưu trữ dữ liệu và phát lại video độ nét cao, hiện tại đã ngừng phát triển. Được hỗ trợ chủ yếu bởi Toshiba, HD DVD được coi là sự kế thừa của định dạng DVD tiêu chuẩn.
+Vào ngày 19 tháng 2 năm 2008, sau cuộc chiến định dạng kéo dài với đối thủ Blu-ray, Toshiba đã từ bỏ định dạng này, tuyên bố sẽ không sản xuất đầu đĩa và ổ đĩa HD DVD nữa. Nhóm quảng bá HD DVD bị giải thể vào ngày 28 tháng 3 năm 2008.
+Các thông số kỹ thuật của đĩa vật lý HD DVD (nhưng không phải codec) được sử dụng làm cơ sở cho China Blue High-definition Disc (CBHD) trước đây được gọi là CH-DVD.
+Bởi vì tất cả các biến thể ngoại trừ 3 × DVD và HD REC sử dụng tia laser màu xanh lam có bước sóng ngắn hơn, HD DVD lưu trữ lượng dữ liệu trên mỗi lớp gấp khoảng 3,2 lần so với phiên bản tiền nhiệm (dung lượng tối đa là 15 GB mỗi lớp so với 4,7GB mỗi lớp của DVD).
+

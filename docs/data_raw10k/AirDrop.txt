@@ -1,0 +1,29 @@
+AirDrop
+
+AirDrop là một dịch vụ chia sẻ tập tin của hệ điều hành iOS và macOS, được giới thiệu trong Mac OS X Lion (Mac OS X 10.7) và iOS 7, mà có thể chuyển các tập tin giữa các máy tính Mac được hỗ trợ và các thiết bị iOS bằng cách phương tiện liên lạc không dây tầm gần. Giao tiếp này diễn ra qua 'Khung hành động' và 'Khung dữ liệu' của Apple Wireless Direct Link bằng cách sử dụng địa chỉ IPv6 cục bộ thay vì địa chỉ MAC cố định của chip Wi-Fi.
+Trước OS X Yosemite (OS X 10.10) và dưới OS X Lion, Mountain Lion và Mavericks (OS X 10.7–10.9, tương ứng), giao thức AirDrop trong macOS khác với giao thức AirDrop của iOS và do đó, cả hai đều không thể tương tác. OS X Yosemite trở lên hỗ trợ giao thức iOS AirDrop, được sử dụng để truyền dữ liệu giữa máy Mac và thiết bị iOS cũng như giữa hai máy tính Mac 2012 trở lên và sử dụng cả Wi-Fi và Bluetooth. Điều này đã thay thế cho giao thức AirDrop cũ (chỉ sử dụng Wi-Fi) giữa máy tính Mac 2012 trở lên (hoặc máy tính chạy OS X Lion thông qua OS X Mavericks) và một máy tính Mac khác cũng có sẵn cho đến macOS Mojave.
+Apple không tiết lộ giới hạn về kích thước của tệp mà AirDrop có thể truyền.
+Cài đặt.
+iOS.
+Trên iOS 7 trở lên, AirDrop có thể được truy cập bằng cách nhấn vào Cài đặt → Chung → AirDrop, hoặc thông qua mục Trung tâm điều khiển. Cả Wi-Fi và Bluetooth đều được tự động bật khi AirDrop được bật vì cả hai đều được sử dụng.
+Các tùy chọn của AirDrop bao gồm:
+Trong iOS 7 trở lên, nếu một ứng dụng triển khai hỗ trợ AirDrop, nó sẽ có tác dụng thông qua nút chia sẻ. AirDrop phải tuân theo một số hạn chế trên iOS, chẳng hạn như không thể chia sẻ nhạc hoặc video từ các ứng dụng gốc.
+macOS.
+Trên máy Mac chạy OS X 10.7 trở lên, AirDrop có sẵn trong thanh bên cửa sổ Finder. Trên máy Mac chạy OS X 10.8.1 trở lên, nó cũng có thể được truy cập thông qua tùy chọn menu Go → AirDrop hoặc bằng cách nhấn ++.
+Bạn phải bật Wi-Fi để AirDrop nhận ra thiết bị khác. Thiết bị khác cũng phải chọn AirDrop trong thanh bên của cửa sổ Finder để có thể truyền tệp. Hơn nữa, các tệp không được tự động chấp nhận, người nhận phải chấp nhận di chuyển tệp. Điều này được thực hiện để cải thiện tính bảo mật và quyền riêng tư.
+Giới hạn hệ thống.
+Giữa hai thiết bị iOS.
+Đang chạy iOS 7 trở lên:
+AirDrop có thể được kích hoạt không chính thức trên iPad (thế hệ thứ 3). Mặc dù không được hỗ trợ theo mặc định, AirDrop có thể được kích hoạt bằng cách bẻ khóa thiết bị và cài đặt "AirDrop Enabler 7.0+" từ Cydia. Quy trình này không được Apple hỗ trợ hoặc khuyến nghị, vì tham gia vào quá trình bẻ khóa có thể gây ra sự không ổn định của phần mềm và tạo ra virus.
+Giữa hai máy tính Mac.
+Đang chạy Mac OS X Lion (10.7) trở lên:
+Giữa một máy tính Mac và một thiết bị iOS.
+Để chuyển tệp giữa máy Mac và iPhone, iPad hoặc iPod touch, bạn phải đáp ứng các yêu cầu tối thiểu sau: Tất cả các thiết bị iOS có AirDrop đều được hỗ trợ với iOS 8 trở lên:
+Đang chạy OS X Yosemite (10.10) trở lên:
+Bluetooth và Wi-Fi phải được bật cho cả thiết bị Mac và iOS (Cả hai thiết bị không bắt buộc phải được kết nối với cùng một mạng Wi-Fi).
+An toàn và sự riêng tư.
+AirDrop sử dụng mã hóa TLS qua kết nối Wi-Fi do Apple tạo ra để truyền tệp. Kết nối Wi-Fi của thiết bị nguồn và thiết bị giao tiếp trực tiếp không cần sử dụng kết nối Internet hoặc Điểm truy cập Wi-Fi.
+Các chi tiết kỹ thuật của AirDrop và giao thức Wi-Fi ngang hàng độc quyền được gọi là Apple Wireless Direct Link (AWDL) đã được thiết kế ngược lại và kết quả là các phiên bản mã nguồn mở được công bố là OWL và OpenDrop.
+Đã có nhiều trường hợp được báo cáo trong đó người dùng thiết bị iOS có quyền riêng tư AirDrop được đặt thành "Mọi người" đã nhận được các tệp không mong muốn từ những người lạ gần đó, hiện tượng này được gọi là "cyber-flashing" (phô trương qua mạng). Người dùng có quyền kiểm soát cài đặt AirDrop của họ và giới hạn người có thể gửi tệp cho họ, với các tùy chọn "Mọi người", "Chỉ Danh bạ" hoặc "Tắt".
+Trong quá trình chuyển đổi, các thiết bị trao đổi SHA-256 hiển thị đầy đủ số điện thoại và địa chỉ email của người dùng, những thứ này có thể bị những kẻ tấn công lợi dụng.
+

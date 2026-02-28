@@ -1,0 +1,12 @@
+Kiểm định giả thuyết thống kê
+
+Kiểm định giả thuyết thống kê (statistical hypothesis test) là phương pháp ra quyết định sử dụng dữ liệu, hoặc từ thí nghiệm hoặc từ nghiên cứu quan sát (observational study)(không có kiểm soát). Trong thống kê (statistics), một kết quả được gọi là đủ độ tin cậy mang tính thống kê (statistically significant) nếu nó ít có khả năng diễn ra theo một ngưỡng xác suất cho trước (ví dụ 5% hay 10%). Cụm từ kiểm định độ tin cậy ("test of significance") được đưa ra bởi Ronald Fisher.
+Kiểm định giả thuyết đôi khi được gọi là phân tích dữ liệu để khẳng định, để so sánh với phân tích dữ liệu để khám phá.
+Ví dụ.
+Ví dụ 1 – Kết luận xử án.
+Một đợt kiểm định độ tin cậy được tiến hành cho một tội phạm. Bị cáo sẽ chưa bị kết luận là có tội khi tội của anh ta chưa được chứng minh. Nguyên đơn cố gắng chứng minh tội của bị cáo. Chi khi có đủ bằng chứng thì bị cáo mới bị buộc tội.
+Bắt đầu đợt kiểm định, có hai giả thuyết formula_1: "bị cáo không có tội", và formula_2: "bị cáo có tội". Giả thuyết thứ nhất được gọi là "Giả thuyết không" (null hypothesis), và hiện tại đang được chấp nhận. Giả thuyết thứ 2 được gọi là "giả thuyết nghịch (alternative hypothesis)". Đây là giả thuyết mà nguyên đơn cố gắng chứng minh.
+Giả thuyết 1 chỉ được bác bỏ nếu lỗi nói sai rất ít khả năng xảy ra, bởi vì chúng ta không muốn đổ oan cho người vô tội. Lỗi nói sai đó được gọi là "lỗi loại một" (nghĩa là đổ oan cho người vô tội), và khả năng mắc lỗi này được kiểm soát sao cho ít xảy ra nhất. Vì do chúng ta cố gắng không áp tội cho người khác, nên xảy ra "lỗi loại 2" (bỏ thoát tội một người mà thực tế có tội), xác suất lỗi này thường lớn hơn.
+Phiên tòa có thể được coi là một hay cả hai quá trình:
+có tội với không có tội hoặc bằng chứng với một người ("quá một mức nghi ngờ hợp lý"). Kiểm định giả thuyết ở đây là hoặc kiểm định giả thuyết hoặc kiểm định bằng chứng.
+

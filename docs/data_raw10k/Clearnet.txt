@@ -1,0 +1,5 @@
+Clearnet
+
+Clearnet là mạng Internet thông thường không mã hóa và có thể dùng công cụ truy vấn dữ liệu để tìm kiếm các trang web trên đó. Thuật ngữ này được dùng để phân biệt với Darknet và có thể được xem là đồng nghĩa với surface web.
+Mạng Internet này tuy nhiên không nặc danh, vì các trang web có thể biết được địa chỉ IP của người dùng vào trang của họ. Muốn dấu tên, người ta phải dùng phần mềm máy tính có chức năng xóa dấu vết, ẩn địa chỉ IP xuất xứ của máy như Tor.
+

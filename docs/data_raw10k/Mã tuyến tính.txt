@@ -1,0 +1,31 @@
+Mã tuyến tính
+
+Trong lý thuyết mã hóa, mã tuyến tính là mã sửa lỗi trong đó mọi tổ hợp tuyến tính của các mã tự cũng là một mã tự. Mã tuyến tính thường được phân loại thành mã khối và mã chập, mặc dù mã Turbo có thể được coi là thuộc cả hai thể loại. Mã tuyến tính thường có thuật toán mã hóa và giải mã hiệu quả hơn các loại mã khác (tham khảo giải mã hội chứng).
+Mã tuyến tính được dùng trong sửa lỗi trước và được dùng để truyền các ký hiệu (chẳng hạn như bit) trên một kênh liên lạc sao cho, nếu có lỗi trong quá trình truyền, người nhận có thể phát hiện và sửa một số lỗi trong khối nhận được. Mỗi mã tự trong một mã khối tuyến tính là một khối các ký hiệu được mã hoá thành một khối lớn hơn khối ban đầu. Lượng thông tin thừa trong mỗi khối được dùng để phát hiện và sửa các lỗi trong quá trình truyền. Độ dài "n" của mã khối tuyến tính số ký hiệu trong một khối. Ví dụ, mã Hamming [7,4,3] là một mã nhị phân tuyến tính biểu diễn mỗi thông điệp 4 bit bằng một mã tự 7 bit. Hai mã tự khác nhau sai khác ở ít nhất 3 bit. Do đó, mã có thể phát hiện 2 lỗi sai và sửa 1 lỗi sai. Mã này gồm 24=16 mã tự.
+Định nghĩa và các tham số.
+Một mã tuyến tính với độ dài "n" và hạng/số chiều "k" là một không gian con "C" với số chiều "k" của không gian vectơ formula_1 trong đó formula_2 là trường hữu hạn với "q" phần tử. Mã như vậy gọi là mã "q"-phân. Nếu "q" = 2 hay "q" = 3, thì mã đó được gọi tương ứng là mã nhị phân, và mã tam phân. Các vectơ trong "C" được gọi là các "mã tự". Kích thước của một mã là số mã tự, và đúng bằng "q""k".
+Trọng lượng của một mã tự là số lượng phần tử khác không của nó và khoảng cách giữa hai mã tự là khoảng cách Hamming giữa chúng, nghĩa là số phần tử khác nhau giữa hai mã tự. Khoảng cách "d" của một mã là trọng lượng nhỏ nhất trong các mã tự khác không, hoặc một cách tương đương, khoảng cách nhỏ nhất giữa hai mã tự khác nhau. Mã tuyến tính độ dài "n", số chiều "k", và khoảng cách "d" được ký hiệu là mã ["n","k","d"].
+"Ghi chú: Ta sử dụng cơ sở thông thường cho formula_1 vì mỗi tọa độ ứng với một ký hiệu được truyền trên "kênh nhiễu". Chỉ khi sử dụng cơ sở này thì khoảng cách Hamming mới tương ứng với số lỗi sai trong quá trình truyền."
+Tính chất.
+Vì là một không gian con của formula_1, toàn bộ mã "C" (có kích thước lớn) có thể được biểu diễn chỉ bằng một hệ sinh gồm ít nhất mã tự (gọi là cơ sở trong đại số tuyến tính). Nếu ghép các mã tự này làm các hàng của ma trận G thì ma trận đó gọi là ma trận sinh của mã "C". Khi G có dạng khối formula_5, trong đó formula_6 là ma trận đơn vị formula_7 và A là một ma trận formula_8, thì ta nói G nằm ở dạng chuẩn.
+Ma trận "H" biểu diễn biến đổi tuyến tính formula_9 có hạt nhân là "C" được gọi là ma trận kiểm tra của "C" (còn được gọi là ma trận kiểm tra tính chẵn lẻ). Nếu "C" là mã với ma trận sinh "G" ở dạng chuẩn, "G" = ("I""k" | "A"), thì "H" = (−"A""t" | "I""n" − "k") là ma trận kiểm tra của "C". Mã sinh bởi "H" được gọi là mã đối ngẫu của C.
+Tính chất tuyến tính đảm bảo khoảng cách Hamming nhỏ nhất "d" giữa mã tự "c"0 và bất kì mã tự "c" ≠ "c"0 nào là độc lập với "c"0. Điều này được suy ra từ tính chất hiệu "c" − "c"0 của hai mã tự trong "C" cũng là một mã tự (nghĩa là một phần tử của không gian "C"), và tính chất "d"("c", c0) = "d"("c" − "c"0, 0). Theo các tính chất này,
+Nói cách khác, để xác định khoảng cách nhỏ nhất giữa các mã tự của một mã tuyến tính, chỉ cần xét khoảng cách giữa các mã tự khác không và mã tự không. Mã tự khác không có trọng lượng nhỏ nhất chính là mã tự gần mã tự không nhất và trọng số đó chính là khoảng cách nhỏ nhất.
+Khoảng cách "d" của một mã tuyến tính "C" cũng bằng số nhỏ nhất các cột phụ thuộc tuyến tính của ma trận kiểm tra "H".
+"Chứng minh:" Xét là mã tự có trọng số nhỏ nhất. Theo định nghĩa, formula_11 nên các cột formula_12 với formula_13 phụ thuộc tuyến tính. Vì vậy số cột nhỏ nhất phụ thuộc tuyến tính là nhỏ hơn hoặc bằng "d".
+Mặt khác xét một tập hợp nhỏ nhất các cột phụ thuộc tuyến tính formula_14 trong đó formula_15 là tập hợp các chỉ số các cột này. formula_16. Xét vectơ formula_17 sao cho formula_18 nếu formula_19. Ta nhận thấy formula_20 vì formula_21. Do đó ta có formula_22, chính là số nhỏ nhất các cột phụ thuộc tuyến tính của formula_23.
+Như vậy, ta thu được kết quả cần chứng minh.
+Ví dụ: mã Hamming.
+Là loại mã đầu tiên được dùng cho mục đích sửa lỗi, "mã Hamming" được sử dụng rộng rãi trong các hệ thống truyền thông số. Với mọi số nguyên dương formula_24, tồn tại một mã Hamming formula_25. Vì formula_26, mã Hamming có thể sửa lỗi 1 bit.
+Ví dụ: Sau đây là ma trận sinh và ma trận sửa lỗi của mã Hamming formula_27.
+Ví dụ: mã Hadamard.
+Mã Hadamard là một mã tuyến tính formula_30 có thể sửa nhiều lỗi. Có thể xây dựng ma trận sinh của mã Hadamard lần lượt từng cột một: cột thứ formula_31 là các bit của biểu diễn nhị phân của số nguyên formula_31, như trong ví dụ dưới đây. Mã Hadamard có khoảng cách nhỏ nhất formula_33 và do đó có thể sửa formula_34 lỗi.
+Ví dụ: Say đâu là ma trận sinh của mã Hadamard formula_35:
+formula_36.
+Mã Hadamard là một trường hợp đặc biệt của mã Reed–Muller. Nếu ta loại bỏ cột thứ nhất (cột toàn 0) của formula_37, thì thu được mã "đơn hình" formula_38, chính là "mã đối ngẫu" của mã Hamming.
+Ký hiệu phổ biến.
+Mã thường được ký hiệu bởi chữ cái "C". Mã có chiều dài "n" và số chiều "k" (nghĩa là có "k" mã tự trong cơ sở và "ma trận sinh" có "k" hàng) thường được gọi là mã ("n", "k"). Mã tuyến tính thường được ký hiệu là ["n", "k", "d"], trong đó "d" là khoảng cách Hamming nhỏ nhất giữa hai mã tự.
+Ghi chú. Ký hiệu ["n", "k", "d"] là khác với ký hiệu ("n", "M", "d") thường được dùng để ký hiệu mã "không tuyến tính" chiều dài "n", kích thước "M" (nghĩa là có "M" mã tự), và khoảng cách Hamming nhỏ nhất "d".
+Ví dụ.
+Một vài ví dụ của mã tuyến tính bao gồm:
+

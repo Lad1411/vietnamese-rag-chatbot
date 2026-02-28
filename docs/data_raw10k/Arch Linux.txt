@@ -1,0 +1,6 @@
+Arch Linux
+
+Arch Linux là một bản phân phối Linux được phát triển theo hướng đơn giản và gọn nhẹ. Thiết kế của Arch hướng tới mục tiêu đơn giản, thanh lịch, chính xác, và tối thiểu hóa. "Tính đơn giản" theo định nghĩa của Arch là "bỏ qua tất cả những phần phức tạp không cần thiết, các phần bổ sung, giảm thiểu số thay đổi cần có" và nó được áp dụng dưới góc nhìn của lập trình viên hơn là người dùng phổ thông(end-user).
+Lấy cảm hứng từ CRUX, một hệ điều hành tối thiểu khác, Judd Vinet đã bắt đầu dự án tháng 3 năm 2002 và lãnh đạo dự án đến ngày 1 tháng 10 năm 2007, sau đó nhường lại cho Aaron Griffin.
+Vào ngày 24 tháng 2 năm 2020, Aaron Griffin thông báo rằng do ít tham gia vào dự án nên, anh sẽ chuyển giao quyền kiểm soát dự án cho Levente Polyak. Sự thay đổi này cũng dẫn đến việc người mới có nhiệm kỳ 2 năm được bổ sung vào vị trí Trưởng nhóm dự án.
+

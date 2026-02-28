@@ -1,0 +1,10 @@
+Giả thuyết Elliott–Halberstam
+
+Trong lý thuyết số, giả thuyết Elliott–Halberstam là giả thuyết về sự phân phối của các số nguyên tố trong cấp số cộng. Nó có nhiều ứng dụng trong lý thuyết sàng. Nó được đặt tên theo nhà toán học Peter D. T. A. Elliott và Heini Halberstam, và được phát biểu bởi họ vào năm 1968.
+Để phát biểu giả thuyết cần một số ký hiệu sau: Gọi formula_1 là hàm đếm số nguyên tố nhỏ hơn hoặc bằng formula_2. Nếu formula_3 là số nguyên dương và formula_4 nguyên tố cùng nhau với formula_3, thì ta gọi formula_6 là số các số nguyên tố nhỏ hơn hoặc bằng formula_2 và bằng với formula_4 khi modulo formula_3. Định lý Dirichlet trên các số nguyên tố trong cấp số cộng nói với chúng ta rằng
+trong đó formula_11 là hàm phi Euler. Nếu ta định nghĩa hàm sai số
+trong đó giá trị max được lấy trên tất cả giá trị formula_4 nguyên tố cùng nhau với formula_3, thì giả thuyết Elliott–Halberstam khẳng định rằng với mọi formula_15 và formula_16, tồn tại hằng số formula_17 sao cho
+với mọi formula_19.
+Giả thuyết mới chỉ chứng minh đúng cho mọi formula_20 và được chứng minh bởi Enrico Bombieri và A. I. Vinogradov (xem định lý Bombieri–Vinogradov, đôi khi được gọi ngắn đi là "định lý Bombieri"); kết quả này khá hữu dụng bởi nó là dạng trung bình của phỏng đoán Riemann tổng quát. Hiện người ta cũng biết giả thuyết sai tại điểm formula_21.
+Giả thuyết Elliott–Halberstam có một số hệ quả sau: Một trong những hệ quả lớn nhất là kết quả của Dan Goldston, János Pintz, và Cem Yıldırım, chứng minh rằng (nếu giả sử giả thuyết này đúng) sẽ có vô số cặp số nguyên tố sai khác nhau tối đa 16. Trong tháng 11 năm 2013, James Maynard đã chứng minh rằng khi giả định giả thuyết Elliott–Halberstam, ta có thể chứng minh sự tồn tại của vô số cặp số nguyên tố sai khác nhau tối đa 12. Trong tháng 8 năm 2014, nhóm dự án Polymath chứng minh dưới giả thuyết Elliott–Halberstam tổng quát, ta có thể chứng minh có vô số cặp số nguyên tố sai khác nhau tối đa 6. Nếu không giả định bất cứ dạng nào của giả thuyết, cận nhỏ nhất thu được là 246.
+

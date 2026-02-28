@@ -1,0 +1,10 @@
+Vi khuẩn Gram dương
+
+Vi khuẩn Gram dương là vi khuẩn cho kết quả dương tính trong thử nghiệm nhuộm Gram, phương pháp truyền thống được sử dụng để nhanh chóng phân loại vi khuẩn thành hai loại rộng theo cấu trúc thành tế bào của chúng.
+Vi khuẩn Gram dương sẽ giữ lại màu tím tinh thể được sử dụng trong thử nghiệm, vì vậy, khi nhìn qua kính hiển vi sau đó thì chúng sẽ có màu tím. Điều này là do lớp peptidoglycan dày trong thành tế bào vi khuẩn giữ lại màu nhuộm sau khi màu bị rửa sạch khỏi phần còn lại của mẫu, trong giai đoạn khử màu của thử nghiệm.
+Vi khuẩn Gram âm không thể giữ lại màu nhuộm tím sau bước khử màu; cồn được sử dụng trong giai đoạn này làm phân hủy màng ngoài của tế bào Gram âm, làm cho thành tế bào xốp hơn và không có khả năng giữ lại màu tím tinh thể. Lớp peptidoglycan của chúng mỏng hơn và kẹp giữa màng tế bào bên trong và màng ngoài của vi khuẩn, làm cho chúng sẽ có màu của phản chất nhuộm (safranin hoặc fuchsine) nên khi nhìn qua kính sẽ có màu đỏ hoặc hồng.
+Mặc dù lớp peptidoglycan dày hơn, vi khuẩn Gram dương lại mẫn cảm với kháng sinh hơn Gram âm, do thiếu lớp màng ngoài.
+Đặc điểm.
+Nhìn chung, các đặc điểm sau đây sẽ có mặt trong vi khuẩn Gram dương:
+Chỉ một số loài có lớp màng nhầy, thường chứa polysaccharide. Ngoài ra, chỉ có một số loài có roi hay tiên mao, và nếu chúng có roi, thì chỉ có hai đĩa gốc để nâng đỡ, trong khi Gram âm có đến bốn đĩa gốc. Cả hai vi khuẩn Gram dương và Gram âm thường có một lớp bề mặt được gọi là lớp S. Trong vi khuẩn Gram dương, lớp S được gắn vào lớp peptidoglycan. Lớp S của vi khuẩn Gram âm lại được gắn trực tiếp vào màng ngoài. Chỉ có vi khuẩn Gram dương mới có axit teichoic trong thành tế bào. Một số trong số đó là các axit lipoteichoic, có thành phần lipid trong màng tế bào để có thể hỗ trợ trong việc neo giữ peptidoglycan.
+

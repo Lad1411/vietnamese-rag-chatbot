@@ -1,0 +1,14 @@
+Các vùng của Liên minh châu Âu
+
+Nhằm tạo thuận lợi cho công tác thống kê để từ đó quản lý hiệu quả công tác hỗ trợ tài chính trong lãnh thổ của mình, Ủy ban châu Âu đã tiến hành phân chia toàn bộ lãnh thổ mà Liên minh châu Âu bao trùm thành các vùng. Mỗi vùng sẽ nằm trong phạm vi một quốc gia thành viên của Liên minh. Một vùng của Liên minh châu Âu có thể thành lập trên cơ sở một bang, một vùng hành chính, hay một cấp hành chính nào khác của các nước thành viên. Tuy nhiên, vùng của châu Âu không nhất thiết trùng với cách phân cấp hành chính ở các nước thành viên bởi vì cách thức phân cấp hành chính ở mỗi nước thành viên không giống nhau. Vùng của Liên minh châu Âu có ba cấp, trong khi cách phân cấp hành chính của các nước thành viên có thể có ít hơn hoặc nhiều hơn ba cấp.
+Cấp thứ nhất.
+Cấp vùng thứ nhất của Liên minh châu Âu (thường được viết tắt là NUTS-1) bao gồm 95 đơn vị. Mỗi vùng được thành lập trên cơ sở dân số từ 3 triệu đến 7 triệu nhân khẩu. Ở cấp này, đôi khi bản thân một quốc gia thành viên được coi là một vùng của Liên minh châu Âu như trường hợp Đan Mạch và nhiều quốc gia thành viên nhỏ khác. Mỗi bang của Đức, vùng hành chính của Anh, nhóm bang của Áo, vùng liên tỉnh của Bỉ và nhóm liên vùng hành chính của các nước thành viên khác là một vùng hành chính cấp thứ nhất của Liên minh châu Âu.
+Cấp thứ nhì.
+Cấp vùng thứ nhì của Liên minh châu Âu (thường được viết tắt là NUTS-2) bao gồm 269 đơn vị. Mỗi đơn vị được thành lập trên cơ sở một bộ phận lãnh thổ trong quốc gia thành viên có dân số từ 800 nghìn đến 3 triệu người. Ở cấp này, những nước thành viên nhỏ của châu Âu là một vùng. Một bang của Áo, một vùng hành chính của một số nước thành viên, hay một tỉnh của Bỉ là một vùng của Liên minh châu Âu.
+Cấp thứ ba.
+Cấp vùng thứ ba của Liên minh châu Âu (thường được viết tắt là NUTS-3) gồm 1291 đơn vị. Mỗi đơn vị được thành lập trên cơ sở một bộ phận lãnh thổ trong quốc gia thành viên có từ 150 nghìn đến 800 nghìn nhân khẩu. Mỗi vùng cấp thứ ba này là một đơn vị hành chính của các nước thành viên thấp hơn cấp hành chính của các nước đó đã được xác định là cấp vùng thứ nhì của Liên minh châu Âu.
+Cấp thứ tư.
+Thường được viết tắt là LAU-1, trước đây gọi là NUTS-4, cấp này có 8398 đơn vị.
+Cấp thứ năm.
+Cấp thứ năm, thường được viết tắt là LAU-2, trước đây gọi là NUTS-5, gồm 121.601 đơn vị.
+

@@ -1,0 +1,4 @@
+Hệ thống tăng cường âm thanh
+
+Hệ thống tăng cường âm thanh là hệ thống bao gồm nhiều thiết bị như micro, bộ xử lý tín hiệu, amply và loa, được điều khiển bởi bảng điều khiển trộn để làm cho âm thanh thu trực tiếp hoặc thu sẵn được to hơn và đồng thời cũng có thể phân phối những âm thanh đó đến nhiều khán giả hơn hoặc khán giả ở vị trí xa hơn. Trong nhiều trường hợp, hệ thống tăng cường âm thanh cũng được sử dụng để tăng cường hoặc thay đổi âm thanh từ nhiều nguồn trên sân khấu, thường bằng cách sử dụng các hiệu ứng điện tử, chẳng hạn như hồi âm ("reverb"), khác với việc khuếch đại các nguồn âm không bị thay đổi.
+

@@ -1,0 +1,14 @@
+RPG Maker VX
+
+ là một phiên bản PC của phần mềm RPG Maker. Phiên bản này đã được thay thế bởi "RPG Maker VX Ace", một phiên bản được cải tiến và nâng cao của RPG Maker VX. Cả "RPG Maker VX" và "RPG Maker VX Ace" đều được phát triển bởi công ty Enterbrain, theo sau phiên bản tiền nhiệm, RPG Maker XP. RPG Maker VX tuân theo một quy luật đặt tên có trong các bản phát hành RPG Maker trước đó bằng cách thêm hậu tố dựa trên các phiên bản của hãng máy tính Windows mà phần mềm được thiết kế cho (trong trường hợp này, là Windows Vista và Windows XP).
+Phiên bản.
+RPG Maker VX (bản dùng thử).
+Một bản dùng thử của RPG Maker VX đã được phát hành trên trang mạng Enterbrain's Japanese VX và có sẵn để tải về. Phiên bản dùng thử này bị giới hạn một số tính năng, như chức năng lưu trò chơi và hạn chế trong Database. Phiên bản Tiếng Anh cũng có sẵn và được cung cấp bởi Enterbrain, với đày đủ chức năng nhưng giới hạn 30 ngày thử.
+RPG Maker VX RTP.
+Gói tài nguyên RTP (Run-time package) dành cho RPG Maker VX có thể tải về từ trang mạng của Enterbrain. Nó cho phép người dùng làm game với RPG Maker VX. Nó được phát triển để các trò chơi sử dụng hầu hết các tài nguyên mặc định và có thể được phân phối cho công chúng với kích thước tệp nhỏ.
+Lịch sử.
+Vào cuối tháng 1 năm 2008, Enterbrain của Nhật Bản đã phát hành một bản cập nhật bao gồm một tập lệnh bổ sung để cải thiện hiệu suất. Phiên bản này được gọi là RPG Maker VX 1.01 và có sẵn cho những người sở hữu phiên bản đầy đủ của chương trình. Phiên bản cuối cùng tại thời điểm này là 1.02.
+Đi kèm.
+Phiên bản bán lẻ của RPG Maker VX bao gồm các bản demo trò chơi sau, cũng có sẵn riêng từ trang web Enterbrain:
+Chúng có các hiệu ứng nâng cao như đồ họa chiến đấu pseudo-3D, hệ thống chiến đấu tùy chỉnh được viết bằng RGSS2 và hơn thế nữa. Sword of Algus và Abyss Diver không được bao gồm phiên bản tiếng Nhật của sản phẩm.
+

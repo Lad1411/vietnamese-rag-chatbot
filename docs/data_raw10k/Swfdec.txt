@@ -1,0 +1,6 @@
+Swfdec
+
+Swfdec là một phần mềm nguồn mở thay thế trình chơi đa phương tiện cho web Adobe Flash. Hiện tại chương trình tương thích với Linux và FreeBSD và được phát hành dưới giấy phép GNU Lesser General Public License (LGPL).
+Swfdec là một thư viện có thể sử dụng để phát các tệp Flash. Có một trình đa phương tiện và trình cắm bổ sung cho Mozilla sử dụng thư viện này. Swfdec hỗ trợ Flash kể từ phiên bản 4, và phần lớn Flash phiên bản 9. Thư viện được cập nhật liên tục để tương thích với các chương trình, hỗ trợ phần lớn (bao gồm YouTube, Google Video, Lulu.tv, AOL video, và CNN video) để sử dụng bát cứ lúc nào.
+Swfdec đã được chọn làm trình chơi Flash cho Fedora, và được chuyển hệ sang DirectFB để nhúng vào X11 và GTK+. Thư viện sử dụng Cairo để dựng hình và PulseAudio, OSS, hoặc ALSA để xử lý âm thanh.
+

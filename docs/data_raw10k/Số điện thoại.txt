@@ -1,0 +1,5 @@
+Số điện thoại
+
+Số điện thoại là một dãy số được gán cho: a) một thuê bao sử dụng điện thoại cố định được kết nối với đường dây điện thoại hoặc b) một thiết bị liên lạc điện tử không dây như điện thoại di động hoặc c) các thiết bị khác có chức năng truyền dữ liệu qua mạng điện thoại chuyển mạch công cộng (tiếng Anh: public switched telephone network, viết tắt là PSTN) hoặc các loại mạng riêng khác. Số điện thoại hoạt động giống như một địa chỉ để chuyển hướng các cuộc gọi điện thoại đến đúng thuê bao nhận sử dụng một hệ thống định tuyến địa điểm. Số điện thoại do người gọi bấm vào điện thoại, điện thoại sẽ chuyển dãy số này thành một dãy các tín hiệu và gửi tới tổng đài điện thoại. Tổng đài sẽ hoặc kết nối cuộc gọi tới thuê bao đăng ký lân cận cần gọi đến hoặc thông qua hệ thống PSTN chuyển tới bên nhận cuộc gọi.
+Ý tưởng sử dụng số điện thoại để kết nối các cuộc gọi thay vì dùng tên người đăng ký thuê bao được phát triển và lần đầu tiên đưa vào sử dụng vào khoảng từ năm 1879 đến 1880 ở Lowell, Hoa Kỳ, nhằm đơn giản hóa việc huấn luyện cho các điều phối viên ở các trạm điện thoại.
+

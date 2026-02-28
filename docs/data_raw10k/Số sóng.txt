@@ -1,0 +1,24 @@
+Số sóng
+
+ 
+Trong vật lý, số sóng là đại lượng đặc trưng cho tần số không gian của sóng, tỷ lệ nghịch với bước sóng.
+Định nghĩa.
+Số lượng các bước sóng cho mỗi đơn vị 2π khoảng cách,cho bởi công thức:
+k = formula_1 (k∈Z) 
+ Thường dùng tính cho số nút và số bụng trong chuyển động của sóng dừng cũng như điều kiện để xảy ra sóng dừng trên đoạn dây L cụ thể:
+1. Dây cố định 2 đầu
+ĐK sóng dừng xảy ra là L = formula_2 (k=1,2,…)
+=&gt; số bụng sóng = k, số nút sóng=k+1
+2. Dây có 1 đầu cố định
+ĐK sóng dừng xảy ra là L = formula_3 (k=1,2,…)
+=&gt; số bụng = k+1, số nút=k+1
+3. Hai Đầu tự do (Cột khí)
+ĐK sóng dừng xảy ra là L = formula_4
+=&gt; số bụng = k+2, số nút=k+1
+4. Xác định vị trí M là bụng hay nút trên dây có đầu cố định
+d là khoảng cách từ M đến đầu cố định =&gt; d = formula_5
+Nếu k là số nguyên =&gt; nút, nếu k là số bán nguyên =&gt; bụng
+5. Xác định dây là loại 1 đầu cố định hay 2 đầu cố định khi xảy ra sóng dừng
+Tìm: k = formula_6
+Nếu k là số nguyên =&gt; dây có 2 đầu cố định, nếu k là số bán nguyên =&gt; Dây có 1 đầu cố định.
+

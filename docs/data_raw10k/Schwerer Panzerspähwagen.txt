@@ -1,0 +1,45 @@
+Schwerer Panzerspähwagen
+
+Schwerer Panzerspähwagen là tên một loại xe thiết giáp, sử dụng 6 hoặc 8 bánh hơi do Đức Quốc xã thiết kế và sử dụng trong Thế chiến thứ hai.
+Trong quân đội Đức Quốc xã, các loại xe thiết giáp được sử dụng trong các sư đoàn kỵ binh với vai trò là xe do thám. Chúng được cử đi do thám và chụp ảnh chuyển về cho các đơn vị quân đội để nghiên cứu lực lượng và địa điểm của địch. Các loại xe này thường không đối đầu trực diện được với các loại xe tăng nhưng chúng vẫn có thể tiêu diệt các xe do thám khác của địch nếu như cần thiết.
+Lịch sử.
+Nếu so với các loại xe do thám khác thì Panzerspähwagen khá nặng và mang nhiều vũ khí nhưng tốc độ tối đa của nó có thể đạt đến 85 km/h. Dòng đầu tiên với 6 bánh được lắp ráp dựa trên khung xe háp-trắc với lớp giáp bọc mỏng ở phía trước, đến năm 1937, chúng được thay thế bởi dòng 8 bánh. Dòng này được thêm mã hiệu Sd.Kfz, tên xác định thường là 6-Rad và 8-Rad (có nghĩa là 6 bánh và 8 bánh).
+Những chiếc xe bọc giáp này lần đầu tiên hoạt động tại chiến dịch Ba Lan và Pháp. SP được trang bị thêm điện đàm nhằm liên lạc với bộ binh để tăng sức chiến đấu khi di chuyển trong nội thành. Trong các giai đoạn sau của Thế chiến thứ hai, SP hoạt động ở cả Bắc Phi và Liên Xô. Đặc biệt chúng được tận dụng trong các khu vực có khí hậu ẩm ướt, bùn lầy. Tại Liên Xô, 150 chiếc Sd.Kfz.232 lần đầu tiên hoạt động trong các chiến dịch vào mùa mưa. Tại chiến trường Bắc Phi, cát và sức nóng làm cho sức bền của động cơ bị giảm xuống. Loại SP 8 bánh được Rommel sử dụng rất nhiều với vai trò là xe do thám và đã thực hiện nhiệm vụ rất tốt.
+Lớp giáp bọc.
+Sd.Kfz.232 có lớp giáp bọc mỏng 15 mm có hướng xiên làm bằng sắt bồi tích đặc ở mặt trước, 8 mm ở mặt bên, 6 mm-5 mm ở đỉnh tháp pháo và 10 mm ở mặt sau. Lớp giáp bọc này được thêm vào nhằm bảo vệ xe trước hoả lực của bộ binh và đạn HE nhẹ, SP dễ dàng bị huỷ diệt bởi các loại pháo tự hành chống tăng hạng nặng và pháo tăng từ 30 mm trở lên. Sau chiến dịch nước Pháp, lớp giáp bọc cách quãng được thêm vào dĩa trước. Lớp giáp bọc mặt trước được tăng lên 30 mm ở phiên bản Sd.Kfz.234. Nhưng nó không được thiết kế để đối đầu với các loại pháo tự hành chống tăng và xe tăng.
+Vũ khí.
+Sd.Kfz.232 được trang bị một khẩu pháo tự động 2 cm KwK 30 L/55. Khẩu pháo này được dựa trên khẩu pháo phòng không 2 cm FlaK 30.KwK 30 có đạt tốc độ bắn 280 viên/phút.
+Loại pháo 2 cm thường không được nâng cấp để xuyên thủng giáp xe tăng nhưng một số phiên bản sau như Sd.Kfz.234 Puma được trang bị pháo tự động 5 cm-có thể xuyên thủng giáp trước của đa số các loại xe bọc giáp và tăng hạng nhẹ của Đồng Minh. Tuy nhiên, pháo chính của các loại xe bọc thép thường là để bảo vệ kíp chiến đấu trong các trường hợp cần thiết chứ không phải đối đầu với các loại tăng.
+Pháo tự động 2 cm sử dụng đạn nổ công phá nên có thể tiêu diệt được bộ binh và xe vũ trang không bọc giáp. Về sau, nó được trang bị đạn APDS, nhưng chỉ một số ít được sản xuất và di chuyển.
+Động cơ.
+Phiên bản Sd.Kfz.232 sử dụng động cơ Büssing-NAG L8V-G (8 xi-lanh; công suất 155 mã lực; sử dụng dầu), khi chạy hết công suất, xe có thể đạt đến vận tốc 85 km/h và tầm 300 km.
+Kíp chiến đấu.
+SP có kíp chiến đấu gồm 4 người. Chỉ huy và pháo thủ ngồi trong tháp pháo. Phiên bản 8 bánh có thay đổi chút ít, lái xe ngồi phía trước, lái xe phụ ngồi phía sau xe.
+Phiên bản sáu bánh.
+Phiên bản 6 bánh được sản xuất từ năm 1932-1937. Tên kĩ thuật chính thức của nó là Sonderkraftfahrzeug(tiếng Anh:"special purpose vehicle"-tạm dịch:"phương tiện có mục đích đặc biệt").
+Sd.Kfz.231.
+Phiên bản xe bọc giáp đầu tiên của Đức, Sd.Kfz.231 được lắp ráp dựa trên khung xe háp-trắc 6x4.231 được trang bị pháo tự động 2 cm KwK 30 L/55 và một súng máy Maschinengewehr 13. Phiên bản này có 2 lái xe, một người ngồi trước và một người ngồi sau khiến cho xe có thể di chuyển về phía trước và sau tuỳ theo trường hợp (rất có lợi trong các nhiệm vụ do thám). 231 được tham gia hoạt động từ năm 1932 và bị thay thế vào năm 1937 bằng các loại xe bọc giáp 8 bánh mới. Mặc dù bị thay thế nhưng chúng vẫn được lực lượng Aufklärungs(do thám) sử dụng trong chiến dịch Ba Lan, trận chiến nước Pháp và cuộc hành quân khổng lồ Barbarossa. Sau khi được nghỉ hưu, số xe này được sử dụng với mục đích luyện tập và đảm bảo an ninh trong nước. Kíp chiến đấu của 231 gồm 5 người: chỉ huy - pháo thủ - lái xe trước - lái xe sau - người điều khiển rađiô.
+Sd.Kfz.232.
+Phiên bản 232 được trang một rađiô tầm trung Fu. Ger.11 SE 100 và một rađiô tầm ngắn Fu. Spr. Ger. "a". 232 đặc biệt hơn các bản khác vì có hệ thống ăng-ten dày đặc khắp xe, chia cắt phần lớn các phần chính. Ở điểm mà ăng-ten tiếp xúc với bản lề tháp pháo tạo thành một khu vực hoạt động thuận lợi cho dây ăng-ten, tuy nhiên việc này không cản trở việc tháp pháo quay 360 độ sang hai bên.
+Sd.Kfz.263.
+Phiên bản này được trang bị rađiô "Funkspähwagen", loại rađiô có dây nối đặc biệt dài và thêm một người điều khiển rađiô. Để đủ chỗ lắp hệ thống rađiô mới, 263 không được trang bị tháp pháo, toàn bộ phần thân được nâng lên, toàn bộ phần thân trên chỉ còn duy nhất một khẩu súng máy lắp trên ổ bi. Ở hệ 8 bánh xích, cũng có một phiên bản 263 khác.
+Phiên bản 8 bánh.
+Sd.Kfz.231.
+Phiên bản 8 bánh này chủ yếu dựa trên phiên bản 6 bánh (như đã dẫn ở trên). Phần thân được sắp xếp lại sao cho lái xe chính/phụ và người điều khiển rađiô ra giữa, động cơ được di chuyển ra đằng sau xe;xe tải 3 trục bánh được thay thế bằng loại xe tải 2 trục bánh (mỗi trục gồm 4 bánh), cơ cấu dẫn động được thiết kế lại nhằm hỗ trợ một cách tốt nhất cho hệ thống lái. Tháp pháo cũng được chỉnh lại thành hình lục giác nhằm tăng dung lượng bên trong lên. Vũ khí vẫn giữ nguyên.
+Sd.Kfz.232.
+Mẫu 232(8 bánh) được sản xuất từ năm 1938 tới năm 1943, đến khi nó được thay thế bởi Sd.Kfz.234/2 Puma. Mặc dù bị thay thế nhưng 232 vẫn được cải tiến hệ thống điện đàm để tái sử dụng, thay thế dây cáp và ăng-ten. 232 được trang bị pháo tự động 2 cm KwK 30 L/55 có vận tốc đầu đạn 899 m/s, vũ khí phụ của nó là khẩu súng máy 7.92 mm Maschinengewehr 34.
+Sd.Kfz.233.
+Phiên bản 233 được trang bị một pháo chính ngắn 7.5 cm KwK 37 L/24 (còn có biệt danh là "Stumpy") với tháp pháo mở. Khoảng 109 chiếc được sản xuất thông qua kế hoạch Büssing-NAG từ tháng 12/1942 - tháng 10/1943. Khoảng 10 chiếc nữa được cải biến dựa trên các bản 231/232 vào tháng 10/1942. Dòng này tham gia hoạt động từ năm 1942 đến hết cuộc chiến. Dòng Sd.Kfz được chia ra làm từng tiểu đoàn gồm 6 chiếc.
+Sd.Kfz.234.
+Dòng 234 hoàn toàn khác biệt so với các dòng Sd.Kfz khác, nó có nhiều điểm tương đồng với dòng Sd.Kfz.232/3. Nó được lắp ráp động cơ diesel Tatra. Điểm khác biệt duy nhất ở phiên bản này chính là tấm chắn bùn đơn (1 tấm) so với tấm chắn bùn đôi (2 tấm) của dòng 232.
+Sd.Kfz.234/1.
+Phiên bản này được trang bị một pháo tự động chính 2 cm KwK 38 L/55 và một súng máy đồng trục 7.92 mm Maschinengewehr 34 hoặc MG 42. Đỉnh tháp pháo được thiết kế cao lên để bảo vệ khỏi lựu đạn bộ binh bằng một lớp bệ liên hợp.
+Sd.Kfz.234/2 Puma.
+Phiên bản Puma có lắp tháp pháo và trang bị pháo chính 5 cm KwK 39/1 L/60, rất giống với vũ khí chính của xe tăng Panzer III. Puma nặng gần 12 tấn nhưng vẫn đạt tốc độ 85 km/h. Nó là một trong những phiên bản xe bọc thép nặng nhất. Trong trường hợp khẩn cấp, người điều khiển rađiô vẫn có thể dùng cần và quay ngược xe về sau. Việc sản xuất bắt đầu từ năm 1943 và kết thúc khoảng giữa năm 1944. Ba biến thể 234 được duy trì sản xuất đến cuối cuộc chiến.
+Sd.Kfz.234/3.
+Phiên bản này có nhiều điểm tương đồng với bản Sd.Kfz.233, trang bị pháo chính ngắn 7.5 cm KwK 37 L/24 với thiết kế tháp pháo mở. Loại pháo chính không đủ mạnh để xuyên thủng giáp các loại xe tăng hạng trung và nặng. Nó được dùng với vai trò hỗ trợ bộ binh.Mặc dù được khuyến cáo là tránh xa khỏi các loại xe tăng và xe bọc giáp hạng nặng nhưng 234/3 vẫn có thể phản công trong trường hợp cần thiết.
+Sd.Kfz.234/4.
+Một biến thể khác của dòng 8 bánh, được trang bị pháo chính chống tăng 7.5 cm PaK 40 L/46 với tháp pháo thiết kế nắp mở. Biến thể này có nhiều điểm tương đồng với pháo tự hành chống tăng Marder với lớp giáp bọc khá mỏng, tháp pháo được thiết kế mở;với những tính năng trên khiến cho bản 234/4 không thể xuyên giáp được các loại tăng.
+Sd.Kfz.263.
+Phiên bản 8 bánh với tháp pháo trên được sửa lại với một khẩu súng máy 7.92 mm Maschinengewehr 34.263 được trang bị hệ thống rađiô với bệ ăng-ten nằm. 263 được dựa trên sê-ri Sd.Kfz.232/3. Ngoài phiên bản 8 bánh, cũng có một phiên bản 6 bánh Sd.Kfz.263.
+

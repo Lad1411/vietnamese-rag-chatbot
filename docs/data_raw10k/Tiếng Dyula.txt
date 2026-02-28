@@ -1,0 +1,14 @@
+Tiếng Dyula
+
+Tiếng Jula (hay tiếng Dyula, tiếng Dioula, tiếng Julaka, ߖߎ߬ߟߊ߬ߞߊ߲) là một ngôn ngữ thuộc nhóm ngôn ngữ Mande được nói ở Burkina Faso, Bờ Biển Ngà và Mali. Đây là một trong những ngôn ngữ Manding và có liên quan chặt chẽ nhất với tiếng Bambara, có thể thông hiểu lẫn nhau với tiếng Bambara và tiếng Malinke. Nó là lingua franca ở Tây Phi và được sử dụng bởi hàng triệu người nói ngôn ngữ thứ nhất hoặc thứ hai. Giống như các ngôn ngữ Mandé khác, nó là một ngôn ngữ thanh điệu. Nó được viết bằng chữ Latinh và chữ Ả Rập, cũng như chữ N'Ko bản địa.
+Tiếng Dioula có thể được tìm thấy trong bộ phim "Night of Truth" năm 2004, do nữ đạo diễn đầu tiên của Burkina Faso-Fanta Régina Nacro làm đạo diễn.
+Hệ thống chữ viết và âm vị học.
+Chữ viết Latinh.
+Chữ viết tiếng Dioula được quy định tại Burkina Faso bởi Tiểu ban Dioula của Ủy ban Ngôn ngữ Quốc gia. Vào ngày 15 tháng 7 năm 1971, Tiểu ban Quốc gia về ngôn ngữ Dioula được thành lập và vào ngày 16 tháng 7 năm 1971, nó bắt đầu một nghiên cứu bảng chữ cái Dioula. Một bảng chữ cái được xuất bản vào ngày 27 tháng 7 năm 1973 và đạt được vị thế chính thức vào ngày 2 tháng 2 năm 1979. Một số chữ cái đã được thêm vào sau đó, &lt;c, j&gt; cho các từ vay mượn, và một số khác đã được thay thế: &lt;sh&gt; bởi và &lt;ny&gt; bởi &lt;ɲ&gt;. 
+Ở Burkina Faso, bảng chữ cái Dioula được tạo thành từ 28 chữ cái, mỗi chữ cái đại diện cho một âm vị duy nhất. Trong bảng chữ cái, các nguyên âm dài được thể hiện bằng các chữ cái nhân đôi; ví dụ, /e/ được viết là &lt;e&gt; và /eː/ viết là &lt;ee&gt;. Nguyên âm mũi được viết theo sau bởi n; ví dụ: /ẽ/ được viết là &lt;en&gt;.
+Bảy nguyên âm cũng có thể được dài hoá /iː eː aː ɔː oː uː/ hoặc mũi hoá /ĩ ẽ ɛ̃ ã õ ũ/.
+Ký hiệu thanh điệu được khuyến nghị vào năm 1973, nhưng trong thực tế chúng không được viết. Hướng dẫn xuất bản năm 2003 không nhắc lại khuyến nghị này. Thanh điệu chỉ được đánh dấu trong các từ điển. Tuy nhiên, để tránh sự mơ hồ, việc đánh dấu thanh điệu là bắt buộc trong một số trường hợp nhất định.
+Ví dụ:
+Bảng chữ cái N'Ko.
+Chữ N'Ko là một hệ thống chữ viết bản địa cho cụm phương ngữ Manding, được phát minh vào năm 1949 bởi Solomana Kanté, một nhà giáo dục người Guinea. Ngày nay, chữ viết đã được số hóa như một phần của Unicode, cho phép nó được sử dụng trực tuyến dễ dàng, nhưng việc thiếu kinh phí từ chính phủ và địa vị chính thức của tiếng Pháp trong mọi lĩnh vực của cuộc sống hàng ngày, việc sử dụng bảng chữ cái này phần lớn bên ngoài giáo dục và sử dụng một cách không có hệ thống trên các biển báo đường phố, v.v...
+

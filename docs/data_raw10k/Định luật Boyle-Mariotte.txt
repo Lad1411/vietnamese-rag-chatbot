@@ -1,0 +1,14 @@
+Định luật Boyle-Mariotte
+
+Định luật Boyle-Mariotte, đôi khi được gọi là Định luật Boyle hay Định luật Mariotte (đặc biệt là ở Pháp), là một định luật về khí lý tưởng, mô tả hiện tượng áp suất khối khí tăng khi thể tích khối khí giảm. Một phát biểu hiện đại của định luật Boyle-Mariotte là: 
+Áp suất tuyệt đối gây ra bởi một khối lượng khí lý tưởng đã cho thì tỉ lệ nghịch với thể tích mà nó chiếm giữ nếu nhiệt độ và lượng khí là không đổi trong một hệ thống kín.
+Về mặt toán học, định luật Boyle-Mariotte có thể biểu diễn như sau:
+hay
+với:
+Phương trình chỉ ra rằng, một khối khí xác định khi ở một nhiệt độ xác định thì tích của áp suất và thể tích là một hằng số. Như vậy, có thể sử dụng phương trình để so sánh khối khí trong các điều kiện khác nhau:
+formula_4
+Phương trình cho thấy, khi thể tích tăng thì áp suất giảm theo tỷ lệ, và ngược lại, khi thể tích giảm thì áp suất tăng theo tỷ lệ. Định luật được đặt tên theo nhà vật lý, nhà hóa học Robert Boyle, ông đã công bố định luật năm 1662. Nhà vật lý người Pháp Edme Mariotte cũng công bố độc lập một định luật tương tự vào năm 1679, vì vậy định luật còn được gọi là định luật Mariotte hay định luật Boyle-Mariotte.
+Lịch sử.
+Từ năm 1659, Robert Boyle đã tiến hành nhiều thí nghiệm về tính chất của chất khí, qua đó ông đã phát hiện ra ở nhiệt độ không đổi thì áp suất và thể tích tỉ lệ thuận nghịch đảo với nhau và công bố nó vào năm 1662.p = const.1/V (V = const.1/p) hay pV = const
+Độc lập với định luật này của Boyle, Edme Mariotte cũng tìm thấy mối liên hệ tương tự vào năm 1676. Vì thế định luật này có tên là "định luật Boyle" hay "định luật Boyle-Mariotte".
+

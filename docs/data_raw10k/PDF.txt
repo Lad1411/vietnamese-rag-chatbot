@@ -1,0 +1,9 @@
+PDF
+
+PDF (viết tắt của từ tiếng Anh: "Portable Document Format", Định dạng Tài liệu Di động) là một định dạng tập tin văn bản khá phổ biển được phát triển bởi Adobe Systems. Tương tự như định dạng Word (.doc), PDF hỗ trợ văn bản thô (text) cùng với phông chữ, hình ảnh đồ họa, âm thanh và nhiều phương tiện tập tin đi kèm khác. Tuy vậy, việc hiển thị văn bản PDF không phụ thuộc vào môi trường làm việc của người sử dụng (cấu hình máy, phần mềm và hệ điều hành). Không như văn bản Word, một văn bản PDF, trong hầu hết các trường hợp, sẽ được hiển thị giống nhau trên những môi trường làm việc khác nhau. Chính vì ưu điểm này, định dạng PDF đã trở nên phổ biển cho việc phát hành sách, báo hay các tài liệu khác qua mạng Internet.
+Để đọc được tập tin PDF trên máy vi tính, bạn phải có một phần mềm hỗ trợ định dạng này. Phần mềm phổ biến hiện nay là Adobe Reader hay Foxit Reader.
+Lịch sử.
+Việc phổ biến định dạng PDF trong thời gian đầu tương đối chậm . Những phiên bản đầu tiên của PDF không hỗ trợ siêu liên kết bên ngoài, làm giảm tính hữu dụng của nó trên web. Kích thước tập tin tăng lên so với văn bản thuần cũng có nghĩa là thời gian để tải xuống một tài liệu PDF sẽ lâu hơn, đây cũng là một vấn đề với những thiết bị kết nối vốn đã chậm thời đó.
+Adobe sớm cung cấp miễn phí chương trình Acrobat Reader (bây giờ là Adobe Reader) và tiếp tục hỗ trợ định dạng PDF nguyên mẫu. Cuối cùng PDF trở thành định dạng chuẩn cho những tài liệu in được trên web.
+Định dạng PDF được thay đổi nhiều lần khác nhau và hiện tại vẫn tiếp tục được phát triển. Dưới đây là 9 phiên bản ứng với các phiên bản của Acrobat.
+

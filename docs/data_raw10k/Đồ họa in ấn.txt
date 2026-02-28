@@ -1,0 +1,13 @@
+Đồ họa in ấn
+
+Đồ họa in ấn, là khái niệm dùng trong ngành Mỹ thuật. Đây là quá trình sáng tác hình ảnh (tạo hình) một cách gián tiếp, đưa màu từ một khuôn in sang một bề mặt khác. Vì có khuôn in, nên tác phẩm đồ họa thường có nhiều bản sao tùy ý họa sĩ.
+Vật liệu dùng làm khuôn in thường là ván gỗ, đá, kim loại, vv.. Trong đồ họa in ấn, họa sĩ có thể sử dụng con lăn ("brayer"), và cả các loại máy in lớn.
+Các kỹ thuật.
+Bốn kỹ thuật chính thuộc đồ họa in ấn là: khắc gỗ ("woodcut"), khắc axít ("etching"), in thạch bản ("lithography") và in lưới ("screen-printing"). Ngoài ra còn có các kỹ thuật khác như: in độc bản ("monotyping"), khắc ngòi khô (khắc kim loại, "engraving", "drypointing"), khắc nạo ("mezzotint"), in sáp ("batik")...
+In lưới hay in lụa.
+Trong trường hợp in chữ hay họa tiết đơn giản, người ta dùng lưới là vải thô, có sợi to. Và để in họa tiết tương đối tinh xảo hơn, người ta dùng lưới bằng vải lụa (có sợi vải nhỏ và đều đặn) nên còn gọi là "in lụa". Đây là một phương pháp in thủ công đơn giản, rẻ tiền nhưng sản phẩm đạt được chất lượng khá cao nhờ kỹ thuật ép mực trực tiếp qua mặt lưới xuống sản phẩm chứ không gián tiếp như kỹ thuật in typo... Kỹ thuật in lụa có thể in trên hầu hết các chất liệu khác nhau như giấy, bao bì nhựa, thủy tinh, kim loại...và đặc biệt là vải.
+Để làm được việc này, đầu tiên cần phải chuẩn bị một khung in lụa, hóa chất nhạy sáng, keo, sơn, xăng, dầu tẩy để làm sạch tấm lụa sau khi in xong.
+Hình ảnh cần in sẽ được thiết kế trên máy tính, sau khi có mẫu thiết kế hoàn chỉnh thì tiến hành tách màu. Mỗi một màu sẽ được tách riêng ra thành từng file, sau đó chúng được in ra với hoàn toàn là màu đen. Như vậy, mỗi màu khi tách ra sẽ làm được một tấm phim và một lưới in tương ứng.
+Người thợ in quét một lớp hóa chất nhạy sáng và keo lên lưới lụa, sau đó áp những hình mẫu tách màu lên khung và đem chụp sáng. Lớp hóa chất nhạy sáng sẽ in hình mẫu tách màu lên khung lụa, phần keo đóng vai trò như một màn chắn, chỉ để lộ phần mẫu tách màu trên khung lụa. Mực in sẽ chỉ đi qua phần mẫu mẫu tách màu trên khung lụa mà thôi. Càng nhiều màu sẽ có càng nhiều mẫu tách màu.
+Trong in lụa, hiệu ứng chồng màu tạo ra một màu mới có thể xảy ra khi màu in trước chưa kịp khô mà đã quét thêm một lớp màu khác sau đó. Do đó để chính xác trong in lụa, phải chờ cho lớp màu trước tạm khô rồi mới quét lớp màu thứ hai lên.
+

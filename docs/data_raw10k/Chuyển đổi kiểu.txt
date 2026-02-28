@@ -1,0 +1,5 @@
+Chuyển đổi kiểu
+
+Trong khoa học máy tính, chuyển đổi kiểu hay ép kiểu (tiếng Anh: "type conversion", "type casting" hay "type coercion") là những cách khác nhau của việc thay đổi một thực thể của một kiểu dữ liệu sang kiểu khác.Ví dụ như chuyển đổi một giá trị số nguyên sang giá trị số thực dấu phẩy động hay sang biểu diễn văn bản của nó ở dạng chuỗi, và ngược lại. Chuyển đổi kiểu có thể tận dụng các tính năng nhất định của phân cấp kiểu hay trình bày dữ liệu. Hai khía cạnh quan trọng của chuyển đổi kiểu là nó xảy ra "ngầm" ("implicitly") hay "tường minh" ("explicitly"), và liệu thể hiện dữ liệu bên dưới được chuyển đổi từ dạng này sang sang dạng kia chỉ đơn thuần là "biên dịch lại" ("reinterpreted") như là thể hiện của kiểu dữ liệu kia. Nhìn chung, cả kiểu dữ liệu cơ bản và phức hợp đều có thể chuyển đổi.
+Mỗi ngôn ngữ lập trình có các quy tắc riêng để chuyển đổi kiểu. Ngôn ngữ với kiểu mạnh thường ít chuyển đổi ngầm và không khuyến khích biên dịch sự thể hiện, trong khi ngôn ngữ với kiểu yếu thực hiện nhiều chuyển đổi ngầm giữa các kiểu dữ liệu.
+

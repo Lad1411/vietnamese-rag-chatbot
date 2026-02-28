@@ -1,0 +1,15 @@
+Mạch ngừng thi công bê tông toàn khối
+
+Mạch ngừng thi công bê tông toàn khối là vị trí gián đoạn kỹ thuật, đồng thời là mối nối, trong điều kiện bất khả kháng: không thể đảm bảo điều kiện đúc bê tông liên tục, của công tác thi công bê tông toàn khối. Việc xử lý mạch ngừng để thi công bê tông tiếp theo của cấu kiện rất quan trọng.
+Nguồn gốc của mạch ngừng.
+Khi phần bê tông đã được đổ trước tại vị trí này của khối bê tông đã chuyển sang giai đoạn ninh kết và đóng rắn, thì không thể được phép đổ bê tông mới vào đó, vì nếu không sẽ làm phá vỡ vĩnh viễn các nối liên kết vừa mới hình thành trong vữa bê tông. Cần phải để cho bê tông cũ nằm ổn định trong khuôn đúc bê tông, cho đến khi bê tông cũ ninh kết và đóng rắn xong hoàn toàn, thì mới được đổ tiếp. Từ đó hình thành nên mạch ngừng tại vị trí tạm ngừng thi công này. Do mạch ngừng ảnh hưởng đến tính toàn khối của bê tông, nên tốt nhất là thi công liên tục không để mạch ngừng. Khi bắt buộc phải để, vị trí của nó phải được khống chế trong miền kết cấu có nội lực nhỏ hoặc nội lực không gây nguy hiểm cho kết cấu tại tiết diện mạch ngừng. Để khắc phục sự giảm yếu do mạch ngừng gây ra, tại vị trí mạch ngừng có thể bổ sung thêm cốt thép gia cường mạch ngừng.
+Việc thi công bê tông toàn khối trường hợp có để mạch ngừng sẽ tạo ra các đợt thi công bê tông và các phân đoạn thi công bê tông.
+Vị trí mạch ngừng là vị trí giảm yếu của kết cấu bê tông cốt thép toàn khối. Do đó kích thước của mạch ngừng phải cố gắng giảm đến mức tối đa:
+Mạch ngừng trong thi công sàn sườn toàn khối.
+Bố trí mạch ngừng theo phương đứng trong sàn sườn.
+Nội lực trong kết cấu dầm sàn toàn khối (sàn sườn) gồm lực cắt Q và mô-men uốn M. Đối với mô-men M, tương đương với ngẫu lực gồm hai thành phần lực dọc tác động vào hai nửa tiết diện mạch ngừng: phần lực nén, do bê tông vùng nén chịu, có tác dụng ép chặt bê tông hai bên mạch ngừng, tăng ma sát, hạn chế tác hại của mạch ngừng; phần lực kéo, coi như hoàn toàn do cốt thép chịu, có thể đảm bảo bằng cách tăng cốt thép gia cường mạch ngừng, không ảnh hưởng đến sự làm việc của bê tông tại mạch ngừng. Vậy mô-men uốn dù lớn hay nhỏ ít có tác hại đến vùng kết cấu bê tông giảm yếu tại mạch ngừng. Còn lực cắt, tác dụng dọc theo tiết diện mạch ngừng, làm trượt hai phần kết cấu bê tông cốt thép hai bên mạch ngừng, gây tác hại lớn tới kết cấu tại đây. Do đó, mạch ngừng phải được bố trí căn cứ vào độ lớn của lực cắt. 
+Trích dẫn tiêu chuẩn Việt Nam.
+Các yêu cầu kỹ thuật về mạch ngừng thi công sàn sườn bê tông toàn khối trên, được luật hóa ở các điều 6.6.5 và 6.6.7 trong Tiêu chuẩn Việt Nam TCVN 4453:1995. Điều 6.6.7 nêu rằng:
+Mạch ngừng trong thi công bể chứa.
+- Thi công mạch ngừng theo phương ngang: thường sử dụng waterstop là 1 dải băng cao su buộc giữa 2 lớp bê tông mới và cũ, sao cho mỗi nửa của dải waterstop nằm trong 1 phần bê tông.
+

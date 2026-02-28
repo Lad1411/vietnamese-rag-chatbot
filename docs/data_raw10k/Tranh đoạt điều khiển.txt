@@ -1,0 +1,5 @@
+Tranh đoạt điều khiển
+
+Tranh đoạt điều khiển là một tình huống xảy ra khi nhiều threads cùng truy cập và cùng lúc muốn thay đổi dữ liệu (có thể là 1 biến, 1 row trong database, 1 vùng shared data, memory, etc...). Vì thuật toán chuyển đổi việc thực thi giữa các threads có thể xảy ra bất cứ lúc nào nên không thể biết được thứ tự của các threads truy cập và thay đổi dữ liệu đó sẽ dẫn đến giá trị của data sẽ không như mong muốn. Kết quả sẽ phụ thuộc vào thuật toán thread scheduling của hệ điều hành.
+Quá trình các thread thực thi lệnh trông như 1 cuộc đua giữa các vận động viên điền kinh olympic vì vậy có thể liên tưởng đến thuật ngữ (keyword).
+

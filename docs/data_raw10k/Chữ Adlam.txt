@@ -1,0 +1,9 @@
+Chữ Adlam
+
+Chữ Adlam là một dạng chữ được phát minh gần đây để viết tiếng Fulani. Tên gọi "Adlam" là từ viết tắt bắt nguồn từ bốn chữ cái đầu tiên của bảng chữ cái (A, D, L, M), viết tắt của "Alkule Dandayɗe Leñol Mulugol" "bảng chữ cái bảo vệ các dân tộc khỏi sự tan biến".
+Tiếng Fulani là ngôn ngữ của người Fula ("Fulani", ) và nhóm người Toucouleur liên quan tại Thung lũng sông Senegal (từ vùng Senegambia và Guinea tới Cameroon và Sudan). Nó cũng được dùng như ngôn ngữ thứ hai của nhiều tộc người trong khu vực, như người Kirdi ở bắc Cameroon và đông bắc Nigeria. Tiếng Fula được phân loại thuộc về Nhóm ngôn ngữ Đại Tây Dương trong ngữ hệ Niger–Congo.
+Vào cuối những năm 1980 anh em Ibrahima và Abdoulaye Barry lúc còn trẻ đã nghĩ ra một bảng chữ cái để phiên âm tiếng Fulani. Sau vài năm phát triển, nó bắt đầu được áp dụng rộng rãi trong cộng đồng Fulani, và hiện đang được giảng dạy ở Guinea, Nigeria, Liberia và các nước lân cận. Đây là một trong nhiều chữ viết bản địa được phát triển cho các ngôn ngữ cụ thể ở Tây Phi.
+Adlam được hỗ trợ trong các hệ điều hành Android và Chrome của Google. Ngoài ra còn có các ứng dụng Android để gửi SMS bằng chữ Adlam cũng như để tìm hiểu bảng chữ cái. Trên các máy tính chạy Microsoft Windows, chữ Adlam được hỗ trợ nguyên bản như là một phần của bản cập nhật tính năng của Windows 10 phiên bản 1903 (tên mã 19H1) build 18252.
+Unicode.
+Chữ Adlam đã được đưa vào Tiêu chuẩn Unicode vào tháng 6 năm 2016 với việc phát hành phiên bản 9.0. Khối Unicode cho Adlam là U+1E900–U+1E95F:
+

@@ -1,0 +1,11 @@
+Vách đá bằng sáng chế
+
+Thuật ngữ Vách đá bằng sáng chế đề cập đến hiện tượng ngày hết hạn bằng sáng chế và doanh số bán hàng giảm đột ngột sau đó của một nhóm sản phẩm chiếm tỷ lệ cao của thị trường. Thông thường, những hiện tượng này được nhận thấy khi chúng ảnh hưởng đến các "sản phẩm bom tấn" - một sản phẩm bom tấn trong ngành dược phẩm, ví dụ, được định nghĩa là một sản phẩm có doanh số vượt quá 1 tỷ USD mỗi năm.
+Doanh số giảm đột ngột dự kiến sau ngày hết hạn bằng sáng chế có thể được ước tính với công thức sau:
+formula_1
+trong đó A là giá trị doanh thu cao nhất trước khi hết hạn bằng sáng chế và Y là số năm sau năm bán hàng cao điểm (năm bán hàng cao điểm được coi là năm 0) và B là số mũ có giá trị -1,032. Công thức trên có thể được đơn giản hóa để tính toán thực tế thành:
+formula_2
+Ngành công nghiệp dược phẩm.
+Ví dụ, Plavix, Singulair, Diovan và Lipitor là tất cả các loại thuốc bom tấn hóa học được phát hiện vào đầu những năm 1990, với ngày hết hạn bằng sáng chế rơi vào giữa năm 2011 và 2015; và Rituxan, Humira, Novolog và Avastin là các loại thuốc bom tấn sinh học được phát hiện vào cuối những năm 1990, với ngày hết hạn bằng sáng chế giữa năm 2014 và 2019. Do đó, doanh thu thu được từ việc bán các sản phẩm này có nguy cơ giảm mạnh trong những năm của vách đá sáng chế, thường được xem là cơ hội cho các công ty khác tạo doanh thu từ việc bán các sản phẩm tương tự hoặc thuốc gốc.
+Các công ty dược phẩm sử dụng các nguồn lực đáng kể để tìm kiếm các tuyến đường cho các phần mở rộng bằng sáng chế. Ví dụ, một phương pháp là phát triển một phương pháp đưa thuốc vào cơ thể mới cho điều trị.
+

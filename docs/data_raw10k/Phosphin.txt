@@ -1,0 +1,8 @@
+Phosphin
+
+Phosphin là một hợp chất hóa học giữa phosphor và hydro, công thức hóa học là PH3.
+Đây là chất khí không màu, rất độc, có mùi tỏi, rất kém bền so với amonia cháy trong không khí ở 1500C, khi có mặt diphosphan (P2H4) nó tự cháy trong không khí ở nhiệt độ thường tạo khối cầu lửa bay lơ lửng. PH3 sinh ra trong quá trình phân hủy xác động thực vật, nhất là ở xương. Nó thường xuất hiện ở bãi tha ma trong thời tiết mưa phùn, gió bấc nên gọi là "ma trơi".
+Là sản phẩm sinh ra từ sự thủy phân dễ dàng của các phosphide kim loại. Trong đó thực tế kẽm phosphide (&lt;chem&gt;Zn3P2&lt;/chem&gt;) là thành phần chính của bả chuột. Khi chuột ăn phải bả, &lt;chem&gt;Zn3P2&lt;/chem&gt; sẽ bị thủy phân theo phương trình:
+&lt;chem&gt;Zn3P2 + 6H2O -&gt;3Zn(OH)2v + 2PH3&lt;/chem&gt;
+Lượng nước trong cơ thể chuột giảm nhanh chóng khiến chuột mau khát và tìm đến nguồn nước để uống nhưng càng uống phản ứng xảy ra càng nhanh.&lt;chem&gt;PH3&lt;/chem&gt; sinh ra rất độc là nguyên nhân chính gây chết với các triệu chứng khó hô hấp, đau đầu, chóng mặt, buồn nôn, thấy phảng phất mùi tỏi. Giải thích lý do vì sao chuột thường chết ở gần nguồn nước khi dính bả.
+

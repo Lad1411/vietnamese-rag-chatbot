@@ -1,0 +1,9 @@
+Android Eclair
+
+Android 2.0–2.1 "Eclair" là một phiên bản đã ngừng phát triển của hệ điều hành Android được phát triển bởi Google. Được giới thiệu vào ngày 26 tháng 10 năm 2009, Android 2.1 được xây dựng dựa trên những thay đổi quan trọng của phiên bản Android 1.6 "Donut". Hai bổ sung quan trọng trên Eclair là hỗ trợ NFC (sử dụng trong giải pháp thanh toán di động) và SIP (sử dụng trong điện thoại internet (VoIP).
+Tính năng.
+Trải nghiệm người dùng.
+Màn hình chủ mặc định của Eclair luôn hiển thị một thanh Google Search ở trên cùng của tất cả các màn hình. Ứng dụng máy ảnh cũng được thiết kế lại với nhiều tính năng máy ảnh mới, bao gồm hỗ trợ flash, zoom kĩ thuật số, chế độ cảnh, cân bằng trắng, hiệu ứng màu và tập trung vĩ mô. Ứng dụng xem ảnh cũng chưa nhiều công cụ chỉnh sửa ảnh cơ bản. Ngoài ra còn có ảnh nền động, cho phép hiển thị chuyển động của ảnh trên màn hình nền.
+Nền tảng.
+Android Eclair thừa kế những bổ sung nền tảng từ Donut, cũng như bổ sung hỗ trợ NFC, cho phép tìm kiếm tin nhắn SMS và MMS, cải thiện Google Maps lên phiên bản 3.1.2.[3] Hệ điều hành cũng hỗ trợ cải thiện tốc độ gõ trên bàn phím ảo, cùng với khả năng tiếp cận mới, lịch, và các API dành cho mạng riêng ảo. Android Eclair cũng hỗ trợ duyệt web với HTML5, làm mới giao diện trình duyệt với ảnh thu nhỏ của bookmark cùng với tính năng nhấn đúp để zoom.[4]
+

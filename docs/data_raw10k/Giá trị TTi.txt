@@ -1,0 +1,13 @@
+Giá trị TTi
+
+Sự hình thành của phương pháp TTi.
+Lịch sử phát triển.
+Trong quá trình chứng minh các nhân tố tạo nên dầu mỏ, nguyên tố chủ đạo trong quá trình chuyển hóa các chất hữu cơ thành hydrocarbon là thời gian và nhiệt độ. Khi chất hữu cơ bị chôn vùi, nhiệt độ và độ sâu chôn vùi nó ngày càng tăng nên, thời gian chôn vùi cũng dài thêm, khiến cho các chất hữu cơ sẽ phát sinh biến đổi nhiệt, và chất lượng (độ thành thục) của nó ngày càng cao, khi đạt đến một giá trị giới hạn thì nói mới có thể tạo thành dầu mỏ với khối lượng lớn, mà trong quá trình chuyển hóa thành hydrocarbon thể hiện những giai đoạn mang tính chất rõ rệt. Năm 1971 N.VLopatin căn cứ vào mối quan hệ giữa nhiệt độ và thời gian trong quá trình biến đổi nhiệt của các chất hữu cơ thành hydrocarbon, để đề xuất ra một phương pháp định lượng - tính toán độ thành thục của chất hữu cơ, giá trị (chỉ số) Thời gian- Nhiệt độ (TTi- time temperature index).
+Khái niệm cơ bản của phương pháp TTi.
+ΔTTIi=（ΔTi）*（r_i）
+trong đó thể hiện mối quan hệ tương hỗ giữa hai nhân tố thời gian và nhiệt độ
+ΔTi là nhân tố thời gian, biểu thị chất hữu cơ trong nhiệt độ i, và trong khoảng thời gian (Ma).
+rni là nhân tố nhiệt độ, phản ánh mối quan hệ chỉ số của nhiệt độ đối với độ thành thục.
+ΔTTIi biểu thị, nhiệt độ i trong khoảng thời gian (Ma) đã đạt được mức độ thành thục, hay còn gọi là mức tăng độ thành thục. 
+Lopatin xếp mỗi mức nhiệt độ tăng lên 100C là một khoảng (mức) thời gian (Ma),chọn 100-1100 là một khoảng thời gian tiêu chuẩn. Chỉ số của nó làn=0(những chỉ số của những khoảng thời gian khác như hình số 1 biểu thị). Giá trị r do waples đã thông qua các phân tích liên quan để tính toán và chọn bằng 2,ông đã thu thập các giá trị phản xạ Vitrinite của 402 mẫu thí nghiệm trong 31 giếng khoan trên thế giới chọn ra các giá trị r khác nhau (phạm vi thay đổi từ 1.0-10.0) để tương ứng với các giá trị TTi, sau đó vẽ biểu đồ biểu hiện mối quan hệ giữa TTi và Ro để nghiên cứ mối quan hệ đó. Kết quả đã phát hiện ra rằng giá trị r trong khoảng 1.6-2.5, thì mối quan hệ giữa hai chỉ số rất lý tưởng, khi giá trị r chọn là 2 thì lý tưởng nhất, nó biểu thị rằng: mỗi khi nhiệt độ tăng thêm 100 độ C thì gia tốc phản ứng tăng lên một bội.
+

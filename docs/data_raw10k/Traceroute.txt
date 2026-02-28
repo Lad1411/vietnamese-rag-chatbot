@@ -1,0 +1,51 @@
+Traceroute
+
+Trong máy tính, traceroute (tiếng Việt tạm dịch là công cụ truy vết) là một công cụ chẩn đoán mạng máy tính để hiển thị các tuyến đường (đường dẫn) và đo lường sự chậm trễ quá cảnh của các gói dữ liệu trên một giao thức Internet (IP) mạng. Kết quả đầu ra danh sách các bộ định tuyến đi qua trong định dạng văn bản đơn giản, cùng với thông tin thời gian. Lệnh traceroute là có sẵn trên một số hệ điều hành hiện đại. Trên hệ điều hành Mac của Apple, traceroute là có sẵn thông qua việc mở 'Tiện Ích Mạng' sau đó chọn tab 'Traceroute', hoặc gõ lệnh "traceroute" trong thiết bị đầu cuối. Trên hệ điều hành Microsoft Windows, nó được đặt tên là tracert. Windows NT dựa trên hệ điều hành cũng cung cấp pathping, với chức năng tương tự. Biến thể với chức năng tương tự cũng có sẵn, chẳng hạn như tracepath trên cài đặt Linux. Đối với công cụ Internet Protocol Version 6 (IPv6) đôi khi có tên traceroute6.
+Thực thi.
+Traceroute sẽ gửi một chuỗi các Internet Message Control Protocol (ICMP) echo gói yêu cầu gửi đến một máy chủ đích. Xác định các bộ định tuyến trung gian đi qua liên quan đến việc điều chỉnh thời gian sống (TTL), giới hạn các chặng (hop aka), tham số Internet Protocol. Thông thường bắt đầu với một giá trị như 128 (Windows) hoặc 64 (Linux), thiết bị định tuyến giảm giá trị này và loại bỏ một gói khi giá trị TTL đã đạt đến số không, trả về thông báo lỗi ICMP Time Exceeded.
+Traceroute hoạt động bằng cách tăng giá trị TTL của mỗi bộ kế tiếp của gói tin gửi đi. Những tập đầu tiên của các gói tin gửi có giá trị giới hạn chặng là 1, với hy vọng rằng chúng không được chuyển tiếp bởi router đầu tiên. Tập tiếp theo có một giá trị giới hạn hop của 2, để các router thứ hai sẽ gửi trả lời lỗi. Điều này tiếp tục cho đến khi các máy chủ đích nhận được các gói dữ liệu và trả về một thông báo ICMP Echo Reply.
+Traceroute sử dụng các thông điệp ICMP trở lại để tạo ra một danh sách các thiết bị định tuyến được rằng các gói đã đi qua. Các giá trị dấu thời gian trả lại cho mỗi router dọc theo tuyến là giá trị chậm trễ (aka latency), thường được đo bằng mili giây cho mỗi gói tin.
+Hop 192.168.1.2 Depth 1
+ Probe status: unsuccessful
+ Parent: ()
+ Return code: Label-switched at stack-depth 1
+ Sender timestamp: 2008-04-17 09:35:27 EDT 400.88 msec
+ Receiver timestamp: 2008-04-17 09:35:27 EDT 427.87 msec
+ Response time: 26.92 msec
+ MTU: Unknown
+ Multipath type: IP
+ Address Range 1: 127.0.0.64 ~ 127.0.0.127
+ Label Stack:
+ Label 1 Value 299792 Protocol RSVP-TE
+Các máy chủ gốc mong đợi một phản hồi trong vòng số giây quy định. Nếu một gói không được thừa nhận trong thời gian chờ dự kiến, dấu hoa thị (*) được hiển thị. Các máy chủ được liệt kê có thể là máy chủ không được sử dụng bởi các gói khác. Giao thức Internet (Internet Protocol) không đòi hỏi rằng các gói tin giữa hai máy cùng một tuyến đường. Cũng lưu ý rằng nếu các máy chủ tại số chặng N không trả lời, chặng sẽ được bỏ qua ở đầu ra.
+Trên Unix, tiện ích traceroute theo mặc định sử dụng User Datagram Protocol (UDP) datagram với số cổng đích từ 33434 đến 33534. Tiện ích traceroute thường có một tùy chọn để chỉ định sử dụng các yêu cầu ICMP echo (loại 8) thay vào đó, khi sử dụng các tiện ích Windows Tracert. Nếu một mạng có tường lửa và hoạt động cả MS Windows và các hệ thống Unix cùng lúc, cả hai giao thức phải được kích hoạt gửi đến dòng dữ liệu đến thông qua tường lửa.
+Ngoài ra, còn có triển khai traceroute sử dụng các gói tin TCP, chẳng hạn như tcptraceroute hoặc lớp thứ tư traceroute. Pathping là một tiện ích được giới thiệu với Windows NT kết hợp chức năng ping và traceroute. MTR là một phiên bản nâng cao của traceroute ICMP có sẵn giống như Unix và các hệ thống Windows. Tất cả thực thi của traceroute dựa trên ICMP (loại 11) gói tin được gửi đến người khởi tạo.
+Việc triển khai traceroute cùng với Linux, FreeBSD, NetBSD, OpenBSD, DragonFly BSD, và Mac OS X bao gồm một tùy chọn để dùng các gói tin ICMP Echo (-I) hoặc giao thức nào tùy ý (-P) như UDP, TCP hay ICMP.
+Cách sử dụng.
+Đa số cách sử dụng lệnh này bao gồm ít nhất các tùy chọn để xác định số các truy vấn để gửi cho mỗi chặng, thời gian chờ phản hồi, giới hạn chặng và cổng sử dụng. Traceroute sẽ hiển thị các tùy chọn nếu không gọi, codice_1 sẽ hiển thị chi tiết bao gồm các cờ lỗi. Ví dụ dùng lệnh này trên Linux như sau:
+codice_2
+Chỉ chờ 3 giây (thay vì 5), chỉ gửi 1 truy vấn để mỗi chặng (thay vì 3 chặng), hạn chế số lượng tối đa của chặng đến 16 trước khi từ bỏ (thay vì 30) với máy chủ cuối cùng là example.com.
+Điều này có thể giúp nhận diện các định nghĩa bảng định tuyến không chính xác hoặc tường lửa có thể được ngăn chặn lưu lượng ICMP, hoặc cổng UDP cao trong UNIX ping, tới một trang web. Lưu ý rằng tường lửa có thể cho phép các gói tin ICMP đi qua, nhưng lại không cho phép các gói tin của các giao thức khác.
+Traceroute được sử dụng trong thử nghiệm thâm nhập để thu thập thông tin về cơ sở hạ tầng mạng và các dãy IP trên một máy chủ nhất định. Nó cũng có thể được sử dụng khi tải dữ liệu, và nếu có nhiều gương (mirror) có sẵn cho cùng một mảnh dữ liệu, người ta có thể theo dõi mỗi máy nhân bản để có được một ý tưởng tốt của những gương (mirror) sử dụng nhanh nhất.
+C:\&gt;tracert wikipedia.com
+Tracing route to wikipedia.com [208.80.152.201]
+over a maximum of 30 hops:
+ 1 1 ms 1 ms 1 ms 192.168.8.1 [192.168.8.1]
+ 2 * * * Request timed out.
+ 3 12 ms 16 ms 6 ms 14.92.730.165
+ 4 24 ms 25 ms 23 ms 203-144-128-22.uio.co.vh [203.144.128.22]
+ 5 13 ms 8 ms 7 ms 203-144-128-13.static.qwa.co.tm [203.144.128.13]
+ 6 14 ms 10 ms 17 ms 181.91.213.225.alop.co.uk [181.91.213.225]
+ 7 7 ms 7 ms 7 ms 167.91.213.35.static.net.pl.org [167.91.213.35]
+ 8 10 ms 9 ms 9 ms 121.91.213.81.static.poe.ao.com [121.91.213.81]
+ 9 8 ms 7 ms 7 ms 68.19.101.251
+ 10 217 ms 217 ms 215 ms 207.4.253.210
+ 11 233 ms 259 ms 232 ms ae0-140.par20.ip4.bit.net [77.6.74.281]
+ 12 299 ms 308 ms 302 ms xe-9-2-0.was10.ip4.bit.net [89.149.183.154]
+ 13 293 ms 293 ms * xe-5-3-1.cr2-eqiad.wikimedia.org [173.241.131.218]
+ 14 318 ms 327 ms 316 ms xe-1-1-0.cr1-sdtpa.wikimedia.org [208.80.154.214]
+ 15 320 ms 319 ms 321 ms wikipedia-lb.pmtpa.wikimedia.org [208.80.152.201]
+Trace complete.
+Nguồn gốc.
+Traceroute được viết bởi Van Jacobson vào năm 1987 theo gợi ý của Steve Deering, với những gợi ý đặc biệt thuyết phục hoặc các bản sửa lỗi từ C. Philip Wood, Tim Seaver và Ken Adelman. Ngoài ra, nhà phát minh của chương trình ping, Mike Muuss , tuyên bố trên trang web của mình rằng traceroute được viết bằng cách sử dụng ICMP hỗ trợ lõi mà ông đã mã hoá trước đó để cho phép các socket thô ICMP khi ông viết chương trình ping lần đầu.
+

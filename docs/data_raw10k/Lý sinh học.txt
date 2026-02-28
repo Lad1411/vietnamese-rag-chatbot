@@ -1,0 +1,8 @@
+Lý sinh học
+
+Lý sinh học (hay "vật lý sinh học") là môn khoa học liên ngành, ứng dụng lý thuyết và phương pháp của khoa học vật lý vào các vấn đề sinh học.
+Lý sinh học ngày nay bao gồm các nghiên cứu sinh học chuyên biệt, không chia sẻ chung một yếu tố định danh và ngành học này cũng không phụ thuộc vào một định nghĩa rõ ràng, chính xác. Phạm vi nghiên cứu của lý sinh học trải từ so sánh chuỗi đến mạng thần kinh. Trong những năm gần đây, lý sinh học còn nghiên cứu đến chế tạo chi cơ học và thiết bị nano để điều hoà chức năng sinh học. Ngày nay các nghiên cứu đó thường được xem là thuộc về lĩnh vực tương ứng của công nghệ sinh học và công nghệ nano.
+Tổng quan.
+Nghiên cứu truyền thống trong sinh học được tiến hành bằng các thí nghiệm tổng thể thống kê ("statistical ensemble"), dùng nồng độ mol của các đại phân tử. Vì các phân tử bên trong tế bào sống có số lượng ít, các kỹ thuật như khuếch đại PCR, thấm gel ("gel blotting"), gắn kết huỳnh quang và nhuộm in vivo được dùng để có thể xem kết quả thí nghiệm bằng mắt thường hoặc, it nhất, với thiết bị phóng đại quang học. Bằng các kỹ thuật này, nhà sinh học cố gắng làm sáng tỏ hệ thống tương tác phức tạp tạo ra các tiến trình cho sự sống. Lý sinh học cũng quan tâm đến những vấn đề tương tự trong sinh học, nhưng đặt ở mức độ một phân tử (nghĩa là số Reynolds thấp). Bằng cách áp dụng kiến thức và kỹ thuật thí nghiệm từ nhiều chuyên ngành, nhà lý sinh có thể quan sát gián tiếp hoặc mô hình hoá cấu trúc và tương tác của từng phân tử hay phức hợp phân tử.
+Lý sinh học thường không có bộ môn riêng ở cấp đại học, mà hiện diện như là nhóm liên bộ môn giữa các lĩnh vực sinh học, sinh hoá học, hoá học, khoa học máy tính, toán học, y học, dược học, sinh lý học, vật lý học và khoa học thần kinh.
+

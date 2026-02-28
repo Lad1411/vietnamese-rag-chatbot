@@ -1,0 +1,11 @@
+Phòng thiết kế Kuznetsov
+
+Kuznetsov (OKB-276) là một phòng thiết kế Liên Xô chuyên về động cơ máy bay, do Nikolai Dmitriyevich Kuznetsov lãnh đạo.
+Phòng thiết kế này lần đầu nổi tiếng với chiếc động cơ phản lực cánh quạt NK-12 khổng lồ sử dụng cho chiếc máy bay ném bom Tupolev Tu-95 năm 1952. Động cơ này tạo ra 15,000 hp (11.2 MW), lớn hơn rất nhiều bất kỳ một động cơ phản lực cánh quạt nào khác của phương Tây, và nó cũng được sử dụng trên chiếc máy bay vận tải quân sự Antonov An-22.
+Kuznetsov cũng chế tạo Động cơ phản lực cánh quạt đẩy NK-8, ở cấp lực đẩy 20,000 lbf (90 kN), sử dụng cho chiếc máy bay chở khách Ilyushin Il-62 và Tupolev Tu-154. Động cơ này đã được cải tiến thành loại NK-86 để tạo ra 28,000 lbf (125 kN) sử dụng cho chiếc Ilyushin Il-86. Một động cơ phản lực cánh quạt đẩy có buồng đốt lần hai, chiếc NK-144 cũng được sản xuất để cung cấp cho những model đầu của loại máy bay vận tải siêu thanh Tupolev Tu-144.
+Phòng thiết kế này cũng sản xuất động cơ NK-87 được sử dụng trên Lun-class ekranoplan.
+Động cơ mạnh nhất của họ là NK-321, sử dụng trên chiếc nmáy bay ném bom Tupolev Tu-160 và các model sau này của máy bay vận tải siêu thanh Tupolev Tu-144. Nó tạo ra 55,000 lbf (245 kN) lực đẩy khi sử dụng tối đa buồng đốt lần hai.
+Phòng thiết kế Kuznetsov cũng sản xuất động cơ năng lượng hạt nhân NK-14, sử dụng trên chiếc máy bay sử dụng năng lượng hạt nhân Tupolev Tu-119; một phiên bản sửa đổi của máy bay ném bom Tu-95.
+Sau sự sụp đổ của Liên bang Xô viết, phòng thiết kế trở thành Công ty động cơ NK.
+Năm 1959, Sergey Korolev đã yêu cầu Kuznetsov chế tạo động cơ tên lửa. NK-9 là một trong những động cơ tên lửa cháy theo giai đoạn đầu tiên được sản xuất, sử dụng để đưa GR1 vào quỹ đạo. Phiên bản lớn hơn, NK-15, được thiết kế cho tên lửa Mặt Trăng N-1 của Liên Xô.
+

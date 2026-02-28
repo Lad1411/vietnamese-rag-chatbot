@@ -1,0 +1,6 @@
+ArgoUML
+
+ArgoUML là một ứng dụng lập biểu đồ UML được viết bằng Java và phát hành theo Giấy phép Công cộng Eclipse mã nguồn mở. Nhờ tính chất của ứng dụng Java, nó có sẵn trên bất kì nền tảng nào mà Java SE hỗ trợ.
+Lịch sử.
+ArgoUML ban đầu được phát triển tại UC Irvine bởi Jason E. Robbins, dẫn đến bằng tiến sĩ của ông. Bây giờ nó là một dự án nguồn mở được lưu trữ bởi Tigris.org. Dự án ArgoUML hiện tại có hơn 19.000 người dùng đăng kí và hơn 150 nhà phát triển.
+

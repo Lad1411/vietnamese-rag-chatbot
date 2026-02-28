@@ -1,0 +1,7 @@
+Xerography
+
+Xerography hoặc sao chụp ảnh quang điện (electrophotography) là một kỹ thuật photocopy khô, được nhà vật lý người Mỹ Chester Carlson phát minh dựa trên các nghiên cứu đăng tải của nhà vật lý người Hungary Pál Selényi, đăng ký và được trao Bằng sáng chế Hoa Kỳ 2.297.691 ngày 6/10/1942.
+Kỹ thuật này ban đầu được gọi là "sao chụp ảnh quang điện" (electrophotography). Sau đó nó được đổi tên thành xerography, lấy theo từ Hy Lạp ξηρός "xeros" là "khô", và -γραφία "-graphia" là "viết", để nhấn mạnh rằng, không giống như các kỹ thuật sao chụp được sử dụng như cyanotype, quá trình này không sử dụng hóa chất lỏng.
+Sự đổi mới của Carlson kết hợp in tĩnh điện với nhiếp ảnh, không giống như quy trình in tĩnh điện khô do Georg Christoph Lichtenberg phát minh năm 1778 . Quá trình ban đầu của Carlson rất cồng kềnh, đòi hỏi một số bước xử lý thủ công với các tấm phẳng. Đã gần 18 năm trước khi một quy trình hoàn toàn tự động được phát triển, bước đột phá quan trọng là sử dụng trống hình trụ được phủ bằng selen thay vì một tấm phẳng. Điều này dẫn đến máy photocopy tự động thương mại đầu tiên, Xerox 914, được Haloid Xerox phát hành vào năm 1960. Trước năm đó, Carlson đã đề xuất ý tưởng của mình cho hơn một chục công ty, nhưng không ai quan tâm.
+Xerography hiện được sử dụng trong hầu hết các máy photocopy, in laser và in LED.
+

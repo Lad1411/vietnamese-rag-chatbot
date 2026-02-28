@@ -1,0 +1,62 @@
+Cỡ giày dép
+
+Cỡ giày dép là một chỉ thị bằng số và chữ về độ khít của giày dép đối với bàn chân của mỗi người. Thông thường, nó chỉ bao gồm một số chỉ ra độ dài do nhiều nhà sản xuất giày dép chỉ cung cấp một độ dài tiêu chuẩn vì lý do các kinh tế. Có một vài hệ thống kích cỡ giày dép khác nhau được sử dụng trên phạm vi toàn thế giới. Các hệ thống này khác nhau ở chỗ chúng đo cái gì, đo như thế nào, đơn vị đo lường nào được sử dụng và cỡ 0 (hay cỡ 1) có được xác định hay không. Chỉ một vài hệ thống đưa vào trong tính toán bề rộng của bàn chân. Một vài khu vực sử dụng các hệ thống cỡ giày dép khác biệt cho các kiểu giày dép khác nhau (chẳng hạn giày dép nam, nữ, trẻ em, giày thể thao hay giày bảo hộ lao động v.v).
+Chuyển đổi kích cỡ giày dép.
+Bàn chân với giày dép và phom giày.
+Độ dài của bàn chân nói chung được định nghĩa như là khoảng cách giữa hai đường thẳng song song mà chúng là vuông góc với hai cẳng chân và tiếp xúc với ngón nhô lên nhất và phần nhô lên nhất của gót chân. Độ dài bàn chân được đo với hai bàn chân trần khi đứng và trọng lượng cơ thể phân phối đều trên cả hai chân.
+Kích cỡ của chân trái và chân phải thường là hơi khác biệt - trong trường hợp đó cả hai chân đều được đo và kích cỡ giày dép dựa trên chân to hơn.
+Mỗi kích cỡ giày dép là phù hợp với một khoảng nhỏ của độ dài bàn chân. Khoang bên trong của giày dép thường là dài hơn bàn chân khoảng 15–20 mm (0,59-0,79 inch), nhưng mối quan hệ này dao động và biến thiên theo các kiểu giày dép khác nhau.
+Có 3 độ dài đặc trưng mà một hệ thống kích cỡ giày dép có thể xem xét tới:
+Tất cả các phép đo trên khác nhau đáng kể cho cùng một đôi giày dép.
+Đơn vị độ dài.
+Các hệ thống định cỡ cũng khác biệt ở chỗ đơn vị đo lường nào được chúng sử dụng. Điều này tạo ra các gia tăng khác nhau giữa các kích cỡ giày dép do thông thường chỉ các cỡ "toàn phần" hay "bán phần" được sản xuất.
+Các đơn vị độ dài sau đây được sử dụng phổ biến ngày nay trong xác định các hệ thống kích cỡ giày dép:
+Do các đơn vị đo lường khác biệt nên chuyển đổi giữa các hệ thống định cỡ khác nhau tạo ra các sai số làm tròn cũng như các cỡ bất thường, chẳng hạn như "10⅔".
+Điểm 0.
+Các hệ thống khác nhau cũng đặt cỡ 0 (hay cỡ 1) tại các vị trí định vị khác nhau:
+Định danh bề rộng và vòng đai.
+Một vài hệ thống còn bao gồm cả độ rộng hay vòng đai của chân. Có các phương pháp khác nhau để chỉ ra bề rộng hay vòng đai:
+Độ rộng bàn chân chính xác mà các cỡ này là phù hợp có thể dao động đáng kể giữa các nhà sản xuất. Các chỉ thị bề rộng A-E được một số nhà sản xuất giày dép Anh-Mỹ sử dụng, thông thường dựa trên độ rộng của bàn chân, với gia số cho mỗi cỡ là 12/38 inch (6 mm) hay 3/16 inch (5 mm).
+Các hệ thống định cỡ phổ biến.
+Mondopoint.
+Tiêu chuẩn quốc tế là ISO 9407:1991, Shoe sizes — hệ thống Mondopoint trong định cỡ và đánh dấu, giới thiệu hệ thống định cỡ giày dép được biết đến như là "Mondopoint".
+Nó dựa trên độ dài và độ rộng trung bình của bàn chân mà giày dép là phù hợp, được đo bằng milimét. Giày cỡ 280/110 chỉ ra rằng độ dài trung bình của bàn chân là 280 mm (11 inch) và độ rộng trung bình của bàn chân là 110 mm (4,3 inch).
+Do hệ thống Mondopoint cũng tính toán tới độ rộng bàn chân nên nó cho phép có sự khít chân tốt hơn so với phần lớn các hệ thống khác. Vì thế nó được NATO và một số tổ chức quân sự khác sử dụng.
+Tiêu chuẩn châu Âu EN 13402, cũng được sử dụng cho quần áo, thay vì thế, đưa ra tiêu chí trong đó giày dép nên được dán nhãn với các khoảng độ dài bàn chân mà nó phù hợp, được đo bằng xentimét.
+Vương quốc Anh.
+Kích cỡ giày dép tại Vương quốc Anh (cỡ Anh) dựa trên độ dài của phom giày dép, được đo bằng barleycorn (khoảng 1/3 inch) bắt đầu từ cỡ nhỏ nhất trên thực tế, đó là cỡ 0. Nó vẫn chưa được tiêu chuẩn hóa chính thức.
+Cỡ 0 giày dép trẻ em tương đương với 1 hand (4 inch, 12 barleycorn hay 10,16 cm), và các cỡ tăng dần tới 13½ (8½ inch hay 21,59 cm). Vì thế, tính toán cỡ giày trẻ em tại Vương quốc Anh là như sau:
+Cỡ giày người lớn bắt đầu từ cỡ lớn hơn kế tiếp (8⅔ inch hay 22,01 cm) và mỗi cỡ kế tiếp lại tiếp tục một cấp số cộng với gia số tính bằng barleycorn. Vì thế, tính toán cỡ giày người lớn tại Vương quốc Anh là như sau:
+Hoa Kỳ và Canada.
+Tại Bắc Mỹ, có các hệ thống khác nhau được sử dụng đồng thời. Các chỉ thị về cỡ thường là tương tự nhưng không tương đương một cách chính xác, đặc biệt là với giày thể thao ở các cỡ tận cùng.
+Tập quán.
+Hệ thống truyền thống là tương tự như các cỡ Anh nhưng được tính bắt đầu từ 1 chứ không phải 0 và vì thế giày dép tương đương ở hai hệ thống đó lệch nhau một giá trị. Điều này tương tự như cách đếm số tầng trong một tòa nhà, được bắt đầu từ 1 chứ không phải bằng 0 (tầng ground) trong các khu vực này. 
+Vì thế, tính toán cỡ giày nam tại Hoa Kỳ và Canada là như sau:
+Các cỡ giày dép nữ gần như luôn luôn được xác định với tỷ lệ "chung", trong đó các cỡ giày nữ tương đương với cỡ giày dép nam cộng 1,5 (chẳng hạn, giày dép nam cỡ là 10,5 có chiều dài tương đương giày dép nữ cỡ 12). Nói cách khác:
+Ở tỷ lệ ít phổ biến hơn, được biết đến như là tỷ lệ "tiêu chuẩn" hay "FIA" (viết tắt của Footwear Industries of America: Công nghiệp giày dép Mỹ), kích cỡ giày dép nữ bằng kích cỡ giày dép nam cộng 1 (vì thế giày dép nam cỡ 10,5 có chiều dài tương đương giày dép nữ cỡ 11,5).
+Cỡ giày dép trẻ em tương đương với kích cỡ giày dép nam cộng 12,33. Vì thế cỡ giày dép dành cho trẻ trai và trẻ gái là không khác biệt, mặc dù có khác biệt về cỡ giữa giày dép nữ và nam giới khi chúng dài tương đương nhau.
+Thiết bị Brannock.
+Phương pháp định cỡ hơi khác biệt dựa trên thiết bị đo đạc do nhà buôn bán giày Charles Brannock tạo ra. Cỡ 1 giày dép nam tương đương với độ dài bàn chân 7 ⅔ inch. Cỡ tương ứng cho giày dép nữ tương tự như vậy thì cao hơn một cỡ.
+Phương pháp cũng đo độ dài của khoảng cách từ gót tới điểm rộng nhất của bàn chân. Phục vụ cho mục đích này, thiết bị có một tỷ lệ khác, ngắn hơn nằm tại hông bàn chân. Nếu thang độ này chỉ ra một cỡ lớn hơn thì nó sẽ thay thế cho độ dài của bàn chân trong việc định cỡ.
+Đối với cỡ giày dép trẻ em, một khoảng ngọ nguậy bổ sung được thêm vào vì trẻ phát triển nhanh.
+Thiết bị cũng đo độ rộng của bàn chân và gán giá trị đo được với các ký hiệu AAA, AA, A, B, C, D, E, EE hay EEE. Các độ rộng này cách nhau lần lượt 3/16 inch và khác nhau theo độ dài của giày dép.
+Giày thể thao.
+Một số nhà sản xuất giày thể thao, như Nike, Reebok hay Fila sử dụng gia số 5 mm thay vì một nửa của barleycorn (4,2 mm). Giống như trong các hệ thống định cỡ khác, giày nữ có cỡ cao hơn giày nam một cỡ khi có chiều dài tương đương.
+Tồn tại cỡ khác biệt đối với giày dép trẻ em và thanh, thiếu niên, chẳng hạn Nike sử dụng hệ thống sau:
+Dường như là do các gia số khác biệt nên các cỡ chỉ có thể tương tự như cỡ US "thông thường" ở các cỡ giày dép trung bình. Đối với giày dép cỡ lớn hơn hay nhỏ hơn thì chênh lệch về cỡ là đáng kể.
+châu Âu lục địa.
+Hệ thống châu Âu lục địa được sử dụng tại Pháp, Đức, Italia, Tây Ban Nha và phần lớn các quốc gia khác tại châu Âu lục địa.
+Trong hệ thống này, cỡ giày dép là độ dài của phom giày dép, được thể hiện bằng các điểm Paris, cho cả hai giới và đối với người lớn cũng như trẻ em là tương tự. Do một điểm Paris bằng ⅔ cm và người ta thỏa thuận rằng độ dài của phom bằng độ dài bàn chân cộng thêm 2 cm, nên công thức sẽ là:
+tương đương với:
+Đối với giày dép mà độ dài phom giày dài hơn so với độ dài bàn chân là 5 cm thì:
+châu Á.
+Hệ thống châu Á dựa trên các đo đạc theo hệ mét và được tiêu chuẩn hóa như JIS S 5037:1998 hay CNS 4800, S 1093. Độ dài bàn chân và vòng đai cùng được đưa vào trong tính toán.
+Độ dài bàn chân được đo bằng xentimét; với gia số 5 mm được sử dụng.
+Tiếptheo độ dài là các chỉ thị về vòng đai (A, B, C, D, E, EE, EEE, EEEE, F, G), được lấy trực tiếp từ bảng chỉ mục theo vòng đai và độ dài. Có các bảng khác biệt cho giày dép nam, nữ và trẻ em (dưới 12 tuổi). Bảng cũng bao gồm cả độ rộng bàn chân như là chỉ thị bổ sung. Không phải mọi định danh đều được áp dụng cho các giới cũng như tại mọi quốc gia. Chẳng hạn, vòng đai lớn nhất cho nữ giới tại Trung Quốc là EEEE, trong khi đó tại Nhật Bản là F.
+Tại Nhật Bản, một nhà sản xuất giày dép còn bổ sung chỉ thị về độ rộng bàn chân: N ("hẹp"), M ("trung bình") và W ("rộng").
+So sánh cỡ giày dép.
+Lưu ý rằng các bảng dưới đây chỉ ra cỡ giày dép lý thuyết được tính từ các tiêu chuẩn và thông tin đề cập trên đây. Các khác biệt giữa các bảng này với các bảng của nhà sản xuất hay các bảng khác được tìm thấy trên web thường là do các yếu tố sau:
+Ngoài ra, một số bảng có sẵn trên web đơn giản là có sai sót. Chẳng hạn, khoảng ngọ nguậy hay điểm 0 khác nhau không được đưa vào trong tính toán hay các bảng này dựa trên các hệ thống Hoa Kỳ khác nhau (truyền thống hay thể thao) và được tổ hợp lại một cách đơn giản cho dù chúng không tương thích với nhau.
+Trẻ em.
+Ví dụ: Bàn chân trẻ có độ dài 185 mm (7,3 inch) cần có giày với độ dài lớn hơn khoảng 15 mm (0,59 inch). Độ dài bên trong 200 mm là giày cỡ châu Âu 30 hay cỡ UK 11,5.
+

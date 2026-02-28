@@ -1,0 +1,17 @@
+Tetris
+
+Tetris (), hay còn gọi là trò chơi xếp hình, là một trò chơi điện tử đầu tiên được thiết kế và phát triển bởi nhà khoa học máy tính người Liên Xô Alexey Pajitnov. Trò chơi được tạo ra vào ngày 6 tháng 6 năm 1984, trong lúc ông đang làm việc tại Trung tâm Tính toán Dorodnicyn của Viện hàn lâm Khoa học Liên Xô tại Moskva. Ông lấy tên của trò chơi từ tiền tố "tetra- của tiếng Hy Lạp, có nghĩa là "bốn" (mỗi bộ phần trong trò chơi, gọi là Tetromino, có bốn phần) và quần vợt ("tennis"), trò thể thao Pajitnov thích nhất.
+Trò chơi (hay một biến thể của nó) được bán cho hầu hết mọi máy trò chơi điện tử và hệ điều hành máy tính, cũng như trong các máy tính đồ họa, điện thoại di động, máy nghe nhạc di động, PDA, và nhiều thứ khác. Tuy nhiều biến thể của "Tetris" được bán trên thị trường vào thập niên 1980, trò chơi cầm tay của Game Boy, ra mắt năm 1989 đã biến trò chơi thành một trong những trò chơi thịnh hành nhất. Số thứ 100 của tạp chí "Electronic Gaming Monthly" gọi Tetris là "Trò chơi Vĩ đại nhất trong Mọi thời đại". Nó đã bán được hơn 70 triệu phiên bản.
+Tổng quan.
+Trò chơi có bảy loại khối hình: I (thẳng đứng), J, L, O (vuông), S, T, Z. Ta thấy mỗi khối gạch được cấu tạo từ 4 hình vuông nhỏ xếp lại với nhau. Ta có thể coi các khối gạch đó như là những hình chữ nhật có kích thước khác nhau.
+Các hình khác được tạo ra khi xoay các khối cơ bản này các góc tương ứng 90 độ, 180 độ, 270 độ.
+Một chuỗi ngẫu nhiên của Tetriminos rơi xuống sân chơi (một trục đứng hình chữ nhật, được gọi là "tốt" hay "ma trận").
+Cách chơi.
+Mục tiêu của trò chơi là di chuyển các khối gạch đang rơi từ từ xuống trong kích thước hình chữ nhật 20 hàng x 10 cột (trên màn hình). Chỗ nào có gạch rồi thì không di chuyển được tới vị trí đó. Người chơi xếp những khối hình sao cho khối hình lấp đầy 1 hàng ngang để ghi điểm và hàng ngang ấy sẽ biến mất.
+Ta có hai bảng:
+Một nhóm 4 khối sẽ rơi từ phía trên cùng của màn hình, di chuyển các khối và xoay chúng cho đến khi chúng rơi xuống phía dưới cùng của màn hình, sau đó nhóm 4 khối tiếp theo sẽ rơi xuống.
+Nếu để cho những khối hình cao quá màn hình, trò chơi sẽ kết thúc.
+Trò chơi kết thúc khi khối gạch không rơi xuống được nữa.
+Tất cả các Tetriminos có khả năng hoàn thành một và hai dòng. J, L có thể có ba. Chỉ có Tetrimino chữ I có khả năng để xóa bốn dòng cùng một lúc, và điều này được gọi là một "Tetris". Xóa nhiều nhất chỉ được 4 hàng/1 lần.
+Phím tắt:
+

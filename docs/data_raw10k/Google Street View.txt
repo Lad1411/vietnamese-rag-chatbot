@@ -1,0 +1,6 @@
+Google Street View
+
+Google Street View hay Chế độ xem phố là một tính năng được sử dụng để định dạng đường đi theo kiểu đi trên xe mà bạn đang chạy, được sử dụng nhiều nước phát triển như Hoa Kỳ, Anh, Pháp, Đức, Ý, Nhật Bản, Hàn Quốc, Đài Loan, Thái Lan... và nhiều quốc gia phát triển khác với những chiếc xe Camera của Google được sử dụng tại nhiều nước trên thế giới. Hiện nay Chế độ xem phố của Google được sự ủng hộ của nhiều người, đặc biệt là những người đang sử dụng ô tô.
+Hướng dẫn sử dụng.
+Ở bên góc phải trên bản đồ có một hình nộm người màu vàng, chỉ cần click chuột xê vào chỗ được tô bằng nền màu xanh (trừ những dấu chấm màu xanh) đặt vào đó, sau đó click vào mà chỗ muốn tới đó và nó sẽ tự động đi tới đó.
+

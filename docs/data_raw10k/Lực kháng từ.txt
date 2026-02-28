@@ -1,0 +1,31 @@
+Lực kháng từ
+
+Lực kháng từ, đôi khi còn được gọi là "trường kháng từ", hoặc "trường đảo từ", là một đại lượng ngoại sử dụng trong ngành từ học, được định nghĩa bằng giá trị của từ trường cần đặt vào để triệt tiêu từ độ hoặc cảm ứng từ của vật từ. Khi gọi là "trường đảo từ", đại lượng này được định nghĩa là từ trường cần đặt để đảo chiều từ độ của vật từ.
+Các khái niệm về lực kháng từ.
+Lực kháng từ thực tế là một đại lượng ngoại của mỗi vật từ và vật liệu từ. Thực tế, lực kháng từ chỉ tồn tại ở các vật liệu có trật tự từ (sắt từ, feri từ...). Thông thường, lực kháng từ thường được xác định từ đường cong từ trễ của vật từ. Nhờ khái niệm lực kháng từ, người ta phân loại được hai loại vật liệu sắt từ là vật liệu sắt từ cứng (có lực kháng từ lớn) và vật liệu sắt từ mềm (có lực kháng từ nhỏ). Do sự liên quan giữa từ trường (formula_1), cảm ứng từ (formula_2), và từ độ formula_3 bởi công thức:
+Do đó, sẽ xuất hiện hai loại giá trị lực kháng từ:
+Đối với các vật liệu có lực kháng từ nhỏ, sự sai khác giữa hai đại lượng này rất nhỏ, và đôi khi thường bị nhầm lẫn với nhau. Sự sai khác này chỉ trở nên đáng kể đối với các vật liệu từ cứng.
+Cơ chế tạo lực kháng từ.
+Cơ chế tạo lực kháng từ liên quan đến cơ chế từ hóa và đảo từ của vật liệu, hay nói cách khác là liên quan đến sự thay đổi của cấu trúc từ và bị ảnh hưởng mạnh bởi cấu trúc hạt của vật liệu. Yếu tố lớn nhất chi phối lực kháng từ là dị hướng từ tinh thể và tùy từng loại vật liệu mà lực kháng từ có thể phụ thuộc khác nhau vào yếu tố này. 
+Trong các vật liệu có dị hướng từ yếu.
+Thông thường, đối với các vật liệu từ mềm (có dị hướng từ yếu), lực kháng từ tỉ lệ thuận với dị hướng từ tinh thể theo công thức:
+formula_9
+với formula_10 lần lượt là hệ số tỉ lệ, hằng số dị hướng từ tinh thể và từ độ bão hòa của vật liệu.
+Đối với các vật liệu loại này (vật liệu truyền thống cổ điển có kích thước hạt lớn hơn kích thước vách đômen), lúc này, quá trình từ hóa và đảo từ thường bị ảnh hưởng bởi quá trình hãm dịch chuyển vách đômen do biên hạt nên lực kháng từ sẽ tỉ lệ nghịch với kích thước hạt theo công thức:
+formula_11
+với formula_12 là hằng số trao đổi, formula_13 là kích thước hạt trung bình.
+Là các vật liệu từ mềm có cấu trúc nano, với kích thước hạt nhỏ hơn chiều dài tương tác trao đổi sắt từ, dị hướng từ tinh thể bị trung bình hóa, và lực kháng từ lại thay đổi:
+formula_14
+Trong các vật liệu từ có dị hướng từ mạnh.
+Trong các vật liệu có dị hướng từ lớn, lực kháng từ thay đổi rất phức tạp, và phụ thuộc tổng quát theo hàm số:
+formula_15
+Ở đây, formula_16 là hệ số phức, formula_17 là năng lượng vách đômen, formula_18 là thể tích kích hoạt nhiệt và formula_19 là hệ số nhớt từ của vật liệu; còn formula_20 là thừa số khử từ hiệu dụng.
+Đối với các vật liệu từ có cấu trúc đơn đômen, cấu trúc đơn đômen là cấu trúc không có vách đômen nên không có các quá trình dịch chuyển vách hay hãm các vách đômen trong quá trình từ hóa. Vì thế, quá trình từ hóa và khử từ trong vật từ có cấu trúc đơn đômen là quá trình quay kết hợp các mômen từ. Vì thế, lực kháng từ tạo ra là do đóng góp bởi 3 yếu tố dị hướng: dị hướng từ tinh thể, dị hướng từ hình dạng và dị hướng từ do sự bất đồng nhất cấu trúc::
+với formula_22 là hằng số dị hướng từ tinh thể bậc một; formula_23 là thừa số khử từ đo theo 2 phương khác nhau; formula_24 lần lượt là từ giảo bão hòa và ứng suất nội; formula_25 là các hệ số phần trăm đóng góp của từng số hạng.
+Lực kháng từ và trường dị hướng.
+Trường dị hướng (thường được ký hiệu là formula_26) là trường liên quan đến năng lượng dị hướng từ tinh thể, là một giá trị nội của vật liệu. Vật liệu sẽ đạt trạng thái bão hòa nếu đặt từ trường vượt quá giá trị trường dị hướng. Trường dị hướng có giá trị cho bởi:
+formula_27
+Lực kháng từ quan hệ với trường dị hướng theo công thức:
+formula_28
+Dưới đây là một số giá trị lực kháng từ ở một số vật liệu từ tiêu biểu:
+

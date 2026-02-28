@@ -1,0 +1,34 @@
+Danh sách nước sản xuất nhiều nhất của các loại nông sản
+
+Việc sản xuất (và tiêu thụ) nông sản đa dạng theo vị trí địa lý. Cùng với khí hậu và hệ thực vật tương ứng, kinh tế của một quốc gia cũng ảnh hưởng đến mức độ sản lượng nông nghiệp. Việc sản xuất của một số sản phẩm tập trung cao ở một số quốc gia trong khi một số sản phẩm khác được sản xuất rộng rãi. Sản phẩm được sản xuất rộng rãi hơn thường hay có sự thay đổi về quốc gia đứng đầu.
+Các loại nông sản chính có thể được nhóm thành các nhóm gồm thực phẩm, sợi, nhiên liệu, và vật liệu thô.
+Loại nông sản.
+Ngũ cốc.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT:
+Rau.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT:
+Quả.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT:
+Sữa.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT:
+Thức uống.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT: 
+Thịt.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT:
+Hạt cứng.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT: 
+Gia vị.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT: 
+Khác.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT: 
+Sản phẩm không phải thực phẩm.
+Sợi.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT.
+Lâm sản.
+, theo Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc, FAOSTAT:
+1Wood fuel includes all wood for fuel as firewood, wood pellets, and charcoal&lt;br&gt;
+2Sawnwood includes all sawn wood, dimensional lumber&lt;br&gt;
+3Wood-based panel includes all plywood, particleboard, fiberboard and veneer sheets&lt;br&gt;
+4Paper and Paperboard includes all paper, sanitary paper, and packaging materials &lt;br&gt;
+5Dissolving wood pulp includes cellulose extracted from wood for making synthetic fibres, cellulose plastic materials, lacquers and explosives
+

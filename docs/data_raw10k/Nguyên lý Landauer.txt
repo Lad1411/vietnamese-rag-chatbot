@@ -1,0 +1,16 @@
+Nguyên lý Landauer
+
+Nguyên lý Landauer, lần đầu được nêu vào năm 1961 bởi Rolf Landauer ở IBM , nói rằng 
+Cụ thể, việc xoá một bit thông tin sẽ làm entropy tăng: 
+với "k" là hằng số Boltzmann, và có thể dẫn đến sự toả ra môi trường ở nhiệt độ "T" một nhiệt lượng là:
+Mặt khác, với các quá trình tính toán thuận nghịch, có thể thực hiện bởi các quá trình nhiệt động lực học thuận nghịch, không làm tăng entropy, và không gây ra sự toả nhiệt ra môi trường.
+Nguyên lý Landauer giải thích tại sao các máy tính hiện nay, khi thực hiện tính toán (không thuận nghịch) đều toả ra nhiệt và cần có hệ thống làm mát.
+Nguyên lý này, gần đây, bị đặt nghi vấn bởi Earman và Norton (1998), và Shenker (2000) hay Norton (2004).
+Tháng 3 năm 2012, một đội các nhà vật lý đến từ Đại học Augsburg, Đại học Kaiserslautern ở Đức và École normale supérieure de Lyon Pháp đã đăng một bài báo trên tạp chí Nature cho thấy lần đầu tiên họ đã đo được lượng nhiệt tỏa ra khi thực hiện xóa bit thông tin và xác nhận bằng thực nghiệm nguyên lý này.
+Phân tích.
+Nguyên lý Landauer có thể được hiểu là hệ quả của định luật hai nhiệt động lực học—nói rằng entropy của một hệ kín không thể giảm—cùng với định nghĩa của nhiệt độ nhiệt động lực.
+Khi số trạng thái lô gíc của một hệ giảm (quá trình tính toán bất thuận nghịch) nó gây ra một sự giảm entropy thông tin, bị ngăn cản bởi định luật hai nhiệt động lực học, trừ phi số trạng thái vật lý (không mang thông tin) tăng lên, để giữ tổng số trạng thái ít nhất là không nhỏ hơn ban đầu. Điều này dẫn đến tổng số trạng thái vật lý tăng, làm cho entropy nhiệt động lực tăng theo.
+Entropy cực đại của một hệ thống có hạn là có hạn. Lý thuyết trường lượng tử quy định một hệ có thể tích và năng lượng giới hạn phải có entropy có hạn. Để entropy của máy tính không tăng vượt quá giới hạn, nó cần trao đổi lượng entropy dư thừa "S" với môi trường ở nhiệt độ "T", dẫn đến nhiệt lượng toả ra cho môi trường "Q" = "ST".
+Ví dụ, khi một bit bị xoá, entropy thông tin mất "k" ln 2, dẫn đến entropy vật lý tăng "k" ln 2, và nhiệt toả ra cho môi trường là "Q" ≥ "kT" ln 2.
+Biểu thức này lần đầu được giới thiệu bởi John von Neumann, nhưng được chứng minh cẩn thận lần đầu bởi Landauer.
+

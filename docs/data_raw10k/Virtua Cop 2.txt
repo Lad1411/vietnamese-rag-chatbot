@@ -1,0 +1,15 @@
+Virtua Cop 2
+
+Virtua Cop 2 là một trò chơi bắn súng nhẹ, được phát hành vào năm 1995 và phát triển nội bộ tại Sega bởi studio Sega AM2 của họ. Nó đã được chuyển đến trên hệ máy Sega Saturn năm 1996. Nó đã được phát hành trên PC vào năm 1997 và Sega Dreamcast vào năm 2000. Sau đó, nó đã được gửi kèm với "Virtua Cop" trong "Virtua Cop: Elite Edition" cho PlayStation 2 vào năm 2002.
+Trò chơi này được biết đến như là Virtua Squad 2 để phát hành PC ở Bắc Mỹ.
+Phiên bản kế thừa của trò chơi hiện nay là "Virtua Cop 3".
+Lối chơi.
+Người chơi sẽ vào vai một cảnh sát đặc nhiệm với nhiệm vụ duy nhất: hạ các tên tội phạm. Game có 3 màn cho người chơi với độ khó tăng dần. Người chơi điều khiển bằng cách rê chuột, click chuột trái để bắn và click chuột phải để nạp đạn đối với người chơi 1 và di chuyển bằng các phím mũi tên, nhấn số 0 để bắn và nhấn số 3 để nạp đạn đối với người chơi 2, bên cạnh đó là hàng loạt con tin có thể xuất hiện làm vướng đường bắn với câu "Somebody help me!" hoặc "Don't shoot!". Game có 2 con đường để bạn lựa chọn trong các màn, mỗi đường sẽ có một hướng đi khác nhau và độ khó khác nhau, cụ thể là:
+Sau khi đã chiến thắng cả 3 màn, người chơi sẽ đến với màn đặc biệt. Màn này chỉ cần 15 phát bắn là hạ được trùm.
+Kết thúc trò chơi, người chơi sẽ được xem thành tích của mình qua bảng xếp hạng.
+Trước khi chơi, người chơi có thể cài đặt số mạng, số vạch máu. Theo mặc định thì người chơi sẽ bắt đầu với 5 mạng, trong mỗi mạng có 4 vạch máu. Mỗi lần bị khủng bố bắn hoặc bắn phải con tin thì một vạch máu sẽ biến mất. Nếu hết máu và mạng, trò chơi sẽ kết thúc.
+Ở cuối mỗi màn, người chơi sẽ phải đối chọi với một tên trùm với khả năng siêu việt, cụ thể:
+Game này có hệ thống tính điểm khác với Virtua Cop 1: Điểm sẽ xuất hiện sau khi kết thúc mỗi cảnh, qua màn, hoặc mất 1 mạng.
+Vũ khí.
+Game có hệ thống vũ khí gồm súng lục 6 viên đi "tiếp tay" khủng bố. Trong game này còn có súng tự động, shotgun, súng magnum, súng trường và súng máy được giấu ở một số nơi như thùng gỗ, thùng rác... và bên cạnh đó là những can xăng/dầu có thể bắn vào gây nổ để giết nhiều tên địch một cách nhanh, gọn. Cụ thể:
+

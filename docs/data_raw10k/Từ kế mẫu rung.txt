@@ -1,0 +1,17 @@
+Từ kế mẫu rung
+
+Từ kế mẫu rung, (tiếng Anh: "vibrating sample magnetometer", viết tắt là "VSM") là một dụng cụ đo các tính chất từ của vật liệu từ, hoạt động trên nguyên tắc thu tín hiệu cảm ứng điện từ khi rung mẫu đo trong từ trường.
+Lịch sử.
+Từ kế mẫu rung lần đầu tiên được phát minh vào giữa những năm 50 của thế kỷ 20, bởi tiến sĩ Simon Foner, một nhà nghiên cứu của Viện Công nghệ Massachusetts (MIT), Mỹ. Simon Foner đã nhận giải thưởng Joseph F. Keithley cho phát minh này vào năm 1999 và VSM đã là một trong những thiết bị phổ thông nhất trong nghiên cứu vật liệu từ.
+Sơ lược.
+Như đã nói, từ kế mẫu rung hoạt động theo nguyên tắc cảm ứng điện từ. Nó đo mômen từ của mẫu cần đo trong từ trường ngoài.
+Mẫu đo được gắn vào một thanh rung không có từ tính, và được đặt vào một vùng từ trường đều tạo bởi 2 cực của nam châm điện. Mẫu là vật liệu từ nên trong từ trường thì nó được từ hóa và tạo ra từ trường. Khi ta rung mẫu với một tần số nhất định, từ thông do mẫu tạo ra xuyên qua cuộn dây thu tín hiệu sẽ biến thiên và sinh ra suất điện động cảm ứng V, có giá trị tỉ lệ thuận với mômen từ M của mẫu theo quy luật cho bởi:
+formula_1
+với M là mômen từ của mẫu đo, formula_2 là tiết diện vòng dây, n là số vòng dây của cuộn dây thu tín hiệu.
+Trong các từ kế phổ thông, người ta sử dụng 2 cuộn dây thu tín hiệu đối xứng nhau, gọi là cặp cuộn dây pick-up ("pick-up coil"), là hệ 2 cuộn dây đối xứng nhau, cuốn ngược chiều trên lõi là một vật liệu từ mềm. Ngoài ra, để tăng độ nhạy cho từ kế, người ta có thể thay cuộn dây thu tín hiệu bằng thiết bị giao thoa kế lượng tử siêu dẫn ("superconducting quantum interference device" - SQUID), là một tiếp xúc chui hầm Josephson có thể đo các lượng tử từ thông, do đó độ nhạy của thiết bị được tăng lên rất nhiều. Với cuộn dây thu này, ta có từ kế SQUID, thường hoạt động ở nhiệt độ thấp (vì hiện nay chỉ có các vật liệu siêu dẫn đạt trạng thái siêu dẫn ở nhiệt độ thấp.
+Nam châm điện trong từ kế cũng là một bộ phận rất quan trọng để tạo ra từ trường từ hóa vật liệu cần đo. Nếu nam châm điện là cuộn dây tạo từ trường bằng dòng điện một chiều ổn định, thì từ trường tạo ra là một chiều ổn định, nhưng thường không lớn, do bị hạn chế bởi từ độ bão hòa của lõi thép và cuộn dây một chiều không thể cho dòng điện lớn chạy qua (sẽ tỏa rất nhiều nhiệt). Loại nam châm kiểu này chỉ sử dụng từ trường cực đại cỡ xung quanh 3 T.
+Người ta có thể tạo ra từ trường lớn bằng cách sử dụng từ trường xung. Tức là dùng một dòng điện cực lớn dạng xung phóng qua cuộn dây, để tạo ra từ trường lớn (có thể tới hàng chục Tesla) trong một thời gian cực ngắn. Tuy vậy, hạn chế của cách này là vì thời gian của từ trường ngắn, nên phải có cách ghi tín hiệu khác (vì từ trường quá ngắn có thể ảnh hưởng đến khả năng cảm ứng của vật liệu trong từ trường ngoài).
+Cuộn dây siêu dẫn cũng là một cách tạo từ trường một chiều lớn và ổn định. Người ta sử dụng những cuộn dây siêu dẫn (hoạt động ở nhiệt độ thấp) để tạo ra từ trường cực lớn ổn định. Hạn chế của cách này là cuộn dây phải hoạt động ở nhiệt độ thấp nên chi phí hoạt động thường cao. Cuộn dây siêu dẫn thường sử dụng trong từ kế SQUID.
+Các phép đo đạc sử dụng từ kế mẫu rung.
+Như đã nói, từ kế mẫu rung đo mômen từ của vật từ. Đơn vị của mômen từ thường sử dụng trong từ kế mẫu rung là emu ("electromagnetic unit"), formula_3, và tùy theo việc đo mômen từ theo đại lượng nào sẽ có tương ứng phép đo đó:
+

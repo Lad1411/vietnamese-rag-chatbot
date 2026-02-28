@@ -1,0 +1,21 @@
+Bảng chữ cái Hy Lạp
+
+Bảng chữ cái Hy Lạp (Tiếng Hy Lạp: "Ελληνικό αλφάβητο" - "Elleniká alphábeto") là hệ thống 24 ký tự được dùng để viết tiếng Hy Lạp từ cuối thế kỷ thứ IX trước Công nguyên hoặc đầu thế kỷ thứ VIII trước Công nguyên. Theo nghĩa hẹp đây là bảng chữ cái đầu tiên và lâu đời ghi mỗi nguyên âm và phụ âm bằng một biểu tượng riêng. Nó cũng được sử dụng như vậy cho đến ngày nay. Những chữ cái này cũng được dùng trong bảng số Hy Lạp từ thế kỷ thứ II trước Công nguyên.
+Bảng chữ cái Hy Lạp được kế thừa từ Bảng chữ cái Phoenicia, và nó không hề liên quan đến hệ thống chữ viết trước của Hy Lạp là Linear B hay Cypriot. Nó cũng là nền tảng cho nhiều bảng chữ cái khác ở châu Âu và Trung Đông, bao gồm cả bảng chữ cái Latinh. Ngoài việc được sử dụng để viết tiếng Hy Lạp hiện đại, ngày nay các chữ cái này cũng được dùng như những biểu tượng Toán và khoa học, Vật lý hạt trong Vật lý, hay tên các ngôi sao, tên của các cơn bão nhiệt đới siêu cấp và trong những mục đích khác, chẳng hạn như hóa học...
+Ký tự chính.
+Dưới đây là bảng chữ cái Hy Lạp, cùng với dạng của nó sau khi đã chuyển tự. Bảng này cũng cung cấp các ký tự Phoenicia tương ứng với mỗi chữ cái Hy Lạp. Phát âm sử dụng Bảng mẫu tự phiên âm quốc tế.
+!rowspan="2" style="background:#ccf;"|Chữ cái
+!rowspan="2" style="background:#ccf;"|Chữ cáiPhoeniciatương ứng
+!colspan="4" style="background:#ccf;"|Tên
+!colspan="2" style="background:#ccf;"|Chuyển tự
+!colspan="2" style="background:#ccf;"|Phát âm
+!rowspan="2" style="background:#ccf;"|Sốtương ứng
+!style="background:#ccffff;"|Tiếng Anh
+!style="background:#ccffff;"|TiếngHy Lạpcổ đại
+!style="background:#ccffff;"|TiếngHy Lạp(Trung cổ)
+!style="background:#ccffff;"|TiếngHy Lạphiện đại
+!style="background:#ccffff;"|TiếngHy Lạpcổ đại
+!style="background:#ccffff;"|TiếngHy Lạphiện đại
+!style="background:#ccffff;"|TiếngHy Lạpcổ
+!style="background:#ccffff;"|TiếngHy Lạphiện đại
+

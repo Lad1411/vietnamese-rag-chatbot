@@ -1,0 +1,37 @@
+Căn bậc hai
+
+Trong toán học, căn bậc hai của một số "a" là một số "x" sao cho , hay nói cách khác là số "x" mà bình phương lên thì "a". Ví dụ, 4 và −4 là căn bậc hai của 16 vì .
+Mọi số thực "a" không âm đều có một căn bậc hai không âm duy nhất, gọi là "căn bậc hai số học", ký hiệu , ở đây √ được gọi là "dấu căn". Ví dụ, căn bậc hai số học của 9 là 3, ký hiệu = 3, vì và 3 là số không âm.
+Mọi số dương "a" đều có hai căn bậc hai: là căn bậc hai dương và − là căn bậc hai âm. Chúng được ký hiệu đồng thời là ± (xem dấu ±). Mặc dù căn bậc hai chính của một số dương chỉ là một trong hai căn bậc hai của số đó, việc gọi "căn bậc hai" thường đề cập đến "căn bậc hai số học". Đối với số dương, căn bậc hai số học cũng có thể được viết dưới dạng ký hiệu lũy thừa, như là "a"1/2.
+Căn bậc hai của số âm có thể được bàn luận trong khuôn khổ số phức.
+Tính chất và sử dụng.
+Hàm số căn bậc hai chính "f" ("x") = (thường chỉ gọi là "hàm căn bậc hai") là một hàm số vạch ra tập hợp các số không âm. Căn bậc hai của "x" là số hữu tỉ khi và chỉ khi "x" là số hữu tỉ và có thể biểu diễn dưới dạng tỉ số căn bậc hai của hai số chính phương. Về phương diện hình học, đồ thị của hàm căn bậc hai xuất phát từ gốc tọa độ và có dạng một nửa parabol.
+Đối với mọi số thực "" 
+Đối với mọi số thực không âm "x" và "y",
+formula_3
+Đối với mọi số thực không âm "x" và và số thực dương "y," 
+Hàm số căn bậc hai là hàm liên tục với mọi "x" không âm và khả vi với mọi "x" dương. Nếu "f" biểu thị hàm căn bậc hai thì đạo hàm của "f" là:
+Căn bậc hai của số không âm được dùng trong định nghĩa chuẩn Euclid (và khoảng cách Euclid), cũng như trong những sự tổng quát hóa như không gian Hilbert. Nó xác định khái niệm độ lệch chuẩn quan trọng sử dụng trong lý thuyết xác suất và thống kê, được dùng trong công thức nghiệm của phương trình bậc hai; trường bậc hai..., đóng vai trò quan trọng trong đại số và có áp dụng trong hình học. Căn bậc hai xuất hiện thường xuyên trong các công thức toán học cũng như vật lý.
+Tính căn bậc hai.
+Hiện nay đa phần máy tính bỏ túi đều có phím căn bậc hai. Các bảng tính máy tính và phần mềm khác cũng thường được sử dụng để tính căn bậc hai. Máy tính bỏ túi thường thực hiện những chương trình hiệu quả, như phương pháp Newton, để tính căn bậc hai của một số thực dương. Khi tính căn bậc hai bằng bảng lôgarit hay thước lôga, có thể lợi dụng đồng nhất thức
+trong đó và 10 lần lượt là logarit tự nhiên và logarit thập phân.
+Vận dụng phương pháp thử (thử và sai, trial-and-error) có thể ước tính và thêm bớt cho tới khi đủ độ chính xác cần thiết. Giờ xét một ví dụ đơn giản, để tính , trước tiên tìm hai số chính phương gần nhất với số dưới dấu căn, một số lớn hơn và một số nhỏ hơn, đó là 4 và 9. Ta có &lt; &lt; hay 2 &lt; &lt; 3, từ đây có thể nhận thấy nhỏ hơn và gần 2,5, chọn giá trị ước tính là 2,4. Có 2,42 = 5,76 &lt; 6 &lt; 6,25 = 2,52 suy ra 2,4 &lt; &lt; 2,5; từ đây tiếp tục thấy rằng gần với trung bình của 2,4 và 2,5, vậy giá trị ước đoán tiếp theo là 2,45...
+Phương pháp lặp phổ biến nhất để tính căn bậc hai mà không dùng máy tính được biết đến với tên gọi "phương pháp Babylon hay "phương pháp Heron" theo tên người đầu tiên mô tả nó, triết gia người Hy Lạp Heron of Alexandria.
+Phương pháp này sử dụng sơ đồ lặp tương tự phương pháp Newton–Raphson khi ứng dụng hàm số y = f("x")="x"2 − "a".
+Thuật toán là sự lặp lại một cách tính đơn giản mà kết quả sẽ ngày càng gần hơn với căn bậc hai thực mỗi lần lặp lại. Nếu "x" ước tính lớn hơn căn bậc hai của một số thực không âm "a" thì "a"/"x" sẽ nhỏ hơn và bởi vậy trung bình của hai số này sẽ là giá trị chính xác hơn bản thân mỗi số. Tuy nhiên, bất đẳng thức AM-GM chỉ ra giá trị trung bình này luôn lớn hơn căn bậc hai thực, do đó nó sẽ được dùng như một giá trị ước tính mới lớn hơn đáp số thực để lặp lại quá trình. Sự hội tụ là hệ quả của việc các kết quả ước tính lớn và nhỏ hơn gần nhau hơn sau mỗi bước tính. Để tìm "x":
+Vậy, nếu "x"0 là đáp số phỏng đoán của và thì mỗi xn sẽ xấp xỉ với hơn với "n" lớn hơn.
+Áp dụng đồng nhất thức
+việc tính căn bậc hai của một số dương có thể được đơn giản hóa thành tính căn bậc hai của một số trong khoảng . Điều này giúp tìm giá trị đầu cho phương pháp lặp gần hơn với đáp số chuẩn xác.
+Một phương pháp hữu dụng khác để tính căn bậc hai là thuật toán thay đổi căn bậc n, áp dụng cho .
+Căn bậc hai của số nguyên dương.
+Một số dương có hai căn bậc hai, một dương và một âm, trái dấu với nhau. Khi nói về căn bậc hai của một số nguyên dương, nó thường là căn bậc hai dương.
+Căn bậc hai của một số nguyên là số nguyên đại số — cụ thể hơn là số nguyên bậc hai.
+Căn bậc hai của một số nguyên dương là tích của các căn của các thừa số nguyên tố của nó, vì căn bậc hai của một tích là tích của các căn bậc hai của các thừa số. Vì formula_6 , chỉ có gốc của các số nguyên tố đó cần có một lũy thừa lẻ trong việc phân tích nhân tử. Chính xác hơn, căn bậc hai của một thừa số nguyên tố là : 
+formula_7
+Dưới dạng mở rộng thập phân.
+Căn bậc hai của các số chính phương (ví dụ: 0, 1, 4, 9, 16) là các số nguyên. Các số nguyên dương khác thì căn bậc hai đều là số vô tỉ và do đó có các số thập phân không lặp lại trong biểu diễn thập phân của chúng. Các giá trị gần đúng thập phân của căn bậc hai của một vài số tự nhiên đầu tiên được cho trong bảng sau.
+Căn bậc hai của số âm và số phức.
+Bình phương của mọi số dương và âm đều là số dương, và bình phương của 0 là 0. Bởi vậy, không số âm nào có căn bậc hai thực. Tuy nhiên ta có thể tiếp tục với một tập hợp số bao quát hơn, gọi là tập số phức, trong đó chứa đáp số căn bậc hai của số âm. Một số mới, ký hiệu là "i" (đôi khi là "j", đặc biệt trong điện học, ở đó "i" thường mô tả dòng điện), gọi là đơn vị ảo, được định nghĩa sao cho . Từ đây ta có thể tưởng tượng "i" là căn bậc hai của −1, nhưng để ý rằng do đó −"i" cũng là căn bậc hai của −1. Với quy ước này, căn bậc hai chính của −1 là "i", hay tổng quát hơn, nếu "x" là một số không âm bất kỳ thì căn bậc hai chính của −"x" là
+Vế phải đích thực là căn bậc hai của −"x", bởi 
+Đối với mọi số phức "z" khác 0 tồn tại hai số "w" sao cho : căn bậc hai chính của "z" và số đối của nó.
+

@@ -1,0 +1,7 @@
+Google Drive
+
+Google Drive là dịch vụ lưu trữ và đồng bộ hóa tập tin được tạo bởi Google. Nó cho phép người dùng có thể lưu trữ tập tin trên đám mây, chia sẻ tập tin, và chỉnh sửa tài liệu, văn bản, bảng tính và bài thuyết trình với cộng tác viên. Google Drive bao gồm Google Docs, Sheets và Slides, một bộ phần mềm văn phòng cho phép chỉnh sửa tài liệu, bảng tính, thuyết trình, bản vẽ, biểu mẫu...
+Dung lượng.
+Google cho mỗi người dùng 15GB để lưu trữ, có thể lưu trữ qua ba dịch vụ cùng một lúc: Google Drive, Gmail, và Google Photos (nếu người dùng muốn giữ dung lượng gốc để không ảnh hưởng chất lượng của hình ảnh), trước đây là Picasa Web Albums. Người dùng có thể nâng cấp dung lượng 15GB theo chi phí gói trả hàng tháng để tăng dung lượng lưu trữ. Tài liệu sử dụng Google Docs theo định dạng (kể cả.gdoc, .gslides, và .gsheet) không tính bị giới hạn. Trong Google+ Photos, hình ảnh phải nhỏ hơn 2048 x 2048 pixel và video phải ngắn hơn 15 phút sẽ không giới hạn. Tải tệp tin trong Microsoft Office và có định dạng mở (với thay đổi định dạng) sẽ định dạng theo Google và có thể lưu trữ không bị giới hạn.
+, chi phí cho việc nâng cấp:
+

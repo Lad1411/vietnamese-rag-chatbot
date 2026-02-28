@@ -1,0 +1,11 @@
+Chu vi hình tròn
+
+Chu vi hình tròn hay độ dài đường tròn là đường biên giới hạn của hình tròn. 
+Công thức.
+Muốn tính chu vi hình tròn ta lấy đường kính nhân 3,14 hoặc bán kính nhân 2 rồi nhân 3,14
+Công thức của chu vi hình tròn là:
+Trong đó: 
+Quan hệ với Pi.
+Chu vi của hình tròn liên quan với Pi. Giá trị của Pi là 3,141592653589793... (xem Pi), được quy ước với giá trị gần đúng là 3,14. Pi được định nghĩa là tỷ lệ của chu vi formula_3.
+Các hằng số π được sử dụng phổ biến trong toán học, kỹ thuật và khoa học. Trong khi nó được đặt tên trong toán học thì kỹ thuật và khoa học nó không được đặt tên. Nó được sử dụng bởi radio, lập trình máy tính và hằng số vật lý. Vì giá trị của Pi rất dài nên công thức có thể đơn giản hóa là d*3,14.
+

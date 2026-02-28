@@ -1,0 +1,22 @@
+Thẩm định giá bất động sản
+
+Thẩm định giá bất động sản là quá trình xác định giá trị của bất động sản. Khác với một số loại tài sản tài chính như cổ phiếu, trái phiếu, giá trị của bất động sản có thể bị thay đổi nếu một số yếu tố như vị trí, diện tích, tình trạng tài sản khác nhau.
+Các phương pháp thẩm định giá bất động sản.
+Thẩm định giá bất động sản sẽ sử dụng ba cách tiếp cận chính: cách tiếp cận từ thị trường, cách tiếp cận từ chi phí, và cách tiếp cận từ thu nhập. Không có cách thẩm định nào tối ưu mà phải tùy vào mục đích thẩm định để thẩm định viên có thể lựa chọn cách tiếp cận phù hợp.
+Cách tiếp cận từ thị trường.
+Cách tiếp cận này dựa vào việc so sánh các đặc điểm của bất động sản tương tự với bất động sản cần thẩm định như vị trí, diện tích, tiện nghi, và các yếu tố khác đã được giao dịch gần đây trên thị trường.
+Nếu bất động sản tương tự có đặc điểm nào đó hơn hẳn so với tài sản cần thẩm định thì cần điều chỉnh giảm đối với đặc điểm đó. Ngược lại, trong trường hợp nếu bất động sản tương tự có đặc điểm nào đó kém hơn so với tài sản cần thẩm định thì cần điều chỉnh tăng đối với đặc điểm đó. Việc điều chỉnh các đặc điểm này có phần chủ quan và phải dựa vào kinh nghiệm của thẩm định viên trong quá trình hành nghề.
+Cách tiếp cận từ chi phí.
+Trong cách tiếp cận này, giá trị bất động sản được ước tính bằng cách tính toán chi phí thay thế hoặc chi phí tái tạo cấu trúc đất trừ (-) khấu hao và cộng (+) với giá trị địa điểm. Giá trị thu được có thể lớn hơn, hoặc nhỏ hơn giá trị thị trường.
+Phương pháp chi phí tái tạo được sử dụng trong tình huống một công trình cổ, công trình lịch sử cần được tái tạo lại như ban đầu. Trong phương pháp này có thể suy nghĩ tới trường hợp bất động sản càng cũ và có giá trị lịch sử cao thì chênh lệch giữa chi phí thay thế và tái sản xuất càng cao. Việc xây dựng một tài sản trùng lặp của một tòa nhà lịch sử sẽ tốn kém hơn so với việc nhân bản một ngôi nhà hiện đại vì sẽ tốn nhiều tiền hơn để mua vật liệu và tiến hành cải tạo địa điểm.
+Phương pháp chi phí tái tạo được hiểu ngắn gọn như là tạo ra một bản sao y hệt như ban đầu. Phương pháp chi phí thay thế thì tạo ra một tiện ích tương tự ban đầu.
+Tổng thể về cách tiếp cận từ thị trường nó cho thấy được một tín hiệu tốt về giá thị trường khi các loại tài sản này đều được giả định là mới và được sử dụng một cách tốt nhất và hiệu quả nhất.
+Cách tiếp cận từ thu nhập.
+Cách tiếp cận này được sử dụng để xác định giá trị thị trường của một bất động sản dựa trên thu nhập mà nó đem lại. Cụ thể, đó là những bất động sản thương mại hay những dự án đầu tư bất động sản. Cách tiếp cận từ thu nhập cũng có nét tương đồng giống như tài chính chiết khấu dòng tiền tương lai về giá trị hiện tại.
+Phương pháp vốn hóa trực tiếp.
+Phương pháp vốn hóa trực tiếp xác định giá trị của tài sản dựa trên thu nhập trong khoảng thời gian 1 năm được tính theo công thức "thu nhập hoạt động thuần/tỷ suất vốn hóa". Giả định rằng cả chi phí và thu nhập sẽ không đổi từ năm này sang năm khác. Do giả định này, phương pháp áp dụng phù hợp nhất cho các bất động sản tạo ra thu nhập ổn định từ năm này sang năm khác. Khi so sánh các thuộc tính bằng cách sử dụng phương pháp vốn hóa trực tiếp, phải đảm bảo duy trì sự nhất quán với các giả định được đưa vào công thức tính thu nhập hoạt động thuần.
+Phương pháp dòng tiền chiết khấu (DCF).
+Phương pháp dòng tiền chiết khấu là phương pháp định giá bất động sản thương mại hay dự án đầu tư bằng cách chiết khấu dòng tiền trong tương lai của tài sản cần thẩm định về thời điểm hiện tại. Phương pháp này cũng có thể áp dụng trong tình huống tìm ra giá trị của một khoản đầu tư ngày hôm nay, dựa trên những dự đoán về số tiền mà nó sẽ tạo ra trong tương lai.
+Vai trò đối với nền kinh tế.
+Thẩm định giá bất động sản là hoạt động cần thiết cho quá trình thúc đẩy phát triển kinh tế bởi vì nó giúp xác định đúng giá trị của các loại tài sản như: nhà ở, căn hộ, công trình xây dựng, dự án đầu tư xây dựng... Trong bối cảnh thị trường bất động sản ngày nay đang trải qua sự thao túng, cạnh tranh không lành mạnh, làm cho giá tăng rất nhiều lần so với giá trị thực. Vì vậy, thẩm định giá bất động sản góp phần cung cấp thêm nhiều thông tin minh bạch, khách quan về giá trị của các loại tài sản cho các bên liên quan. Từ đó giúp nhà đầu tư, các doanh nghiệp, các khách hàng đưa ra quyết định đúng đắn hơn, giảm thiểu rủi ro và làm lành mạnh hóa thị trường bất động sản cũng như nền kinh tế phụ thuộc.
+

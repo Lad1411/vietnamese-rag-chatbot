@@ -1,0 +1,20 @@
+Trường hữu hạn
+
+Trong toán học, một trường hữu hạn là một trường chứa một số hữu hạn các phần tử. Ví dụ phổ biến nhất của các trường hữu hạn là các số nguyên mod với là số nguyên tố.
+Tính chất.
+Số lượng phần tử của một trường hữu hạn được gọi là "cấp" hoặc "bậc" của nó, hoặc đôi khi, "kích thước" của nó. Trường hữu hạn cấp tồn tại khi và chỉ khi là một lũy thừa nguyên tố (trong đó là số nguyên tố và là số nguyên dương). Trong cấp , tổng của lần bất kỳ phần tử nào luôn có kết quả bằng 0; tức là, đặc số của trường là .
+Nếu formula_1 tất cả các trường cấp là đẳng cấu. Hơn nữa, một trường không thể chứa hai trường con hữu hạn khác nhau có cùng cấp. Do đó, người ta có thể xác định tất cả các trường hữu hạn có cùng cấp và chúng được ký hiệu là formula_2, hoặc .
+Tất cả các phần tử của một trường hữu hạn cấp đều là nghiệm của đa thức . Các phần tử khác không của một trường hữu hạn tạo thành một nhóm nhân. Nhóm này là xiclic, vì vậy tất cả các phần tử khác không có thể được biểu diễn dưới dạng lũy thừa của một phần tử duy nhất gọi là phần tử nguyên thủy của trường. (Nói chung một trường có nhiều hơn một phần tử nguyên thủy.)
+Sự tồn tại và tính duy nhất.
+Đặt là một lũy thừa nguyên tố và formula_4 là trường phân rã của đa thức
+trên trường . Thế thì formula_4 là một trường hữu hạn có cấp bằng formula_7.
+Việc mọi trường cấp formula_7 đều đẳng cấu với nhau là hệ quả của tính duy nhất xê xích một đẳng cấu của trường phân rã. Ngoài ra, nếu một trường có một trường con formula_9 với cấp   thì các phần tử của formula_9 là các nghiệm của đa thức và formula_9 là trường con cấp formula_12 duy nhất của formula_4.
+Xây dựng tường minh.
+Các trường không nguyên tố.
+Với một lũy thừa nguyên tố với số nguyên tố và , trường có thể được xây dựng tường minh như sau. Đầu tiên ta chọn một đa thức bất khả quy trong sao cho bậc của formula_14 bằng ("định lý -" luôn tồn tại một đa thức như vậy). Thế thì vành thương
+của vành đa thức bởi i-đê-an chính sinh bởi là một trường cấp .
+Trường bốn phần tử.
+Trên , chỉ có một đa thức bất khả quy bậc duy nhất:
+Do đó, ta có một đẳng cấu formula_17.
+Nếu ký hiệu là một nghiệm của đa thức formula_14 trong , ta có bảng các phép toán trong như sau. 
+

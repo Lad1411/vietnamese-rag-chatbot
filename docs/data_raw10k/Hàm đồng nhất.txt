@@ -1,0 +1,11 @@
+Hàm đồng nhất
+
+Trong toán học, hàm đồng nhất (), còn gọi là quan hệ đồng nhất, ánh xạ đồng nhất hay phép biến đổi đồng nhất, là một hàm số luôn luôn trả về giá trị bằng chính tham số của nó. Cụ thể, hàm đồng nhất là hàm số thỏa với mọi .
+Định nghĩa.
+Chính xác hơn, nếu là một tập hợp, hàm đồng nhất trên được định nghĩa là hàm với tập xác định và tập giá trị thỏa mãn:
+Hàm số trên vừa là đơn ánh vừa là toàn ánh, nên nó là song ánh.
+Hàm đồng nhất trên thường được ký hiệu là .
+Tính chất đại số.
+Nếu là một hàm số bất kỳ thì ta có (trong đó "∘" ký hiệu hàm hợp). Nói cách khác, là phần tử đơn vị của monoid của tất cả hàm số từ đến .
+Do phần tử đơn vị của một monoid là duy nhất, ta có thể định nghĩa hàm đồng nhất trên là phần tử đơn vị này. Định nghĩa như thế mở rộng cho trường hợp ánh xạ đồng nhất trong lý thuyết phạm trù, khi ấy pháp tự đồng cấu của không nhất thiết là hàm số.
+

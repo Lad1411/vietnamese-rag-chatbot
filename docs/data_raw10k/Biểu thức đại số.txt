@@ -1,0 +1,14 @@
+Biểu thức đại số
+
+Trong toán học, một biểu thức đại số là một biểu thức được xây dựng từ các hằng số nguyên, biến và các phép toán đại số (cộng, trừ, nhân, chia và lũy thừa với số mũ là một số hữu tỷ). Ví dụ: là biểu thức đại số. Vì căn bậc hai cũng giống như lũy thừa với số mũ , nên
+cũng là một biểu thức đại số.
+Ngược lại, các số siêu việt như và không phải là số đại số, vì chúng không xuất phát từ hằng số nguyên và các phép toán đại số. Thông thường, Pi được xây dựng như một mối quan hệ hình học và định nghĩa của đòi hỏi "vô số" các phép toán đại số.
+Biểu thức hữu tỷ là biểu thức có thể được viết lại thành hàm phân thức bằng cách sử dụng các thuộc tính của các phép toán số học (tính chất giao hoán và tính chất kết hợp của phép cộng và phép nhân, thuộc tính phân phối và quy tắc cho các phép toán trên phân số). Nói cách khác, một biểu thức hữu tỷ là một biểu thức có thể được xây dựng từ các biến và hằng số bằng cách chỉ sử dụng bốn phép toán số học. Do vậy,
+là một biểu thức hữu tỷ, trong khi
+không phải là một biểu thức hữu tỷ.
+Phương trình hữu tỉ là một phương trình trong đó hai phân số hữu tỉ (hoặc biểu thức hữu tỉ) có dạng
+được đặt là bằng nhau. Các biểu thức này tuân theo các quy tắc tương tự như phân số. Các phương trình có thể được giải quyết bằng cách nhân chéo. Phép chia cho số 0 là không xác định, do đó, một lời giải gây ra phép chia cho số 0 bị từ chối.
+Thuật ngữ.
+Đại số có thuật ngữ riêng để mô tả các phần của biểu thức: 
+ 1 - số mũ, 2 - hệ số, 3 - hạng tử, 4 - toán tử, 5 - hằng số, formula_5 - biến 
+

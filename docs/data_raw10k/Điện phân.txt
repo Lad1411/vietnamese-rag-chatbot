@@ -1,0 +1,118 @@
+Điện phân
+
+Trong hóa học và sản xuất chế tạo, điện phân là một phương thức sử dụng một dòng điện một chiều để thúc đẩy một phản ứng hóa học mà nếu không có dòng điện nó không tự xảy ra. Điện phân có tầm quan trọng cao về mặt thương mại do nó là một khâu trong việc tách riêng các nguyên tố hóa học từ những nguồn tài nguyên trong tự nhiên như quặng. Điện áp cần thiết để hiện tượng điện phân xảy ra được gọi là thế điện phân. Quá trình điện phân về bản chất là quá trình ngược với pin điện hóa.
+Phân loại Điện phân.
+Có hai loại điện phân: Điện phân nóng chảy và Điện phân dung dịch.
+Dương cực-Anode.
+Điện cực dương (cực dương, dương cực, anot) là điện cực nối với cực dương của nguồn điện một chiều, là nơi hút các điện tử (anion)) về và xảy ra quá trình oxy hóa.
+Âm cực-Cathode.
+Điện cực âm (âm cực, cực âm, catot) là điện cực nối với cực âm của nguồn điện một chiều, là nơi các cation chạy về và xảy ra quá trình khử. Thực nghiệm cho thấy khi điện phân dung dịch chứa các ion kim loại đứng sau nhôm (Al) trong dãy thế điện hóa thì các ion kim loại này bị khử tạo thành kim loại bám vào điện cực catot. Ion nào càng đứng sau thì có tính oxy hóa càng mạnh nên càng bị khử trước ở catot.
+Thế điện cực.
+Định nghĩa.
+● Suất điện động:
+Hiệu của thế điện cực dương (E(+)) với thế điện cực âm (E(-)) được gọi là suất điện động của pin điện hóa:
+                              Epin   =  E(+)  - E(-)
+(ở ví dụ này E0pin   =  E0(Cu2+/ Cu) -    E0(Zn2+/Zn)).
+● Thế điện cực chuẩn kim loại:.
+- Điện cực KL mà nồng độ ion KL trong dung dịch bằng 1M được gọi là điện cực chuẩn.
+- Thế điện cực chuẩn của KL cần đo được chấp nhận bằng sđd của pin tạo bởi điện cực hydro chuẩn và điện cực chuẩn của KL cần đo.
+- Nếu KL đóng vai cực âm, thì thế điện cực chuẩn của KL có giá trị âm, nếu đóng vai trò cực dương thì thế điện cực chuẩn của KL có gía trị dương.
+Ý nghĩa của dãy thế điện cực chuẩn của KL..
+● So sánh tính oxy hóa-khử:.
+Trong dung dịch nước thế điện cực chuẩn của KL  E0Mn+/ M càng lớn thì tính oxy hóa của cation Mn+ và tính khử của KL M càng yếu. (ngược lại).
+● Xác định chiều của phản ứng oxi-hóa khử:.
+Cation KL trong cặp oxihóa-khử có thế điện cực chuẩn lớn hơn có thể oxihóa được KL trong cặp có thế điện cực chuẩn nhỏ hơn.
+- dựa vào thế điện cực chuẩn của KL để sắp xếp nhỏ bên trái, lớn bên phải.
+- viết phương trình phản ứng theo quy tắc anpha ().
+KL trong cặp oxihóa-khử có thế ĐCC âm khử được ion H+ của dung dịch axit.
+● Xác định suất điện động chuẩn của pin điện hóa:.
+Epin   =  E(+)  - E(-)
+suất điện động của pin điện hóa luôn là số dương
+● Xác định thế điện cực chuẩn của cặp oxy hóa-khử:.
+               E0pin X-Y = E0Yn+/Y - E0Xm+/X
+Khi biết E0pin X-Y, nếu biết E0Yn+/Y  Þ E0Xm+/X
+Ví dụ:
+Xác định E0Ni2+/Ni. Biết E0pin Ni-Cu = 0,60 V, E0Cu2+/Cu = 0,34V
+             E0pin Ni-Cu = E0Cu2+/Cu - E0Ni2+/Ni
+             Þ E0Ni2+/Ni = 0,34 – 0,6 = -0,28 V
+• Bảng giá trị thế điện cực chuẩn.
+Chú thích: ("s") – rắn; ("l") – lỏng; ("g") – khí; ("aq") – dung dịch; ("Hg") – hỗn hống; bold – phương trình phân ly nước.
+Phản ứng xảy ra.
+Điện phân nóng chảy.
+Điện phân chất điện li nóng chảy
+Ví dụ 1: Điện phân NaCl nóng chảy có thể biểu diễn bằng sơ đồ:
+Catot (–) ← NaCl → Anot (+)
+Na+ + 1e → Na                     2Cl- → Cl2 + 2e
+Phương trình điện phân: 2NaCl → 2Na + Cl2
+Ví dụ 2: Điện phân Al2O3 nóng chảy pha thêm criolit (Na3AlF6) có thể biểu diễn bằng sơ đồ:
+Catot (–) ← Al2O3 → Anot (+)
+4| Al3+ + 3e → Al                    3| 2O2- → O2 + 4e
+Phương trình điện phân là: 2Al2O3 → 4Al + 3O2
+Điện phân dung dịch.
+Tại Cathode.
+- Tại catot xảy ra quá trình khử cation (sau Al):  Mn+ + ne → M
+- Nếu điện phân dung dịch có các cation K+, Na+, Ca2+, Ba2+, Mg2+, Al3+ thì H2O sẽ tham gia điện phân theo PT: 2H2O + 2e → H2 + 2OH-
+- Nếu trong dung  dịch có nhiều cation thì cation nào có tính oxy hóa mạnh hơn sẽ bị điện phân trước.
+Tại Anode.
+Tại anot xảy ra quá trình oxy hóa anion:  Xn- → X + ne  
+Thứ tự anion bị oxy hóa: S2– &gt; I– &gt; Br– &gt; Cl– &gt; RCOO– &gt; OH– &gt; H2O
+Gốc axit có chứa oxi NO3–, SO42–, PO43–, CO32–, ClO4–… thì nước tham gia điện phân:  2H2O → O2 + 4H+ + 4e
+Nếu Anode không tan:.
+Nếu anode là chất trơ (không tan, như Bạch kim (Pt), than chì (có thể dùng lõi pin), các anion không chứa oxi sẽ bị oxy hóa ở anode, khi không còn anion không chứa oxi, nước sẽ bị oxy hóa, khi hết nước, quá trình điện phân sẽ ngừng.
+Nếu Anode tan:.
+Nếu anode không trơ thì anode sẽ bị tan và có thể phản ứng với dung dịch điện phân.
+Nếu không có vách ngăn giữa hai cực:.
+Thường thì bình điện phân có vách ngăn xốp ngăn thành hai phần, một phần chứa cathode, một phần chứa anode, nhưng nếu bỏ vách ngăn này, các chất tạo thành do điện phân sẽ phản ứng với dung dịch.
+Ví dụ:.
+Điện phân dung dịch NaCl không có vách ngăn, ta được nước Javel do Cl2 sinh ra phản ứng với NaOH tạo thành do điện phân:
+2NaCl + 2H2O đp=&gt; H2 + NaOH + Cl2
+2NaOH + Cl2 = NaCl + NaClO + H2O (hỗn hợp này gọi là nước Javel)
+Ví Dụ phản ứng điện phân.
+Ví dụ 1: Điện phân NaCl nóng chảy có thể biểu diễn bằng sơ đồ:
+Catot (–)     ←    NaCl    →    Anot (+)
+Na+ + 1e → Na                     2Cl- → Cl2 + 2e
+Phương trình điện phân: 2NaCl → 2Na + Cl2
+Ví dụ 2: Điện phân Al2O3 nóng chảy pha thêm criolit (Na3AlF6) có thể biểu diễn bằng sơ đồ:
+Catot (–)      ←      Al2O3    →  Anot (+)
+4| Al3+ + 3e → Al                    3| 2O2- → O2 + 4e
+Phương trình điện phân là: 2Al2O3 → 4Al + 3O2
+Ví dụ 3: Điện phân dung dịch CuCl2 với anot trơ có thể biểu diễn bằng sơ đồ:
+Catot (–)     ←     CuCl2      →      Anot (+)
+Cu2+ + 2e → Cu                            2Cl- → Cl2 + 2e
+Phương trình điện phân: CuCl2 → Cu + Cl2
+Ví dụ 4: Điện phân dung dịch NaCl bão hòa với điện cực trơ có màng ngăn có thể biểu diễn bằng sơ đồ:
+Catot (–)       ←     NaCl       →       Anot (+)
+H2O, Na+               (H2O)                 Cl-, H2O
+2H2O + 2e → H2 + 2OH-                 2Cl-  → Cl2 + 2e
+Phương trình điện phân: 2NaCl + 2H2O → 2NaOH + H2 + Cl2
+Nếu không có màng ngăn thì: Cl2 + 2NaOH → NaCl + NaClO + H2O
+=&gt; phương trình điện phân: NaCl + H2O → NaClO + H2
+Ví dụ 5: Điện phân dung dịch NiSO4 với anot trơ có thể biểu diễn bằng sơ đồ:
+Catot (–)      ←      NiSO4    →    Anot (+)
+Ni2+, H2O               (H2O)            H2O, SO42-  
+Ni2+ + 2e → Ni                            2H2O → O2 + 4H+ + 4e
+Phương trình điện phân là: 2NiSO4 + 2H2O → 2Ni + 2H2SO4 + O2
+Ví dụ 6: Điện phân dung dịch NiSO4 với anot bằng Cu có thể biểu diễn bằng sơ đồ:
+Catot (–)       ←         NiSO4      →      Cu (+)
+Ni2+, H2O                  (H2O)                H2O, SO42-
+Ni2+ + 2e → Ni                                   Cu → Cu2+ + 2e
+Phương trình điện phân là: NiSO4 + Cu → CuSO4 + Ni
+Ví dụ 7: Điện phân dung dịch hỗn hợp chứa FeCl3, CuCl2 và HCl với anot trơ có thể biểu diễn bằng sơ đồ:
+Định luật Faraday.
+Định Luật Điện phân Faraday:
+Khối lượng chất giải phóng ở mỗi điện cực tỉ lệ với điện lượng đi qua dung dịch và đương lượng của chất:  formula_1
+"Trong đó":
++ m: khối lượng chất giải phóng ở điện cực (gam)
++ A: khối lượng mol nguyên tử của chất thu được ở điện cực
++ n: số electron mà nguyên tử hoặc ion đã cho hoặc nhận
++ I: cường độ dòng điện (A)
++ t: thời gian điện phân (s)
++ F: hằng số Faraday (F = 1,602.10−19.6,022.1023 ≈ 96500 C.mol−1)
+Biểu thức liên hệ:    formula_2
+Ứng dụng Điện phân.
+- Điều chế kim loại
+- Điều chế một số phi kim: H2, O2, F2, Cl2
+- Điều chế một số hợp chất: NaOH, nước Giaven
+- Tinh chế kim loại: Cu, Pb, Zn, Fe, Ag, Au
+- Mạ điện: Cu, Ag, Au, Cr, Ni
+

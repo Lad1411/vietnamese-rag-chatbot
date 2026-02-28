@@ -1,0 +1,31 @@
+Julang-2
+
+Julang-2 (JL-2, đọc theo âm Hán Việt là Cự Lang-2), theo phân loại của phương Tây là kiểu CSS-NX-4, là tên lửa đạn đạo được phóng từ tàu ngầm.
+Lịch sử chế tạo.
+Được phát triển từ kiểu tên lửa Julang-1 (JL-1, hay còn gọi là CSS-N-3) do Học viện số 4 CASIC (đơn vị đóng tại vùng C22-Baoji-Shaanxi) nghiên cứu, thiết kế, phát triển và sản xuất; được phóng thử thành công lần đầu năm 1990. Được triển khai sử dụng đầu năm 2009, dự kiến đến hết năm 2010 sẽ triển khai xong cho các tàu ngầm nguyên tử hạt nhân kiểu K094/Jin (lớp Tần). Mỗi tàu có thể mang 12 tên lửa loại này.
+Sơ bộ các đặc điểm kỹ thuật.
+Tầng đẩy.
+Gồm 3 tầng động cơ đẩy sử dụng nhiên liệu rắn.
+Hình thể.
+- Hình trụ tròn, đầu thu hình cupon (khác với Julang-1 có đầu thu hình tầng tháp)
+- Dài: 13 m (tầng đẩy 10 m, đầu nổ 3m)
+- Đường kính (đoạn lớn nhất): 2 m
+- Tầm tác xạ có hiệu quả nhất: 7.000 km
+- Tầm tác xạ tối đa: đến 8.000 km (gấp 3 lần loại Julang-1)
+Có thể từ bờ biển Trung Quốc phóng đến Alska, Guam, Hawai (Mỹ) và khu vực Sibiria của Nga
+Phương thức tác xạ và điều khiển.
+Hành trình trên quỹ đạo.
+- Khởi động từ buồng phóng trên tàu ngầm bằng thuốc nổ thường. Khi đến trên mặt nước, khởi động tầng đẩy thứ nhất. Khi đến tầng bình lưu, khởi động tàng đẩy thứ hai. Khi ra ngoài tầng bình lưu, khởi động tầng đẩy thứ ba.
+- Trang bị hệ thống điều khiển đa phương tiện gồm các chức năng:
++ Tự tìm mục tiêu bằng hình ảnh
++ Điều khiển quỹ đạo bay bằng hệ thống quán tính
++ Điều khiển cưỡng bức quỹ đạo bay bằng lệnh từ mặt đất.
++ Tự định vị thông qua hệ thống định vị vệ tinh quân sự.
++ Tự hủy trên quỹ đạo khi sai số mục tiêu đến 20 độ hoặc cưỡng bức tự hủy từ mặt đất.
++ Tự phá hủy mạch khởi động đầu nổ hạt nhân hoặc cưỡng bức đóng mạch khi chệch mục tiêu hoặc tàu ngầm mang tên mửa bị đánh đắm.
+Số lượng đầu đạn mang theo.
+- Theo CIA: 01 đầu nổ thường 1.000 kg hoặc 01 đầu nổ hạt nhân 25 KT.
+- Theo Tạp chí quốc phòng Jane (Mỹ): 3 đến 4 đầu nổ hạt nhân từ 25 KT đến 1.000 KT
+Thử nghiệm.
+Việc phóng thử nghiệm tên lửa JL-2 được giữ bí mật nên ít biết được các cuộc phóng thử này có thành công hay công. Có nguồn tin nói một số đã thành công còn số khác thì tất cả đều thất bại và một trong số các thất bại được biết đến đó suýt làm chìm tàu ngầm phóng thử khi nó rơi ngược trở xuống làm tàu hỏng nặng đầu năm 2012 có một tin là tên lửa được phóng thành công dù không được xác thực, nên đôi khi nó được so sánh là các thất bại của tên lửa RSM-56 Bulava chỉ là việc nhỏ nếu so với JL-2.
+

@@ -1,0 +1,21 @@
+Đồ thị đối ngẫu
+
+Trong toán học, đồ thị đối ngẫu của một đồ thị mặt phẳng G là một đồ thị G' trong đó có một đỉnh tương ứng cho mỗi miền mặt phẳng của đồ thị G, và có mỗi cạnh tương ứng với mỗi cạnh của G kết nối hai miền kề nhau của G. Thuật ngữ "đối ngẫu" được dùng để chỉ tính đối xứng này: nếu H là đối ngẫu của G thì G cũng là đối ngẫu của H (nếu G liên thông).
+Cách xác định đồ thị đối ngẫu.
+Xác định đồ thị đối ngẫu từ một đồ thị phẳng.
+Bước1: Xác định các miền của đồ thị phẳng.
+Bước 2: Xác định miền tiếp xúc với mỗi miền vừa xác định ở bước 1.
+Bước 3: Gọi H là đồ thị mới vừa tìm được, ta có H là đồ thị đối ngẫu của G.
+Xác định đồ thị phẳng từ đồ thị đối ngẫu.
+Bước 1: Xác định các miền của đồ thị đối ngẫu.
+Ta có đồ thị đối ngẫu H, ta xác định được các miền như sau:
+Bước 2: Nối các vùng tiếp xúc với nhau:
+Kết luận: Gọi G' là đồ thị phẳng vừa tìm được, ta thấy từ một đồ thị đối ngẫu H, sẽ tìm được một đồ thị phẳng G' đẳng cấu với đồ thị phẳng G ban đầu.
+Một số ví dụ về đồ thị đối ngẫu của hình học không gian.
+Đa giác.
+Tương ứng với mỗi mặt của đa giác sẽ có một điểm đại diện cho G’. Hai đỉnh trong được kết nối bởi một cạnh đồ thị nếu giữa hai mặt của đa giác có một ranh giới (cạnh) chung.
+Hình tròn.
+Đồ thị đối ngẫu của hình tròn là một hình tròn.
+Đối ngẫu đại số.
+Giả sử G là một đồ thị liên thông, một đối ngẫu đại số của G là G' thì ta có:
+

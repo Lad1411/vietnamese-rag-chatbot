@@ -1,0 +1,53 @@
+Sự chảy dẻo
+
+Độ bền dẻo hay điểm chảy dẻo của một vật liệu được định nghĩa trong kỹ thuật và công nghệ vật liệu như ứng suất mà tại đó vật liệu bắt đầu biến dạng dẻo. Trước điểm chảy dẻo vật liệu biến dạng đàn hồi và sẽ trở lại hình dạng ban đầu khi ứng suất tác dụng được thả ra. Khi vượt quá điểm chảy dẻo một phần của biến dạng trở thành vĩnh cửu và không thể đảo ngược.
+Trong không gian ba chiều của các hướng ứng suất chính (formula_1), một số vô hạn các điểm chảy dẻo hợp thành bề mặt chảy dẻo.
+Việc xác định được điểm chảy dẻo là rất quan trọng khi thiết kế một bộ phận vì nhìn chung nó thể hiện giới hạn tối đa mà tải có thể áp vào. Việc kiểm soát các kỹ thuật sản xuất vật liệu như đúc, cuốn và dập cũng rất quan trọng. Trong kỹ thuật kết cấu, đây là cơ chế phá hủy mềm thường không gây ra sự phá hủy bất ngờ hay phá hủy hoàn toàn trừ khi nó bị oằn nhanh.
+Khái niệm.
+Thường thì khó mà xác định chính xác điểm chảy dẻo do các vật liệu thực tế có rất nhiều kiểu đường cong ứng suất biến dạng khác nhau. Ngoài ra còn có các một số cách định nghĩa điểm nóng chảy:
+Tiêu chuẩn chảy dẻo.
+Một tiêu chuẩn chảy dẻo, thường được gọi là bề mặt chảy dẻo, hay yield locus (quỹ tích chảy dẻo) là một giả thuyết về giới hạn đàn hồi dưới một tổ hợp các ứng suất. Có hai cách biểu diễn các tiêu chuẩn dẻo: Một là thuần túy toán học sử dụng lối tiếp cận thống kê trong khi các mô hình khác dựa vào các nguyên tắc vật lý được xác nhận. Do ứng suất và biến dạng là các đại lượng tensor chúng có thể được biểu diễn theo ba hướng chính, trong trường hợp ứng suất được ký hiệu là formula_2, formula_3, và formula_4.
+Tiêu chuẩn dẻo đẳng hướng.
+Thuyết ứng suất chính lớn nhất – Sự chảy dẻo xảy ra khi ứng suất chính lớn nhất vướt quá độ bền dẻo kéo đơn trục. Mặc dù đơn giản và nhanh khi so sánh với kết quả thực nghiệm, nó ít khi thích hợp cho việc thiết kế.
+Thuyết biến dạng chính lớn nhất – Sự chảy dẻo xảy ra khi biến dạng chính cực đại đạt giá trị biến dạng ứng với điểm chảy dẻo trong thử kéo đơn giản. Nó được mô tả theo các ứng suất chính theo phương trình:
+Thuyết ứng suất trượt cực đại – Còn gọi là tiêu chuẩn dẻo Tresca theo tên nhà khoa học Pháp Henri Tresca. Nó giả định rằng sự chảy dẻo xảy ra khi ứng suất trượt formula_7 vượt quá độ bền dẻo trượt formula_8:
+Thuyết năng lượng biến dạng toàn phần – Thuyết này giả định rằng năng lượng tích trữ của biến dạng đàn hồi tại điểm chảy dẻo là độc lập với tensor ứng suất. Do đó chảy dẻo xảy ra khi thế năng biến dạng trên đơn vị thể tích lớn hơn thế năng biến dạng tại giới hạn đàn hồi trong phép thử kéo đơn giản. Với một trạng thái ứng suất ba chiều nó được biểu diễn như sau:
+Thuyết năng lượng méo - Thuyết này cho rằng năng lượng biến dạng tổng cộng có thể chia ra thành hai phần: Năng lượng biến dạng thể tích và năng lượng biến dạng hình dáng (méo hay trượt). Sự chảy dẻo xảy ra khi thành phần méo vượt quá giá trị tại điểm chảy dẻo của phép thử kéo đơn giản. Nó thường được gọi là tiêu chuẩn dẻo Von Mises và được biểu diễn như sau:
+Dựa theo một cơ sở lý thuyết khác, biểu thức trên còn gọi là thuyết ứng suất trượt tám mặt (octahedral shear stress theory).
+Các tiêu chuẩn dẻo đẳng hướng khác thường được sử dụng là:
+Bề mặt chảy dẻo ứng với các tiêu chuẩn này có một số kiểu khác nhau. Tuy vậy hầu hết các tiêu chuẩn dẻo đẳng hướng ứng với các mặt chảy dẻo lồi.
+Tiêu chuẩn dẻo bất đẳng hướng.
+Khi kim loại chịu sự biến dạng dẻo lớn thì kích thước và định hướng hạt thay đổi theo hướng biến dạng. Kết quả là sự chảy dẻo của vật liệu thể hiện sự phụ thuộc vào hướng. Trong hoàn cảnh này các tiêu chuẩn dẻo đẳng hướng không thể dự đoán chính xác hiện tượng chảy dẻo. Một vài tiêu chuẩn dẻo bất đẳng hướng đã được phát triển để đối phó với tình huống này. Một số tiêu chuẩn dẻo bất đẳng hướng phổ biến là:
+Các yếu tố ảnh hưởng tới ứng suất chảy dẻo.
+Ứng suất gây ra hiện tượng chảy dẻo phụ thuộc vào cả tốc độ biến dạng và quan trọng hơn là nhiệt độ xảy ra biến dạng. Một nghiên cứu ban đầu của Alder và Philips năm 1954 đã phát hiện ra quan hệ giữa ứng suất chảy dẻo (ở nhiệt độ không đổi) có thể được mô tả chính xác nhất bởi quy luật lũy thừa dưới dạng:
+trong đó C là hằng số và m là độ nhạy với tốc độ biến dạng. Nhìn chung m tăng theo nhiệt độ và vật liệu có m lớn hơn khoảng 0,5 có khuynh hướng thể hiện tính chất siêu dẻo.
+Sau này các phương trình phức tạp hơn đã được đưa ra trong đó có cả ảnh hưởng của nhiệt độ và tốc độ biến dạng:
+trong α đó và A là các hằng số còn Z là tốc độ biến dạng bù nhiệt độ tính theo công thức Zener-Hollomon:
+trong đó QHW là năng lượng kích hoạt với biến dạng nóng và T là nhiệt độ tuyệt đối.
+Các cơ chế tăng độ bền.
+Có một số kỹ thuật có thể tăng độ bền dẻo của vật liệu tinh thể và vô định hình. Bằng cách thay đổi mật độ sai lệch, mức tạp nhiễm, kích thước hạt, có thể điều chỉnh được độ bền dẻo của vật liệu. Điều này thường xảy ra bằng cách đưa vào các khuyết tật như các sai lệch tạp nhiễm vào trong vật liệu. Để di chuyển các khuyết tật này (biến dạng dẻo vật liệu) cần đặt vào các ứng suất lớn hơn. Điều này làm tăng ứng suất chảy dẻo của vật liệu. Trong khi nhiều tính chất của vật liệu chỉ phụ thuộc thành phần của vật liệu khối, độ bền dẻo còn vô cùng nhạy cảm với quy trình chế tạo là vì lý do này.
+Các cơ chế cho vật liệu tinh thể bao gồm:
+Sự làm cứng nguội.
+Biến dạng vật liệu làm tạo ra các sai lệch, khiến mật độ của chúng trong vật liệu tăng lên. Điều này làm tăng độ bền dẻo của vật liệu do cần phải có thêm ứng suất để dịch chuyển các sai lệch này trong mạng tinh thể. Các sai lệch cũng có thể tương tác với nhau và làm vướng víu lẫn nhau.
+Công thức cơ bản cho cơ chế này là:
+trong đó formula_16 là ứng suất chảy dẻo, G là module đàn hồi trượt, b là độ lớn của vector Burger và formula_17 là mật độ sai lệch.
+Tăng độ bền dung dịch rắn.
+Bằng cách hợp kim hóa vật liệu, các nguyên tử tạp nhiễm có nồng độ thấp sẽ chiếm các vị trí trong ô mạng ngay dưới các sai lệch, ví dụ như ngay dưới một khuyết tật mặt (extra half plane defect). Điều này làm giảm một biến dạng dãn ngay phía dưới sai lệch bằng cách lấp đầy khoảng trống đó bằng một nguyên tử tạp nhiễm.
+Quan hệ trong cơ chế này là như sau:
+trong đó formula_19 là ứng suất trượt, liên quan tới ứng suất chảy dẻo, G và b tương tự như trên, Cs là nồng độ của dung dịch, và formula_20 là biến dạng trong mạng gây ra bởi sự tạp nhiễm.
+Tăng độ bền hạt/kết tinh.
+Sự hiện diện của các pha thứ hai làm tăng độ bền dẻo bằng cách ngăn chặn chuyển động của sai lệch bên trong tinh thể. Một khuyết tật đường khi di chuyển trong mạng tinh thể sẽ bị cản trở bởi các hạt nhỏ hay kết tinh bên trong vật liệu. Sai lệch có thể di chuyển qua hạt này, hoặc bằng cách trượt qua hạt, hoặc bằng một quá trình gọi là vòng (bowing, ringing) trong đó một vòng sai lệch mới được tạo ra xung quanh hạt.
+Công thức trượt:
+formula_21
+Công thức vòng:
+formula_22
+Trong các công thức này, formula_23 là bán kính hạt, formula_24 là sức căng bề mặt giữa nền và hạt, formula_25 là khoảng cách giữa các hạt.
+Tăng độ bền biên giới hạt.
+Sự tích tụ sai lệch tại một biên giới hạt tạo ra một lực đẩy giữa các sai lệch. Khi kích thước hạt giảm, tỷ số diện tích bề mặt trên thể tích của hạt tăng lên, giúp tích tụ thêm sai lệch tại biên giới hạt. Do cần rất nhiều năng lượng để dịch chuyển các sai lệch tới hạt khác, các sai lệch này tụ tập tại các đường biên, làm tăng ứng suất chảy dẻo của vật liệu. Còn được gọi là tăng bền Hall-Petch, kiểu tăng bền này đặc trưng bởi công thức:
+trong đó:formula_27 là ứng suất cần thiết để dịch chuyển sai lệch, k là hằng số mạng và d là kích thước hạt.
+Thử nghiệm.
+Phép thử độ bền dẻo bao gồm lấy một mẫu với tiết diện cố định, kéo nó bằng một lực tăng dần có kiểm soát tới khi mẫu thay đổi hình dạng hoặc bị vỡ. Biến dạng dài hoặc biến dạng ngang được ghi lại bằng một thiết bị đo độ dãn (extensometer).
+Với hầu hết mọi loại thép, độ cứng theo vết lõm (Indentation hardness) quan hệ tuyến tính với độ bền kéo. Do vậy phép thử độ cứng có thể là một sự thay thế tiết kiệm cho phép thử kéo, cũng như cung cấp các biến đổi cục bộ của độ bền dẻo vì những lý do như hàn hay tạo hình.
+Ý nghĩa với kỹ thuật kết cấu.
+Các kết cấu đã bị chảy dẻo có độ cứng thấp hơn, độ lệch cao hơn, và độ bền oằn thấp giảm đi. Kết cấu bị biến dạng vĩnh cửu sau khi tải được bỏ ra và có thể tồn tại ứng suất dư bên trong. Thép kỹ thuật có thể được làm cứng nguội, nghĩa là ứng suất chảy dẻo tăng lên sau khi tháo tải từ một trạng thái chảy dẻo. Các kết cấu tối ưu hóa như dầm và bộ phận máy bay dùng sự chảy dẻo cho chế độ hư hỏng an toàn. Do đó không cần tới hệ số an toàn khi so sánh tải giới hạn (tải cao nhất khi hoạt động bình thường) với tiêu chuẩn dẻo.
+

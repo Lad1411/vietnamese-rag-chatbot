@@ -1,0 +1,60 @@
+Nguyên lý cung - cầu
+
+Trong kinh tế vi mô, nguyên lý cung - cầu hay quy luật cung cầu là một mô hình xác định giá cả trên thị trường. Nguyên lý này phát biểu rằng giả định các yếu tố khác không thay đổi, trong một thị trường cạnh tranh, giá của một loại hàng hoá (hoặc một đối tượng có thể được trao đổi khác như sức lao động hoặc tài sản thành khoản) sẽ thay đổi cho đến khi đạt đến một điểm mà ở đó lượng hàng hoá thị trường sẵn sàng mua (ở mức giá hiện tại) bằng với lượng hàng hoá được cung ứng (ở mức giá hiện tại), dẫn đến trạng thái cân bằng thị trường đối với mức giá và lượng hàng hoá trong giao dịch. Nguyên lý cung - cầu là một trong những nền tảng lý thuyết của kinh tế học hiện đại.
+Cầu.
+Nhu cầu.
+Nhu cầu, trong kinh tế học thường được hiểu là "nhu cầu tiêu dùng" hay còn được gọi là "sở thích tiêu dùng". Trong kinh tế học, "nhu cầu" nếu không có khả năng tài chính để đáp ứng "sở thích tiêu dùng" đó, thì không thể gọi tắt "nhu cầu" là "cầu".
+Cầu.
+Cầu là "nhu cầu" cộng với "khả năng thanh toán" cho nhu cầu đó; là sự cần thiết của một cá thể về một hàng hóa hay dịch vụ nào đó mà cá thể sẵn sàng có khả năng thanh toán cho hàng hóa hay dịch vụ đó. Khi "cầu" của toàn thể các cá thể đối với một mặt hàng trong một nền kinh tế gộp lại, ta có cầu thị trường. Khi "cầu" của toàn thể các cá thể đối với tất cả các mặt hàng gộp lại, ta có tổng cầu.
+Thực chất, cầu là một thuật ngữ dùng để diễn đạt thái độ của người mua và khả năng mua về một loại hàng hóa.
+Khi chúng ta gia nhập thị trường hàng hóa, có hai yếu tố xác định chúng ta có thể trở thành người mua (có nhu cầu) chứ không phải người đi ngắm hàng:
+Như vậy, "cầu" xoay quanh hai yếu tố: ý muốn sẵn sàng mua và khả năng tài chính mà ta có. Lưu ý rằng số lượng cầu hàng hóa tùy thuộc vào hai yếu tố kể trên mà còn tùy thuộc vào thời giá nữa, vì nếu giá cả thay đổi thì khối lượng hàng hóa cầu cũng sẽ thay đổi.
+Số lượng cầu.
+Số lượng cầu về hàng hóa là số lượng mà người mua "sẵn sàng mua" trong một thời kỳ nào đó.
+"Sẵn sàng mua" có nghĩa là người mua sẽ thực sự sẵn sàng trả tiền cho số lượng cầu nếu nó là có sẵn. Điều này rất quan trọng để phân biệt giữa số lượng cầu và số lượng thực sự mua.
+Lượng một mặt hàng nào đó mà một cá thể có nhu cầu, khi có đủ ngân sách để mua tại một thời điểm nhất định với mức giá cả xác định của nó và mức giá cả xác định của các hàng hóa khác gọi là lượng cầu. Như vậy, có thể thấy số lượng cầu một mặt hàng phụ thuộc vào giá cả thị trường của chính nó, mức thu nhập của mỗi cá thể, và vào giá cả của các mặt hàng khác (nhất là các mặt hàng thay thế hoặc bổ sung cho nó), thậm chí vào cả thời điểm, thị hiếu của khách hàng, kỳ vọng giá trong tương lai, quy mô dân số và thời tiết.
+Đường cong cầu.
+Trong kinh tế học nhập môn, để cho đơn giản, người ta thường cố định các yếu tố như giá cả các mặt hàng khác, mức thu nhập của người tiêu dùng, thời tiết, v.v... và chỉ tập trung vào xem xét quan hệ giữa giá cả một mặt hàng với lượng cầu về nó rồi biểu diễn quan hệ này bằng đường cong cầu. Đường này được đặt trong một trục tọa độ hai chiều với trục tung là mức giá và trục hoành là lượng cầu. Đường cong cầu của một mặt hàng bình thường sẽ là một đường dốc xuống phía phải, bởi vì quan hệ giữa giá cả và lượng cầu là quan hệ nghịch. Giá cả tăng thì lượng cầu giảm, còn khi giá cả giảm thì lượng cầu sẽ tăng lên. Kinh tế học gọi đó là sự dịch chuyển dọc theo đường cầu. Quan hệ bình thường này đôi khi được gọi là quy tắc cầu.
+Tuy nhiên, hàng hóa Giffen hoặc hàng hóa Veblen như xe hơi cao cấp sẽ không tuân theo quy tắc này. Khi giá cả của chúng tăng, người ta sẽ mua chúng nhiều hơn.
+Mức độ nhạy cảm trong thay đổi lượng cầu của một mặt hàng khi giá cả của chính nó thay đổi gọi là độ co dãn của cầu theo giá cả.
+Nếu như sự dịch chuyển dọc theo đường cầu là do mức giá thay đổi trong khi các yếu tố khác không đổi, thì với mức giá cố định còn các yếu tố khác (thu nhập và sở thích của người tiêu dùng, giá cả các hàng hóa khác) thay đổi, cả đường cầu sẽ dịch chuyển.
+Quan hệ giữa lượng cầu và thu nhập của người tiêu dùng.
+Nếu mặt hàng mà người mua có nhu cầu là hàng hóa thông thường hoặc hàng hóa xa xỉ hay hàng hóa cao cấp, thì khi thu nhập của anh ta tăng, lượng cầu mặt hàng này cũng tăng.
+Nếu là hàng hóa thứ cấp, thì khi thu nhập của người mua tăng, lượng cầu mặt hàng lại giảm vì anh ta khá giả hơn nên sở thích thay đổi.
+Mức độ nhạy cảm của thay đổi về lượng cầu của một mặt hàng khi thu nhập của người mua thay đổi gọi là độ co dãn của nhu cầu theo thu nhập.
+Quan hệ giữa lượng cầu hàng hóa này với giá cả hàng hóa khác.
+Lượng cầu một mặt hàng không chỉ chịu tác động từ giá cả của chính nó, mà còn từ giá cả của các mặt hàng khác. Giả định các yếu tố khác không thay đổi.
+Lượng cầu một mặt hàng sẽ giảm, khi giá cả của những mặt hàng thay thế cho nó hạ xuống. Ví dụ, lượng cầu về rượu có thể giảm, nếu giá bia hạ xuống.
+Lượng cầu một mặt hàng sẽ giảm, khi giá cả của những mặt hàng bổ sung cho nó tăng lên. Ví dụ, lượng cầu về máy in có thể giảm, nếu giá mực in, giấy in, v.v... tăng lên.
+Mức độ nhạy cảm trong thay đổi lượng cầu của một mặt hàng khi giá cả các mặt hàng khác thay đổi, gọi là độ co dãn chéo của nhu cầu theo giá cả.
+Quan hệ giữa lượng cầu với sở thích của người tiêu dùng.
+Giả định các yếu tố khác không thay đổi, khi người tiêu dùng thay đổi sở thích của mình đối với mặt hàng nào đó, thì lượng cầu của hàng hóa đó sẽ thay đổi theo. Ví dụ, nếu người tiêu dùng trở nên không thích đồ uống có ga, và giả định các yếu tố khác trong đó có giá cả mặt hàng này không đổi, thì lượng cầu về đồ uống có ga sẽ giảm đi.
+Hàm số cầu.
+Đường cong cầu chỉ thể hiện được quan hệ giữa lượng cầu với mức giá trong khi lượng cầu phụ thuộc vào nhiều yếu tố khác nữa. Hàm số cầu ("hàm cầu") là cách tốt hơn đường cong cầu để thể hiện quan hệ giữa lượng cầu của một mặt hàng với các yếu tố quy định nó. Hai hàm cầu dạng đơn giản là hàm cầu Hicks và hàm cầu Marshall.
+Hàm cầu Hicks.
+Hàm cầu Hicks thể hiện lượng cầu về một mặt hàng là hàm số đồng thời của giá cả mặt hàng đó và mức thỏa dụng tối thiểu mà người mua muốn nhận được từ việc tiêu dùng mặt hàng.
+Hàm cầu Marshall.
+Hàm cầu Marshall, còn gọi là Hàm cầu Walras, thể hiện lượng cầu về một mặt hàng là hàm số đồng thời của giá cả các mặt hàng và thu nhập của người mua.
+Cung.
+Cung là số lượng hàng hóa hoặc dịch vụ mà người bán muốn bán tại các mức giá khác nhau trong một khoảng thời gian nhất định, các nhân tố khác không thay đổi,
+Số lượng cung.
+Lượng cung số lượng hàng hóa hoặc dịch vụ cụ thể mà người bán muốn bán và sẵn sàng bán tại mức giá đã cho trong một khoảng thời gian nhất định.
+"Sẵn sàng bán" ở đây nghĩa là người bán sẽ sẵn sàng cung cấp số lượng cung nếu có đủ người mua hết số hàng đó. Điều này rất quan trọng để phân biệt giữa số lượng cung và số lượng thực sự bán.
+Cung ứng, trong kinh tế học, chỉ việc chào bán hàng hóa hay dịch vụ nào đó. Lượng của một mặt hàng được chào bán với một mức giá cả thị trường hiện hành, ở mức giá nhất định của các yếu tố sản xuất và trình độ kỹ thuật nhất định, với những quy chế nhất định của chính phủ, kì vọng về giá, thời tiết gọi là lượng cung ứng, hay lượng cung. Tổng tất cả các lượng cung về một mặt hàng bởi tất cả những người bán trong một nền kinh tế gọi là cung thị trường. Tổng tất cả những lượng cung của các hàng hóa và dịch vụ bởi tất cả các nhà sản xuất trong một nền kinh tế gọi là tổng cung.
+Đường cung.
+Quan hệ giữa lượng cung và giá cả có thể thể hiện thông qua đường cong cung ứng (hay đường cung). Đây là một đường dốc lên phía phải trong một hệ trục tọa độ với trục tung là các mức giá cả và trục hoành là các lượng cung cấp. Khi giá cả tăng lên, nhà sản xuất sẽ tăng lượng cung hàng hóa (sản lượng). Như hình vẽ cho thấy, sự thay đổi này diễn ra dọc theo đường cung. Kinh tế học gọi đó là sự dịch chuyển dọc theo đường cung.
+Mức độ nhạy cảm trong thay đổi của lượng cung khi giá cả thay đổi gọi là độ co dãn của cung theo giá cả. Đây chính là độ dốc của đường cung. Độ co giãn càng lớn thì độ dốc của đường cung càng nhỏ.
+Đường cung được xây dựng trên cơ sở giả định là chi phí bình quân sản xuất mặt hàng của xí nghiệp không thay đổi. Song, nếu chi phí bình quân thay đổi, cả đường cung sẽ dịch chuyển (lúc này lại giả định mức giá không thay đổi). Nếu chi phí bình quân giảm, đường cung sẽ dịch song song sang phải. Ta thấy lượng cung ở một mức giá cho trước sẽ tăng lên.
+Tuy nhiên, không phải lúc nào đường cong cung cấp cũng là một đường dốc lên. Đôi khi nó thẳng đứng (vuông góc với trục hoành). Đây là lúc lượng cung không có phản ứng với thay đổi trong mức giá (độ co giãn bằng 0). Nguyên nhân có thể là xí nghiệp không kịp điều chỉnh cơ sở sản xuất của mình để tăng sản lượng. Trong kinh tế học vĩ mô, đường tổng cung trong dài hạn là một đường thẳng đứng. Đường cung cũng có thể là một đường dốc xuống.
+Nguyên lý cung cầu.
+Nguyên lý cung - cầu, hay quy luật cung cầu, phát biểu rằng thông qua sự điều chỉnh của thị trường, một mức giá cân bằng (còn gọi là mức giá thị trường) và một lượng giao dịch hàng cân bằng sẽ được xác định. Mức giá và lượng hàng đó tương ứng với giao điểm của đường cung và đường cầu. Trạng thái cân bằng của một mặt hàng như thế gọi là "cân bằng bộ phận". Khi đạt trạng thái cân bằng của cùng lúc tất cả các mặt hàng, kinh tế học gọi đó là "cân bằng tổng thể" hay "cân bằng chung". Ở trạng thái cân bằng, sẽ không có dư cung (lượng cung lớn hơn lượng cầu) hay dư cầu (lượng cầu lớn hơn lượng cung).
+Bốn nguyên lý cơ bản về cung và cầu là (Theo hình đầu tiên):
+Giá cân bằng.
+"Giá cân bằng" là mức giá mà ở đó số lượng cung bằng số lượng cầu, ứng với số lượng này gọi là số lượng cân bằng.
+Điều chỉnh lượng giao dịch.
+Alfred Marshall cho rằng khi một mặt hàng ở trạng thái dư cầu thì giá của người mua sẽ cao hơn giá của người bán; người sản xuất sẽ tăng lượng cung. Ngược lại, khi mặt hàng ở trạng thái dư cung, thì giá của người mua sẽ thấp hơn giá của người bán; người sản xuất sẽ giảm lượng cung.
+Điều chỉnh giá cả.
+Trái với Marshall, Leon Walras cho rằng thị trường đạt trạng thái cân bằng không phải bởi sự điều chỉnh lượng cung cấp, mà bởi sự điều chỉnh giá cả. Khi một mức giá được nêu ra cao hơn mức giá cân bằng cần có khiến cho lượng cung sẵn sàng nhiều hơn lượng cầu sẵn sàng, thì giá cả sẽ giảm xuống mức cân bằng để thị trường không còn dư cung. Còn khi mức giá nêu ra thấp hơn mức giá cân bằng, thì lượng cầu sẵn sàng cao hơn lượng cung sẵn sàng (thị trường dư cầu), thì giá cả sẽ tăng lên.
+Điều chỉnh kiểu mạng nhện.
+Điều chỉnh mạng nhện là sự điều chỉnh đồng thời cả giá cả lẫn lượng hàng để đạt tới trạng thái cân bằng. Sự điều chỉnh diễn ra qua nhiều kỳ. Giá cả thay đổi trong kỳ này sẽ dẫn tới phản ứng của lượng cung trong kỳ tiếp theo.
+

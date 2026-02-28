@@ -1,0 +1,20 @@
+Không gian vectơ
+
+Trong toán học, không gian vectơ (hay còn gọi là không gian tuyến tính) là một tập hợp của các đại lượng gọi là vectơ, một đại lượng có thể cộng và nhân bởi một số, được gọi là vô hướng. Vô hướng thường được lấy là số thực, nhưng cũng có các không gian vectơ với nhân vô hướng là số phức hoặc số ảo, hoặc tổng quát hơn là một trường bất kì. Toán tử cộng và nhân vô hướng phải thỏa mãn các điều kiện nhất định gọi là tiên đề, được liệt kê bên dưới. Để phân loại vô hướng là thực hay phức, ta thường dùng thuật ngữ không gian vectơ thực hoặc không gian vectơ phức.
+Không gian Euclid là một ví dụ của không gian vectơ. Chúng đại diện cho các đại lượng vô hướng như là lực: Mọi lực (cùng loại) có thể cộng với nhau để thu được lực thứ 3, và phép nhân vectơ lực với một số thực có thể thu được một vectơ lực. Cùng với đó, nhưng theo một cách hình học hơn, vectơ đại diện cho sự thay thế của mặt phẳng trong mặt phẳng hoặc trong không gian 3 chiều cũng từ không gian vectơ. vectơ trong không gian vectơ không cần thiết phải có một đại lượng dạng mũi tên như trong ví dụ của nó: vectơ được coi như là một đại lượng toán học với các tính chất cụ thể, đôi khi có thể mô tả một cách trực quan bằng một mũi tên.
+Không gian vectơ là một phần trong đại số tuyến tính được quy định bởi số chiều của nó, nói một cách đại khái là số lượng các hướng độc lập trong không gian. Không gian vectơ vô hạn chiều xuất hiện tự nhiên trong toán phân tich, như là một không gian hàm, trong đó vectơ chính là các hàm. Những vectơ này được tổng quát với cấu trúc cộng thêm, được gọi là topology, cho phép xem xét các lỗi của tính địa phương và tính liên tục. topology được định nghĩa bởi norm hoặc tích vô hướng, được hiểu là có kí hiệu khoảng cách giữa các vectơ. Đây là trường hợp cụ thể của không gian Banach và không gian Hilbert, chúng là những khái niệm cơ bản trong toán học phân tích.
+Các không gian vectơ quen thuộc là không gian Euclid hai chiều và ba chiều. Các vectơ trong các không gian này là các cặp số thực hay các bộ 3 số thực, có trật tự, và thường được biểu diễn như là một vectơ hình học với độ lớn và phương hướng.
+Định nghĩa.
+Một vectơ được định nghĩa qua trường F là một tập V cùng với 2 toán tử thỏa mãn 8 tiên đề dưới đây. Theo đó, "V" × "V" kí hiệu cho phép nhân Cartesian của V với chính nó, và → kí hiệu cho một ánh xạ từ một nhóm đến một nhóm khác
+Một cách chính xác, những tiên đề trên là cho một module, do vậy không gian vectơ có thể được mô tả ngắn gọn là một "module trên một trường". Một không gian vectơ chỉ là một trường hợp đặc biệt của một module.
+Để ý rằng trong định đề thứ 7, nói rằng "a" ("b" v) = ("ab") v, là không phải khẳng định về tính kết hợp của một toán tử, bởi vì có hai toán tử đang nói đến, nhân vô hướng: "b" v; và nhân trên trường số: "ab".
+Có người cho thêm hai tính chất đóng trong định nghĩa của không gian vectơ:
+Tuy nhiên, nếu hiểu phép toán là ánh xạ trên miền "V" thì không cần thêm các tiên đề tính chất đóng trong định nghĩa không gian vectơ.
+Ví dụ.
+Không gian tọa độ
+ví dụ đơn giản nhất của một không gian vectơ thông qua trường F chính là chính nó, kết hợp với tính chất cộng và nhân của nó. Một cách tổng quát hơn, tất cả chuỗi dài n:
+của tất cả các phần tử của F cấu tạo nên một không gian vectơ thường được kí hiệu bởi "Fn" được gọi là không gian tọa độ.
+Số phức và các trường mở rộng
+Tập hợp các số phức C, chính là, một số có thể viết dưới dạng "x+iy" cho mọi số thực x và y trong đó i là đơn vị ảo, cấu thành nên một không gian vectơ thông qua số thực với phép cộng và nhân thông thường
+("x" + "iy") + ("a" + "ib") = ("x" + "a") + "i"("y" + "b") và "c" ⋅ ("x" + "iy") = ("c" ⋅ "x") + "i"("c" ⋅ "y") cho mọi số x,y,a,b và c
+

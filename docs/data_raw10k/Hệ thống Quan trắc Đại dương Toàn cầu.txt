@@ -1,0 +1,10 @@
+Hệ thống Quan trắc Đại dương Toàn cầu
+
+Hệ thống Quan trắc Đại dương Toàn cầu viết tắt tiếng Anh là GOOS ("Global Ocean Observing System") là một hệ thống thực thi các quan sát toàn cầu các đại dương để xác định tình trạng của đại dương toàn cầu. Nó là hệ thống toàn cầu thường trực cho quan trắc, mô hình hóa và phân tích của các biến đổi của biển và đại dương để hỗ trợ các dịch vụ biển hoạt động trên toàn thế giới. GOOS cung cấp mô tả chính xác hiện trạng của các đại dương, bao gồm cả tài nguyên sinh vật; dự báo liên tục trong các điều kiện tương lai của biển càng xa càng tốt, và là cơ sở cho những dự báo về biến đổi khí hậu .
+Các phương tiện quan sát biển và đại dương gồm có trạm thời tiết, phao trôi, và vệ tinh khí tượng. Hệ thống được quản lý bời ban điều hành. Hệ thống này là thành phần hải dương học của Hệ thống Quan sát Trái Đất toàn cầu (GEOSS). GOOS được quản lý bởi Ủy ban Hải dương học Liên chính phủ (IOC), và kết nối với Hệ thống Quan trắc Khí hậu Toàn cầu GCOS, và Hệ thống Quan trắc Mặt đất Toàn cầu GTOS, cũng như các khối cơ bản hợp thành GEOSS .
+GOOS thành lập năm 1992 , là thực thể chương trình được hỗ trợ bởi Ủy ban Hải dương học Liên chính phủ IOC thuộc UNESCO , Chương trình Môi trường Liên Hợp Quốc UNEP, Tổ chức Khí tượng Thế giới WMO, và Hội đồng Quốc tế về Khoa học ICSU nay kế tục là Hội đồng Khoa học Quốc tế ISC.
+Hệ thống phao quan trắc.
+Hiện có tổng cộng 1250 phao quan trắc trên khắp các đại dương. Chúng được gọi là Drifter toàn cầu. Phao có kích thước cỡmột quả bóng, đo nhiệt độ và độ mặn nước, rồi truyền dữ liệu qua vệ tinh về trạm thu nhận là "AOML Drifter Operations Center" .
+Điều hành.
+GOOS họp hội nghị tại trụ sở Ủy ban Hải dương học Liên chính phủ IOC tại Paris 2 năm một lần, bắt đầu từ 1993.
+

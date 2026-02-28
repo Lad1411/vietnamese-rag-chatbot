@@ -1,0 +1,12 @@
+Polysome
+
+Pôlixôm là tập hợp các ribôxôm cùng ở một phân tử RNA thông tin (mRNA) đang dịch mã trong tế bào. Đây là thuật ngữ trong di truyền học, dịch theo kiểu phiên âm thông thường từ thuật ngữ nước ngoài là polysome, cũng viết là polyribosome (IPA: \pä-lē-ˈrī-bə-ˌsōm\) và đôi khi là ergasome.
+Từ nguyên.
+Sự phát hiện ra pôlixôm bắt đầu vào khoảng những năm đầu của thập niên 1960. Ban đầu được đặt tên là "ergosome" nhờ các nghiên cứu của Jonathan Warner, Paul M. Knopf, cùng với Alexander Rich. Sau đó, vào năm 1962 thì đổi tên là polyribosome, để mô tả dễ hiểu hơn cấu trúc này gồm nhiều (poly) bào quan là ribôxôm tạo thành một "thể dịch mã" (translatome). Dần dần về sau, thuật ngữ "polyribosome" được gọi tắt là "polysome" như ngày nay thường dùng.
+Cấu trúc chung.
+Nhờ kính hiển vi lực nguyên tử (Atomic-force microscopy, viết tắt là AFM), các nhà nghiên cứu đã thu được hình ảnh của pôlixôm ở cả tế bào sinh vật nhân sơ (vi khuẩn) và tế bào sinh vật nhân thực.
+Cấu trúc này gồm nhiều (2 trở lên) ribôxôm cùng bám dọc trên một chuỗi mRNA để tổng hợp cùng một loại prôtêin. Hình bên trình bày ba sơ đồ:
+Các dạng.
+Các nhà nghiên cứu phân biệt hai dạng tồn tại phổ biến của pôlixôm là dạng tuyến tính và dạng vòng.
+Ngoài ra, pôlixôm có thể bám màng hoặc tự do và lơ lửng trong chất nguyên sinh trong tế bào sống.
+

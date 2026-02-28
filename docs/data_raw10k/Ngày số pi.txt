@@ -1,0 +1,11 @@
+Ngày số pi
+
+Ngày số Pi (tiếng Anh: "Pi Day") và ngày số Pi gần đúng (tiếng Anh: "Pi approximation day") là 2 ngày lễ dành cho hằng số toán học π (số Pi). Ngày số Pi được chọn vào ngày 14 tháng 3 hàng năm (14/3), bởi vì số pi được xác định một cách gần đúng bằng 3,14. Vào năm 2009, Hạ viện Hoa Kỳ chấp nhận định nghĩa chính thức của ngày số pi. Vào tháng 11 năm 2019, hội nghị lần thứ 40 của UNESCO đã công nhận ngày 14 tháng 3 là Ngày quốc tế Toán học. Những ngày thay thế khác cho ngày lễ này bao gồm 22 tháng 7 Ngày số Pi gần đúng là 22 tháng 7, bởi vì nhiều người vẫn biểu diễn nó một cách xấp xỉ là 22/7 (hai hai phần bảy, một biểu diễn xấp xỉ của π), và ngày 28 tháng 6 (6.28, một xấp xỉ của 2π hay tau.
+Phút Pi được chọn vào thời điểm tháng 3, ngày 14, lúc 1:59, và Giây Pi đã xảy ra vào tháng 3, ngày 14, năm 1592, lúc 6:53:58, vì số Pi được biểu diễn gần chính xác bằng 3,14159265358...
+Lịch sử.
+Ngày Pi được tổ chức lần đầu tiên ở San Francisco Exploratorium vào năm 1988, theo ý tưởng của Larry Shaw, nơi ông làm dưới công việc là một nhà vật lý học, với các nhân viên và công chúng đi dạo vòng quanh trong những không gian hình tròn, rồi ăn bánh hoa quả. Exploratorium tiếp tục tổ chức những cuộc kỷ niệm ngày số Pi.
+Ngoài ra, một số nơi trên thế giới, người ta còn tổ chức các lễ hội để ghi nhớ việc tìm ra số Pi vào các ngày khác:
+Trong ngày Pi năm 2004, Daniel Tammet đã tính được giá trị của Pi với 22.514 chữ số thập phân.
+Tháng 3 năm 2014 được chọn là Tháng Pi vì tháng này còn được viết là 3/14 (với 3,14 là giá trị gần đúng của π). Vào lúc 9:26:53 ngày 14 tháng 3 năm 2015, ngày số Pi lại càng đặc biệt hơn vì chúng được ghép theo thứ tự tháng, ngày, 2 số cuối của năm, giờ, phút và giây để trở thành con số 3,141592653...
+Số Pi được biểu diễn với 50 chữ số thập phân: 3,14159 26535 89793 23846 26433 83279 50288 41971 69399 37510.
+

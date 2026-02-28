@@ -1,0 +1,5 @@
+Đơn giản hóa văn bản
+
+Đơn giản hóa văn bản là một hoạt động được dùng trong lĩnh vực xử lý ngôn ngữ tự nhiên để thay đổi, nâng cao, phân loại hoặc xử lý một corpus văn bản mà con người có thể đọc theo cách ngữ pháp và cấu trúc văn xuôi được đơn giản hóa đi rất nhiều, trong khi vẫn giữ ý nghĩa và thông tin trong đó.
+Đơn giản hóa văn bản là một lĩnh vực nghiên cứu quan trọng, bởi vì các ngôn ngữ tự nhiên của con người chứa lượng lớn các từ vựng và cấu trúc kết hợp phức tạp mà không dễ xử ký thông qua quá trình tự động hóa. Về các khía cạnh giảm sự đa dạng ngôn ngữ, nén ngữ nghĩa (semantic compression) có thể được sử dụng để giới hạn và đơn giản hóa một tập hợp các từ dùng trong các văn bản cho trước.
+

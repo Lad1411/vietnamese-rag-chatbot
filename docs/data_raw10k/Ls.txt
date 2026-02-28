@@ -1,0 +1,41 @@
+Ls
+
+ls là một lệnh dùng để liệt kê các file của hệ điều hành Unix hoặc giống Unix. ls được mô tả bởi POSIX và Single UNIX Specification.
+Lịch sử.
+Công cụ ls ban đầu xuất hiện trong phiên bản AT&amp;T Unix. Tên nó được bắt nguồn từ lệnh "list segments" trong Multics, hệ thống xem memory segment và file là như nhau. Ngày nay, hai phiên bản phổ biến nhất của ls là của Free Software Foundation (một phần thuộc gói coreutils của GNU) và phiên bản của BSD, như FreeBSD, OpenBSD, NetBSD, và Darwin của Apple Computer. Cả hai đều là phần mềm miễn phí và mã nguồn mở.
+Cách hoạt động.
+Hệ điều hành Unix và tựa Unix có một khái niệm là "thư mục làm việc hiện tại", nghĩa là vị trí hiện tại trong hệ thống thứ bậc của cây thư mục.
+Khi gọi không có tham số, ls liệt kê các file trong thư mục làm việc hiện tại. Khi gọi ls và chỉ định một thư mục khác, nó sẽ liệt kê các file trong thư mục đó. Người dùng có thể chỉ định nhiều file và thư mục cần liệt kê, nó sẽ liệt kê tất cả những thư mục đó.
+File bắt đầu bằng ký tự "." sẽ không hiện ra, trừ khi người dùng gọi với tham số -a hoặc file được người dùng chỉ định một cách tường minh.
+Nếu gọi không có tham số, ls sẽ hiện ra định dạng thu gọn tối thiểu. Định dạng này khó dùng để xác định loại, quyền và kích thước file. Những tham số thông dụng nhất để hiện các thông tin hoặc thay đổi danh sách file:
+Ở một số môi trường, khi đưa tham số --color (đối với phiên bản GNU ls) hoặc -G (FreeBSD ls), ls sẽ tô màu các loại file khác nhau bằng các màu khác nhau, thay vì bằng cách thêm ký tự vào phía sau như tham số -F. Để xác định màu cho file, GNU ls kiểm tra loại file, quyền và phần mở rộng của file, trong khi đó FreeBSD ls chỉ kiểm tra loại file và quyền.
+Khi sử dụng tham số hiện màu, kết quả có thể giống như:
+ brw-r--r-- 1 unixguy staff 64, 64 Jan 27 05:52 block 
+ crw-r--r-- 1 unixguy staff 64, 255 Jan 26 13:57 character 
+ -rw-r--r-- 1 unixguy staff 290 Jan 26 14:08 compressed.gz 
+ -rw-r--r-- 1 unixguy staff 331836 Jan 26 14:06 data.ppm 
+ drwxrwx—x 2 unixguy staff 48 Jan 26 11:28 directory 
+ -rwxrwx—x 1 unixguy staff 29 Jan 26 14:03 executable 
+ prw-r--r-- 1 unixguy staff 0 Jan 26 11:50 fifo 
+ lrwxrwxrwx 1 unixguy staff 3 Jan 26 11:44 link -&gt; dir 
+ -rw-rw---- 1 unixguy staff 217 Jan 26 14:08 regularfile 
+ls có rất nhiều tham số. Nó là một công cụ dùng thường xuyên để xử lý hệ thống file thông qua giao diện dòng lệnh.
+Trên một số hệ thống (như PCLinuxOS), ls có một alias chỉ là l. Nhiều hệ thống khác cũng alias ls -l thành ll.
+Ví dụ cách sử dụng.
+Ví dụ dưới đây cho kết quả của lệnh ls với hai tham số khác nhau:
+ $ pwd
+ /home/fred
+ $ ls -l
+ drwxr—r-- 1 fred editors 4096 drafts
+ -rw-r--r-- 1 fred editors 30405 edition-32
+ -r-xr-xr-x 1 fred fred 8460 edit
+ $ ls -F
+ drafts/ 
+ edition-32 
+ edit*
+Trong ví dụ này, người dùng fred có thư mục tên là drafts, một file bình thường tên edition-32, và một file thực thi tên edit trong thư mục nhà. ls cho biết quyền truy xuất của người dùng đối với các file trong thư mục. Ở cột đầu tiên sẽ liệt kê quyền cho ba nhóm: người sở hữu (u), nhóm sở hữu (g), và người khác (o)
+ drwxr—r-- 1 fred editors 4096 Mar 1 2007 drafts
+được ánh xạ vào
+ duuugggooo (số lượng hard link) người_sở_hữu nhóm_sở_hữu kích_thước ngày_tạo tên
+Có nghĩa là drafts là thư mục, người sở hữu có quyền rwx (liệt kê, thay đổi và chuyển đến), nhóm sở hữu có quyền r (liệt kê), và những người khác có quyền r (liệt kê).
+

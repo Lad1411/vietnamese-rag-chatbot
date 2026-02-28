@@ -1,0 +1,6 @@
+Trình nền
+
+Trong hệ điều hành máy tính đa nhiệm, trình nền (daemon) ( hoặc ) là một chương trình máy tính chạy dưới dạng một tiến trình nền, không phải dưới sự kiểm soát trực tiếp của người dùng tương tác. Tên tiến trình của một trình nền thường kết thúc bằng chữ "d", để làm rõ rằng tiến trình này là một trình nền và để phân biệt giữa một trình nền và một chương trình máy tính bình thường. Ví dụ: syslogd là một trình nền thực hiện việc ghi nhật ký hệ thống và sshd là trình nền phục vụ các kết nối SSH đến.
+Trong môi trường Unix, tiến trình cha của một trình nền thường là tiến trình init. Một trình nền thường hoặc là được tạo ra do một tiến trình fork một tiến trình con và sau đó thoát ngay lập tức, khiến cho init nhận tiến trình con này, hoặc là do tiến trình init trực tiếp khởi chạy các trình nền.
+Các hệ thống thường khởi chạy trình nền lúc khởi động sẽ đáp ứng các yêu cầu mạng, hoạt động phần cứng hoặc các chương trình khác bằng cách thực hiện một số tác vụ. Một số trình nền như cron cũng có thể thực hiện các tác vụ được định sẵn tại thời điểm đã lên lịch.
+

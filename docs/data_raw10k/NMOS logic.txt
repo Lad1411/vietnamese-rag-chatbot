@@ -1,0 +1,6 @@
+NMOS logic
+
+Logic nMOS sử dụng các transistor MOSFET (Metal-Oxide-Semiconductor Field Effect Transistors) để xây dựng các cổng logic và các mạch số. Transistor nMOS có ba chế độ hoạt động: ngắt (cut-off), triode, và bão hoà (saturation).
+Các transistor MOSFET loại n này được gọi là "mạng pull-down" giữa lối ra và đường điện áp thấp (tiếp đất). Điều này có nghĩa là khi transistor hoạt động thì lối ra được nối trực tiếp với đường điện áp thấp (thông thường là 0 vôn) và khi đó xuất hiện một dòng điện giữa đường điện áp thấp và lối ra. Một điện trở được nối giữa lối ra và đường điện áp cao (thông thường là điện áp nguồn nuôi).
+Ví dụ bên cho thấy một cổng NOR được xây dựng bằng logic nMOS. Nếu một trong hai lối vào A hoặc B có mức điện áp cao (logic '1', = True) thì transistor tương ứng với lối vào có mức cao sẽ hoặc động và kết quả là lối ra có mức điện áp thấp (logic '0'). Điện trở giữa lối ra và đường điện áp thấp lúc này rất nhỏ. Khi cả hai lối vào điều ở mức cao (logic '1') thì lúc đó cả hai transistor đều hoạt động và điện trở giữa đường điện áp thấp và lối ra lại càng nhỏ hơn. Chỉ duy nhất trường hợp cả hai lối vào của cả hai transistor có mức điện áp thấp thì cả hai transistor sẽ cấm (không hoạt động) và khi đó lối ra được nối lên đường điện áp cao (nối nguồn) và có mức logic '1'. =&gt; hoạt động đúng theo bảng sự thật của cổng NOR.
+

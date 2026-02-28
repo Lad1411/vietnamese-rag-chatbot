@@ -1,0 +1,9 @@
+Robert C. Martin
+
+Robert Cecil Martin, thường được gọi là "Uncle Bob", người Mỹ. Ông là một kỹ sư phần mềm, người tư vấn, và là tác giả của nhiều cuốn best-seller. Ông được công nhận nhiều nhất vì đã phát triển nhiều nguyên tắc thiết kế phần mềm và là người sáng lập ra Tuyên ngôn Agile rất có ảnh hưởng trong giới phát triển phần mềm.
+Martin là tác giả của nhiều cuốn sách và các bài báo trên tạp chí. Ông từng là tổng biên tập của tạp chí "C++ Report" và từng là chủ tịch đầu tiên của Agile Alliance.
+Các công ty.
+Năm 1991, Martin đã thành lập Object Mentor (hiện không còn tồn tại), cung cấp khóa đào tạo do người hướng dẫn hướng dẫn về phương pháp Lập trình cực hạn. Tính đến tháng 3 năm 2020, ông điều hành hai công ty:
+Các nguyên tắc phát triển phần mềm và nhà hoạt động trong lĩnh vực phần mềm.
+Năm nguyên tắc của Martin được gọi chung là "SOLID principles". Mặc dù ông đã phát minh ra hầu hết các nguyên tắc mà ông thúc đẩy, nhưng nguyên tắc Liskov substitution là do Barbara Liskov nghĩ ra, còn nguyên tắc Open-Closed đã được thai nghén hình thành bởi Bertrand Meyer. Martin là người đề xướng của kỹ năng thủ công trong phần mềm, phát triển phần mềm linh hoạt và phát triển hướng kiểm thử.
+

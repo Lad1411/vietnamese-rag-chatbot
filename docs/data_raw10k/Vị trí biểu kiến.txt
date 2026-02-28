@@ -1,0 +1,14 @@
+Vị trí biểu kiến
+
+Vị trí biểu kiến của một vật thể là vị trí của nó trong không gian mà người quan sát nhìn thấy. Do các hiệu ứng vật lý và hình học, nó có thể khác với vị trí "thật" hoặc "hình học".
+Thiên văn học.
+Trong thiên văn học, có sự phân biệt được thực hiện giữa "vị trí trung bình", "vị trí biểu kiến" và "vị trí địa tâm" của một vật thể.
+Vị trí của một ngôi sao.
+Vị trí trung bình của một ngôi sao (liên quan đến hệ tọa độ được thông qua của người quan sát) có thể được tính từ giá trị của nó tại một kỷ nguyên tùy ý, cùng với chuyển động thực tế của nó theo thời gian (được gọi là chuyển động riêng). Vị "trí biểu kiến" là "vị trí" của nó được nhìn thấy bởi một nhà quan sát lý thuyết ở trung tâm của Trái Đất đang chuyển động. Một số hiệu ứng khiến vị trí rõ ràng khác với vị trí trung bình:
+"Địa điểm biểu kiến của các ngôi sao cơ bản" là một niên giám thiên văn, được xuất bản trước một năm bởi Viện tính toán thiên văn (Đại học Heidelberg) ở Heidelberg, Đức. Nó liệt kê vị trí rõ ràng của khoảng 1000 ngôi sao cơ bản trong mỗi 10 ngày và được xuất bản dưới dạng một cuốn sách và trong một phiên bản rộng lớn hơn trên Internet.
+Thiên thể hệ mặt trời.
+Vị trí biểu kiến của một hành tinh hoặc thiên thể khác trong Hệ Mặt Trời cũng bị ảnh hưởng bởi hiệu chỉnh ánh sáng-thời gian, nguyên nhân là do thời gian hữu hạn cần ánh sáng từ một thiên thể chuyển động để đến được người quan sát. Nói một cách đơn giản, người quan sát nhìn thấy thiên thể ở vị trí của nó khi ánh sáng rời khỏi nó.
+Về mặt lý thuyết, hiệu chỉnh ánh sáng-thời gian cũng có thể được tính cho các thiên thể ở xa hơn, chẳng hạn như các ngôi sao, nhưng trong thực tế, nó bị bỏ qua. Chuyển động của một vật kể từ khi ánh sáng rời khỏi nó là không cần thiết bởi vì vị trí trung bình là vị trí trung bình của nơi nó xuất hiện, không phải là nơi nó từng ở. Không giống như các hành tinh, các thiên thể này về cơ bản dường như di chuyển theo đường thẳng, vì vậy để sử dụng bình thường, không cần tính toán phức tạp để tìm vị trí trung bình của chúng.
+Vị trí địa hình.
+Vị "trí" trên cùng của một cơ thể được nhìn thấy bởi một người quan sát thực tế trên Trái Đất và khác với vị trí rõ ràng là kết quả của các hiệu ứng sau:
+

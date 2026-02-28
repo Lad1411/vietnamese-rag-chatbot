@@ -1,0 +1,21 @@
+VCenter
+
+VMware vCenter Server là tiện ích trong bộ giải pháp vSphere (trước kia là VMware Infrastructure) của VMware được sử dụng để quản lý tập trung các máy ảo, máy chủ ESXi và các thành phần khác của nền tảng điện toán đám mây vSphere.
+Lịch sử.
+Ban đầu vCenter được thiết kế như một dịch vụ chạy trên hệ điều hành Windows. Phiên bản đầu tiên có tên VirtualCenter 1.0 ra mắt ngày 05 tháng 12 năm 2003. Phiên bản 4.0 (thuộc bộ vSphere 4) trở đi được đổi tên thành vCenter.
+Bắt đầu từ phiên bản vCenter 5.0 ra mắt 24 tháng 8 năm 2011, được chia làm 2 dòng:
+vCenter 6.7, cũng như bộ giải pháp vSphere 6.7 là phiên bản cuối cùng còn hỗ trợ nền tảng Windows.
+Tính năng.
+Ngoài mục đích quản lý tập trung, vCenter cần được dùng để thực hiện một số chức năng của vSphere như vMotion, svMotion, DRS...
+vMotion (di chuyển nóng).
+vMotion trong ESX cho phép di chuyển một máy ảo di giữa hai máy chủ khác nhau mà không cần phải tắt máy ảo.
+Trong quá trình di chuyển nóng vMotion (vLM) của máy ảo đang chạy (VM), nội dung của bộ nhớ (RAM) của VM được gửi từ VM đang chạy đến VM mới trên máy chủ khác. Để thực hiện việc này, ESX gửi bộ nhớ từ VM ban đầu đến VM khác và sau đó sẽ kiểm tra dữ liệu nào được thay đổi và gửi dữ liệu đó, lặp đi lặp lại, càng về sau nội dung khác biệt sẽ càng nhỏ hơn. Vào giây phút cuối, nó sẽ nhanh chóng 'đóng băng' VM hiện có, chuyển những thay đổi cuối cùng trong nội dung RAM và sau đó khởi động VM mới. Mục đích của quá trình này là giảm thiểu thời gian VM bị treo. Trong trường hợp lý tưởng, thời gian chuyển dữ liệu cuối cùng sẽ bằng thời gian cần thiết để khởi động VM mới.
+svMotion (Storage vMotion).
+svMotion cho phép di chuyển nóng đĩa ảo và thư mục gốc mà không có thời gian downtime.svMotion sử dụng mirror driver để sao chép đĩa ảo và/hoặc thư mục gốc sang datastore khác một cách đồng thời, đảm bảo dữ liệu luôn được đồng bộ cho đến khi svMotion hoàn tất, đến lúc đó dữ liệu nguồn sẽ được xóa 
+evMotion (enhanced vMotion).
+Là vMotion và svMotion đồng thời, được hỗ trợ trên phiên bản 5.1 trở lên.
+Distributed Resource Scheduler (DRS).
+Tự động dựa trên yêu cầu / tải của máy chủ / máy khách để thực thi vMotion, giúp cân bằng tải giữa các máy chủ.
+High Availability (HA) - Sẵn sàng cao.
+Trong trường hợp máy chủ ESX bị lỗi vật lý, nó sẽ khởi động lại máy ảo trên một máy chủ vật lý khác.
+

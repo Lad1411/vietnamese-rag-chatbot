@@ -1,0 +1,6 @@
+Google Lively
+
+Google Lively là một môi trường ảo dựa trên web được phát triển bởi Google. Trong trang download của chương trình, người dùng được mời để "Tạo một avatar và chat" với những "người bạn trong căn phòng do bạn thiết kế".
+Google Lively tạo cho bạn một môi trường 3D trong đó mọi đồ đạc, mọi vật trong phòng đều do bạn thiết kế và đặt vị trí. Trong đó bạn sẽ là một nhân vật 3D, là nhân vật nam, nhân vật nữ, hoặc một con vật nào đó do bạn chọn. Đó là bước đột phá của Google trong việc chuyển từ môi trường chat thông thường 2D sang môi trường chat 3D có tính tương tác cao.
+Hiện dự án đã ngưng phát triển từ ngày 1 tháng 1 năm 2009.
+

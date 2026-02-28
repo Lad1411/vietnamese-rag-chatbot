@@ -1,0 +1,11 @@
+Bổ đề Fatou
+
+Bổ đề Fatou là một bất đẳng thức liên quan đến tích phân Lebesgue về giới hạn cận dưới đúng của một dãy hàm số và tích phân của hàm số đó. Bổ đề được đặt tên theo nhà toán học Pierre Fatou. Vì là một bổ đề, nó giúp chứng minh các định lý quan trọng về lý thuyết hội tụ của hàm số như định lý Fatou-Lebesgue, định lý về sự hội tụ đơn điệu và định lý về sự hội tụ bị chặn.
+Bổ đề được phát biểu như sau:
+Ví dụ.
+Cho một không gian formula_6 có Xíchma đại số Borel và độ đo Lebesgue.
+Như vậy ta thấy, các dãy formula_11 trên hội tụ về 0 từng đôi một trên formula_6, nhưng mọi dãy lại có tích phân bằng 1.
+Bổ đề Fatou ngược.
+Cho "f"1, "f"2. . . là một dãy các hàm số đo được lấy giá trị trên formula_13. Định nghĩa một không gian đo ("S","M","μ"). Nếu có một hàm khả tích không âm "g" trên "S" sao cho "f""n" ≤ "g" với mọi "n", thì
+Ta dùng bổ đề Fatou cho dãy không âm "g - fn".
+

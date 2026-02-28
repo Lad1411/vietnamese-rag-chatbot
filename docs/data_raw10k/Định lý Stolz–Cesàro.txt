@@ -1,0 +1,22 @@
+Định lý Stolz–Cesàro
+
+Trong toán học, định lý Stolz–Cesàro là một tiêu chuẩn để chứng minh tính hội tụ của một dãy số. Định lý này được đặt tên theo nhà toán học Otto Stolz và Ernesto Cesàro, người đầu tiên phát biểu và chứng minh định lý này.
+Định lý Stolz–Cesàro có thể được coi là mở rộng của trung bình Cesàro, hoặc là phiên bản dãy số của quy tắc l'Hôpital.
+Phát biểu.
+Cho và là hai dãy số thực. Định lý được phát biểu trong hai trường hợp
+Trường hợp.
+Giả sử là dãy đơn điệu nghiêm ngặt và phân kỳ (tức nó tăng nghiêm ngặt và tiến đến , hoặc giảm nghiêm ngặt và tiến đến ). Nếu giới hạn sau tồn tại:
+thì:
+Trường hợp.
+Giả sử và đều tiến tới , đồng thời là dãy đơn điệu nghiêm ngặt. Nếu
+thì
+Lịch sử.
+Trường hợp được phát biểu và chứng minh ở trang 173—175 trong quyển sách năm 1885 của Stolz và ở trang 54 trong bài viết năm 1888 của Cesàro.
+Định lý cũng xuất hiện trong quyển sách giải tích của Pólya và Szegő (1925), và là bài toán 70 trong sách.
+Dạng tổng quát.
+Định lý Stolz–Cesàro trong trường hợp tổng quát được phát biểu sử dụng khái niệm giới hạn trên và giới hạn dưới của dãy số.
+Nếu và là các dãy số thực sao cho đơn điệu nghiêm ngặt và không bị chặn thì:
+Để ý rằng nếu
+thì giới hạn trên và dưới của formula_7 cũng bằng nhau, tức giới hạn
+cũng tồn tại và bằng .
+

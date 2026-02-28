@@ -1,0 +1,7 @@
+Ricochet Chollima
+
+Ricochet Chollima (còn gọi là APT 37, Reaper và ScarCruft) là một nhóm hacker APT của Cộng hòa Dân chủ Nhân dân Triều Tiên được cho là thường tham gia vào các hoạt động chống lại các tổ chức tài chính nhằm gầy dựng tài sản cho Bắc Triều Tiên. Ngoài ra, nhóm này còn tiến hành các cuộc tấn công mạng vào lĩnh vực công nghiệp. Những vụ tấn công mạng của họ chủ yếu xảy ra tại Hàn Quốc, nhưng cũng có thể ở Nhật Bản, Việt Nam và Trung Đông. FireEye đã gọi nhóm này là "diễn viên Bắc Triều Tiên bị coi thường".
+Lịch sử.
+Theo FireEye cho biết thì nhóm hacker này được cho là thành lập vào khoảng năm 2012. 
+Tháng 1 năm 2021, nhóm này bị phát hiện đang sử dụng mã lây nhiễm máy tính Trojan cho một chiến dịch lừa đảo kiểu spear phishing nhằm vào chính phủ Hàn Quốc.
+

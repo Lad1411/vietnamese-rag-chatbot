@@ -1,0 +1,13 @@
+Đồng vị của nitơ
+
+Trong tự nhiên nitơ ( 7 N ) bao gồm hai dạng đồng vị ổn định, nitơ-14, trong đó chiếm đại đa số xảy ra một cách tự nhiên nitơ và nitơ-15. Hiện nay có 14 đồng vị phóng xạ, với khối lượng nguyên tử từ 10 đến 25, và một đồng phân hạt nhân, 11m N. Tất cả các đồng vị phóng xạ này đều sống ngắn, và một trong những nguyên tử có tuổi thọ dài nhất là nitơ-13 với thời gian bán hủy 9,965 phút. Các đồng vị khác có thời gian bán rã dưới 7,15 giây, phần lớn trong số đó là dưới năm phần tám của một giây. Hầu hết các đồng vị có số lượng nguyên tử dưới 14 phân rã đến đồng vị cacbon, trong khi hầu hết các đồng vị có khối lượng trên 15 phân rã đến đồng vị của oxy. Đồng vị được biết đến ngắn nhất là nitơ-10, với thời gian bán rã là khoảng 2,3 microsecond.
+Đồng vị tự nhiên.
+Nitơ-14.
+Nitơ-14 là một trong hai đồng vị ổn định (không phóng xạ) của nitơ, chiếm 99,636% lượng nitơ tự nhiên.
+Nitơ-14 là một trong số ít nuclid ổn định với số proton và neutron đều là số lẻ (bảy hạt). Mỗi hạt trong số này đóng góp một spin hạt nhân của cộng hoặc trừ spin 1/2, cho hạt nhân một spin toàn bộ từ một.
+Giống như tất cả các nguyên tố nặng hơn lithium, nguồn gốc của nitơ-14 và nitơ-15 trong Vũ trụ được cho là sự tổng hợp hạt nhân, nơi chúng được sản xuất như một phần của chu trình carbon-nitrogen-oxygen.
+Nitơ-14 là nguồn gốc tự nhiên, tạo ra cacbon-14. Một số loại bức xạ vũ trụ gây ra phản ứng hạt nhân với nitơ-14 trong bầu khí quyển của Trái Đất, tạo ra cacbon-14, phân hủy trở lại với nitơ-14 với chu kỳ bán rã là 5,730 ± 40 năm.
+Nitơ-15.
+Nitơ-15, hoặc 15 N, là một đồng vị ổn định hiếm của nitơ. Hai nguồn nitơ-15 là sự phát xạ positron của oxy-15 và sự phân rã beta của carbon-15. Nitơ-15 là một trong những chùm neutron nhiệt thấp nhất thu được của tất cả các đồng vị. 
+Nitơ-15 thường được sử dụng trong NMR (quang phổ Nitơ-15 NMR). Không giống như lượng nitơ-14 phong phú, có spin nguyên tử và do đó là một quadrupole, 15 N có spin hạt nhân phân nửa của một nửa, mang lại lợi thế cho NMR như chiều rộng đường hẹp hơn.
+

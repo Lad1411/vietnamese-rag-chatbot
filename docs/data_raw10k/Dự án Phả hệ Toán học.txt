@@ -1,0 +1,6 @@
+Dự án Phả hệ Toán học
+
+Dự án Phả hệ Toán học (Mathematics Genealogy Project) là một cơ sở dữ liệu nền tảng web dành cho mối liên hệ giữa các thế hệ các nhà toán học. Đến tháng 10 năm 2015, nó chứa thông tin của hơn 191.000 nhà khoa học toán học có những đóng góp liên quan tới nghiên cứu toán học. Đối với một nhà toán học điển hình, danh mục dữ liệu của dữ án bao gồm các năm tốt nghiệp, "alma mater", người hướng dẫn luận án tiến sĩ và các sinh viên làm luận án tiến sĩ mà họ hướng dẫn.
+Nguồn gốc của dự án.
+Dự án hình thành từ mong muốn của Harry Coonce khi ông muốn biết người hướng dẫn của người hướng dẫn luận án tiến sĩ của ông. Khi thành lập dự án, Coonce đang là giáo sư toán học tại Đại học Bang Minnesota, Mankato, và dự án được triển khai trực tuyến vào mùa thu năm 1997. Coonce nghỉ hưu từ Mankato năm 1999, và vào mùa thu năm 2002 trường đại học quyết định thôi không ủng hộ dự án này nữa. Dự án được chuyển sang cho Đại học Bang Bắc Dakota. Từ 2003, dự án hoạt động dưới sự bảo trợ của Hội Toán học Hoa Kỳ và năm 2005 nó nhận được quỹ tài trợ của Viện Toán học Clay.
+

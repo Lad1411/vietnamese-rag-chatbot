@@ -1,0 +1,6 @@
+Kỳ vọng hợp lý
+
+ 
+Kỳ vọng hợp lý (tiếng Anh: "Rational expectations") là một giả thuyết trong kinh tế học nói rằng các dự đoán của bên liên quan về giá trị của các biến kinh tế (ví dụ: tỷ lệ lãi) không sai một cách có hệ thống và độ lệch so với giá trị thực là ngẫu nhiên. Một phương thức công thức hóa là các kỳ vọng hợp lý là các kỳ vọng nhất quán với mô hình, theo đó các bên tham gia trong mô hình giả sử rằng dự đoán của mô hình là đúng. Giả sử về kỳ vọng hợp lý được sử dụng trong nhiều mô hình kinh tế vĩ mô đương đại (contemporary macroeconomic models), lý thuyết trò chơi và các ứng dụng khác trong lý thuyết lựa chọn hợp lý.
+Lý thuyết kỳ vọng hợp lý định nghĩa kỳ vọng hợp lý ("rational expectations") là các kỳ vọng giống hệt các phán đoán tốt nhất về tương lại sau khi đã sử dụng tất cả các thông tin có sẵn. Như vậy, nó giả sử rằng kết quả đầu ra được dự báo không khác biệt cơ bản với kết quả của cân bằng thị trường. (market equilibrium). Theo đó, kỳ vọng hợp lý không khác căn bản hoặc khác mà có thể đoán được với kết quả cân bằng. Theo đó, nó giả sử rằng người ta không mắc lỗi hệ thống ("systematic errors") khi dự báo tương lai, và các sai lệch của dự báo mang tính ngẫu nhiên. Trong một mô hình kinh tế, lý thuyết này giả sử rằng giá trị kỳ vọng của một biến số sẽ bằng với giá trị được mô hình dự đoán.
+

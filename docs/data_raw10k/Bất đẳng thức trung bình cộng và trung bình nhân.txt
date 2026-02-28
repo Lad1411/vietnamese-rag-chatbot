@@ -1,0 +1,84 @@
+Bất đẳng thức trung bình cộng và trung bình nhân
+
+Trong toán học, bất đẳng thức AM-GM là bất đẳng thức so sánh giữa trung bình cộng và trung bình nhân của "n" số thực "không âm". Tên gọi đúng của bất đẳng thức này là bất đẳng thức AM-GM. Vì có nhiều cách để chứng minh bất đẳng thức này nhưng cách chứng minh quy nạp của Cauchy được đánh giá là hiệu quả nhất nên nhiều người nhầm lẫn rằng Cauchy phát hiện ra bất đẳng thức này. Ông chỉ là người đưa ra cách chứng minh rất hay của mình chứ không phải là người phát hiện ra đầu tiên. Theo cách gọi tên chung của quốc tế, bất đẳng thức Bunyakovsky có tên là bất đẳng thức Cauchy-Schwarz, còn bất đẳng thức Cauchy có tên là bất đẳng thức AM-GM (Arithmetic Means - Geometric Means).
+Tổng quát.
+Bất đẳng thức AM-GM có thể được phát biểu như sau:
+Trung bình có hệ số :.
+Cho "n" số "x"1, "x"2..., "x""n" ≥ 0 và các hệ số α1, α2..., α"n" &gt; 0
+Đặt formula_6.
+Bất đẳng thức trung bình cộng và trung bình nhân cũng đúng nếu hai giá trị trung bình có hệ số, như sau:
+Dấu " = " xảy ra khi và chỉ khi formula_8
+Với các loại trung bình khác :.
+Trung bình điều hòa ≤ trung bình nhân ≤ trung bình cộng
+Đẳng thức khi và chỉ khi formula_8
+Ví dụ ứng dụng.
+Cho hàm số sau:
+Với "x", "y" và "z" là các số thực dương. Giả sử rằng ta phải tìm giá trị nhỏ nhất của hàm số đã cho. Biến đổi và áp dụng "bất đẳng thức Cauchy" ta có:
+Vậy ta có giá trị nhỏ nhất của:
+Chứng minh bằng quy nạp.
+Đặt:
+bất đẳng thức tương đương với
+"x"1...,"xn" là các số thực không âm, ta có:
+dấu bằng xảy ra nếu "μ" = "xi" với mọi "i" = 1...,"n".
+Chứng minh dưới đây áp dụng phương pháp quy nạp toán học.
+Cơ sở: với "n" = 1 bất đẳng thức đúng.
+Giả thiết quy nạp: giả sử rằng bất đẳng thức đúng với n (n ≥ 1).
+Quy nạp: xét "n" + 1 một số thực không âm. Ta có:
+Nếu tất cả các số đều bằng "μ", thì ta có đẳng thức và đã được chứng minh. Ngược lại, ta sẽ tìm được ít nhất một số nhỏ hơn "μ" và một số lớn hơn "μ", không mất tính tổng quát, xem rằng: "xn" &gt; "μ" và "x""n"+1 &lt; "μ". Ta có:
+Xét "n" số sau:
+cũng là số không âm. Từ đó:
+"μ" cũng là trung bình cộng của formula_17 và theo giả thuyết quy nạp ta có
+Mặt khác từ (*) ta có
+hay là
+hiển nhiên "μ" &gt; 0. Nếu có ít nhất một trong "x"1...,"x""n"−1 bằng không, ta dễ thấy bất đẳng thức đúng và dấu bằng không xảy ra. Ngược lại, từ (**) và (***) ta có:
+bất đẳng thức được chứng minh.
+Chứng minh cho trường hợp không hệ số.
+Trường hợp "n" = 2.
+Với mọi thực formula_25, ta luôn có:
+Trường hợp "n" = 2k.
+Giả sử
+Ta có:
+Áp dụng bất đẳng thức Côsi với trường hợp formula_29, ta lại có:
+Từ formula_31 và formula_32, ta có được bất đẳng thức
+Trường hợp "n" = 2k - 1.
+Giả sử
+Ta có:
+Áp dụng bất đẳng thức Cauchy với trường hợp formula_29, ta lại có:
+Từ formula_38 và formula_39, ta có:
+Cuối cùng, ta được bất đẳng thức:
+Chứng minh của Pólya.
+George Pólya đưa ra một chứng minh cho bất đẳng thức như sau:
+Gọi "f"("x") = "e""x"−1 − "x", có đạo hàm "f"("x") = "e""x"−1 − 1. Ta thấy "f"(1) = 0 và từ đó "f" có giá trị nhỏ nhất tại "f"(1) = 0. Từ đó "x" ≤ e"x"−1 đối với mọi số thực "x".
+Xét một dãy các số thực không âm formula_42 với trung bình cộng "μ". Áp dụng bất đẳng thức ở trên ta có:
+Nhưng số mũ có thể rút gọn thành:
+Trở lại (1),
+và tương đương với:
+Chứng minh của Cauchy.
+Các trường hợp tất cả các giá trị bằng nhau.
+Nếu tất cả các giá trị bằng nhau:
+tức tổng chúng là "nx"1, do đó giá trị trung bình cộng là "x"1; và tích các số dưới căn bậc hai là "x"1"n", do dó giá trị trung bình nhân lúc này là "x"1; vì vậy, vế một và vế hai bằng nhau, điều phải chứng minh.
+Các trường hợp các giá trị không bằng nhau.
+Nếu tất cả các giá trị bằng nhau không bằng nhau, thì giá trị trung bình cộng lớn hơn giá trị trung bình nhân. Rõ ràng, điều này chỉ có thể xảy ra khi "n"&gt; 1. Trường hợp này khá phức tạp và được chia ra nhiều trường hợp để chứng minh.
+Trường hợp "n "= 2.
+Nếu "n"= 2, tức có hai giá trị "x"1 và "x"2, và từ giả thiết ở trên, ta có:
+ Ta có điều phải chứng minh.
+Trường hợp "n "= 2"k".
+Xem xét các trường hợp "n"= 2 "k", với "k" là một số nguyên dương. Chúng tôi tiến hành bằng quy nạp toán học.
+Trong trường hợp cơ bản,"k" = 1, tức "n" = 2, bất đẳng thức đã được chứng minh ở trên.
+Khi, có một giá trị "k"&gt; 1 bất kỳ, giả sử rằng bất đẳng thức đúng với "n" = 2"k"−1, và cần chứng minh rằng nó vẫn đúng khi "n" = 2"k". Để làm như vậy, các bước được thực hiện như sau:
+với bất đẳng thức đầu tiên, hai bên đều bằng nhau chỉ khi cả hai điều sau đây là đúng:
+(Trong trường hợp này, trung bình số học thứ nhất và trung bình nhân thứ 1 bằng"x"1, và tương tự với trung bình số học thứ hai và trung bình nhân thứ 2); và trong bất đẳng thức thứ hai, Hai bên chỉ bằng nhau nếu hai giá trị trung bình bằng nhau. Vì không phải tất cả hai "k" đều bằng nhau, không thể cho cả hai bất đẳng thức được đẳng, vì vậy chúng ta biết rằng:
+(điều phải chứng minh).
+Trường hợp "n "&lt; 2"k".
+Nếu "n" không phải là một hàm mũ tự nhiên cơ số 2, thì nó chắc chắn là nhỏ hơn một số nào đó theo hàm mũ tự nhiên cơ số 2, vì chuỗi 2, 4, 8..., 2"k"... không bị chặn trên. Do đó, mà không mất tính tổng quát, với "m" giá trị tuân theo hàm mũ tự nhiên cơ số 2 lớn hơn "n".
+Vì vậy, nếu ta có "n" số, thì ta có thể biểu diễn giá trị trung bình cộng α, và được mở rộng như sau:
+Chúng tôi sau đó có:
+như vậy:
+điều phải chứng minh.
+Ứng dụng.
+Ý nghĩa hình học của các hệ quả nêu trên.
+Trong các hình chữ nhật có cùng chu vi, hình vuông có diện tích lớn nhất
+Trong các hình chữ nhật có cùng diện tích, hình vuông có chu vi nhỏ nhất
+Trong các lĩnh vực khác.
+Việc sử dụng bất đẳng thức giúp chúng ta rất nhiều trong việc giải các phương trình vô tỉ. Ứng dụng trong Vật lý học để khảo sát công suất cực đại.
+

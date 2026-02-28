@@ -1,0 +1,9 @@
+Hóa học tổ hợp
+
+Hóa học tổ hợp bao gồm các phương pháp tổng hợp hóa học mà tạo khả năng điều chế một số lượng lớn (hàng chục đến hàng ngàn hoặc thậm chí hàng triệu) các hợp chất trong một quy trình đơn lẻ. Các thư viện hợp chất này có thể được tạo ra thành hỗn hợp, các bộ hợp chất riêng lẻ hoặc các cấu trúc hóa học được phần mềm máy tính tạo ra. Hóa hợp thể có thể được sử dụng để tổng hợp các phân tử nhỏ và cho các peptide.
+Các chiến lược cho phép xác định các thành phần hữu ích của thư viện cũng là một phần của hóa học tổ hợp. Các phương pháp được sử dụng trong hóa học tổ hợp cũng được áp dụng bên ngoài lĩnh vực hóa học.
+Giới thiệu.
+Tổng hợp các phân tử trong một kiểu tổ hợp có thể nhanh chóng dẫn đến một số lượng lớn các phân tử. Ví dụ, một phân tử có ba điểm đa dạng ("R"1, "R"2, and "R"3) có thể tạo ra formula_1các cấu trúc khác nhau, trong đó formula_2, formula_3, and formula_4là số lượng các chất thế khác nhau được sử dụng. 
+Nguyên lý cơ bản của hóa học tổ hợp là để chuẩn bị các thư viện với số lượng rất lớn các hợp chất sau đó xác định các thành phần hữu ích của thư viện đó.
+Mặc dù hoá học tổ hợp chỉ thực sự được ngành công nghiệp chiếm lĩnh kể từ những năm 1990,nguồn gốc của nó có thể được nhìn thấy từ những năm 1960 khi một nhà nghiên cứu tại Đại học Rockefeller, Bruce Merrifield, bắt đầu nghiên cứu tổng hợp pha rắn của các peptide.
+

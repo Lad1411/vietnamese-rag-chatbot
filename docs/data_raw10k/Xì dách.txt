@@ -1,0 +1,24 @@
+Xì dách
+
+Bài xì dách (hay xì lác) là một kiểu chơi đánh bài với một bộ bài tây.
+Trông xì dách sì(sushi) là bà dĩnh.
+Người chơi.
+Bài xì dách được chơi từ hai người trở lên, nhưng thông thường và tốt nhất là không quá năm người. Trong đó, có một người đảm nhận vai trò "nhà cái". Ngoại trừ nhà cái, người chơi ("nhà con") phải đặt cược trước số tiền (tài sản) bao nhiêu tùy thích trước mỗi ván chơi (đặt công khai trên sòng bài). Nếu thắng, họ nhận được tiền (tài sản) có giá trị tương đương như đã đặt cược, còn thua thì họ mất số tiền, tài sản đã cược cho nhà cái. Nhà cái cũng phải công khai "khả năng chi trả" của mình có cho người chơi biết, để tránh trường hợp "quỵt" tiền. Tất cả nhà con đều chống lại nhà cái vì họ có quyền lợi như nhau; họ có thể tiết lộ bài cho nhau nhưng không được thông đồng, đổi bài cho nhau để tạo lợi thế.
+Mục tiêu.
+Trong mỗi ván, mục tiêu của người chơi xì dách là cố gắng đạt được tổng số điểm từ các lá bài trên tay càng gần hoặc bằng 21 điểm càng tốt, nhưng không được vượt quá 21 (quắc bài).
+Quy luật.
+Chia bài.
+Với một bộ bài tây 52 lá, nhà cái sẽ chia bài lần lượt cho các nhà con theo thứ tự từ phải sang trái, sau cùng mới là mình. Các lá bài còn dư thì nhà cái cầm nhưng không được xem. Thường thì nhà cái chia bài từ dưới lên trên (không phải từ trên xuống dưới như bài tiến lên).
+Tính điểm.
+Giai đoạn 1: Tính điểm 2 lá
+Sau khi chia, tất cả cùng xem bài, tùy vào điểm số của bài mà mỗi người lần lượt lựa chọn bốc thêm bài hay không (nhà cái bốc sau cùng). Cách tính điểm như sau (không quan tâm màu sắc lá bài):
+Điểm tổng là điểm của tất cả các con bài trên tay cộng lại.
+Với hai lá bài được chia đầu tiên, nếu người nào có những trường hợp sau đây thì trình diện ngay cho nhà cái để hưởng phần thắng cược của họ:
+Nếu nhà cái có Xì bàn hoặc Xì dách) thì nhà cái thắng hết nhà con (ngoại trừ nhà con nào có bài bằng hoặc cao hơn nhà cái). Bài sẽ được thu lại để chuyển sang ván mới. Nếu nhà cái không có Xì bàn hoặc Xì dách, những người nào có sẽ thắng cược nhà cái và dừng ván bài ấy. Sau đó, nhà cái và những người chơi còn lại đi tiếp qua giai đoạn 2.
+Giai đoạn 2: Bốc thêm bài
+Sau khi tính điểm hai lá, người chơi có quyền bốc thêm bài ("bọt bài") từ những lá bài còn dư hoặc thôi ("dằn"), sao cho số điểm nằm trong khoảng 16 (có nơi là 14) đến 21. Việc bốc thêm bài được thực hiện theo vòng tròn từ phải sang trái, lần lượt người này xong mới đến người khác. Mọi nhà con phải có đạt ngưỡng ít nhất là 16 điểm (gọi là "đủ tuổi") trước khi quyết định không bốc thêm bài, bởi nếu chưa đủ mà bị nhà cái kiểm bài thì họ bị xử thua ngay ván đó.
+Trước hoặc trong giai đoạn bốc bài, bất kỳ lúc nào, nhà cái cũng có quyền kiểm bài nhà con nếu anh ta cũng đã "đủ tuổi", nhưng việc này được cho là không có lợi cho nhà cái.
+Sau khi tất cả nhà con đã bốc thêm bài, nhà cái có quyền kiểm bài bất kỳ nhà con nào, nếu nhà cái hơn điểm nhà con, anh ta thắng cược nhà con; ngược lại, anh ta thua cược nhà con; nếu hai bên bằng điểm nhau thì hòa ("chạy làng"). Khi kiểm bài một người cụ thể, nhà cái chỉ cần thông báo rằng anh ta thắng hoặc thua người bị kiểm, anh ta không nhất thiết phải tiết lộ số điểm của mình cho tất cả người chơi, ngoại trừ phải cho người đang bị kiểm bài biết nếu bị người này yêu cầu. Tuy nhiên, các người chơi chưa bị kiểm bài vẫn có thể suy đoán, ước lượng số điểm của nhà cái từ số điểm người đang bị kiểm.
+Các trường hợp đặc biệt của giai đoạn 2:
+Có những hiểu lầm về luật chơi dẫn đến thắc mắc là giữa Ngũ Linh và Xì bàn, Xì dách thì cách so sánh ra sao. Xì bàn và Xì dách thuộc về giai đoạn 1, Ngũ Linh thuộc về giai đoạn 2. Giai đoạn 1 kết thúc rồi mới chuyển qua giai đoạn 2, nên không bao giờ có việc so sánh Xì bàn, Xì dách với Ngũ Linh được. Cái 15 điểm 3 lá thì cũng không đủ tẩy xem bài.
+

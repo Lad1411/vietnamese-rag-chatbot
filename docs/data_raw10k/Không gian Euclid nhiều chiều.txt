@@ -1,0 +1,28 @@
+Không gian Euclid nhiều chiều
+
+Trong quá trình nghiên cứu toán học và vật lý, nhiều nhà toán học và vật lý đã xây dựng cơ sở và lý thuyết cho toán học nhiều chiều. Sau đây là lý thuyết cơ bản cho không gian Euclide n chiều.
+Khái niệm không gian Euclide n chiều.
+Không gian Euclide n chiều được hiểu là không gian phẳng tương ứng với tập hợp formula_1 hay Rn mang tính tuyến tính với n vector cơ sở trực chuẩn là (1, 0...,0),(0, 1...,0)...,(0...,0, 1)
+Khái niệm tọa độ.
+Cho hệ tọa độ gồm n trục vuông góc đôi một formula_2
+Cho điểm A nằm trong không gian formula_2
+formula_4 là độ dài đại số của hình chiếu OA xuống trục formula_5
+formula_6 là tọa độ của A trong không gian formula_2
+Khái niệm vector.
+Cho không gian hệ n trục trực chuẩn formula_2. Cho 2 điểm formula_9 và formula_10
+Ta định nghĩa vector như sau:
+formula_11
+formula_12 là độ dài của hình chiếu của AB xuống trục formula_5
+Khoảng cách trong không gian Euclide n chiều.
+Tổng quát cho hai điểm formula_14 và formula_15 trong không gian Euclide n chiều với hệ cơ sở là n vector trực chuẩn. Khoảng cách A và B là:
+formula_16
+Tích hai vector trong không gian Euclide n chiều.
+Cho hai vector formula_17 và formula_18 trong không gian Euclide n chiều.
+Tích hai vector:
+formula_19
+Góc trong không gian Euclide n chiều.
+formula_20
+formula_21
+formula_22
+formula_23
+

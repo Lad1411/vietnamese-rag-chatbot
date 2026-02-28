@@ -1,0 +1,9 @@
+Lưới lót màng nhân
+
+Lưới lót màng nhân là một mạng lưới sợi dày đặc (dày ~30 tới 100 nm) bên trong nhân của hầu hết tế bào. Nó được cấu tạo từ sợi trung gian và protein liên kết màng. Ngoài việc cung cấp sự hỗ trợ về mặt cơ học, lưới lót màng nhân giúp điều hòa các sự kiện tế bào quan trọng ví dụ như quá trình nhân đôi DNA và phân bào. Thêm nữa, nó tham gia vào việc tổ chức chất nhiễm sắc và nó giúp cố định các phức hợp lỗ nhân nằm bên trong màng nhân.
+Lưới lót màng nhân liên kết với mặt bên trong của lớp màng nhân lipid kép, trong khí đó mặt bên ngoài thì tiếp nối với mạng lưới nội chất. Lưới lót màng nhân thì tương đồng về mặt cấu trúc với ma trận nhân, nhưng cái sau thì kéo dài xuyên suốt chất nhân.
+Vai trò và các khía cạnh tương tác.
+Lưới lót màng nhân được lắp ráp lại bởi các tương tác của hai polypeptide lamin trong đó vùng α-xoắn ốc được cuốn lại quanh nhau để hình thành nên một cấu trúc xoắn α-xoắn ốc hai sợi.
+Tổ chức chất nhiễm sắc.
+Tổ chức không ngẫu nhiên của bộ gen đã gợi ra một cách mạnh mẽ rằng lưới lót màng nhân đóng một vai trò quan trọng trong tổ chức chất nhiễm sắc. Đã có bằng chứng cho thấy là các polypeptide lamin có một xu hướng nối kết chất nhiễm sắc thông qua domain α-xoắn ốc (như sợi dây) của chúng ở những chuỗi DNA cụ thể gọi là "matrix attachment regions" (MAR). Một MAR có độ dài xấp xỉ 300–1000 bp và có hàm lượng A/T cao. Lamin A và B cũng nối kết những histone lõi thông qua một nguyên tố chuỗi trong domain đuôi của chúng.
+

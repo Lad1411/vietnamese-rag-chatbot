@@ -1,0 +1,17 @@
+Classe préparatoire aux grandes écoles
+
+Classes préparatoires aux grandes écoles (CPGE) (Lớp học chuẩn bị cho các Trường lớn Pháp), thường gọi là classes prépas hay prépas là một chương trình đào tạo gồm 2 năm (có thể kéo dài thành 3 năm), tương đương với 2 năm đại học đại cương tại phần lớn các trường đại học ở Việt Nam. Chương trình này được lập ra là để phục vụ cho các cuộc thi vào grande école. Một số trường nổi tiếng như: lycée Louis-le-Grand, lycée Henri-IV, lycée Saint-Louis...
+Tuyển chọn vào CPGE.
+Việc tuyển chọn vào các CPGE thường dựa vào kết quả của 2 năm cuối cùng ở trường phổ thông và kết quả thi Baccalauréat. Hàng năm, vào khoảng tháng 4 đến tháng 5, các CPGE nhận được hàng trăm hồ sơ của các thí sinh đến từ khắp nới trên thế giới (kể cả Việt Nam), và những thí sinh được chọn đều phải có kết quả học tập xuất sắc ở các nước sở tại.
+Cơ cấu của CPGE.
+Các CPGE được phân chia thành 3 phần nhỏ theo các lĩnh vực dào tạo: Khoa học-Kỹ thuật, Kinh doanh, Khoa học xã hội.
+CPGE Khoa học-Kỹ thuật.
+Các lớp prépas được chia làm các nhánh nhỏ như sau:
+Các lớp Khoa học-Công nghệ này đào tạo các thí sinh cho các grande école hàng đầu của Pháp như École normale supérieure hoặc École polytechnique.
+Trong cả hai năm học, chương trình học tại các lớp này được phân bố như sau: toan: 10-12 giờ/tuần, vật lý: 10 giờ/tuần, văn học và triết học: 2 giờ/tuần, ngoại ngữ: 2-4 giờ/tuần và 2-3 giờ/tuần dành cho các môn tự chọn như SI, khoa học công nghiệp, hóa học, lý thuyết khoa học máy tính (bao gồm cả việc lập trình bằng ngôn ngữ Pascal, CaML).
+CPGE Kinh doanh.
+Các CPGE này tập trung vào kinh tế, và được tách thành 2: "classe préparatoire ECS" dành cho những người có Bac S (khoa học) và "classe préparatoire ECE" dành cho những người có Bac ES (kinh tế xã hội). 
+Các lớp này dành cho các thí sinh muốn thi vào các trương kinh tế hàng đâu ở Pháp như HEC School of Management, ESSEC, ESCP Europe, EM Lyon, EDHEC, Audencia, Grenoble École de Management, NEOMA Business School
+CPGE Khoa học xã hội.
+Các CPGE này đào tạo các thí sinh thi vào các trường như Écoles Normales Supérieures, École des Chartes, thường gọi là Sciences Po.
+

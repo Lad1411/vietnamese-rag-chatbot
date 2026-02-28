@@ -1,0 +1,13 @@
+Liên hệ Kramers–Kronig
+
+Trong toán học và vật lý học, một liên hệ Kramers-Kronig cho biết quan hệ giữa phần thực của một hàm giải tích phức với một tích phân chứa phần ảo của nó; và ngược lại. Liên hệ này được đặt theo tên của Ralph Kronig và Hendrik Anthony Kramers.
+Quan hệ này thường được ứng dụng trong vật lý học khi nghiên cứu về điện trường và từ trường trong môi trường vật chất. Ví dụ, trong quang học, đặc biệt là quang học phi tuyến, liên hệ này giúp tính được chiết suất của vật liệu bằng cách đo hệ số hấp thụ, một đại lượng dễ dàng đo được chính xác.
+Định nghĩa.
+Xét một bức xạ điện từ đơn sắc có biến đổi theo thời gian được viết bởi formula_1 trong biểu diễn phức của sóng. Công thức sau cho thấy mối liên hệ giữa hệ số hấp thụ và độ điện thẩm formula_2:
+Các tích phân ở trên là tích phân Cauchy và formula_5 là giá trị Cauchy chính.
+Biểu diễn theo hệ số hấp thụ "α", chiết suất "n" và tốc độ ánh sáng trong chân không "c":
+Điều kiện để formula_7 thỏa mãn liên hệ Kramers-Kronig là nó phải lài biến đổi Fourier của một tiến trình vật lý tuyến tính và có tính nhân quả. Nếu viết
+với formula_9 và formula_10 là các hàm giải tích thực, liên hệ Kramers-Kronig sẽ là
+Liên hệ Kramers–Kronig có quan hệ với biến đổi Hilbert, và thường được áp dụng cho độ điện thẩm formula_13 của vật liệu. Chú ý là
+với formula_15 là độ cảm điện môi của vật liệu. Độ cảm điện môi có thể được coi là biến đổi Fourier của sự biến đổi theo thời gian của véctơ phân cực trong vật liệu sau khi bị tác động của một xung điện trường.
+

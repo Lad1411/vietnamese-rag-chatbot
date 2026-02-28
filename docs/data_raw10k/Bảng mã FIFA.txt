@@ -1,0 +1,17 @@
+Bảng mã FIFA
+
+FIFA chỉ định mã quốc gia gồm ba chữ cái cho mỗi quốc gia thành viên và không phải thành viên. Đây là những mã chính thức được FIFA và các liên đoàn châu lục (AFC, CAF, CONCACAF, CONMEBOL, OFC và UEFA) sử dụng làm tên viết tắt của các quốc gia và lãnh thổ phụ thuộc trong các giải đấu chính thức.
+Mã FIFA hiện hành.
+Hiện nay FIFA có 211 thành viên chính thức, mỗi thành viên đều có một mã quốc gia đặc trưng và riêng biệt:
+Mã có liên kết với FIFA.
+Các mã sau dành cho các quốc gia hoặc lãnh thổ phụ thuộc hiện không liên kết với FIFA, nhưng các mã này vẫn có xuất hiện trong cơ sở dữ liệu của FIFA hoặc được trang web của các liên đoàn châu lục sử dụng thường xuyên:
+Mã không liên kết với FIFA.
+Các mã sau dành cho các quốc gia hoặc lãnh thổ phụ thuộc hiện không liên kết với FIFA. Mặc dù họ là thành viên hoặc thành viên liên kết trong liên đoàn châu lục của mình, những mã này không được sử dụng thường xuyên:
+Mã cũ.
+Các mã dưới đây đã không còn được sử dụng do quốc gia không còn tồn tại, đổi quốc hiệu, phân tách ra khỏi hoặc sáp nhập vào trong quốc gia khác:
+Khác biệt giữa FIFA và IOC.
+Dù hầu như bộ mã FIFA tương đồng với bộ mã IOC dùng trong các kỳ Thế vận hội, nhưng vẫn có một số điểm không nhất quán:
+Một số quốc gia có mã quốc gia liên kết với FIFA nhưng lại không phải là thành viên Ủy ban Olympic Quốc tế, và ngược lại:
+Khác biệt giữa FIFA và ISO.
+Có nhiều điểm khác biệt giữa bộ mã FIFA với bộ mã ISO 3166-1 alpha-3 hơn là giữa bộ mã FIFA với bộ mã IOC.
+

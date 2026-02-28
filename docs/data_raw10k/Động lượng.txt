@@ -1,0 +1,29 @@
+Động lượng
+
+ 
+Trong cơ học Newton, động lượng tuyến tính, động lượng tịnh tiến hay đơn giản là động lượng là đại lượng vật lý đặc trưng cho khả năng truyền chuyển động của vật. Nó được xác định bằng tích của khối lượng và vận tốc của một vật. Nó là một đại lượng vectơ, sở hữu độ lớn và hướng trong không gian ba chiều. Nếu là khối lượng của một vật và là vận tốc (cũng là một vectơ), thì động lượng là
+Trong hệ đơn vị SI, nó được đo bằng kilogam mét trên giây (kg. m/s). Định luật chuyển động thứ hai của Newton nói rằng tốc độ thay đổi động lượng của cơ thể bằng với lực ròng tác dụng lên nó.
+Động lượng phụ thuộc vào hệ quy chiếu, nhưng trong bất kỳ hệ quy chiếu quán tính nào, nó là một đại lượng "được bảo toàn", có nghĩa là nếu một hệ kín không bị tác động bởi ngoại lực thì tổng động lượng tuyến tính của nó không thay đổi. Động lượng cũng được bảo toàn trong thuyết tương đối hẹp (với công thức đã sửa đổi) và, ở dạng biến đổi, trong điện động lực học, cơ học lượng tử, lý thuyết trường lượng tử và thuyết tương đối rộng. Nó là một biểu thức của một trong những đối xứng cơ bản của không gian và thời gian: đối xứng tịnh tiến.
+Các công thức tiên tiến của cơ học cổ điển, cơ học Lagrangian và Hamilton, cho phép người ta chọn các hệ tọa độ kết hợp các đối xứng và các ràng buộc. Trong các hệ thống này, đại lượng bảo toàn là "động lượng tổng quát", và nói chung, điều này khác với "động" lượng được xác định ở trên. Khái niệm động lượng tổng quát được chuyển sang cơ học lượng tử, nơi nó trở thành toán tử trên hàm sóng. Các toán tử động lượng và vị trí có liên quan đến nhau theo nguyên lý bất định Heisenberg.
+Trong các hệ liên tục như trường điện từ, chất lỏng và vật thể biến dạng, mật độ động lượng có thể được xác định và một phiên bản liên tục của bảo toàn động lượng dẫn đến các phương trình như phương trình Navier-Stokes cho chất lỏng hoặc phương trình động lượng Cauchy cho chất rắn biến dạng hoặc chất lỏng.
+Định luật bảo toàn động lượng.
+Có thể suy ra trực tiếp từ định luật 2 Newton một hệ quả: Khi tổng các ngoại lực tác động vào hệ các vật bằng không thì biến thiên động lượng của hệ cũng bằng không.
+Đây chính là nội dung Định luật bảo toàn động lượng. Cụ thể, định luật này có thể phát biểu: "Tổng động lượng (đối với hệ quy chiếu quán tính) của một hệ các vật không thay đổi nếu hệ đó không tương tác với bên ngoài (tức là tổng ngoại lực bằng không, trong một hệ vật lý kín)".
+Định luật bảo toàn động lượng là một trong những định luật bảo toàn vật lý quan trọng nhất. Việc bảo toàn động lượng có giá trị trong cơ học cổ điển cũng như trong thuyết tương đối hẹp và cơ học lượng tử. Nó độc lập với việc Bảo toàn năng lượng và có tầm quan trọng cơ bản trong mô tả các quá trình tác động, ví dụ, trong đó định lý nói rằng tổng động lượng của tất cả các đối tác tác động trước và sau tác động là như nhau. Việc bảo toàn động lượng áp dụng cả khi động năng được giữ lại trong quá trình va chạm (va chạm đàn hồi) và khi không có (va chạm không đàn hồi).
+Sự bảo toàn động lượng là hệ quả tức thời của tính đồng nhất của không gian, nghĩa là thực tế rằng hành vi của một vật thể chỉ được xác định bởi các đại lượng vật lý tại vị trí của nó, chứ không phải bởi chính vị trí đó.
+Cơ học cổ điển.
+Trong cơ học cổ điển, khối lượng của vật không phụ thuộc vào trạng thái chuyển động, động lượng được định nghĩa bằng tích của khối lượng với vận tốc.
+Trong công thức này, formula_3 là khối lượng của vật, formula_4 là vận tốc của vật đó trong hệ quy chiếu đang xét, và formula_5 là động lượng của vật đối với hệ quy chiếu đó.
+Sự thay đổi động lượng của một vật theo thời gian trong hệ quy chiếu đang xét, theo định luật 2 Newton, đúng bằng giá trị của tổng các lực tác động vào vật.
+Thuyết tương đối.
+Động lượng tương đối tính, đề xuất bởi Albert Einstein, là tích của khối lượng tương đối tính của vật với vận tốc chuyển động. Khối lượng tương đối tính, "m", liên hệ với khối lượng nghỉ (khối lượng cổ điển), "m"0, qua vận tốc chuyển động, v, theo "m" = γ "m"0 với:
+Khái niệm này xuất phát từ nhu cầu xây dựng một véctơ-4 có độ lớn không thay đổi trong biến đổi Lorent, tương tự như xung lượng thông thường trong cơ học cổ điển. Véctơ-4 này xuất hiện một cách tự nhiên trong các hàm Green của lý thuyết trường lượng tử. Véctơ-4 này, còn được gọi là động lượng-4, gồm 3 thành phần của vectơ động lượng tương đối tính trong không gian ba chiều, p tương ứng với 3 chiều không gian, cùng năng lượng tương đối tính tổng cộng, "E" tương ứng với chiều thời gian, chia cho tốc độ ánh sáng, "c", để đồng bộ thứ nguyên:
+Với năng lượng tương đối tính tổng cộng là:
+Động lượng-4 được xây dựng như vậy có đặc điểm là có độ lớn, formula_9, không thay đổi khi thay đổi hệ quy chiếu trong không thời gian:
+Các vật thể không có khối lượng nghỉ như photon cũng vẫn có động lượng tương đối tính. Do hạt này luôn chuyển động với tốc độ ánh sáng p.p="E"2/"c"2 đối với photon.
+Cơ học lượng tử.
+Trong cơ học lượng tử, động lượng của một hệ, đặc trưng bởi một hàm trạng thái, là kết quả thu được từ một phép đo, thực hiện bởi áp dụng toán tử lên hàm trạng thái đó. Toán tử này gọi là toán tử động lượng.
+Với hệ vật lý là một hạt không có điện tích và spin, toán tử động lượng có thể được viết trên hệ cơ sở vị trí là:
+với formula_12 là toán tử građiên, formula_13 là hằng số Planck rút gọn, và formula_14 là đơn vị ảo (căn bậc hai của -1).
+Động lượng xuất hiện trong nguyên lý bất định của Heisenberg, trong đó nói rằng không thể cùng một lúc đo chính xác (không có sai số) động lượng và vị trí của một hệ lượng tử. Động lượng và vị trí là hai đại lượng có thể tráo đổi nhau trong cơ học lượng tử.
+

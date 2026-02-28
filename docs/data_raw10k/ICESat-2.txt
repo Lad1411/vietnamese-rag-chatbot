@@ -1,0 +1,6 @@
+ICESat-2
+
+ICESat-2 (Vệ tinh Độ cao 2 Băng, Mây và Mặt đất 2), một phần của Hệ thống Quan sát Trái Đất của NASA, là một chuyến bay vệ tinh đo độ cao băng và độ dày băng biển, cũng như địa hình và đặc điểm thảm thực vật. ICESat-2, một chuyến bay tiếp theo ICESat, đã được phóng vào ngày 15 tháng 9 năm 2018 từ Căn cứ Không quân Vandenberg ở California, vào một quỹ đạo gần tròn, gần cực với độ cao xấp xỉ 496 km (308 mi). Nó được thiết kế để hoạt động trong ba năm và mang đủ nhiên liệu trong bảy năm.
+Nhiệm vụ ICESat-2 được thiết kế để cung cấp dữ liệu độ cao cần thiết để xác định cân bằng khối băng và thông tin tán cây. Nó sẽ cung cấp các phép đo địa hình của các thành phố, hồ và hồ chứa, đại dương và bề mặt đất trên toàn cầu, ngoài phạm vi phủ sóng cực cụ thể.
+Dự án ICESat-2 đang được quản lý bởi Goddard Space Flight Center ở Greenbelt, Maryland. Công cụ duy nhất đang được thiết kế và xây dựng bởi trung tâm, và thiết bị mang được cung cấp bởi Orbital ATK. Vệ tinh được phóng lên một tên lửa Delta II do United Launch Alliance cung cấp. Đây là lần ra mắt cuối cùng của thiết bị mang Delta ll phóng ra.
+

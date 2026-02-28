@@ -1,0 +1,6 @@
+Virus RNA
+
+Virus RNA là một loại virus có RNA (axit ribonucleic) làm vật chất di truyền của nó. Axít nucleic này thường là RNA chuỗi đơn (ssRNA) nhưng có thể là RNA chuỗi kép (dsRNA). Các bệnh do virus RNA gây ra bao gồm sốt xuất huyết Ebola, SARS, bệnh dại, cảm lạnh, cúm, viêm gan C, sốt Tây sông Nin, bại liệt và sởi.
+Ủy ban quốc tế về phân loại virus (ICTV) phân loại virus RNA là virus thuộc nhóm III, nhóm IV hoặc nhóm V của hệ thống phân loại Baltimore phân loại virus và không xem xét virus có DNA trung gian trong vòng đời của chúng như virus RNA. Virus với RNA là vật liệu di truyền của chúng, trong đó cũng bao gồm các trung gian DNA trong chu kỳ sao chép của chúng được gọi là retrovirus, và bao gồm nhóm VI của phân loại Baltimore. Các retrovirus ở người đáng chú ý bao gồm HIV-1 và HIV-2, nguyên nhân gây bệnh AIDS.
+Một thuật ngữ khác cho virus RNA loại trừ một cách rõ ràng retrovirus là ribovirus.
+

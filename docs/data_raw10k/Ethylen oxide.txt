@@ -1,0 +1,107 @@
+Ethylen oxide
+
+Ethylen(e) oxide (ethylen oxit), còn được gọi là oxiran, là một hợp chất hữu cơ có công thức . Nó là một ether mạch vòng và epoxide đơn giản nhất: một vòng ba bao gồm một nguyên tử oxy và hai nguyên tử carbon. Ethylen oxide là một chất khí không màu và dễ cháy, có mùi ngọt nhẹ. Vì là một vòng căng nên ethylen oxide dễ dàng tham gia vào một số phản ứng cộng dẫn đến mở vòng. Ethylen oxide là đồng phân với acetaldehyd và với rượu vinyl. Ethylen oxide được sản xuất công nghiệp bằng cách oxy hóa ethylen với sự có mặt của chất xúc tác bạc.
+Khả năng phản ứng mạnh, gây ra nhiều mối nguy hiểm của ethylen oxide, cũng làm cho nó trở nên rất hữu ích. Mặc dù quá nguy hiểm đối với việc sử dụng trực tiếp trong gia đình và thường không quen thuộc với người tiêu dùng, ethylen oxide được sử dụng để sản xuất nhiều sản phẩm tiêu dùng cũng như các hóa chất và sản phẩm trung gian không dùng cho người tiêu dùng. Các sản phẩm này bao gồm chất tẩy rửa, chất làm đặc, dung môi, chất dẻo và các hóa chất hữu cơ khác nhau như ethylen glycol, các ethanolamin, glycol đơn giản và phức tạp, polyglycol ether, và các hợp chất khác. Mặc dù nó là một nguyên liệu thô quan trọng với các ứng dụng đa dạng, bao gồm sản xuất các sản phẩm như polysorbate 20 và polyethylen glycol (PEG) thường hiệu quả hơn và ít độc hại hơn các vật liệu thay thế, nhưng bản thân ethylen oxide là một chất rất nguy hiểm. Ở nhiệt độ phòng, nó là một loại khí dễ cháy, gây ung thư, gây đột biến, kích thích và gây mê.
+Ethylen oxide là một chất khử trùng bề mặt được sử dụng rộng rãi trong bệnh viện và ngành công nghiệp thiết bị y tế để thay thế hơi nước trong quá trình khử trùng các dụng cụ và thiết bị nhạy cảm với nhiệt, chẳng hạn như ống tiêm nhựa dùng một lần. Chất này rất dễ cháy và cực kỳ dễ nổ nên được sử dụng như một thành phần chính của vũ khí nhiệt áp; do đó, ethylen oxide thường được xử lý và vận chuyển ở dạng một chất lỏng được làm lạnh để kiểm soát tính chất nguy hiểm của nó.
+Lịch sử.
+Ethylen oxide được nhà hóa học người Pháp Charles-Adolphe Wurtz báo cáo lần đầu tiên vào năm 1859, người đã điều chế nó bằng cách để 2-chloroethanol tác dụng với kali hydroxide:
+Cl–CH2CH2–OH + KOH → (CH2CH2)O + KCl + H2O
+Wurtz đo điểm sôi của ethylen oxide là , cao hơn một chút so với giá trị hiện tại và phát hiện ra khả năng phản ứng của ethylen oxide với acid và muối của kim loại. Wurtz đã nhầm tưởng rằng ethylen oxide có các đặc tính của một bazơ hữu cơ. Quan niệm sai lầm này vẫn tồn tại cho đến năm 1896 khi Georg Bredig phát hiện ra rằng ethylen oxide không phải là chất điện phân. Bredig thấy nó khác với các ether khác - đặc biệt bởi xu hướng tham gia vào các phản ứng cộng, đặc trưng của các hợp chất không bão hòa - đã là một vấn đề tranh luận từ lâu. Cấu trúc tam giác dị vòng của ethylen oxide được đề xuất vào năm 1868 hoặc sớm hơn.
+Quá trình tổng hợp năm 1859 của Wurtz từ lâu vẫn là phương pháp điều chế ethylen oxide duy nhất, mặc dù đã có nhiều nỗ lực, bao gồm cả chính Wurtz, để sản xuất ethylen oxide trực tiếp từ Ethylen. Chỉ đến năm 1931, nhà hóa học người Pháp Theodore Lefort mới phát triển phương pháp oxy hóa trực tiếp ethylen với sự có mặt của chất xúc tác bạc. Kể từ năm 1940, hầu hết tất cả các sản xuất công nghiệp của ethylen oxide đều dựa vào quy trình này. Tiệt trùng bằng ethylen oxide để bảo quản gia vị đã được cấp bằng sáng chế vào năm 1938 cho nhà hóa học người Mỹ Lloyd Hall. Ethylen oxide đã đạt được tầm quan trọng công nghiệp trong Chiến tranh thế giới thứ nhất như là tiền thân của cả chất làm mát ethylen glycol và khí mù tạt của vũ khí hóa học.
+Cấu trúc và tính chất phân tử.
+Vòng epoxy của ethylen oxide là một tam giác gần như đều với các góc liên kết khoảng 60° và biến dạng góc đáng kể tương ứng với năng lượng 105 kJ/mol. Để so sánh, trong rượu, góc C–O–H là khoảng 110°; trong ether, góc C–O–C là 120°. Mômen quán tính của mỗi trục chính là "IA" = 32,921×10−40 g·cm², "IB" = 37,926×10−40 g·cm² và "I C" = 59,510×10−40 g·cm².
+Tính không ổn định tương đối của liên kết carbon-oxy trong phân tử được thể hiện bằng cách so sánh trong bảng năng lượng cần thiết để phá vỡ hai liên kết C – O trong ethylen oxide hoặc một liên kết C – O trong etanol và dimethyl ether:
+Tính không ổn định này tương quan với khả năng phản ứng cao của ethylen oxide, giải thích sự dễ dàng của các phản ứng mở vòng của nó (xem phần Tính chất hóa học).
+Tính chất vật lý.
+Ethylen oxide là một chất khí không màu ở và là chất lỏng di động ở - độ nhớt của ethylen oxide lỏng ở 0 °C thấp hơn khoảng 5,5 lần so với nhiệt độ của nước. Khí này có mùi ngọt đặc trưng của ether, dễ nhận thấy khi nồng độ của nó trong không khí vượt quá 500ppm. Ethylen oxide dễ dàng hòa tan trong nước, etanol, diethyl ether và nhiều dung môi hữu cơ.
+Tính chất hóa học.
+Ethylen oxide dễ dàng phản ứng với các hợp chất khác nhau khi mở vòng. Các phản ứng điển hình của nó là với các nucleophile tiến hành thông qua cơ chế SN2 cả trong môi trường acid (nucleophile yếu: nước, rượu) và môi trường kiềm (nucleophile mạnh: OH -, RO -, NH 3 , RNH 2, RR'NH, v.v.). Sơ đồ phản ứng chung là
+và các phản ứng cụ thể hơn được mô tả dưới đây.
+Phản ứng cộng nước và rượu.
+Dung dịch nước của ethylen oxide khá ổn định và có thể tồn tại trong một thời gian dài mà không có phản ứng hóa học đáng chú ý nào, nhưng việc thêm một lượng nhỏ acid, chẳng hạn như acid sulfuric loãng, ngay lập tức dẫn đến sự hình thành ethylen glycol, ngay cả ở nhiệt độ phòng:
+(CH2CH2)O + H2O → HO–CH2CH2–OH
+Phản ứng cũng xảy ra trong pha khí, với sự có mặt của muối acid phosphoric làm chất xúc tác.
+Phản ứng thường được thực hiện ở khoảng với lượng nước dư lớn, để ngăn phản ứng của ethylen glycol được tạo thành với ethylen oxide sẽ tạo thành di- và Triethylen glycol:
+2 (CH2CH2)O + H2O → HO–CH2CH2–O–CH2CH2–OH
+3 (CH2CH2)O + H2O → HO–CH2CH2–O–CH2CH2–O–CH2CH2–OH
+Việc sử dụng chất xúc tác kiềm có thể dẫn đến sự hình thành polyethylen glycol:
+n (CH2CH2)O + H2O → HO–(–CH2CH2–O–)n–H
+Các phản ứng với rượu diễn ra tương tự tạo ra ether ethylen glicol:
+(CH2CH2)O + C2H5OH → HO–CH2CH2–OC2H5
+2 (CH2CH2)O + C2H5OH → HO–CH2CH2–O–CH2CH2–OC2H5
+Phản ứng với rượu thấp hơn xảy ra ít tích cực hơn với nước và đòi hỏi các điều kiện khắc nghiệt hơn, chẳng hạn như đun nóng đến và điều áp đến và thêm chất xúc tác acid hoặc kiềm.
+Phản ứng của ethylen oxide với rượu béo tiến hành với sự có mặt của natri kim loại, natri hydroxide hoặc boron trifluoride và được sử dụng cho quá trình tổng hợp các chất hoạt động bề mặt.
+Phản ứng cộng acid carboxylic và các dẫn xuất của chúng.
+Phản ứng của ethylen oxide với acid carboxylic với sự có mặt của chất xúc tác tạo ra glycol mono- và dieste:
+(CH2CH2)O + (CH3CO)2O → CH3CO2CH2CH2O2CCH3
+Phản ứng cộng các amit acid cũng tiến hành tương tự:
+(CH2CH2)O + CH3CONH2 → HOCH2CH2NHC(O)CH3
+Việc bổ sung ethylen oxide vào các acid carboxylic cao hơn được thực hiện ở nhiệt độ cao (thường là ) và áp suất () trong môi trường trơ, có mặt chất xúc tác kiềm (nồng độ 0,01–2%), chẳng hạn như hydroxide hoặc carbonat của natri hoặc kali. Ion carboxylat đóng vai trò là nucleophile trong phản ứng:
+(CH2CH2)O + RCO2− → RCO2CH2CH2O−
+RCO2CH2CH2O− + RCO2H → RCO2CH2CH2OH + RCO2−
+Phản ứng cộng amoniac và amin.
+Ethylen oxide phản ứng với amoniac tạo thành hỗn hợp của etanolamin đơn chức (mono-), di- và tri-. Phản ứng được kích thích bằng cách thêm một lượng nhỏ nước.
+(CH2CH2)O + NH3 → HO–CH2CH2–NH2
+2 (CH2CH2)O + NH3 → (HO–CH2CH2)2NH
+3 (CH2CH2)O + NH3 → (HO–CH2CH2)3N
+Tương tự, có các phản ứng với amin bậc một và bậc hai:
+(CH2CH2)O + RNH2 → HO–CH2CH2–NHR
+Dialkylamino ethanol có thể phản ứng cộng với ethylen oxide, tạo thành amino polyethylen glycol:
+n (CH2CH2)O + R2NCH2CH2OH → R2NCH2CH2O–(–CH2CH2O–)n–H
+Trimethylamin phản ứng với ethylen oxide khi có nước, tạo thành choline:
+(CH2CH2)O + (CH3)3N + H2O → [HOCH2CH2N (CH3)3]+OH−
+Các amin bậc một và bậc hai thơm cũng phản ứng với ethylen oxide, tạo thành rượu arylamino tương ứng.
+Phản ứng cộng halogen.
+Ethylen oxide dễ dàng phản ứng với dung dịch nước của acid hydrochloric, hydrobromic và hydroiodic để tạo thành các halohydrin. Phản ứng xảy ra dễ dàng hơn với hai acid cuối cùng:
+(CH2CH2)O + HCl → HO–CH2CH2–Cl
+Phản ứng với các acid này cạnh tranh với phản ứng hyđrat hóa ethylen oxide được xúc tác bằng acid; do đó, luôn có sản phẩm phụ của ethylen glycol với phụ gia là diethylen glycol. Để có sản phẩm sạch hơn, phản ứng được tiến hành trong pha khí hoặc trong dung môi hữu cơ.
+Ethylen fluorohydrin thu được theo cách khác, bằng cách đun sôi hydro fluoride với dung dịch 5–6% của ethylen oxide trong diethyl ether. Ether thường có hàm lượng nước 1,5–2%; trong trường hợp không có nước, ethylen oxide trùng hợp.
+Halohydrin cũng có thể thu được bằng cách cho ethylen oxide đi qua dung dịch nước của các halogen kim loại:
+2 (CH2CH2)O + CuCl2 + 2 H2O → 2 HO–CH2CH2–Cl + Cu(OH)2↓
+Phản ứng cộng kim loại hữu cơ.
+Tương tác của ethylen oxide với các hợp chất magiê hữu cơ, là thuốc thử Grignard, có thể được coi là phản ứng thế nucleophile bị ảnh hưởng bởi các hợp chất cơ kim loại carbanion. Sản phẩm cuối cùng của phản ứng là một rượu cơ bản:
+&lt;chem&gt;(CH2CH2)O{} + RMgBr -&gt; R-CH2CH2-OMgBr -&gt;[\ce{H2O}]
+\overset{primary~alcohol}{R-CH2CH2-OH}&lt;/chem&gt;
+Cơ chế tương tự cũng có hiệu lực đối với các hợp chất cơ kim khác, chẳng hạn như alkyl lithium:
+&lt;chem&gt;(CH2CH2)O{} + \overset{alkyl~lithium}{RLi} -&gt; R-CH2CH2-OLi -&gt;[\ce{H2O}] R-CH2CH2-OH&lt;/chem&gt;
+Các phản ứng cộng khác.
+Cộng hydro xyanua.
+Ethylen oxide dễ dàng phản ứng với hydro xyanua tạo thành ethylen xyanohydrin:
+(CH2CH2)O + HCN → HO–CH2CH2–CN
+Dung dịch nước của calci xyanua hơi lạnh (10–20 °C) có thể được sử dụng thay thế cho HCN:
+2 (CH2CH2)O + Ca(CN)2 + 2 H2O → 2 HO–CH2CH2–CN + Ca(OH)2
+Ethylen cyanohydrin dễ mất nước, tạo ra acrylonitril:
+HO–CH2CH2–CN → CH2=CH–CN + H2O
+Cộng hydro sunfua và mercaptan.
+Khi phản ứng với hydro sunfua, ethylen oxide tạo thành 2-mercaptoethanol và thiodiglycol, và với alkylmercaptan, nó tạo ra 2-alkyl mercaptoethanol:
+(CH2CH2)O + H2S → HO–CH2CH2–HS
+2 (CH2CH2)O + H2S → (HO–CH2CH2)2S
+(CH2CH2)O + RHS → HO–CH2CH2–SR
+Lượng dư của ethylen oxide với dung dịch nước của hydro sunfua dẫn đến tris- (hydroxyethyl) sulfonyl hydroxide:
+3 (CH2CH2)O + H2S → [(HO–CH2CH2)3S+]OH−
+Cộng acid nitơrơ và acid nitric.
+Phản ứng của ethylen oxide với dung dịch nước của bari nitrit, calci nitrit, magnesi nitrit, kẽm nitrit hoặc natri nitrit dẫn đến sự hình thành 2-nitroethanol:
+2 (CH2CH2)O + Ca(NO2)2 + 2 H2O → 2 HO–CH2CH2–NO2 + Ca(OH)2
+Với acid nitric, ethylen oxide tạo thành mono- và dinitroglycol:
+&lt;chem&gt;(CH2CH2)O{} + \overset{nitric\atop acid}{HNO3} -&gt; HO-CH2CH2-ONO2 -&gt;[\ce{+HNO3}] [\ce{-H2O}] O2NO-CH2CH2-ONO_2&lt;/chem&gt;
+Phản ứng với các hợp chất có chứa nhóm methylen hoạt động.
+Khi có mặt các alkoxide, phản ứng của ethylen oxide với các hợp chất có chứa nhóm methylen hoạt động dẫn đến sự hình thành butyrolacton:
+Alkyl hóa các hợp chất thơm.
+Ethylen oxide tham gia vào phản ứng Friedel – Crafts với benzen để tạo thành rượu phenethyl:
+Styren có thể thu được trong một giai đoạn nếu phản ứng này được tiến hành ở nhiệt độ cao () và áp suất cao (), với sự có mặt của chất xúc tác aluminosilicat.
+Tổng hợp ether vương miện.
+Một loạt các hợp chất dị vòng đa thức, được gọi là ether vương miện, có thể được tổng hợp bằng ethylen oxide. Một phương pháp là quá trình tạo vòng tạo cation của ethylen oxide, giới hạn kích thước của vòng hình thành:
+"n" (CH2CH2)O → (–CH2CH2–O–)"n"
+Để ngăn chặn sự hình thành các polyme mạch thẳng khác, phản ứng được thực hiện trong một dung dịch rất loãng.
+Phản ứng của ethylen oxide với lưu huỳnh dioxide với sự có mặt của muối xêzi dẫn đến sự hình thành hợp chất dị vòng 11 nguyên tố có tính chất tạo phức của ether vương miện:
+Đồng phân hóa.
+Khi đun nóng đến khoảng , hoặc đến với sự có mặt của chất xúc tác (Al2O3, H3PO4, v.v.), ethylen oxide đồng phân hóa thành acetaldehyde:
+&lt;chem&gt;(CH2CH2)O -&gt;[\ce{200^\circ C}] [\ce{Al2O3}] \overset{acetaldehyde}{CH3CHO}&lt;/chem&gt;
+Cơ chế gốc tự do đã được đề xuất để giải thích phản ứng này trong pha khí; nó bao gồm các giai đoạn sau:Trong phản ứng (), M dùng để chỉ thành bình phản ứng hoặc chất xúc tác dị thể. Gốc CH 3 CHO * đại diện cho một phân tử acetaldehyde tồn tại trong thời gian ngắn (thời gian tồn tại là 10 - 8,5 giây). Năng lượng dư thừa của nó là khoảng 355,6 kJ/mol, vượt quá năng lượng liên kết 29,3 kJ/mol của liên kết CC trong acetaldehyde.
+Khi không có chất xúc tác, quá trình đồng phân hóa do nhiệt của ethylen oxide không bao giờ có tính chọn lọc và ngoài acetaldehyde thì thu được một lượng đáng kể các sản phẩm phụ (xem phần Phân hủy do nhiệt).
+Phản ứng khử.
+Ethylen oxide có thể được hydro hóa thành ethanol với sự có mặt của chất xúc tác, chẳng hạn như niken, bạch kim, palađi, boranes, lithi nhôm hydride và một số hydride khác.
+&lt;chem&gt;(CH2CH2)O{} + H2 -&gt;[{}\atop\ce{Ni, Pt, Pd, BH3, LiAlH4}\text{ or other hydrides}] [\ce{80^\circ C}] \underset{ethanol}{C2H5OH}&lt;/chem&gt;
+Ngược lại, với một số chất xúc tác khác, ethylen oxide có thể bị "khử" bởi hydro thành ethylen với hiệu suất lên đến 70%. Các chất xúc tác khử bao gồm hỗn hợp của bụi kẽm và acid acetic, của lithi nhôm hydride với titani(III) trichloride (chất khử thực sự là titani(II) dichloride, được tạo thành do phản ứng giữa LiAlH4 và TiCl3) và của sắt(III) chloride với butyllithi trong tetrahydrofuran.
+&lt;chem&gt;(CH2CH2)O{} + H2 -&gt;[{}\atop\ce
+

@@ -1,0 +1,7 @@
+Đối tượng tự do
+
+Trong toán học, một đối tượng tự do là một khái niệm cơ bản của đại số trừu tượng.
+Định nghĩa.
+Đặt ("C","F") là một phạm trù cụ thể (nghĩa là là một hàm tử chung thủy), và đặt "X" là một tập hợp (được gọi là "cơ sở"), một đối tượng và một đơn ánh (còn được gọi là "chèn chính tắc"). Chúng ta nói rằng "A" là một đối tượng tự do trên "X" (đối với "i") khi và chỉ khi nó thỏa mãn tính chất phổ quát sau:
+Theo cách này, hàm tử gán đối tượng tự do "A" cho tập "X" là một adjoint trái của hàm tử quên.
+

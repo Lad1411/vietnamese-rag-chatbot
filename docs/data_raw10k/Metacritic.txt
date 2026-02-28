@@ -1,0 +1,17 @@
+Metacritic
+
+Metacritic là một trang mạng tổng hợp các bài đánh giá album nhạc, trò chơi điện tử, phim điện ảnh, chương trình truyền hình và đĩa DVD. Kết quả tổng hợp đánh giá sẽ được thể hiện qua ba màu sắc là đỏ, vàng và xanh. Trang này trông có vẻ tương tự trang Rotten Tomatoes nhưng cách tính điểm rất khác.
+Lịch sử.
+Metacritic do Marc Doyle thành lập vào tháng 1 năm 2001 cùng người chị gái Julie Doyle Roberts và anh bạn cùng học trường luật (thuộc Đại học Nam California) là Jason Dietz. Dù rằng lúc đó đã có trang Rotten Tomatoes nhưng Doyle, Roberts và Dietz "nhận thấy cơ hội bao quát một phạm vi phương tiện rộng lớn hơn". Nhóm này bán Metacritic cho CNET vào năm 2005. CNET và Metacritic hiện đều do CBS Corporation sở hữu.
+Tháng 8 năm 2010, giao diện Metacritic được tân trang toàn diện. Tuy nhiên phản hồi từ người dùng lại vô cùng tiêu cực.
+Metascores.
+Bộ điểm số của Metacritic được gọi là Metascores, là những giá trị trung bình có trọng số. Một số xuất bản phẩm nhất định sẽ có trọng số cao hơn "đơn giản chỉ dựa vào việc chúng có tầm cỡ".
+Dưới đây liệt kê khoảng điểm dành cho trò chơi, phim, chương trình truyền hình và album nhạc:
+Chỉ trích.
+Nhiều nhà phê bình trò chơi điện tử không đồng tình với cách mà Metacritic tính điểm. Khi trò chơi được nhà phê bình cho điểm "A" thì Metacritic cho nó 100 điểm. Tuy nhiên, khi nhà phê bình cho trò chơi điểm "F" thì Metacritic cho nó 0 điểm, mặc dù một số nhà phê bình cho rằng 50 điểm thì hợp lý hơn. Khi nhà phê bình cho điểm "B-" thì Metacritic cho 67 điểm, trong khi nhiều người cho rằng khoảng gần 80 điểm.
+Doyle cho hay một số nhà xuất bản muốn anh thêm vào các đánh giá mà Metacritic không theo dõi và muốn Metacritic loại bỏ một số đánh giá hiện có, thường là vì chúng đánh giá tiêu cực về họ. Ngoài ra, có một số chỉ trích cho rằng không nên theo dõi các đánh giá của người Anh đối với các môn thể thao của Mỹ, chẳng hạn bóng bầu dục, bóng rổ hay đua xe. Doyle nói: "Ngược lại, nhiều nhà xuất bản bên châu Âu cảm thấy rằng các đánh giá của Mỹ đối với bóng đá, quần vợt, đua xe công thức 1, cricket và bóng rugby là không đủ tư cách hay không thích hợp." "Một khi tôi đã quyết định theo dõi đánh giá của ai thì tôi không thể nhặt và chọn sẽ liệt kê các đánh giá nào trên Metacritic mà chỉ dựa vào lời phán xét của các cá nhân này."
+Tầm ảnh hưởng đối với trò chơi điện tử.
+Nick Wingfield của tờ "The Wall Street Journal" cho rằng Metacritic "ảnh hưởng đến doanh số và lượng trữ hàng của nhà phát hành trò chơi điện tử". Tác giả dẫn chứng "Một công ty sẽ đòi các nhà phát hành trò chơi phải trả nhiều tiền hơn nếu họ bị đánh giá thấp trên những trang kiểu này". 
+Trong một cuộc phỏng vấn với tờ "The Guardian", Marc Doyle cho rằng càng ngày càng có nhiều doanh nghiệp và nhà phân tích tài chính sử dụng Metacritic làm "chỉ báo sớm về doanh thu tiềm năng của trò chơi, và nói rộng hơn, là giá bán của trò chơi".
+Năm 2008, Microsoft bắt đầu sử dụng các tổng hợp đánh giá của Metacritic để loại khỏi danh sách các trò chơi Xbox Live Arcade không được ưa thích.
+

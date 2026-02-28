@@ -1,0 +1,21 @@
+Vertical bar
+
+Vertical bar thường là một đường thẳng đứng trong thuật ngữ lập trình viên, được sử dụng chủ yếu trong công nghệ thông tin và toán học. Ký tự được hiển thị dưới dạng một đường thẳng đứng liên tục (|) hoặc bị gián đoạn (¦) ở giữa.
+Sử dụng.
+Ngôn ngữ lập trình.
+Phần lớn các ngôn ngữ lập trình ngày nay sử dụng Vertical bar là cách biểu thị cho toán tử "OR". 
+// JAVASCRIPT
+let a = 10; // 1010 (binary)
+let b = 9; // 1001 (binary)
+let c = a | b; // 1011 (binary)
+hoặc toán tử "hoặc" 
+// JAVASCRIPT
+let a = true;
+let b = false;
+let c = false;
+let d;
+d = a || b; // true
+d = b || c; // false
+Mã hóa.
+Dấu gạch đứng được mã hóa bằng ASCII và Unicode tại . Với URLs vertical bar được mã hóa bằng codice_1. Thanh gãy dọc có mã nguồn tại .
+

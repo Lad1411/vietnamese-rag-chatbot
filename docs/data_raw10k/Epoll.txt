@@ -1,0 +1,20 @@
+Epoll
+
+epoll là một Linux system call được sử dụng cho việc thông báo sự kiện trên các I/O (I/O event notification) và được giới thiệu lần đầu của phiên bản nhân Linux 2.5.44 để thay thế poll() system call trước đó với tính năng tương tự. epoll() giúp giám sát nhiều file descriptor của các I/O tương ứng để kiểm tra tính sẵn sàng của chúng. Trong các ứng dụng có số lượng lớn file descriptor cần giám sát, epoll có hiệu suất tốt hơn với độ phức tạp thuật toán là O(1) khi so với các system call tương tự trước đó có độ phức tạp thuật toán là O(n).)
+epoll giống với kqueue của FreeBSD, với nhiều hàm ở tầng userspace, với mỗi hàm đều có một file descriptor, tương ứng với một kernel object (tạm dịch: đối tượng kernel), làm đối số. epoll dùng cấu trúc dữ liệu [red–black tree] (RB-tree) để theo dõi tất cả các file description mà nó được phân công.
+API.
+Đối tượng của epoll API là epoll instance (tạm dịch đối tượng epoll), một cấu trúc dữ liệu ở phía kernel có thành phần chính gồm 2 list (tạm dịch: 2 danh sách):
+Từ định nghĩa về 2 thành phần như trên, epoll hỗ trợ 3 API gồm codice_1 và codice_2, codice_3 và codice_4.
+int epoll_create(int size);
+int epoll_create1(int flags);
+2 hàm codice_2 và codice_1 có cùng tính năng khi đều khởi tạo một epoll instance. 2 hàm đều trả về một file descriptor, thường được đặt là codice_7, tương ứng với epoll instance vừa khởi tạo đó. Đối số flag của hàm epoll_create1() chỉ chấp nhận 1 giá trị hợp lệ duy nhất là EPOLL_CLOEXEC. Hàm codice_1 là 1 phiên bản cũ hơn của codice_2 và không được khuyến khích sử dụng kể từ Linux kernel version phiên bản 2.6.27 và glibc phiên bản 2.9.
+int epoll_ctl(int epfd, int op, int fd, struct epoll_event *event);
+Hàm codice_3 được dùng để thêm mới, chỉnh sửa hoặc xóa bỏ epoll instance (với file descriptor codice_7 tương ứng) trong interest list cùng với sự kiện epoll (codice_12) tương ứng của file descriptor đó.
+int epoll_wait(int epfd, struct epoll_event *events, int maxevents, int timeout);
+Hàm codice_13 được dùng để chờ đợi sử kiện epoll trong 1 khoảng thời gian codice_14 (đơn vị mili giây) đã được ghi từ lần gọi hàm codice_3 trước đó cho file descriptor epfd tương ứng. Nếu sự kiện epoll này xảy ra, codice_4 trả về số file descriptor đã sẵn sàng cho thao tác I/O, trả về codice_17 nếu không có file descriptor nào sẵn sàng trong thời gian codice_14, và trả về codice_19 nếu xảy ra lỗi.
+Kích hoạt sự kiện epoll.
+epoll hỗ trợ cả 2 chế độ kích hoạt sự kiện là edge-triggered và level-triggered. Với edge-triggered, codice_13 sẽ trả về giá trị &gt;0 (ứng với số file descriptor đã sẵn sàng cho thao tác I/O) khi sự kiện epoll xảy ra được đưa vào hàng đợi (enqueued) của đối tượng epoll. Cờ EPOLLET được sử dụng cho edge-trigger. Với level-triggered mode, codice_13 sẽ trả về giá trị &gt;0 miễn là epoll event đó còn xảy ra.
+Ví dụ với 1 pipe được giám sát với epoll sau khi nhận được data, codice_22 của codice_13 sẽ được trả về với event tương ứng, cho biết rằng pipe đang có data để đọc. Giả sử rằng bên phía đọc pipe chỉ đọc 1 phần data trong pipe mà không đọc hết. Khi đó, ở chế độ level-triggered, những lần gọicodice_13 tiếp theo sẽ đều trả về event để tiếp tục đọc, miễn là trong pipe vẫn còn data cho những lần đọc tiếp theo. Với chế độ edge-triggered, codice_13 chỉ trả về 1 lần, tương ứng với sự kiện edge khi pipe chuyển từ "không có data" sang "có data".
+Chỉ trích.
+Bryan Cantrill chỉ ra rằng codice_26 có những lỗi mà lẽ ra có thể tránh được, nếu nó học từ các phần mềm/chương trình tiền nhiệm như input/output completion ports, event ports (Solaris) và kqueue. Tuy nhiên, phần lớn các chỉ trách của Cantrill đã được giải quyết bởi các option codice_27 và codice_28. codice_27 được thêm vào ở phiên bản 2.6.2 của Linux kernel mainline, xuất bản vào tháng 2 năm 2004. codice_28 được thêm vào ở phiên bản 4.5, xuất bản vào tháng 3 2016.
+

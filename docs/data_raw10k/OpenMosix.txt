@@ -1,0 +1,8 @@
+OpenMosix
+
+openMosix là một hệ thống quản lý các nhóm máy vi tính (tiếng Anh: "cluster") tự do và miễn phí theo giấy phép mã nguồn mở GPL. Hệ thống này cho phép các quá trình vi tính di chuyển từ một máy này đến một máy khác trong nhóm máy của hệ thống nếu như quá trình đó có thể được thi hành nhanh chóng hơn. Hệ thống openMosix hữu ích trong các ứng dụng thường hay truy cập đến phần cứng như các thao tác đọc và ghi trên đĩa cứng. openMosix được phát hành dưới dạng phần mềm vá ("patch") cho hạt nhân Linux. Ngoài ra hệ thống openMosix còn được phát hành theo một số đĩa LiveCD chuyên môn và dưới dạng sẵn sàng để dùng trong hệ điều hành Gentoo Linux.
+Hiện tại phiên bản openMosix ổn định chạy trên hệ điều hành Linux nhân 2.4 với cấu trúc máy kiểu Intel x86. Hỗ trợ cho các cấu trúc AMD 64-bit chỉ có trong phiên bản đang được phát triển cho hạt nhân Linux phiên bản 2.6. Phiên bản openMosix dành cho hạt nhân Linux 2.6 đang còn được thử nghiệm. Ngoài ra, các chương trình hỗ trợ người dùng còn chưa có trong phiên bản này.
+Hệ thống openMosix được ông Moshe Bar đưa lên mạng vào ngày 10 tháng 2 năm 2002 khi hệ thống Mosix mà ông tham gia phát triển trước đó trở thành phần mềm tư hữu.
+Các LiveCD.
+GNU/Linux LiveCD có openMosix:
+

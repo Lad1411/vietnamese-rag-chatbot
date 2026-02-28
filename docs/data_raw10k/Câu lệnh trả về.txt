@@ -1,0 +1,6 @@
+Câu lệnh trả về
+
+Trong lập trình máy tính, câu lệnh trả về (tiếng Anh: "return statement") sẽ khiến sự thực thi dừng chương trình con hiện tại và trở về lại lập tức vào thời điểm trong mã sau khi chương trình con đó được gọi, được gọi là địa chỉ trả về ("return address"). Địa chỉ trả về được lưu, thường ở trong chồng gọi của tiến trình, như là một phần của toán tử tạo lời gọi chương trình con. Trong nhiều ngôn ngữ, câu lệnh trả về cho phép hàm xác định một giá trị trả về ("return value") sẽ được truyền lại cho mã gọi hàm đó.
+Tổng quan.
+Trong C++, codice_1 (với codice_2 là một biểu thức) là một câu lệnh để lệnh cho hàm trả về thực thi của chương trình tới hàm gọi nó, và báo cáo giá trị của codice_2.
+

@@ -1,0 +1,7 @@
+Cánh quạt nâng đan xen
+
+Mô hình Cánh quạt nâng đan xen ("Rôto Intermeshing") là mô hình tạo lực nâng cánh quạt áp dụng trên máy bay trực thăng bằng cách sử dụng một bộ hai cánh quạt quay ngược chiều nhau, với trục quay của rotor được nghiêng đi với một góc nhỏ so với phương thẳng đứng, hai cánh quạt đối xứng nhau theo chiều ngang. Các cánh quạt được khớp với nhau bởi một hệ thống bánh răng trên trục nên do đó lưỡi dao của hai cánh quạt không va chạm với nhau. Việc bố trí như vậy cho phép các máy bay trực thăng có thể hoạt động mà không cần có một cánh quạt đuôi, giúp tiết kiệm năng lượng. Tuy nhiên, mô hình này có nhược điểm là các rotor không nâng trực tiếp theo chiều dọc, làm giảm hiệu quả trên mỗi mỗi rotor.
+Cấu hình này đôi khi được gọi là một synchropter.
+Yaw được thực hiện thông qua thay đổi mô-men xoắn, được thực hiện bằng cách tăng sân tập vào một trong những bộ lưỡi.
+Hầu hết trong các thiết kế intermeshing, mỗi cácnh quạt chỉ có hai lưỡi dao, mặc dù ngoại lệ như các Kellett XR-10 thực sự tồn tại.
+

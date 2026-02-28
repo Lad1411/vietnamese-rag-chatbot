@@ -1,0 +1,11 @@
+Kính hiển vi lực từ
+
+Kính hiển vi lực từ (tiếng Anh: Magnetic Force Microscope, thường viết tắt là MFM) là một loại kính hiển vi thuộc nhóm kính hiển vi quét đầu dò (SPM), được sử dụng để xây dựng hình ảnh sự phân bố của tính chất từ trên bề mặt vật rắn dựa trên việc ghi nhận lực tương tác (lực từ) giữa mũi dò từ tính với bề mặt của mẫu.
+Nguyên lý hoạt động.
+Về mặt nguyên lý, MFM hoạt động tương tự như AFM. Mũi dò quét trên bề mặt mẫu được sử dụng là vật liệu từ tính khi quét trên bề mặt mẫu sẽ có sự tương tác với các thành phần từ tính trên bề mặt, qua đó vẽ bản đồ phân bố các thành phần từ tính bề mặt, mà cụ thể ở đây là cấu trúc đômen của vật rắn.
+Lực tương tác từ giữa mũi dò và bề mặt vật rắn được xác định bởi:
+formula_1
+hoặc trong chế độ hoạt động tiếp xúc, người ta có thể ghi lại gradient lực từ được xác định bởi:
+formula_2
+với formula_3 lần lượt là thành phần theo trục z của độ từ hóa của mũi dò, và cường độ từ trường tại bề mặt mẫu vật. 
+

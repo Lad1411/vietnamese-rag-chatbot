@@ -1,0 +1,22 @@
+URL
+
+Uniform Resource Locator (viết tắt URL, nghĩa tiếng Việt: Hệ thống định vị tài nguyên thống nhất; được gọi một cách thông thường là một địa chỉ web ) là một tham chiếu đến tài nguyên web chỉ định vị trí của nó trên một mạng máy tính và cơ chế để truy xuất nó. URL là một loại Mã nhận dạng tài nguyên thống nhất (Uniform Resource Identifier). codice_1 là một URL, trong khi codice_2 thì không phải. Giao thức cho URL phổ biến nhất cho các trang web tham chiếu là HTTP, nhưng các giao thức khác cũng được sử dụng như FTP để truyền file, Mailto cho email, JDBC để truy cập cơ sở dữ liệu và các giao thức khác.
+Hầu hết các trình duyệt web hiển thị URL của một trang web phía trên trang trong một thanh địa chỉ. Một URL thông thường có thể có dạng codice_3, cho biết một giao thức (HTTP), tên máy chủ (codice_2) và tên file (codice_5).
+Lịch sử.
+Bộ định vị tài nguyên thống nhất (URL) được định nghĩa trong RFC 1738 vào năm 1994 bởi Tim Berners-Lee, nhà phát minh của World Wide Web và nhóm làm việc URI của Lực lượng đặc nhiệm kỹ thuật Internet (IETF), là kết quả của phiên hợp tác bắt đầu tại IETF Living Documents Bird of a Feather vào năm 1992.
+Định dạng này kết hợp hệ thống tên miền tồn tại từ trước (được tạo năm 1985) với cú pháp đường dẫn tệp, trong đó dấu gạch chéo được sử dụng để phân tách tên thư mục và tên tệp. Các quy ước đã tồn tại trong đó tên máy chủ có thể được thêm tiền tố để hoàn thành các đường dẫn tệp, trước dấu gạch chéo kép (codice_6).
+Berners-Lee sau đó đã bày tỏ sự hối tiếc về việc sử dụng dấu chấm để phân tách các phần của tên miền trong URI, nói rằng đáng lẽ ông đã sử dụng dấu gạch chéo trong toàn bộ địa chỉ thay cho dấu chấm, và cũng nói rằng, đưa dấu hai chấm theo thành phần đầu tiên của URI, hai dấu gạch chéo trước tên miền là không cần thiết.
+Bản nháp đầu tiên (1993) của HTML Specification được đề cập đến Bộ định vị tài nguyên "phổ quát". Điều này đã bị loại bỏ một thời gian giữa tháng 6 năm 1994 (RFC 1630) và tháng 10 năm 1994 (dự thảo-ietf-uri-url-08.txt).
+Cấu trúc.
+Mỗi HTTP URL đều tuân theo tiêu chuẩn cú pháp của một URI. Một URL gồm có nhiều phần được liệt kê dưới đây:
+Cụ thể hơn:
+Hiện nay trên thế giới mỗi ngày có rất nhiều tên miền ("domain") (thí dụ org) mới xuất hiện.
+Để có thể tìm đến một đường dẫn Internet để chỉ mục nội dung cần thiết phục vụ cho người sử dụng Internet, chúng ta có thể sử dụng các công cụ trên mạng Internet. Hiện nay các công cụ tìm kiếm trên mạng Internet ngày càng phổ biến và được sử dụng rộng rãi. Hoặc chúng ta có thể sử dụng việc tìm kiếm đến URL thích hợp thông qua danh bạ các website hay là các công cụ tìm kiếm.
+URL quốc tế hóa.
+Người dùng Internet được phân phối trên toàn thế giới bằng nhiều ngôn ngữ và bảng chữ cái khác nhau và hy vọng có thể tạo URL trong bảng chữ cái địa phương của riêng họ. Mã định danh tài nguyên quốc tế hóa (IRI) là một dạng URL bao gồm các ký tự Unicode. Tất cả các trình duyệt hiện đại đều hỗ trợ IRI. Các phần của URL yêu cầu xử lý đặc biệt cho các bảng chữ cái khác nhau là tên miền và đường dẫn.
+Tên miền trong IRI được gọi là Tên miền Quốc tế hóa (IDN). Phần mềm web và Internet tự động chuyển đổi tên miền thành dạng chữ thập có thể sử dụng được bởi Hệ thống tên miền; ví dụ: URL tiếng Trung codice_7 trở thành codice_8. codice_9 chỉ ra rằng ký tự ban đầu của URL không phải là ký tự ASCII.
+Mối quan hệ giữa URL và URN, URI.
+Về kỹ thuật, URL là một dạng của URI, nhưng trong nhiều tài liệu kỹ thuật và các cuộc thảo luận bằng lời nói, URL thường được sử dụng như một từ đồng nghĩa với URI, và điều này không bị coi là một vấn đề.
+URI có thể được phân loại như là nhận dạng (URL), như tên gọi (URN), hoặc là cả hai. Một Định danh tài nguyên thống nhất (Uniform Resource Name - URN) có chức năng giống như tên của một người, trong khi một Định vị tài nguyên thống nhất (Uniform Resource Locator - URL) tương tự như địa chỉ đường phố của người đó. Nói cách khác: URI xác định việc nhận dạng cho đối tượng, trong khi URN đặt tên và URL cung cấp phương pháp tìm đối tượng đó.
+Hệ thống mã số ISBN sử dụng để nhận dạng sách cung cấp 1 ví dụ rất cụ thể về URN. Chỉ số ISBN 0486275574 (run:isbn:0-486-27557-4) cho biết đây là một ấn bản truyện kịch Romeo và Juliet của Shakespeare. Để tìm cuốn sách này, phải cần địa chỉ cuốn sách đó chính là địa chỉ URL. Đường dẫn địa chỉ URL của cuốn sách trên hệ thống Unix sẽ có địa chỉ như là: file:///home/username/RomeoAndJuliet.pdf, đây là đường dẫn tập tin được lưu trên ổ cứng máy tính. Vì vậy URN và URL luôn có mục đích hỗ trợ &amp; bổ sung cho nhau.
+

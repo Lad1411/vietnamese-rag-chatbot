@@ -1,0 +1,9 @@
+Đoạn lặp armadillo
+
+ 
+Đoạn lặp armadillo (kí hiệu: ARM) là một môtíp amino acid lặp, đặc trưng, dài 42 đơn phân và được tìm thấy ở nhiều protein. Những protein chứa đoạn lặp armadillo sẽ có nhiều bản sao của nó xếp kế nhau. Mỗi đoạn lặp armadillo có một cặp xoắn alpha, tạo thành cấu trúc hình kẹp tăm. Cấu trúc gồm nhiều cấu trúc kẹp tăm gọi là cấu trúc móng ngựa alpha hoặc cuộn dây alpha. 
+Một số protein chứa đoạn lặp armadillo là β-catenin, α-importin, plakoglobin, adenomatous polyposis coli (APC), và nhiều loại khác.
+Tên gọi armadillo (nghĩa là con tatu) đến từ tên gọi cũ của gen mã hóa protein β-catenin của "Ruồi giấm thường", nơi đoạn lặp armadillo được khám phá lần đầu tiên. Ban đầu người ta cho rằng β-catenin có chức năng tham gia vào sự dính của cadherin vào khung xương tế bào; tuy nhiên những nghiên cứu gần đây cho thấy protein này còn có tác dụng điều hòa sự tự kết hợp cặp đôi với bản thân của protein α-catenin, từ đó giúp kiểm soát hoạt động nhánh và bó của sợi actin. Dẫu vậy, đoạn lặp armadillo còn xuất hiện ở rất nhiều protein có những chức năng khác. Miền protein này đóng vai trò quan trọng trong tải nạp tín hiệu WNT trong phát triển phôi. 
+Cấu trúc.
+Cấu trúc ba chiều của đoạn lặp armadillo được quan sát lần đầu trong cấu trúc tinh thể của protein β-catenin, chứa 12 đoạn lặp armadillo lặp liên tục để tạo thành cấu trúc siêu xoắn alpha với ba vòng xoắn ở mỗi đơn vị. Cấu trúc hình trụ của nó chứa một rãnh mang điện dương, được cho là để tương tác với bề mặt axit của các chất tác dụng với β-catenin. 
+

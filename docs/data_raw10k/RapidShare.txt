@@ -1,0 +1,25 @@
+RapidShare
+
+RapidShare là một mạng chia sẻ thu phí hoặc miễn phí (hạn chế chức năng) của Đức, hoạt động tại Thụy Sĩ và thu lợi nhuận từ các thành viên trả phí (paying users). Rapidshare từng là một trong những website lưu trữ lớn nhất thế giới với hàng triệu tệp tin được lưu trữ trên máy chủ. Theo Alexa, Rapidshare từng đứng thứ 11 trong những trang web được truy cập nhiều nhất trên thế giới.
+Lịch sử.
+RapidShare bắt đầu đi vào hoạt động từ ngày 27 tháng 5 năm 2002, hiện tại có hai website riêng biệt, nhưng cả hai trang web đều đòi cách tổ chức và tồn tại hoàn toàn khác nhau. Trang web gốc là RapidShare.de, sử dụng tên miền của Đức ".de". Khẩu hiệu của 2 website là "Cách dễ nhất để chia sẻ dữ liệu của bạn" ("The easy way to share your files").
+Vào ngày 19 tháng 10 năm 2006, RapidShare thông báo rằng "Không may là các máy chủ của RapidShare.de đã bị đầy". Và một trang web mới, RapidShare.com đã hoạt động nhằm chuyển bớt người dùng từ RapidShare.de sang RapidShare.com. Trong khi trang Rapidshare.com còn hoạt động, những thành viên có tài khoản "Premium" tại RapidShare.de vẫn có thể sử dụng trên cả hai trang RapidShare.de và RapidShare.com, cho đến khi tài khoản đó hết giá trị. Tuy nhiên lại không thể sử dụng tài khoản của RapidShare.com trên trang Rapidshare.de.
+Ngày 10 tháng 2 năm 2015, RapidShare thông báo trên trang chủ rằng họ sẽ ngừng vĩnh viễn cung cấp dịch vụ kể từ ngày 31 tháng 3 năm 2015. Mọi dữ liệu lưu trữ sẽ bị mất, kể cả đối với những tài khoản trả phí đang sử dụng.
+Dịch vụ và hoạt động.
+Trang web cho phép người dùng tải lên tệp tin với dung lượng lên tới 200 MB với Rapidshare.com và 300 MB với Rapidshare.de. Người dùng sau đó được cung cấp một đường liên kết duy nhất tải xuống URL để có thể chia sẻ cho bất cứ ai tải xuống. Không người dùng nào được phép tìm kiếm các nội dung trong trang web; tất cả các file phải được tải xuống thông qua liên kết được trang web cung cấp.
+RapidShare tuyên bố họ có tốc độ truyền tải 200 gigabit/s và 4.5 petabyte không gian lưu trữ dữ liệu.
+Có 2 hình thức để tải file từ RapidShare là miễn phí (Free User) và trả phí (Premium User).
+Từ tháng 9/2008, người dùng miễn phí không cần phải chờ và nhập CAPTCHA khi tải file và không phải chờ để tải file tiếp theo, nhưng bị giới hạn tốc độ ở mức 500 kbps (khoảng 60KB/s).
+Người dùng có trả phí có lợi ích là được tải xuống nhiều file một lúc, cho phép chia nhỏ file, và dễ dàng trong việc nối file bị đứt quản và khởi động lại việc tải. Mỗi thành viên trả phí bị giới hạn tải xuống nhiều nhất 80 GB trong một tháng (30 ngày) (áp dụng từ 23/10/2008).
+Người dùng miễn phí cũng có thể thành người dùng trả phí mà không phải trả tiền bằng cách tải file lên RapidShare. Ứng với mỗi lượt tải file về tương ứng với một số điểm, nếu đạt đếm số điểm nào đó thì sẽ được đổi thành tài khoản trả phí. Chính vì vậy cộng với dữ liệu đồ sộ, phong phú trong nhiều năm mà RapidShare đã khuyến khích một lượng lớn người dùng, đồng thời khuyến khích người dùng tải file lên RapidShare.
+Vấn đề.
+Một số ISP bị ngăn không cho chia sẻ file ở RapidShare để băng thông hoạt động tốt hơn.
+Vào ngày 19 tháng 1 năm 2007, Hiệp hội bản quyền Đức GEMA và chi nhánh Hiệp hội ngành công nghiệp thu âm Mỹ tại Đức đã kiện cả hai trang web RapidShare.de và RapidShare.com với lý do 2 trang web này cho phép chia sẻ những dữ liệu vi phạm bản quyền. RapidShare cũng bị cáo buộc không có bất cứ thông tin gì về nội dung các dữ liệu được người dùng tải lên và thiếu trách nhiệm trong việc quản lý các nội dung này. Tuy nhiên tòa án cấp quận ở Cologne lại đứng về phía công ty vì thực tế là người dùng có quyền không khai báo nội dung dữ liệu tải lên với dịch vụ, từ một điều khoản về luật riêng tư. Điều đó đã xóa đi thực tế về vi phạm bản quyền trên các trang web này.
+CAPTCHA.
+RapidShare từng sử dụng nhiều loại CAPTCHA khác nhau - đây là những chữ cái in trong một file ảnh và yêu cầu người dùng ghi lại chính xác để tránh những chương trình ("bot") download tự động.
+Phiên bản kiểu cũ bao gồm 4 chữ cái và chữ số được bộ lọc uốn cong như sóng. Người dùng phải nhận dạng đúng các chữ này để điền vào ô trống yêu cầu.
+Đến đầu năm 2008, một phiên bản mới đã được sử dụng. Nó bao gồm 7 ký tự chữ-số được bẻ cong, trên mỗi ký tự có kèm theo hình chó hoặc mèo, trong đó có 4 ký tự có hình mèo. Người dùng phải nhận biết 4 ký tự có hình mèo để điền vào ô trống.
+Ngày 22 tháng 6 năm 2008, trang web lại đổi sang dạng CAPTCHA bao gồm những chữ trên một miếng chạm.
+Nếu sau 3 lần điền không đúng CAPTCHA, truy nhập sẽ bị chặn.
+Đến ngày 2 tháng 7 năm 2008, RapidShare đã hoàn toàn loại bỏ việc sử dụng CAPTCHA. Theo thông tin từ trang này: "Bằng việc loại bỏ việc điền CAPTCHA, chúng tôi đã đơn giản hóa đáng kể dịch vụ cho người dùng miễn phí của RapidShare. Thêm nữa, người dùng miễn phí bây giờ có thể tải lên và xuống tệp tin lớn hơn (lên đến 200 MB). Nhưng để bảo vệ RapidShare khỏi bị quá tải vì việc download tự động, chúng tôi sẽ giới hạn tốc độ tải xuống của người dùng miễn phí là 500 kbps. Để bù lại, họ sẽ không cần phải đợi trước khi download kế tiếp. Người dùng trả phí từ giờ sẽ được lợi từ sự linh hoạt hơn đối với dung lượng download""
+

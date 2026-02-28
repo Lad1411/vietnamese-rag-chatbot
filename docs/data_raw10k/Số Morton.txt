@@ -1,0 +1,8 @@
+Số Morton
+
+Trong động lực học chất lưu, số Morton (Mo) là một số không thứ nguyên được sử dụng cùng với số Eötvös hoặc số Bond để mô tả đặc điểm hình dáng của bong bóng hay giọt nữa di chuyển trong một chất lưu, "c". Số Morton được định nghĩa bởi
+trong đó "g" là gia tốc trọng trường, formula_2 là độ nhớt của chất lưu xung quanh, formula_3 khối lượng riêng của chất lưu xung quanh, formula_4 chênnh lệch khối lượng riêng giữa các pha, và formula_5 là hệ số sức căng bề mặt. Trong trường hợp bong bóng với khối lượng riêng bên trong không đáng kể số Morton được giản lược còn
+Số Morton cũng có thể được diễn tả bằng cách sử dụng kết hợp của số Weber, số Froude và số Reynolds,
+Số Froude trong phương trình trên được định nghĩa bởi
+trong đó "V" là vận tốc tham chiếu và "d" là bán kính tương đương của giọt hay bong bóng.
+

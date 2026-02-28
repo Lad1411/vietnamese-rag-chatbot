@@ -1,0 +1,15 @@
+Marketing nhắm đối tượng
+
+Marketing nhắm đối tượng (Retarget Marketing hay Retargeting) là một công cụ tiếp thị trực tuyến thường được sử dụng trong "thương mại điện tử (E-commerce)" và nhắm đến người dùng đã truy cập trang web. Mục đích của Marketing nhắm đối tượng giúp "tăng tỷ lệ chuyển đổi (CR), tỷ lệ nhấp chuột (TLB) và tăng mức độ nhận diện của một công ty hoặc một thương hiệu". Marketing nhắm đối tượng là hình thức targeting hiệu quả nhất với chi phí tương đối thấp.
+Định nghĩa.
+Marketing nhắm đối tượng (Retarget Marketing, hay còn gọi là Retargeting) là một hình thức marketing trực tuyến nhắm mục tiêu đến người tiêu dùng dựa trên các hành động truy cập qua Internet trước đây của họ. Retarget Marketing gắn thẻ người tiêu dùng bằng cách cài đặt mã pixel vào trang web hoặc email mục tiêu, từ đó đặt cookie trong trình duyệt của người dùng. Khi cookie được cài đặt, nhà quảng cáo có thể hiển thị quảng cáo hiển thị (Display Advertising) cho người dùng đó ở nơi khác trên internet thông qua trao đổi quảng cáo.
+Các loại dữ liệu sử dụng.
+Retargeting sử dụng ba loại dữ liệu khác nhau để triển khai, bao gồm:
+Các hình thức.
+Retargeting có 2 hình thức chính là Onsite Retargeting &amp; Offsite Retargeting. Tuy nhiên hiện nay, có thể phân rõ chi tiết trong Onsite và Offsite Retargeting có những hình thức sau:
+Retargeting list for search ads – RLFSA.
+Retargeting list for search ads - RLFSA, còn gọi là danh mục tái tiếp thị dành cho quảng cáo kết quả tìm kiếm, là phương pháp chỉ hoạt động trên hệ thống Google Adwords. Thay vì chỉ hiển thị quảng cáo banner, phương pháp này hiển thị cho người dùng các quảng cáo text ads truyền thống trên trang kết quả tìm kiếm. Loại hình này không phổ biến bằng các hình thức retargeting khác. RLFSA có thể được thực hiện bằng 2 cách. Cách thứ nhất là điều chỉnh đấu thầu (bid) trong các nhóm quảng cáo nhắm đến những người tìm kiếm trên Google với những từ khóa được đấu thầu (bidding).
+Lợi ích.
+Marketing nhắm đối tượng có thể được thực hiện cả ở cấp độ trang web và cấp độ sản phẩm. Chiến lược Marketing nhắm đối tượng này cung cấp lợi thế là quảng cáo sẽ hiển thị tương ứng với sở thích của người dùng. Quảng cáo được retargeting (re-targeting ad) thường hoạt động tốt hơn và do đó, dẫn đến tỷ lệ chuyển đổi (CR) cao hơn.
+Ngoài việc tăng "tăng tỷ lệ chuyển đổi (CR) và tỷ lệ nhấp chuột (TLB)", các chiến dịch nhắm mục tiêu lại cũng phù hợp để xây dựng thương hiệu. Các chiến dịch trong các mạng xã hội như Facebook đặc biệt hỗ trợ xây dựng thương hiệu và nhận thức về các chiến dịch quảng cáo
+

@@ -1,0 +1,55 @@
+Phân phối Poisson
+
+Trong lý thuyết xác suất và thống kê, Phân phối Poisson ("phân phối Poa-dông") là một phân phối xác suất rời rạc. Nó khác với các phân phối xác suất rời rạc khác ở chỗ thông tin cho biết không phải là xác suất để một sự kiện ("event") xảy ra (thành công) trong một lần thử như trong phân phối Bernoulli, hay là số lần mà sự kiện đó xảy ra trong "n" lần thử như trong phân phối nhị thức, mà chính là trung bình số lần xảy ra thành công của một sự kiện trong một khoảng thời gian nhất định. Giá trị trung bình này được gọi là lamda, ký hiệu là formula_1.
+Phân phối Poisson còn được dùng cho khoảng mà đơn vị khác thời gian như: khoảng cách, diện tích hay thể tích. Một ví dụ cổ điển là sự phân rã hạt nhân của các nguyên tử.
+Phân phối này được tìm ra bởi nhà toán học Siméon-Denis Poisson (1781–1840) và đã được xuất bản cùng với lý thuyết xác suất của ông, vào năm 1838 với tựa đề "Recherches sur la probabilité des jugements en matières criminelles et matière civile" ("Research on the Probability of Judgments in Criminal and Civil Matters"). Theo đó, nếu xem xét một biến ngẫu nhiên "N" nào đó, và đếm số lần xuất hiện (rời rạc) của nó trong một khoảng thời gian cho trước. Nếu giá trị kì vọng (hay số lần trung bình mà biến ngẫu nhiên đó xảy ra trong khoảng thời gian đó là λ, thì xác suất để cũng chính sự kiện đó xảy ra "k" lần ("k" là số nguyên không âm, "k" = 0, 1, 2...) sẽ được tính theo công thức
+với 
+Vì đây là biến ngẫu nhiên rời rạc, công thức trên cho ta công thức của hàm khối xác suất. 
+Sự ra đời.
+Phân phối Poisson ra đời gắn liền với quá trình Poisson. Nó được áp dụng cho nhiều hiện tượng (có tính rời rạc) (nghĩa là số lần xuất hiện trong một khoảng (thời gian, không gian) cho trước đó phải là số nguyên 0, 1, 2, 3...) với xác suất để sự kiện (hiện tượng) đó xảy ra là không đổi trong suốt khoảng (thời gian, không gian) đó. Các ví dụ sau được mô hình theo phân phối Poisson:
+Các tính chất.
+Khởi tạo các biến ngẫu nhiên có phân phối Poisson.
+Một cách đơn giản để khởi tạo các số ngẫu nhiên theo phân phối Poisson được đưa ra bởi Knuth, xem tham khảo ở dưới.
+ algorithm "poisson random number (Knuth)":
+ init:
+ Let L ← "e"−λ, k ← 0 and p ← 1.
+ do:
+ k ← k + 1.
+ Generate uniform random number u and let p ← p × u.
+ while p ≥ L.
+ return k − 1.
+Dù đơn giản, nhưng độ phức tạp của giải thuật là tuyến tính với λ. Nên có nhiều giải thuật khác giải quyết vấn đề này. Xem tham khảo tại sách của Ahrens &amp; Dieter.
+Ước lượng tham số.
+Hợp lý cực đại.
+Cho một mẫu gồm "n" giá trị được đo "k""i" chúng ta muốn ước lượng giá trị của tham số "λ" của tập hợp phân phối Poisson mà từ đó mẫu này được rút ra. Để tính giá trị hợp lý cực đại ("maximum likelihood"), ta tạo ra hàm log-likelihood
+Lấy đạo hàm của "L" theo "λ" và cho nó bằng 0:
+Giải tìm "λ" sẽ cho ta ước lượng hợp lý cực đại của "λ":
+Vì mỗi quan sát có kì vọng λ theo ý nghĩa của mẫu. Vì thế nó là một ước lượng không lệch của λ.
+Suy luận Bayes.
+Trong suy luận Bayes, tiên nghiệm liên hợp ("conjugate prior") cho tham số "λ" của phân phối Poisson là phân phối Gamma. Nếu
+đại diện cho "λ" được phân phối theo mật độ Gamma "g' được tham số hóa theo một tham số hình dạng ("shape parameter") "α" và một tham số tỉ lệ ("scale parameter") nghịch đảo "β":
+Thì, nếu cho cùng một mẫu gồm "n" giá trị được đo "k""i" như ở trên, và một tiên nghiệm của Gamma("α", "β"), thì phân phối hậu nghiệm ("posterior distribution") là
+"Luật số nhỏ".
+Phân phối Poisson còn được gọi là luật số nhỏ vì nó là xác suất phân phối của số lần xuất hiện của một sự kiện mà rất hiếm khi xảy ra, nhưng cơ hội để xảy ra thì lại rất nhiều. Và "The Law of Small Numbers" là tiêu đề của cuốn sách viết bởi Ladislaus Bortkiewicz về phân phối Poisson, được xuất bản năm 1898. Vì thế, một số cho rằng phân phối Poisson nên được gọi là phân phối Bortkiewicz.
+Tính toán gần đúng cho xác suất Poisson.
+Khi "k" lớn (&gt;20) việc sử dụng xấp xỉ hàm logarit và lũy thừa là cần thiết. Ví dụ sau viết bằng Java.
+/**Calculates an approximation of the Poisson probability.
+ * @param mean - lambda, the average number of occurrences
+ * @param observed - the actual number of occurences observed
+ * @return ln(Poisson probability) - the natural log of the Poisson probability.
+public static double poissonProbabilityApproximation (double mean, int observed) {
+ double k = observed;
+ double a = k * Math.log(mean);
+ double b = -mean;
+ return a + b - factorialApproximation(k);
+/**Srinivasa Ramanujan ln(n!) factorial estimation.
+ * Good for larger values of n.
+ * @return ln(n!)
+public static double factorialApproximation(double n) {
+ if (n &lt; 2.) return 0;
+ double a = n * Math.log(n) - n;
+ double b = Math.log(n * (1. + 4. * n * (1. + 2. * n))) / 6.;
+ return a + b + Math.log(Math.PI) / 2.;
+Công cụ trực tuyến để minh họa hình ảnh cho phân phối Poisson.
+Phân phối Poisson có tương tác tại đại học Texas A&amp;M (TAMU) 
+

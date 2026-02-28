@@ -1,0 +1,37 @@
+Sắp xếp tô pô
+
+Trong khoa học máy tính, thứ tự tô pô của một đồ thị có hướng là một thứ tự sắp xếp của các đỉnh sao cho với mọi cung từ "u" đến "v" trong đồ thị, "u" luôn nằm trước "v". Thuật toán để tìm thứ tự tô pô gọi là thuật toán sắp xếp tô pô. Thứ tự tô pô tồn tại khi và chỉ khi đồ thị không có chu trình (viết tắt là DAG - tiếng Anh directed acyclic graph). Đồ thị có hướng không có chu trình luôn có ít nhất một thứ tự tô pô, và có thuật toán để tìm thứ tự tô pô trong thời gian tuyến tính.
+Ví dụ.
+Một ứng dụng kinh điển của thứ tự tô pô là lập kế hoạch cho một chuỗi các công việc. Các thuật toán sắp xếp tô pô được nghiên cứu lần đầu tiên vào những năm 1960 trong phương pháp PERT cho việc lập kế hoạch trong quản lý dự án. Các công việc được đại diện bởi các đỉnh đồ thị. Đồ thị có cung từ "x" đến "y" nếu công việc "x" phải hoàn thành trước khi công việc "y" bắt đầu (chẳng hạn như khi giặt quần áo, việc giặt phải hoàn thành trước khi bắt đầu phơi khô). Khi đó, một thứ tự tô pô tương ứng với một thứ tự thực hiện các công việc.
+Trong khoa học máy tính, các ứng dụng tương tự phát sinh trong lập kế hoạch thực thi lệnh, xác định thứ tự biên dịch trong makefile, xác định quan hệ phụ thuộc giữa các biểu tượng trong chương trình liên kết.
+Các thuật toán.
+Các thuật toán sắp xếp tô pô thường có thời gian tuyến tính trong số nút cộng với số cung (formula_1).
+Một trong những thuật toán này, phát hiện bởi Kahn năm 1962, hoạt động bằng cách lần lượt chọn các đỉnh theo thứ tự đúng như thứ tự tô pô. Đầu tiên, xác định một danh sách các "nút bắt đầu" không có cung vào và chèn chúng vào một tập S. Trong một đồ thị có hướng không có chu trình, luôn có ít nhất một nút như vậy. Sau đó:
+ "L" ← danh sách rỗng (cuối cùng sẽ chứa danh sách đã sắp xếp)
+ "S" ← tập hợp các nút không có cung vào
+ while "S" khác rỗng do
+ loại bỏ một nút "n" từ "S"
+ chèn "n" vào "L"
+ for each nút "m" sao cho có cung "e" từ "n" đến "m" do
+ loại bỏ cung "e" từ đồ thị
+ if "m" không có cung vào then
+ chèn "m" vào "S"
+ if đồ thị vẫn còn cung then
+ thông báo lỗi (đồ thị có ít nhất một chu trình)
+ else 
+ thông báo thứ tự tô pô là "L"
+Nếu đồ thị là một DAG, danh sách L luôn chứa một thứ tự hợp lệ(thứ tự tô pô không nhất thiết là duy nhất). Nếu đồ thị không là DAG thì nó có ít nhất một chu trình và do đó không thể có thứ tự tô pô.
+Lưu ý rằng "S" có thể lựa chọn phần tử "n" một cách tùy ý. Tùy thuộc vào thứ tự các nút "n" được loại bỏ từ S, một thứ tự tô pô khác nhau được tạo ra. Một biến thể của thuật toán của Kahn sử dụng thứ tự từ điển cho việc lựa chọn "n" là một thành phần quan trọng của thuật toán Coffman-Graham cho lập kế hoạch song song và vẽ đồ thị lớp.
+Có một thuật toán khác cho sắp xếp tô pô dựa trên tìm kiếm theo chiều sâu. Đối với thuật toán này, các cung chỉ theo hướng ngược lại so với thuật toán trước: có một cung từ "x" đến "y" nếu công việc "x" phụ thuộc vào công việc "y" (nói cách khác, nếu công việc "y" phải hoàn thành trước khi công việc "x" có thể bắt đầu). Thuật toán duyệt qua các nút của đồ thị, trong một trật tự tùy ý, và thực hiện tìm kiếm theo chiều sâu cho đến khi tìm đến một nút đã được thăm:
+ "L" ← danh sách rỗng (cuối cùng sẽ chứa thứ tự sắp xếp)
+ "S" ← tập hợp các nút không có cung vào
+ for each nút "n" trong "S" do
+ thăm(n) 
+ function thăm(nút ​​"n")
+ if chưa thăm "n" then
+ đánh dấu "n" là đã thăm
+ for each nút "m" sao cho có cung từ n đến m do
+ thăm(m)
+ chèn "n" vào "L"
+Lưu ý rằng mỗi nút "n" được thêm vào danh sách "L" chỉ sau khi đã thăm tất cả các nút khác mà n phụ thuộc vào(tất cả các nút hậu duệ của n trong đồ thị). Cụ thể là, khi thuật toán thêm nút "n", nó đảm bảo rằng tất cả các nút n phụ thuộc vào đã có trong danh sách "L": chúng đã được thêm vào "L" hoặc do lời gọi đệ quy đến thăm(), hoặc do một lời gọi đến thăm() từ trước. Vì mỗi cung và mỗi nút được thăm một lần, thuật toán chạy trong thời gian tuyến tính. Lưu ý rằng mã giả trên không thể phát hiện trường hợp lỗi khi đồ thị có chu trình. Thuật toán có thể được thay đổi để phát hiện chu trình bằng cách kiểm tra có nút nào được thăm nhiều hơn một lần trong bất kỳ một chuỗi lồng nhau của các lời gọi đệ quy đến thăm(). Thuật toán này có thể đã được mô tả lần đầu tiên bởi Tarjan năm 1976.
+

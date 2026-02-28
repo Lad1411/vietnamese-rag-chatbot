@@ -1,0 +1,17 @@
+Số đếm tiếng Nhật
+
+Số đếm trong tiếng Nhật sử dụng các Hán tự (Kanji) để ghi chép. Khi viết, chúng giống như các chữ số của Trung Quốc, tuy nhiên hiện nay chữ số Ả Rập cũng được sử dụng rộng rãi. Giống như các chữ Kanji khác, các chữ số Kanji cũng có 2 cách đọc theo âm Hán-Nhật (on'yomi) và Thuần Nhật (kun'yomi).
+Bộ số cơ bản.
+Chữ số Ả Rập thường được dùng trong kiểu viết ngang yokogaki (横書き - "hoành thư") còn chữ số viết bằng Kanji thường được dùng trong kiểu viết dọc tategaki (縦書き - "tung thư").
+Phân hàng của số.
+Khác với tiếng Việt phân hàng nghìn, trăm, chục và đơn vị, tiếng Nhật phân hàng vạn, nghìn, trăm, chục và đơn vị (tương tự tiếng Trung). Ví dụ số 12,345,678 trong tiếng Việt đọc là "mười hai triệu, ba trăm bốn mươi năm nghìn, sáu trăm bảy mươi tám" thì trong tiếng Nhật được đọc thành "một nghìn hai trăm ba mươi tư vạn, năm nghìn sáu trăm bảy mươi tám" (一千二百三十四五千六百七十八).
+Chữ số daiji (大字).
+Cũng giống như các chữ số Trung Quốc, trong tiếng Nhật tồn tại một bộ chữ Hán riêng cho các chữ số gọi là daiji (大字) được sử dụng trong các tài liệu pháp lý và tài chính để ngăn ngừa việc dễ dàng sửa chữa bằng cách thêm nét. Ngày nay, các số 1, 2, 3 và 10 chỉ được viết ở dạng chính thức trong các văn bản pháp luật (các số từ 4 đến 9 cũng như 100, 1000 và 10000 được viết giống hệt với các số thông thường) . Trong một số trường hợp, chữ số 1 được viết rõ ràng ví dụ 壱百壱拾 (110), thay với cách viết ngắn gọn 百十 thông thường. 
+Một số bất quy tắc.
+Bất qua tắc phát âm của số hàng hyaku, sen, chō và kei.
+Phát âm một vài số có sự biến đổi so với phát âm số độc lập.
+Đếm ngày.
+Cách đếm ngày trong tiếng Nhật không tuân theo cách ghép số thông thường mà dùng lẫn lộn cách đọc âm Hán-Nhật và Thuần Nhật với nhiều trường hợp ngoại lệ.
+Đếm với từ chỉ đơn vị.
+Trong nhiều trường hợp, số đếm đi với từ chỉ đơn vị có sự thay đổi về phát âm so với phát âm độc lập. Ví dụ đếm số tầng, thông thường được ghép bằng số đếm + tầng (階 - かい), tuy nhiên tầng 1 (いっかい), tầng 8 (はっかい), tầng 10 (じっかい), số đếm bị thay đổi bằng một âm ngắt (っ); tầng 3 (さんがい) và 13 (じゅうさんがい) tầng (階) bị biến đổi thành âm đục (かい thành がい)
+

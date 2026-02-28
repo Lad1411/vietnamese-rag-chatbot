@@ -1,0 +1,18 @@
+Khối lượng riêng
+
+Khối lượng riêng (tiếng Anh: Density), còn được gọi là mật độ khối lượng, là một đặc tính về mật độ khối lượng trên một đơn vị thể tích của vật chất đó, là đại lượng đo bằng thương số giữa khối lượng (m) của một vật làm bằng chất ấy (nguyên chất) và thể tích (V) của vật.
+Công thức formula_1 (D là khối lượng riêng, đơn vị formula_2; m là khối lượng, đợn vị formula_3; V là thể tích, đơn vị formula_4)
+formula_5
+formula_6
+Cụ thể khối lượng riêng tại một vị trí trong vật được tính bằng khối lượng của một thể tích vô cùng nhỏ nằm tại vị trí đó, chia cho thể tích vô cùng nhỏ này. Nếu chất đó có thêm đặc tính là đồng chất thì khối lượng riêng tại mọi vị trí là như nhau và bằng khối lượng riêng trung bình.
+Trong hệ đo lường quốc tế, khối lượng riêng có đơn vị là kilôgam trên mét khối (kg/m³). Một số đơn vị khác hay gặp là gam trên xentimét khối (g/cm³).
+Khi biết được khối lượng riêng của một vật, ta có thể biết vật được cấu tạo bằng chất gì bằng cách đối chiếu với bảng khối lượng riêng của các chất đã được tính trước.
+Khối lượng riêng trung bình.
+Khối lượng riêng trung bình của một vật thể được tính bằng khối lượng, "m", của nó chia cho thể tích, "V", của nó, và thường được ký hiệu là "ρ" (đọc là "rô"; tiếng Anh: rho):
+Tỷ khối, tỷ trọng.
+Theo quy ước, tỷ lệ giữa mật độ hoặc khối lượng riêng của một chất nào đó so với mật độ hoặc khối lượng riêng của nước ở 4°C thì được gọi là tỷ khối hoặc tỷ trọng của chất đó.
+Trong thực hành, nhiều phép đo khối lượng riêng được thực hiện bằng việc so sánh với nước; hơn nữa khối lượng riêng của nước xấp xỉ bằng 1000kg/mét khối, một con số dễ sử dụng trong chuyển đổi sang hệ đo lường quốc tế.
+Ví dụ: tỷ khối của dầu là 0,8, của nhôm là 2,7...
+Đo lường.
+Khối lượng riêng của chất lỏng có thể được đo bằng phù kế.
+

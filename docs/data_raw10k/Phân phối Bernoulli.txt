@@ -1,0 +1,10 @@
+Phân phối Bernoulli
+
+Trong lý thuyết xác suất và thống kê, phân phối Bernoulli, được đặt tên theo nhà toán học người Thụy Sĩ Jacob Bernoulli, là một phân phối xác suất rời rạc của biến ngẫu nhiên chỉ nhận hai giá trị 0 hoặc 1, trong đó giá trị 1 đạt được với xác suất formula_1 (gọi là xác suất thành công) và giá trị 0 đạt được với xác suất formula_2 (gọi là xác suất thất bại). Nếu formula_3 là một biến ngẫu nhiên với phân phối này, kí hiệu formula_4, ta sẽ có:
+Một ví dụ cổ điển về biến ngẫu nhiên Bernoulli là kết quả của việc tung một đồng xu (có thể không đồng chất), mặt chẵn ngửa ứng với giá trị 1, mặt chẵn ứng với giá trị 0. Đồng xu có thể xuất hiện mặt ngửa với xác suất formula_1 và mặt chẵn với xác suất formula_7.
+Hàm khối xác suất formula_8 của phân phối này là
+Nó còn được thể hiện dưới dạng
+Tính chất.
+Giá trị kỳ vọng của một biến ngẫu nhiên Bernoulli formula_3 là formula_12, và phương sai của nó là formula_13
+Phân phối formula_14 là trường hợp đặc biệt của phân phối nhị thức formula_15 với formula_16.
+

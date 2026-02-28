@@ -1,0 +1,7 @@
+Win32-loader
+
+win32-loader là một thành phần của bản phân phối Debian hoạt động trên Windows có khả thể tải trình cài đặt Debian có sẵn từ mạng hoặc từ đĩa CD-ROM.
+win32-loader được phát sinh như một dự án độc lập, với chỉ có có sẵn các phiên bản mạng. Sau đó mã nguồn của nó đã trải qua một quá trình đánh giá và quảng cáo lâu dài trước khi trở thành một phần của Debian.
+Ảnh hưởng.
+win32-loader dựa rất nhiều vào các dự án như , ,  và  để thực hiện nhiệm vụ của mình. Ngoài ra, nó đã thu hút được nguồn cảm hứng và ý tưởng từ các dự án tương tự như Wubi và .
+

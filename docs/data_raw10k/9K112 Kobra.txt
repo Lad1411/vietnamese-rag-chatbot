@@ -1,0 +1,16 @@
+9K112 Kobra
+
+ 
+9K112 "Kobra" là một tổ hợp tên lửa chống tăng dẫn hướng bằng dây SACLOS của Liên Xô. Tổ hợp này được phóng đi từ súng chính 125 mm của xe tăng T-64 và T-80. Phương Tây đặt tên cho tổ hợp này là AT-8 "Songster".
+Phát triển.
+Thể hệ đầu tiên của các tên lửa phóng từ xe tăng của Liên Xô bắt đầu vào năm 1956 khi V.A. Malyshev được yêu cầu từ Khrushchev phải thực hiện một "suy nghĩ mới" trong các phòng thiết kế vũ khí. Một phần của "suy nghĩ mới" này là phát triển tổ hợp tên lửa phóng từ xe tăng bao gồm xe tăng IT-1 trang bị tên lửa Drakon và Taifun có tên gọi Obiekt 297. Tuy nhiên thiết kế xe tăng ban đầu đã thất bại. Một mẫu thiết kế xe tăng chỉ trang bị toàn tên lửa có bán kính vùng chết là 300 m quanh xe, trong bán kính này xe không thể tấn công các mục tiêu - cũng như kích thước của các tên lửa ban đầu bị đã giới hạn số lượng tên lửa mang theo. Các thiết kế lai bao gồm cả hỏa lực pháo chính và khả năng mang tên lửa.
+Những giới hạn đã dẫn đến việc phát triển một tổ hợp lai, trong tổ hợp mới này tên lửa được bắn đi từ nòng của khẩu pháo chính của xe tăng. Thế hệ đầu tiên của khái niệm này là xe tăng Obiekt 775, trang bị với một khẩu pháo nòng trơn 125 mm có thể bắn các đạn phản lực không dẫn hướng nổ mạnh, hoặc đạn dẫn hướng điều khiển vô tuyến. Đạn dẫn hướng có tên gọi Rubin (Ruby) và đạn không dẫn hướng có tên gọi là Bur (Drill). Xe tăng có thể mang được 24 tên lủa Rubin và 48 đạn phản lực Bur. Dự án này thất bại do đầu nổ lõm của Rubin không có hiệu quả như mong muốn, và còn có lo lắng về việc đường chỉ huy tên lửa có thể bị gây nhiễu.
+Sự phát triển tiếp tục trong thập niên 1960 nhưng nó không được hoàn thành cho đến thập niên 1970, khi sự chú ý một cách nghiêm túc về khái niệm này đã được thực hiện lần nữa. Điều này có thể do 3 yêu tố:
+Việc phát triển thế hệ thứ hai của các đạn dẫn hướng bắn từ ống phóng của Liên Xô bắt đầu vào thập niên 1970. Tổ hợp tên lửa Kobra có cuộc cạnh tranh với tổ hợp Gyurza dẫn hướng hồng ngoại. Tổ hợp Gyurza dẫn hướng hồng ngoại đã bộc lộ một số vấn đề và do đó Kobra đã được đưa vào sản xuất. 9K112 đã được trang bị trên xe tăng mới T-64B vào năm 1976. T-80B cũng được trang bị tổ hợp này. Tổ hợp Gyurza tiếp tục được phát triển, nó đã bỏ hệ dẫn hướng hồng ngoại mà thay bằng dẫn hướng chỉ huy vô tuyến - tỏ hợp này sau đó đã phát triển thành "Shturm" hay AT-6 Spiral.
+Giá mỗi quả tên lửa vào năm 1976 là khoảng 5.000 rúp, khá đắt so với đạn pháo thông thường (một động cơ diesel cho xe tăng thời đó có giá 9.000 rúp, một chiếc T-64A có giá 143.000 rúp), do vậy nó chỉ được ưu tiên trang bị cho những loại xe cao cấp như T-64B và T-80 (mỗi xe cũng thường chỉ trang bị 4 tên lửa) Sau này, khi công nghệ phát triển hơn thì loại tên lửa này mới được trang bị cho xe tăng T-72B (năm 1985)
+Miêu tả.
+Tên lửa 9M112 Kobra gồm 2 phần:
+2 phần riêng biệt được cất trong thiết bị nạp đạn tự động của xe tăng theo cách tương tự như đạn 125 mm thông thường.
+Tên lửa có thể được phóng bằng một trong ba chế độ:
+Tên lửa có vận tốc đầu nòng là 125 m/s, sau đó tăng lên tới tối đa 800 m/s, nhưng trung bình thường là 350–400 m/s. Thời gian bay đạt 4000 m là khoảng 9 đến 10 giây. Tên lửa có một đầu đạn HEAT đơn 4.5 kg, đầu đạn này có thể xuyên thủng giáp RHA 600 mm
+

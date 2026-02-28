@@ -1,0 +1,24 @@
+ABU Robocon 2013
+
+Robocon Đà Nẵng 2013 là cuộc thi Robocon lần thứ 12 của Hiệp hội Phát thanh Truyền hình châu Á-Thái Bình Dương diễn ra tại Đà Nẵng, Việt Nam vào ngày 18 tháng 8 năm 2013.
+Luật chơi.
+Thời gian thi đấu mỗi trận là 3 phút.
+Mỗi đội có 2 Robot: 01 Robot tự động và 01 robot điều khiển bằng tay. Robot bằng tay không được di chuyển vào vùng Trái Đất.
+Robot bằng tay lấy lá ở kho, đem gắn ở các chồi (Sprout) tại bán cầu Nam bên phần sân của đội mình; Robot bằng tay sẽ gắn 3 lá ở vùng bán cầu Nam.
+Tiếp theo, Robot bằng tay đi lấy lá ở kho chuyển cho Robot tự động. Robot tự động đi gắn tối thiểu 3 lá ở vùng bán cầu Bắc (bao gồm 2 lá ở phần sân đội mình và một lá ở vùng chung). Sau đó, Robot tự động mới được phép chạm vào mầm ở cực Bắc.
+Robot tự động đi lấy mầm (các đội tự làm mầm này) của đội mình đặt ở vùng cực Bắc chuyển cho Robot bằng tay.
+Robot bằng tay đứng dưới đường giới hạn 2 và bắn các mầm vào vùng Mặt Trăng. Nếu mầm của đội nào đứng trên vùng Mặt Trăng trước đội đó giành chiến thắng tuyệt đối.
+Mỗi đội có 4 thành viên (3 sinh viên và một chỉ đạo viên) thuộc cùng một trường. Tuy nhiên, chỉ có 2 sinh viên được phép vào sân thi đấu. Các thành viên phải là sinh viên của trường đại học, cao đẳng, hoặc trung học chuyên nghiệp trong thời gian diễn ra cuộc thi đấu quốc tế. Những người đã tốt nghiệp đại học không được phép tham dự.
+Trường hợp sinh viên của trường đại học hoặc cao đẳng tham gia cuộc thi trong nước mà đoạt giải trước khi tốt nghiệp thì vẫn được phép tham gia cuộc thi quốc tế.
+Các đội phải tự thiết kế, chế tạo robot điều khiển bằng tay và robot tự động để thi đấu. Mỗi đội chỉ được phép có 01 robot điều khiển bằng tay và 01 robot hoàn toàn tự động.
+Tất cả các Robot bằng tay và tự động kể cả nguồn nuôi, cấp, các bộ phận khác của Robot phải được cân trước khi thi đấu. Tổng trọng lượng của các Robot mỗi đội không được vượt quá 40 kg.
+Một đội ghi được điểm khi đặt thành công lá của đội mình vào điểm gắn lá (lá nằm gọn trong ô tròn).
+Điểm số.
+Gắn lá ở vùng Trái Đất: 10 điểm/lá
+Robot tự động lấy mầm đặt lên Robot bằng tay: 10 điểm/mầm
+Đội giành chiến thắng tuyệt đối khi bắn được mầm lên Mặt Trăng; mầm đứng trên mặt phẳng (tư thế nằm ngang không được chấp nhận). Chiến thắng này được gọi là Green Planet (Hành tinh xanh).
+Vòng đấu bảng.
+Chọn 7 đội nhất bảng + đội nhì bảng có thành tích tốt nhất vào vòng 2
+Tham khảo.
+Các trận thi đấu ABU Robocon 2013
+

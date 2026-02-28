@@ -1,0 +1,34 @@
+Samsung Galaxy Note 10
+
+Samsung Galaxy Note 10 và Samsung Galaxy Note 10+ là bộ đôi điện thoại thông minh cao cấp, sử dụng hệ điều hành Android; được sản xuất, phát hành và đưa ra thị trường bởi Samsung Electronics bắt đầu vào ngày 7 tháng 8 năm 2019. Đây là thế hệ tiếp theo kế nhiệm Galaxy Note 9. Lần đầu tiên trong lịch sử, Samsung cho ra mắt 2 phiên bản của dòng Note series.
+Vào cuối năm 2019, Samsung cho ra mắt thêm 1 phiên bản Samsung Galaxy Note 10 Lite với một số cắt giảm về cấu hình với màn hình phẳng (không vát cong như Note 10/Note 10+). Galaxy Note 10 Lite ra mắt cùng với Samsung Galaxy S10 Lite với ngôn ngữ thiết kế cụm camera sau đặt lệch về phía trên bên trái trong một khu vuông màu đen.
+Thông số kỹ thuật.
+Màn hình.
+Samsung Galaxy Note 10 sở hữu màn hình vô cực với kích thước đường chéo là 6.3 inch, với độ phân giải FHD+ (2280 x 1080) và công nghệ màn hình Dynamic AMOLED. Màn hình máy có độ đặc pixel là 401 ppi (điểm ảnh trên một inch).
+Samsung Galaxy Note 10+ sở hữu màn hình lớn hơn với kích thước đường chéo 6.8 inch, với độ phân giải cao hơn QHD+ (3040 x 1440) và công nghệ màn hình cũng giống như Samsung Galaxy Note 10, Dynamic AMOLED. Mặc dù màn hình to hơn nhưng Samsung vẫn thiết kế nhiều điểm ảnh trên một inch nhiều hơn với độ đặc là 498 ppi (điểm ảnh trên một inch). Lưu ý rằng là Note 10+ có độ phân giải mặc định là FHD (1080 x 1920) và có thể đổi thành 2K+ (3040 x 1440) trong phần Cài đặt..
+Kích thước và trọng lượng.
+Hai máy có độ dày như nhau, nhưng độ dài và rộng khác nhau (rộng x dài x dày):
+Samsung Galaxy Note 10 có trọng lượng là 168g, vì Note 10+ có kích thước lớn hơn nên trọng lượng lên đến 196g.
+S Pen.
+Cả 2 máy Note 10 và Note 10+ đều có S Pen, đều có Bluetooth và điều khiển từ xa trong phạm vi 10 mét.
+Pin.
+Galaxy Note 10 sở hữu cục pin 3500 mAh, vì Note 10+ là phiên bản lên cấp của Note 10 nên Note 10+ cũng có cục pin lớn hơn, rơi vào 4300 mAh. Cả hai máy có sạc nhanh 2.0 và có hỗ trợ tính năng PowerShare mới của Samsung, cho phép Note 10 và Note 10+ có thể chia sẻ năng lượng (pin) bằng cách đặt lưng máy lên nhau (trừ khi một máy có sạc không dây, một máy không có buộc phải dùng dây sạc).
+Bộ nhớ.
+Samsung Galaxy Note 10 chỉ hỗ trợ bộ nhớ 256 GB và RAM 8 GB, trong lúc đó thì Note 10+ hỗ trợ bộ nhớ 256 GB và 512 GB với RAM 12 GB, Note 10+ có hỗ trợ thẻ nhớ MicroSD đến 512 GB, có nghĩa là Note 10+ có bộ nhớ tối đa là 1024 GB, xấp xỉ 1 TB.
+Bộ vi xử lý.
+Cả hai máy đều dùng chung một bộ vi xử lý, đó chính là Exynos 9825 từ Samsung cho bản quốc tế và Qualcomm Snapdragon 855 từ Qualcomm cho bản Mỹ và Trung Quốc. Bản quốc tế có 8 nhân: 2 nhân tác vụ nặng 2.73 GHz, 2 nhân tác vụ trung 2.4 GHz và 4 nhân tác vụ nhệ 1.9 GHz. Bản Mỹ và Trung Quốc cũng có 8 nhân nhưng: chỉ có 1 nhân tác vụ nặng 2.84 GHz, 3 nhân tác vụ trung 2.42 GHz và 4 nhân tác vụ nhẹ 1.78 GHz. Bản quốc tế dùng chip đồ họa Mali-G76 và bản Mỹ và Trung Quốc dùng chip đồ họa Adreno 640.
+Chứng nhận IP.
+Cả hai máy có thể ở dưới nước sâu tới 1.5 mét và tối đa 30 phút, với chứng nhận IP68.
+Hệ điều hành.
+Cả hai máy đều dùng hệ điều hành One UI dựa trên Android 9 Pie và được nâng cấp lên One UI 2 dựa trên Android 10 vào năm 2020.
+Camera.
+Camera trước.
+Camera trước của cả hai máy đều dùng cảm biến 10MP, khẩu độ F/2.2 và dùng công nghệ Dual Pixel AF.
+Samsung Galaxy Note 10 và Note 10+ đều hỗ trợ Auto-HDR (HDR tự động) và quay video đến 4k nhưng chỉ dừng lại ở 30 khung hình trên một giây.
+Camera sau.
+Samsung Galaxy Note 10 sở hữu 3 camera gồm camera telephoto với độ phân giải 12MP và khẩu độ f/2.4 để cho ra những bức ảnh zoom quang học 2x nét hơn, camera chính với độ phân giải 12MP với công nghệ Dual Pixel AF và độ phân giải 12MP và camera góc siêu rộng 16MP với khẩu độ f/2.2 cho ra những bức ảnh có góc độ chụp 123 độ.
+Samsung Galaxy Note 10+ sở hữu 3 camera và 1 cảm biến gồm camera telephoto với độ phân giải 12MP và khẩu độ f/2.4 để cho ra những bức ảnh zoom quang học 2x chất lượng cao hơn, camera chính với độ phân giải 12MP với công nghệ Dual Pixel AF và độ phân giải 12MP, camera góc siêu rộng 16MP với khẩu độ f/2.2 cho ra những bức ảnh có góc độ chụp 123 độ và một cảm biến chiều sâu TOF 3D với độ phân giải 640 x 480, xấp xỉ 0.3MP.
+Cả hai máy có hỗ trợ tính năng Live Focus của Samsung cho phép người dùng quay video xóa phông, tính năng Zoom âm thanh cho phép người dùng "phóng to" âm thanh trong quá trình quay chỉ bằng cách zoom khung hình, tính năng Super Steady cho phép người dùng quay video siêu ổn định bằng camera góc siêu rộng nhưng khung hình sẽ không "siêu rộng" như khi chụp góc siêu rộng. Cả hai máy có hỗ trợ khẩu độ kép (một tính năng vừa được giới thiệu trên chiếc Samsung Galaxy S9+) giúp người dùng đổi từ khẩu độ f/1.5 đến f/2.4 tự động hoặc thủ công, và với camera góc siêu rộng, người dùng có thể quay video góc siêu rộng.
+Cả hai máy có thể quay video đến 4K với 60 khung hình trên một giây và quay slow-motion với 720p và 960 khung hình trên một giây (chậm hơn xấp xỉ 16 lần). Cả hai máy đều hỗ trợ HDR10+ và OIS (chống rung quang học).
+Bộ đôi Galaxy Note 10/ Note 10+ là lần đầu tiên Samsung loại bỏ jack cắm tai nghe 3.5mm trên dòng Note series.
+

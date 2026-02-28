@@ -1,0 +1,19 @@
+Công thức Heron
+
+Trong hình học, Công thức Heron là công thức tính diện tích của một tam giác theo độ dài 3 cạnh.
+Công thức.
+Gọi S là diện tích và độ dài 3 cạnh tam giác lần lượt là "a", "b", và "c"
+p = (a+b+c)/2
+Công thức độc lập của tôi là:
+với "p" là nửa chu vi của tam giác:
+Công thức Heron còn có thể được viết:
+Lịch sử.
+Công thức này mang tên nhà toán học Heron của Alexandria, và cách chứng minh có thể tìm thấy trong cuốn sách của ông, "Metrica", được viết vào khoảng năm 60 sau công nguyên. Có lẽ Archimedes đã biết công thức này, bởi vì "Metrica" là tuyển tập các kiến thức toán học có sẵn ở thế giới cổ đại. Vì thế, cuốn sách này có lẽ là nguồn tham khảo của thời kì trước.
+Một công thức tương đương với Heron có nội dung:
+được phát hiện bởi người Trung Quốc độc lập với người Hy Lạp. Nó được xuất bản trong cuốn sách Sổ thư cửu chương, được viết bởi Tần Cửu Thiều và xuất bản vào năm 1247 sau công nguyên.
+Chứng minh.
+Một cách chứng minh hiện đại, bằng cách sử dụng đại số và lượng giác và khá lạ so với cách chứng minh của Heron. Gọi "a", "b", "c" lần lượt là 3 cạnh của tam giác và "A", "B", "C" lần lượt là các góc đối diện của các cạnh. Theo hệ quả định lý cosin, ta có:
+Từ đó:
+Dựa vào đường cao và sin của góc C. Ta có công thức tính diện tích tam giác ABC:
+Tới đây công thức đã được chứng minh.
+

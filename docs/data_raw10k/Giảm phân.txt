@@ -1,0 +1,39 @@
+Giảm phân
+
+Giảm phân là quá trình phân bào giảm nhiễm trong quá trình hình thành giao tử.
+Trong giảm phân, tế bào sinh dục (có bộ 2n) đã chín trải qua hai lần phân bào liên tiếp gọi là giảm phân I và giảm phân II, nhưng nhiễm sắc thể chỉ nhân đôi có một lần ở kỳ trung gian trước giảm phân I, nên sinh ra giao tử có bộ nhiễm sắc thể đơn bội: giao tử đực (tinh trùng hoặc tinh tử) và giao tử cái (trứng hoặc noãn) có n NST đơn.
+Diễn biến các kỳ ở giảm phân.
+Giảm phân I.
+Gồm Kỳ trung gian và 4 kỳ phân bào chính thức.
+Kỳ trung gian I.
+NST dài mảnh duỗi xoắn, NST nhân đôi thành NST kép, trung tử nhân đôi thành 2 trung tử.
+Kỳ đầu I.
+Bước vào kỳ đầu I, các NST kép bắt đôi với nhau theo từng cặp tương đồng. Sau khi tiếp hợp, các NST bắt đầu co xoắn lại. Tiếp đến, các NST kép trong mỗi cặp NST kép tương đồng dần dần đẩy nhau ra bắt đầu từ tâm động. Trong khi NST tiếp tục co xoắn lại thì thoi phân bào cũng được hình thành và một số sợi thoi được đính với tâm động của các NST.
+Trong quá trình bắt đôi, các NST kép trong cặp NST kép tương đồng có thể trao đổi các đoạn crômatit cho nhau. Hiện tượng này là hiện tượng trao đổi chéo, dẫn đến hoán vị gen. Cuối kỳ đầu I, màng nhân và nhân con dần tiêu biến, thoi phân bào xuất hiện.
+Kỳ đầu I chiếm phần lớn toàn bộ thời gian của quá trình giảm phân. Tùy theo từng loài, kỳ đầu I có thể kéo dài tới vài ngày thậm chí vài chục năm như ở người phụ nữ.
+Kỳ giữa I.
+Các cặp NST kép tương đồng sau khi bắt đôi và co xoắn cực đại di chuyển về mặt phẳng xích đạo của tế bào và tập trung thành 2 hàng xếp song song. Dây tơ phân bào từ mỗi cực tế bào chỉ đính vào một phía của mỗi NST kép trong cặp tương đồng.
+Kỳ sau I.
+Hai NST kép trong cặp tương đồng tách rời nhau ra và mỗi NST đi chuyển trên thoi phân bào đi về một cực của tế bào
+Kỳ cuối I.
+Sau khi đi về cực của tế bào, các NST kép dần dần dãn xoắn. Màng nhân và nhân con dần dần xuất hiện. Thoi phân bào tiêu biến đi để quá trình phân chia tế bào chất bắt đầu diễn ra, hình thành 2 tế bào con có lượng NST giảm đi một nửa (n NST kép).
+Giảm phân II.
+Ngay sau khi kết thúc quá trình giảm phân I, các tế bào bước vào giảm phân II mà không nhân đôi NST. Phân bào giảm phân II cơ bản giống như nguyên phân cũng bao gồm 4 kỳ nhưng diễn biến không bao giờ giống quá trình nguyên phân.
+Kỳ đầu II.
+NST vẫn ở trạng thái n NST kép bắt đầu co ngắn và cho thấy số lượng NST kép (đơn bội)
+Kỳ giữa II.
+Các NST kép tập trung và xếp thành một hàng ở mặt phẳng xích đạo của thoi phân bào.
+Kỳ sau II.
+Mỗi NST kép tách nhau ở tâm động thành 2 NST đơn và phân li về 2 cực tế bào.
+Kỳ cuối II.
+Các NST đơn nằm gọn trong nhân mới được tạo thành với số lượng bộ đơn bội (n NST)
+Kết quả của giảm phân.
+Sau khi trải qua hai quá trình giảm phân I và giảm phân II, từ 1 tế bào mẹ (2n NST kép) tạo thành 4 tế bào con có số NST đơn bằng một nửa số NST kép của tế bào mẹ (n NST đơn). Các tế bào con sẽ phát triển, lớn lên và biến đổi hình thành các giao tử.
+Đối với động vật, ở con đực, 1 tế bào mẹ hình thành 4 tế bào con tạo thành 4 tinh trùng chui vào lòng ống sinh tinh của tinh hoàn để đi vào túi chứa tinh; ở con cái, sau 2 lần giảm phân 1 tế bào mẹ chỉ hình thành 1 tế bào lớn tạo thành tế bào trứng, 3 tế bào nhỏ khác không làm nhiệm vụ sinh sản (tế bào thể cực, hay còn gọi là thể định hướng). Đối với thực vật, tế bào tạo thành sau giảm phân lại tiếp tục phân bào để tạo thành hạt phấn hay túi phôi.
+Ý nghĩa của giảm phân.
+Giảm phân kết hợp với thụ tinh và nguyên phân là cơ chế duy trì bộ nhiễm sắc thể đặc trưng và ổn định của loài qua các thế hệ về sau. Sự phân li độc lập và tổ hợp tự do của các cặp NST trong quá trình giảm phân đã tạo ra nhiều biến dị tổ hợp giúp giới sinh vật đa dạng, phong phú, là nguyên liệu của chọn lọc tự nhiên và tiến hóa, giúp các loài có khả năng thích nghi với điều kiện sống mới và khẳng định sinh sản hữu tính (chủ yếu là do các biến dị tổ hợp) có ưu thế hơn sinh sản vô tính.
+So sánh với nguyên phân.
+Bảng so sánh dưới đây cho thấy sự khác biệt giữa nguyên và giảm phân.
+Đột biến ở giảm phân.
+Cơ chế giảm phân như trên đã trình bày là diễn biến bình thường trong quá trình phân chia của tế bào sinh dục để tạo thành giao tử. Sự phân chia này có thể bị rối loạn do hoá chất, tia phóng xạ, hoặc virut gây ra đột biến về số lượng nhiễm sắc thể là dạng khá thường gặp ở nhiều loài sinh vật, ở người gây ra hiện tượng dị bội thể hoặc thể lệch bội; hoặc có thể gây ra đột biến về cấu trúc nhiễm sắc thể, dẫn đến thay đổi phân bố gen trên một hoặc nhiều nhiễm sắc thể (xem ở trang Đột biến nhiễm sắc thể).
+

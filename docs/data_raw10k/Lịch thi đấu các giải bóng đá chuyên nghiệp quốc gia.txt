@@ -1,0 +1,6 @@
+Lịch thi đấu các giải bóng đá chuyên nghiệp quốc gia
+
+Sau đây sẽ là lịch thi đấu của 2 giải bóng đá là V.League 1 và V.League 2. Có 3 lịch cho 3 giải đấu đó là: Giải đấu có 10 đội,giải đấu có 12 đội,giải đấu có 14 đội. Lịch thi đấu này sẽ có những mã số khác nhau. Giải 10 đội có mã số 1 đến mã số 10. Giải 12 đội có mã số 1 đến mã số 12 và giải có 14 đội cũng tương tự. Một mã số của một giải đấu tương ứng với 1 câu lạc bộ. VD: Ở Giải bóng đá vô địch quốc gia 2019, Câu lạc bộ bóng đá Sông Lam Nghệ An có mã số 3, Câu lạc bộ bóng đá Quảng Nam có mã số 9. Vòng 1 V.league đội có mã số 3 sẽ gặp đội có mã số 9 trên sân của đội mang mã số 3, tức ở vòng 1 V.League 2019 Câu lạc bộ bóng đá Sông Lam Nghệ An sẽ gặp Câu lạc bộ bóng đá Quảng Nam tại Sân vận động Vinh
+Giải 10 đội.
+Nguồn:VPF
+

@@ -1,0 +1,26 @@
+Dẫn nhiệt
+
+Trong nhiệt học, dẫn nhiệt (hay tán xạ nhiệt, khuếch tán nhiệt) là việc truyền năng lượng nhiệt giữa các phân tử lân cận trong một chất, do một chênh lệch nhiệt độ. Nó luôn luôn diễn ra từ vùng nhiệt độ cao hơn tới vùng nhiệt độ thấp hơn, theo định luật hai của nhiệt động học, và giúp cân bằng lại sự khác biệt nhiệt độ. Theo định luật bảo toàn năng lượng, nếu nhiệt năng không bị chuyển thành dạng khác, thì trong suốt quá trình này, nhiệt năng sẽ không bị mất đi.
+Đại lượng đo lường sự dẫn nhiệt trong một vật chất nhất định nào đó là độ dẫn nhiệt.
+Khác với đối lưu, trong dẫn nhiệt, sự trao đổi nhiệt năng không kèm theo bất kỳ sự chuyển động với số lượng lớn các phân tử vật chất.
+Dẫn nhiệt diễn ra trong tất cả các dạng của vật chất, tức chất rắn, chất lỏng, khí và plasma. Trong các chất rắn, đó là do sự kết hợp của dao động của các phân tử trong cấu trúc tinh thể và vận chuyển năng lượng của điện tử tự do. Trong các chất khí và chất lỏng, dẫn nhiệt là do sự va chạm và khuếch tán của các phân tử trong chuyển động ngẫu nhiên của chúng. 
+Ngoài dẫn nhiệt và đối lưu, nhiệt năng cũng có thể được trao đổi bởi bức xạ, và thường là nhiều hơn một trong những quá trình này xảy ra trong một tình huống trao đổi nhiệt nhất định.
+Tổng quan.
+Trên một quy mô nhỏ, dẫn nhiệt xảy ra khi các phân tử, nguyên tử hay các hạt nhỏ hơn (như electron) ở vùng nóng (dao động nhanh) tương tác với các hạt lân cận (ở vùng lạnh hơn, dao đông chậm hơn), chuyển giao một số động năng của dao động nhiệt từ hạt dao động nhanh sang những hạt dao động chậm. Nói cách khác, sức nóng được trao đổi giữa các nguyên tử hay phân tử lân cận khi chúng dao động và va chạm với nhau (trong hầu hết vật chất, trao đổi này còn được coi như sự dịch chuyển của dòng proton), hoặc là bởi electron dao động nhanh di chuyển từ một nguyên tử khác (trong kim loại).
+Dẫn nhiệt đóng góp lớn vào truyền nhiệt trong một chất rắn hoặc giữa các vật thể rắn khi chúng tiếp xúc nhau. Trong chất rắn, sự dẫn nhiệt xảy ra mạnh vì mạng lưới các nguyên tử nằm ở vị trí tương đối cố định và gần nhau, giúp việc trao đổi năng lượng giữa chúng thông qua dao động được dễ dàng.
+Khi mật độ các hạt giảm, tức là khoảng cách giữa các hạt trở nên xa hơn, dẫn nhiệt giảm theo. Điều này là do khoảng cách lớn giữa các nguyên tử gây ra việc có ít va chạm giữa các nguyên tử có nghĩa là chúng ít trao đổi nhiệt hơn. Do đó, chất lỏng và đặc biệt là các loại khí ít dẫn nhiệt. Với các chất khí, khi nhiệt độ hay áp suất tăng, các nguyên tử có xác suất va chạm nhau nhiều hơn, và do đó độ dẫn nhiệt cũng tăng theo.
+Tính chất dẫn nhiệt trong lòng vật liệu có thể khác với tính dẫn nhiệt ở bề mặt, nơi có thể tiếp xúc với vật liệu khác.
+Kim loại (ví dụ như đồng, platinum, vàng...) thường là các vật liệu dẫn nhiệt tốt. Điều này là do các điện tử tự do có thể chuyển nhiệt năng nhanh chóng trong lòng kim loại. Các "chất lỏng điện tử" của một vật kim loại rắn tiến hành gần như tất cả các dòng nhiệt qua vật rắn này. Proton mang ít hơn 1% năng lượng nhiệt. Điện tử cũng chuyên chở dòng điện chạy qua các chất rắn dẫn điện, dẫn đến độ dẫn nhiệt và độ dẫn điện của hầu hết các kim loại có cùng một tỷ lệ. Một dây dẫn điện tốt, chẳng hạn như đồng, thông thường cũng dẫn nhiệt tốt. Các hiệu ứng Peltier-Seebeck (hiệu ứng nhiệt điện) có nguồn gốc từ sự dẫn nhiệt của điện tử trong các chất dẫn điện.
+Dẫn nhiệt trong một vật rắn tương tự như khuếch tán của các hạt trong chất lỏng, khi không có dòng chảy chất lỏng.
+Định luật Fourier.
+Định luật Fourier là định luật cơ bản cho hiện tượng dẫn nhiệt, nói rằng:
+Có thể biểu diễn toán học cho định luật này ở dạng tích phân hoặc dạng vi phân.
+Dạng vi phân.
+Trong biểu diễn ở dạng vi phân, thông lượng nhiệt (nhiệt năng chảy qua một đơn vị diện tích bề mặt vuông góc với dòng chảy, trong một đơn vị thời gian) địa phương, formula_1, bằng với tích của độ dẫn nhiệt, formula_2, và trái dấu của gradien nhiệt độ, formula_3:
+với (trong hệ đo lường SI)
+Độ dẫn nhiệt, formula_2, thường được coi là hằng số, nhưng thực tế nó có thể thay đổi nhỏ theo nhiệt độ và các yếu tố khác. Trong vật liệu không đẳng hướng, độ dẫn nhiệt có thể thay đổi theo hướng; và formula_2 có thể được biểu diễn bằng tensor bậc hai. Trong vật liệu không đồng nhất, formula_2 thay đổi theo vị trí.
+Dạng tích phân.
+Tích phân phương trình ứng với dạng vi phân của định luật Fourier, trên diện tích bề mặt của vật liệu formula_11, thu được dạng tích phân của định luật này:
+với (trong hệ đo lường SI)
+Định luật này là cơ sở để xây dựng phương trình nhiệt. Định luật Ohm là dạng tương ứng của định luật Fourier cho trường hợp dẫn điện.
+

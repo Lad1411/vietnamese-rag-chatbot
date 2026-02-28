@@ -1,0 +1,20 @@
+Hệ thống các giải bóng đá Hàn Quốc
+
+Hệ thống các giải bóng đá Hàn Quốc bao gồm hai giải chuyên nghiệp, một giải bán chuyên và một giải nghiệp dư dành cho các câu lạc bộ bóng đá Hàn Quốc.
+Hạng đấu cao nhất của bóng đá Hàn Quốc là K League Classic được thành lập năm 1983. K League Challenge được thành lập năm 2013 và hiện là hạng đấu thứ hai. Dưới các giải đấu chuyên nghiệp là giải bán chuyên National League, là hạng đấu thứ ba và giải nghiệp dư K3 League hạng đấu thứ tư được ra đời năm 2007.
+Không có bất kỳ một mối liên hệ nào giữa các giải đấu cho đến năm 2012 khi K League Challenge ra đời.
+Hệ thống giải đấu qua các thời kỳ.
+Giải bóng đá bán chuyên Hàn Quốc từng là một giải bóng đá chuyên nghiệp giữa các câu lạc bộ của doanh nghiệp ở Hàn Quốc từ 1964 tới 2002. Tới năm 1983, khi K-League được thành lập, Giải bóng đá bán chuyên Hàn Quốc trở thành giải hạng hai tới năm 2002 trước khi Giải Quốc gia Hàn Quốc, khi ấy gọi là K2 League, được chính thức ra đời năm 2003. Giải hạng tư K3 League được thành lập năm 2007. K League Challenge (nay là K League 2) ra đời năm 2013.
+Hệ thống hiện tại.
+K League ra đời năm 1983 và là giải đấu chính thức duy nhất được diễn ra cho tới khi National League ra đời năm 2003. K3 League và K4 League được thành lập năm 2020 để tạo ra cấu trúc như hiện tại. 
+K5 League vốn là giải khu vực, nhưng từ mùa giải 2023 sẽ chuyển thành giải toàn quốc đơn nhất. Việc lên xuống hạng với K4 League sẽ được kích hoạt từ mùa giải 2025. 
+Với mỗi hạng đấu, tên chính thức, tên tên trợ và số đội như sau:
+ * Mùa 2022
+Dưới là rất nhiều các hạng đấu nghiệp dư, đại học và các giải trẻ. Từ 2008, U-League, giải đấu dành cho các câu lạc bộ của các trường đại học và R League dành cho các đội dự bị, được ra đời tạo nên một giải đấu độc lập khỏi hệ thống trên.
+Tư cách tham dự các giải đấu cúp.
+Cúp quốc gia.
+Tất cả các đội K League, K3 League và K4 League đều được tham dự Cúp Quốc gia Hàn Quốc. 11 đội xếp đầu của K5 League được tham dự vòng loại của FA Cup mùa sau đó.
+League Cup là một giải đấu dành cho các đội K League, trong khi đó các đội của National League có thể tham dự Vô địch Quốc gia. Từ năm 2011, Challengers Cup là giải đấu dành cho các đội của Challengers League. Hiện nay cả 2 giải này đều không còn được tổ chức.
+Giải châu lục.
+Hiện tại, bốn câu lạc bộ Hàn Quốc được mặc định tham dự AFC Champions League. Ba đội dẫn đầu K League 1 sẽ trực tiếp dự AFC Champions League. Đội vô địch Cúp Quốc gia Hàn Quốc cũng có thể được tham dự AFC Champions League. Tuy nhiên, nếu đội vô địch Cúp Quốc gia Hàn Quốc không phải là thành viên của K League, đội xếp thứ tư K League 1 sẽ giành suất còn lại.
+

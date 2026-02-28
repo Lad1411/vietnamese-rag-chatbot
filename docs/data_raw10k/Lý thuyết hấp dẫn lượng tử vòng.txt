@@ -1,0 +1,5 @@
+Lý thuyết hấp dẫn lượng tử vòng
+
+Việc tìm kiếm một lý thuyết lượng tử của trường hấp dẫn, qua đó tìm hiểu các đặc điểm của không-thời gian, lượng tử vẫn là một vấn đề mở. Một trong những hướng tiếp cận hiện đại chính là thuyết hấp dẫn lượng tử vòng. Thuyết này có cơ sở định nghĩa toán học khá tốt, bao gồm môi trường độc lập, không xáo trộn của lượng tử hóa hấp dẫn, cùng với các cặp vật chất quy ước. Thuyết hấp dẫn lượng tử vòng ngày nay hình thành một khối lượng lớn các nghiên cứu, từ nền tảng toán học cho đến các ứng dụng của nó vào ngành vật lý học. Một số kết quả nổi bật đó là:
+Các vấn đề tồn tại từ trước đó như việc thiếu giá trị của tích hữu hướng, tìm hiểu đặc điểm của các vòng, cũng như sự bổ sung các điều kiện tự nhiên, đã được giải quyết một cách trọn vẹn. Tuy nhiên, một vấn đề mở bấy lâu nay chính là việc tìm hiểu bản chất động lực học của không-thời gian.
+

@@ -1,0 +1,12 @@
+Zentralblatt MATH
+
+Zentralblatt MATH (tiếng Đức có nghĩa "tạp chí toán học trung ương") là một dịch vụ cung cấp các ý kiến và tóm tắt các bài báo trong toán học cơ bản và toán học ứng dụng, xuất bản bởi Nhà xuất bản Springer. Đây là một dịch vụ rà soát quốc tế chính bao gồm toàn bộ lĩnh vực của toán học. Nó sử dụng các toán Phân loại Chủ đề mã số cho các tổ chức đánh giá theo chủ đề.
+Lịch sử.
+Dịch vụ này được thành lập vào năm 1931 bởi Otto Neugebauer như "Zentralblatt für Mathematik und ihre Grenzgebiete". Vào cuối những năm 1930 nó đã bắt đầu từ chối một số người Do Thái nhận xét ​​và một số nhà phê bình trong nước Anh và Mỹ đã từ chức để phản đối. Một số trong số họ đã giúp bắt đầu Mathematical Reviews, một ấn phẩm cạnh tranh.
+Các hình thức điện tử được cung cấp dưới tên INKA-MATH (viết tắt cho In hình thành hệ thống Ka rlsruhe-Cơ sở dữ liệu về Toán ematics) ít nhất là từ năm 1980. Tên này sau đó được rút ngắn xuống còn Zentralblatt MATH.
+Dịch vụ.
+Các dịch vụ trừu tượng Zentralblatt MATH cung cấp ý kiến (tài khoản ngắn gọn về nội dung) của bài viết hiện tại, báo cáo hội thảo, sách và các ấn phẩm khác trong toán học, ứng dụng của nó, và các khu vực liên quan. Các ý kiến chủ yếu là trong tiếng Anh, với mục thỉnh thoảng ở Đức và Pháp. Nhận xét ​​là tình nguyện viên mời bởi các biên tập dựa trên công việc của họ được công bố hay một khuyến cáo của một người đánh giá hiện tại.
+Zentralblatt MATH được cung cấp cả trên web và ở dạng in. Dịch vụ đánh giá hơn 2.300 tạp chí và serial trên toàn thế giới, cũng như các sách và biên bản hội nghị. Zentralblatt MATH hiện đang được chỉnh sửa bởi Hội Toán học châu Âu, FIZ Karlsruhe, và Viện hàn lâm Khoa học Heidelberg.
+Các cơ sở dữ liệu Zentralblatt cũng kết hợp 200.000 mục của các ấn phẩm tương tự trước đó Jahrbuch über chết Fortschritte der Mathematik 1868-1942, bổ sung năm 2003.
+Access là do thuê bao. Hiện nay, ba hồ sơ đầu tiên trong một tìm kiếm được cung cấp miễn phí mà không cần đăng ký.
+

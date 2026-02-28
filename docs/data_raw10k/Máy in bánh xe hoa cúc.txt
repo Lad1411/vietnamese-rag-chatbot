@@ -1,0 +1,7 @@
+Máy in bánh xe hoa cúc
+
+Máy in bánh xe hoa cúc hay Máy in vành hoa cúc (tiếng Anh: "Daisy wheel printer") là dòng máy in ấn chạy điện loại đầu tiên, sử dụng các mẫu ký tự gắn lên vành dạng hoa cúc, và được điều khiển sao cho chữ cần in được đưa vào vị trí in và ấn xuống giấy qua ruy băng mực. Máy có thể dùng cho "in nhiều liên" (multi-part document).
+Công nghệ in bánh xe hoa cúc được Andrew Gabor ở Diablo Data Systems phát minh năm 1970. Máy sử dụng các phần tử có thể hoán đổi cho nhau, mỗi phần tử thường có 96 "glyph" (dấu hiệu) ứng với tập ký tự ASCII in được, để tạo ra chữ chất lượng cao tương đương với các máy chữ cao cấp như IBM Selectric, nhưng nhanh hơn hai đến ba lần. In bánh xe hoa cúc được sử dụng trong máy đánh chữ điện tử, bộ xử lý văn bản và máy tính từ năm 1972. Máy in bánh xe hoa cúc được đặt tên như vậy vì nó giống với hoa cúc.
+Đến năm 1980, máy in bánh xe hoa cúc trở thành công nghệ vượt trội để in văn bản chất lượng cao. Lúc đó các máy in ma trận chấm, máy in nhiệt hoặc máy in dòng được sử dụng khi yêu cầu in tốc độ cao và chất lượng in kém được chấp nhận.
+Tuy nhiên công nghệ trở nên lỗi thời khi máy in chấm, máy in phun hoặc máy in laser chất lượng cao ra đời.
+

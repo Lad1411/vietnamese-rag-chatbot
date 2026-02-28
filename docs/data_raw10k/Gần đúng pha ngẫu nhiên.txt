@@ -1,0 +1,22 @@
+Gần đúng pha ngẫu nhiên
+
+Gần đúng pha ngẫu nhiên (RPA) là một phương pháp gần đúng trong vật lý vật chất ngưng tụ và trong vật lý hạt nhân. Nó được David Bohm và David Pines giới thiệu lần đầu tiên như là một kết quả quan trọng trong một loạt các bài báo năm 1952 và 1953. Trong nhiều thập kỷ, các nhà vật lý đã cố gắng kết hợp hiệu ứng của các tương tác cơ lượng tử vi mô giữa các electron trong lý thuyết vật chất. RPA của Bohm và Pines xét cho tương tác yếu Coulomb được chắn và thường được sử dụng để mô tả hàm phản hồi tuyến tính động của các hệ electron.
+Trong RPA, các electron được giả sử chỉ phản hồi với tổng điện thế "V" (r) là tổng của thế nhiễu loạn bên ngoài "V" ext (r) và thế chắn "V" sc (r). Thế nhiễu loạn bên ngoài được giả sử dao động ở một tần số đơn ω, do đó mô hình đưa ra một phương pháp trường tự hợp (SCF) một hàm điện môi được ký hiệu là εRPA(k, ω).
+Sự đóng góp cho hàm điện môi từ tổng thế tĩnh điện được giả định là "trung bình", do đó chỉ có thế tại vector sóng k đóng góp. Đó là lý do vì sao gọi là gần đúng pha ngẫu nhiên. Hàm điện môi thu được, còn được gọi là "hàm điện môi Lindhard", dự đoán chính xác một số tính chất của khí electron, bao gồm cả plasmon.
+RPA đã bị chỉ trích vào cuối những năm 50 vì liên quan đến bậc tự do và nhiều chứng minh dẫn đến công việc phức tạp giữa các nhà vật lý lý thuyết. Trong một bài báo chuyên đề, Murray Gell-Mann và Keith Brueckner đã chỉ ra rằng RPA có thể được lấy từ một bản tóm tắt các sơ đồ Feynman chuỗi bậc đầu trong khí electron đặc.
+Sự thống nhất trong các kết quả này đã trở thành một lý lẽ quan trọng và thúc đẩy sự phát triển rất mạnh mẽ trong vật lý lý thuyết vào cuối những năm 50 và 60.
+Ứng dụng: Trạng thái cơ bản RPA của hệ boson tương tác.
+Trạng thái chân không RPA formula_1 cho hệ boson có thể được biểu diễn theo trạng thái chân không của boson không tương quan formula_2 và các kích thích boson gốc formula_3
+formula_4
+trong đó Z là ma trận đối xứng formula_5 và
+formula_6
+Việc chuẩn hóa có thể được tính bởi
+formula_7
+trong đó formula_8 là sự tách giá trị kì dị của formula_9.
+formula_10
+formula_11
+formula_12
+formula_13
+sự kết nối giữa những kích thích mới và cũ được đưa ra bởi
+formula_14.
+

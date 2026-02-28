@@ -1,0 +1,32 @@
+Nhóm con chuẩn tắc
+
+Trong đại số, nhóm con chuẩn tắc (hay còn gọi là nhóm con bất biến hoặc nhóm con tự liên hợp) là nhóm con bất biến dưới mọi tác động liên hợp. Nói cách khác, nhóm con của nhóm  được gọi là chuẩn tắc trong  nếu và chỉ nếu  với mọi  thuộc ; tức là tập các lớp kề trái và các lớp kề phải trùng nhau. Ta có thể xây dựng nhóm thương từ một nhóm con chuẩn tắc cho trước. Một nhóm , không tầm thường, không có nhóm con chuẩn tắc nào ngoài nhóm con tầm thường và chính nó, được gọi là một nhóm đơn.
+Évariste Galois là người đầu tiên nhận ra tầm quan trọng của sự tồn tại của nhóm con chuẩn tắc.
+Định nghĩa.
+Nhóm con formula_1 của nhóm formula_2 được gọi là nhóm con chuẩn tắc của formula_2 nếu nó không đổi dưới phép liên hợp; tức là liên hợp của một phần tử thuộc formula_1 bởi một phần tử của formula_2 luôn nằm trong formula_6 Ký hiệu thường dùng cho quan hệ này là formula_7
+Các điều kiện tương đương.
+Cho bất kỳ nhóm con formula_1 của formula_9 các điều kiện sau đều tương đương với việc formula_1 là nhóm con chuẩn tắc của formula_11 Do đó có thể dùng tuỳ ý một trong số chúng để làm định nghĩa
+Các ví dụ.
+Cho bất kỳ nhóm formula_9 nhóm tầm thường formula_46 chỉ bao gồm phần tử đơn vị của formula_2 luôn là nhóm con chuẩn tắc của formula_11 Tương tư, formula_2 chính nó cũng luôn là nhóm con chuẩn tắc của formula_11 (Nếu đây là hai nhóm con chuẩn tắc thì formula_2 được gọi là nhóm đơn.) Các tên khác cho nhóm con chuẩn tắc bao gồm tâm của nhóm (tập các phần tử giao hoán với các phần tử còn lại) và nhóm con giao hoán tử formula_52 Tổng quát hơn, bởi phép liên hợp là đẳng cấu nên bất kỳ nhóm con đặc trưng cũng là nhóm con chuẩn tắc.
+Nếu formula_2 là nhóm giao hoán thì mọi nhóm con formula_1 của formula_2 là nhóm con chuẩn tắc, bởi vì formula_56 Nhóm không giao hoán nhưng mọi nhóm con của nó đều chuẩn tắc được gọi là nhóm Hamilton.
+Một ví dụ cụ thể là với mỗi số nguyên formula_57 cho trước, nhóm các số nguyên formula_58 có các nhóm con chuẩn tắc formula_59 bao gồm các bội số của formula_57. Nhóm thương formula_61 là nhóm các lớp đồng dư theo mô-đun formula_57.
+Một ví dụ cụ thể khác là nhóm con chuẩn tắc formula_63 của nhóm đối xứng formula_64 bao gồm phần tử và hai xích độ dài ba quy nhất. Cụ thể hơn, ta có thể kiểm tra rằng mọi lớp kề của formula_1 hoặc bằng với chính formula_1 hoặc bằng với formula_67 Mặt khác, nhóm formula_68 không chuẩn tắc trong formula_69 bởi formula_70 Ví dụ này minh hoạ việc bất kỳ nhóm con formula_71 có chỉ số bằng hai thì là nhóm con chuẩn tắc.
+Nhóm thay phiên formula_72 là một nhóm đơn, tức là nó chỉ có hai nhóm con chuẩn tắc: formula_73 và chính formula_72. formula_72 là nhóm đơn không giao hoán có lực lượng nhỏ nhất. Các nhóm formula_76 với formula_77 là một số nguyên tố đều là các nhóm đơn giao hoán. Chúng không có nhóm con chuẩn tắc nào ngoài hai nhóm con chuẩn tắc tầm thường.
+Trong nhóm lập phương Rubik, các nhóm con chứa các phép biến đổi hướng của các khối ở góc hoặc ở cạnh thì chuẩn tắc.
+Nhóm tịnh tiến là nhóm con chuẩn tắc của nhóm Euclid trong bất kỳ số chiều. Điều này có là thực hiện bất kỳ phép biến đổi hình học nào, rồi tịnh tiến một đoạn rồi biến đổi hình học ngược lại sẽ không khác gì một bước tịnh tiến. Ngược lại, nhóm của các phép quay quanh gốc toạ độ không phải nhóm con chuẩn tắc của nhóm Euclid khi số chiều lớn hơn hoặc bằng hai (bởi tịnh tiến, rồi quay quanh gốc toạ độ, rồi tịnh tiến về sẽ không giữ cố định gốc toạ độ và do đó không cùng giá trị với một phép quay quanh gốc toạ độ.
+Các tính chất.
+Dàn của nhóm con chuẩn tắc.
+Cho hai nhóm con chuẩn tắc formula_1 và formula_125 của formula_9 Khi đó giao formula_127 và tích formula_128 đều là nhóm con chuẩn tắc của formula_11 
+Các nhóm con của formula_2 tạo thành một dàn dưới quan hệ chứa trong với phần tử nhỏ nhất, formula_131 và phần tử lớn nhất formula_11 Gặp của hai nhóm con chuẩn tắc formula_1 và formula_94 trong dàn này là giao của chúng và nối của hai nhóm con này là tích của chúng.
+Dàn này đầy đủ và modula.
+Nhóm con chuẩn tắc, nhóm thương và đồng cấu.
+Nếu formula_1 là nhóm con chuẩn tắc thì ta có thể định nghĩa phép toán trên các lớp kề như sau: 
+formula_136
+Quan hệ này định nghĩa ánh xạ formula_137 Để chứng minh ánh xạ này được xác định, ta cần chứng minh lựa chọn các phần tử đại diện formula_138 không làm thay đổi kết quả. Để làm điều đó, xét các phần tử đại diện khác formula_139 Khi đó tồn tại formula_140 sao cho formula_141 Từ đây formula_142và ta cũng dùng thêm ý formula_1 là nhóm con , để do vậy tồn tại formula_144 sao cho formula_145 Điều này chứng minh phép toán được xác định.
+Cùng với phép toán này, tập các lớp kề được gọi nhóm thương và được ký hiệu bằng formula_146 Có đồng cấu tự nhiên, formula_147 cho bởi formula_148 Đồng cấu này ánh xạ formula_1 sang phần tử đơn vị của formula_150 là lớp kề formula_151 tức là, formula_152
+Trong tổng quát, đồng cấu nhóm formula_153 gửi mỗi nhóm con của formula_2 thành nhóm con của formula_104 Bên cạnh đó, tiền ảnh của bất kỳ nhóm con của formula_78 là nhóm con của formula_11 Ta gọi tiền ảnh của nhóm tầm thường formula_46 trong formula_78 là hạt nhân (hay nhân) của đồng cấu nhóm và ký hiệu nó bởi formula_160 Hạt nhân luôn chuẩn tắc và ảnh của formula_161 luôn đẳng cấu với formula_162 (theo định lý đẳng cấu đầu tiên). Hơn nữa, tương xứng này còn là song ánh giữa tập của nhóm thương của formula_163 và tập các ảnh đồng cấu formula_2 (xê xích đẳng cấu). Cũng dễ nhận thấy rằng hạt nhân của ánh xạ thương, formula_147 chính là formula_1, và các nhóm con chuẩn tắc là hạt nhân của các ánh xạ có miền xác định formula_11
+Nhóm con chuẩn tắc và định lý Sylow.
+Định lý Sylow thứ hai phát biểu rằng: Nếu formula_168 và formula_80 là hai p-nhóm con Sylow của nhóm formula_2, thì tồn tại formula_171 sao cho formula_172
+Đây là hệ quả trực :
+Gọi formula_2 là nhóm hữu hạn và formula_80 là p-nhóm con Sylow với formula_77 là số nguyên tố. Khi đó formula_80 chuẩn tắc trong formula_2 khi và chỉ khi formula_80 là p-nhóm con Sylow duy nhất của formula_2.
+

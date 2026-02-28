@@ -1,0 +1,16 @@
+Outron
+
+Outron (IPA: /aʊt'rɒn/, tiếng Việt: /autrôn/) là chuỗi nucleotide ở đầu 5' của mRNA sơ khai có chứa trình tự nucleotide giống như intron, tiếp theo là một trình tự đóng vai trò thụ thể, phát sinh trong quá trình xử lý RNA theo phương thức cắt nối trans (trans-splicing). Đây là một thuật ngữ trong lĩnh vực di truyền phân tử.
+Tổng quan.
+- Ở cắt nối-cis, các intron (không mã) của RNA sơ khai bị cắt bỏ, rồi các exon (có mã) được nối lại thành chuỗi liên tục, tạo nên RNA trưởng thành là khuôn trực tiếp cho quá trình dịch mã. Cơ chế này đã trình bày tóm tắt ở chương trình Sinh học phổ thông và nâng cao. Phương thức này phổ biến ở sinh vật nhân thực, nên có tác giả gọi là kiểu "bình thường" ("normal" splicing) hoặc kiểu "tiêu chuẩn" (standard splicing).
+- Ở cắt nối-trans cũng có cắt rồi nối đoạn mang mã, nhưng chỉ ở một bên (xem hình), đồng thời phát sinh một chuỗi gọi là outron.
+- là chuỗi nucleotide ở đầu 5' của mRNA sơ khai (pre mRNA);
+- không mang mã di truyền;
+- có hàm lượng GC (guanine-cytosine content) tương tự.
+- phát sinh trong quá trình xử lý RNA theo phương thức cắt nối trans (trans-splicing), còn trong cắt nối cis (cis-splicing) không xuất hiện;
+- chuỗi outron nằm bên ngoài ("out") gen, còn chuỗi intron vốn nằm bên trong ("in") gen, tuy đầu cắt nối của Intron và của outron đều ở 3′ như nhau;
+- trong outron có một trình tự đóng vai trò như một vùng nhận cắt nối (splice acceptor) nhận tín hiệu cho phương thức cắt nối trans (trans-splicing).
+Đặc điểm.
+Sự phát hiện cấu trúc outron gắn liền với sự phát hiện ra phương thức cắt nối-trans (trans-splicing).
+Trong các sinh vật nhân thực gồm trùng roi, dinoflagellata, thân lỗ, giun tròn, thích ty bào, sứa lược, giun dẹp, giáp xác, chaetognatha, luân trùng và sống đuôi đã nghiên cứu, thì chiều dài của chuỗi đầu cắt nối (spliced leader, viết tắt là SL) ở outron trung bình trong khoảng từ 16 đến 51 nucleotide và chiều dài SL đầy đủ của RNA trung bình trong khoảng 46 đến 141 nucleotide.
+

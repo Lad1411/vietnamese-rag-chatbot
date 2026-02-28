@@ -1,0 +1,19 @@
+Khí nén học
+
+Khí nén học (tiếng Hy Lạp: "πνεύμα") là một nhánh của kỹ thuật sử dụng gas hoặc khí áp.
+Các hệ thống khí nén được sử dụng trong công nghiệp thường được cung cấp bởi khí nén hoặc khí trơ nén. Máy nén khí đặt ở vị trí trung tâm và máy phát điện cung cấp cho các xy lanh, động cơ không khí và các thiết bị khí nén khác. Một hệ thống khí nén được điều khiển bằng van điều khiển bằng tay hoặc tự động được lựa chọn khi nó cung cấp chi phí thấp hơn, linh hoạt hơn hoặc an toàn hơn động cơ điện và thiết bị truyền động.
+Khí nén học cũng có ứng dụng trong nha khoa, xây dựng, khai thác mỏ, và các khu vực khác.
+Các loại gas sử dụng trong hệ thống khí nén học.
+Các hệ thống khí nén trong các cơ sở cố định, chẳng hạn như các nhà máy, sử dụng khí nén bởi vì việc cung cấp khí bền vững có thể được thực hiện bằng cách nén khí trong không khí. Không khí thường có độ ẩm bị loại bỏ, và một lượng nhỏ dầu được thêm vào máy nén để tránh ăn mòn và bôi trơn các thành phần cơ khí.
+Những người sử dụng khí nén có công suất cao trong nhà máy không cần phải lo lắng về sự rò rỉ độc, vì khí thường chỉ là không khí. Các hệ thống nhỏ hơn hoặc độc lập có thể sử dụng các khí nén khác có nguy cơ ngạt thở, như nitơ- thường được gọi là OFN (nitơ không chứa oxy) khi được cung cấp trong bình.
+Bất kỳ loại khí nén nào khác ngoài không khí là một chất độc gây ngạt - bao gồm nitơ, tạo thành 78% không khí. Oxy nén (khoảng 21% không khí) sẽ không ngột thở, nhưng không được sử dụng trong các thiết bị chạy bằng khí nén bởi vì nó là một nguy cơ cháy, tốn kém hơn và không có lợi thế về hiệu suất trên không khí.
+Các công cụ khí nén cầm tay và các máy nhỏ, chẳng hạn như trong Chiến tranh Robot và các ứng dụng cá nhân khác thường được cung cấp bởi carbon dioxide nén, bởi vì các thùng chứa được thiết kế để chứa nó như bình soda và bình chữa cháy có sẵn, và sự thay đổi pha giữa chất lỏng và khí làm cho có thể có được một lượng lớn khí nén từ bình chứa nhẹ hơn không khí nén đòi hỏi. Carbon dioxide là một chất ngấm và có thể là một nguy cơ đóng băng nếu chảy không bình thường.
+Lịch sử.
+Nguồn gốc của khí nén học có thể được bắt nguồn từ thế kỷ đầu tiên khi nhà toán học Hy Lạp Hero xứ Alexandria viết về những phát minh của ông được cung cấp bởi hơi nước hoặc gió.
+Nhà vật lý người Đức Otto von Guericke (1602-1686) đã đi xa hơn một chút. Ông đã phát minh ra máy bơm chân không, một thiết bị có thể rút ra không khí hoặc khí từ tàu được gắn vào thiết bị đó. Ông đã thể hiện bơm chân không để tách các cặp bán cầu bằng áp lực không khí. Lĩnh vực khí nén đã thay đổi đáng kể qua nhiều năm. Nó đã di chuyển từ các thiết bị cầm tay nhỏ sang máy lớn với nhiều bộ phận phục vụ các chức năng khác nhau.
+So sánh với thủy lực học.
+Cả hai lĩnh vực khí nén học và thủy lực học là những lĩnh vực của năng lượng lỏng. Khí nén học sử dụng khí nén dễ dàng như không khí hoặc khí gas tinh khiết phù hợp - trong khi thủy lực học sử dụng các môi trường lỏng không tương thích như dầu. Hầu hết các ứng dụng khí nén công nghiệp sử dụng áp suất khoảng 80 đến 100 pound trên mỗi inch vuông (550 đến 690 kPa). Các ứng dụng thủy lực thường sử dụng từ 1.000 đến 5.000 psi (6.9 đến 34.5 MPa), nhưng các ứng dụng chuyên dụng có thể vượt quá 10.000 psi (69 MPa).
+Logic khí nén học.
+Các hệ thống logic khí nén (đôi khi được gọi là điều khiển không khí) đôi khi được sử dụng để kiểm soát quy trình công nghiệp, bao gồm các đơn vị logic chính như:
+Logic khí nén là một phương pháp kiểm soát đáng tin cậy và chức năng cho các quy trình công nghiệp. Trong những năm gần đây, các hệ thống này đã được thay thế bằng các hệ thống điều khiển điện tử trong các hệ thống mới vì kích thước nhỏ hơn, chi phí thấp hơn, chính xác hơn và các tính năng mạnh mẽ hơn của bộ điều khiển số. Các thiết bị khí nén vẫn được sử dụng ở nơi nâng cấp chi phí, hoặc các yếu tố an toàn chiếm ưu thế.
+

@@ -1,0 +1,19 @@
+Mật mã Hill
+
+Mật Mã Hill được đề xuất bởi Lester.S.Hill năm 1929. Mã cũng được thực hiện trên từng bộ m ký tự. mỗi ký tự trong bản mã một tổ hợp tuyến tính (trên vành Z26) của m ký tự trong bản rõ. Khoá sẽ được cho bởi một ma trận cấp m, tức nó là một phần tử của Z26mxm. 
+Định nghĩa.
+Mã Hill là bộ (P, C, K, E, D), thỏa mãn:
+• P = C = Z26m, với m là một số nguyên dương.
+• K = {k Z26m x m | (|k|, m) = 1}.
+ k = K. Ta định nghĩa:
+Khoá lập mã: ek(x1, x2, …, xm) = (x1, x2, …, xm).k
+ Khoá giải mã: dk(y1, y2, …, ym) = (y1, y2, …, ym).k-1
+Ví dụ.
+ m = 2; k = |k| = 1 (mod 26) vì thế k-1 =
+Với các bộ 2 ký tự (x1, x2) ta có thể mã hoá theo công thức sau:
+ (y1, y2) = (x1, x2).k = (x1, x2). = (11x1 + 3x2, 8x1 + 7x2) 
+Khoá giải mã sẽ là:
+ (x1, x2) = (y1, y2).k-1 = (y1, y2). = (7y1 + 23y2, 18y1 + 11y2) 
+Nhận xét: 1. Số lượng khoá không có công thức tường minh để tính.
+ 2. Nếu biết m cũng có thể dễ dàng dùng máy tính để giải mã.
+

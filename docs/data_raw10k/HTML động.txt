@@ -1,0 +1,59 @@
+HTML động
+
+HTML động hay DHTML (viết tắt tiếng Anh: "Dynamic HTML") là một thể hiện của việc tạo ra một trang web bằng cách kết hợp các thành phần: ngôn ngữ đánh dấu HTML tĩnh, ngôn ngữ kịch bản máy khách (như là Javascript), và ngôn ngữ định dạng trình diễn Cascading Style Sheets và Document Object Model (DOM).
+DHTML có thể được sử dụng để tạo ra 1 ứng dụng trên trình duyệt web: ví dụ như dễ dàng điều hướng, tạo một đơn web tương tác với người dùng hoặc tạo ra một bài tập sử dụng cho e-learning.
+Cấu trúc của một trang web.
+Đặc trưng của một trang web sử dụng DHTML được cấu thành như sau:
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+ &lt;head&gt;
+ &lt;meta charset="utf-8"&gt;
+ &lt;title&gt;DHTML example&lt;/title&gt;
+ &lt;/head&gt;
+ &lt;body&gt;
+ &lt;div id="navigation"&gt;&lt;/div&gt;
+ &lt;script&gt; 
+ var init = function () {
+ myObj = document.getElementById("navigation");
+ //... manipulate myObj
+ window.onload = init;
+ &lt;/script&gt;
+ &lt;/body&gt;
+&lt;/html&gt;
+Thường thì mã JavaScript được lưu giữ trong một tập tin riêng, được nạp vào trang web bằng liên kết đến tập tin chứa mã JavaScript:
+&lt;script src="script.js"&gt;&lt;/script&gt;
+Ví dụ: Hiển thị một đoạn văn bản được thêm vào.
+Đoạn mã dưới đây minh họa một chức năng thường được sử dụng. Phần thêm vào của trang web sẽ chỉ được hiển thị nếu người dùng yêu cầu nó. Như trong e-learning chức năng này sử dụng để hiển thị gợi ý được thêm vào.
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+ &lt;head&gt;
+ &lt;meta charset="utf-8"&gt;
+ &lt;title&gt;Ví dụ&lt;/title&gt;
+ &lt;style&gt;
+ &lt;/style&gt;
+ &lt;/head&gt;
+ &lt;body&gt;
+ &lt;h1&gt;Ví dụ&lt;/h1&gt;
+ &lt;h2&gt;&lt;a id="showhide" href="#"&gt;Hiển thị ví dụ&lt;/a&gt;&lt;/h2&gt;
+ &lt;p id="toggleMe"&gt;Đây là ví dụ: văn bản chỉ hiển thị khi bấm chuột vào
+ liên kết.&lt;/p&gt;
+ &lt;p&gt;Thêm văn bản thường...&lt;/p&gt;
+ &lt;script&gt;
+ changeDisplayState = function (id) {
+ var d = document.getElementById('showhide'),
+ e = document.getElementById(id);
+ if (e.style.display === 'none' || e.style.display === ") {
+ e.style.display = 'block';
+ d.innerHTML = 'Dấu ví dụ';
+ else {
+ e.style.display = 'none';
+ d.innerHTML = 'Hiển thị ví dụ';
+ };
+ document.getElementById('showhide').onclick = function () {
+ changeDisplayState('toggleMe');
+ return false;
+ &lt;/script&gt;
+ &lt;/body&gt;
+&lt;/html&gt;
+Định dạng tập tin XHTML chứa một slideshow có thể xem được trên chế độ projector theo từng slide một (có thể. Định dạng sẽ được thực hiện bởi CSS.
+

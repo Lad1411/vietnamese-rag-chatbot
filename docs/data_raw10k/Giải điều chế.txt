@@ -1,0 +1,25 @@
+Giải điều chế
+
+Giải điều chế hay còn gọi là tách sóng (tiếng Anh:demodulation), là quá trình tách lấy tín hiệu thông tin ra khỏi sóng mang cao tần. Còn đối với điều chế số, tín hiệu số sẽ được biến đổi về dạng thông tin. Tóm lại, giải điều chế là một quá trình ngược lại so với quá trình điều chế.
+Bộ giải điều chế là một mạch điện tử (hoặc cũng có thể là một phần mềm được sử dụng để phục hồi nội dung thông tin từ sóng mang điều biến được điều chế. Ngõ ra của mạch điều chế có thể là tín hiệu âm thanh, video hoặc là dữ liệu nhị phân.
+Lịch sử.
+Thời kì đầu.
+Trong các hệ thống vô tuyến điện được sử dụng trong ba thập niên đầu tiên của đài phát thanh
+(1884-1914), máy phát không truyền đi âm thanh nhưng truyền thông tin dưới
+dạng xung sóng đại diện cho tin nhắn văn bản trong mã Morse. Do đó,người nhận chỉ đơn thuần
+phải phát hiện sự hiện diện hoặc không có tín hiệu radio, và tạo ra âm thanh tiếng nhấp chuột.Các thiết bị này được gọi là
+máy dò. Các máy dò đầu tiên là các
+máy liên kiết bằng mạt (coherer), các thiết bị đơn giản hoạt động như một công tắc.
+Thời kì tiếp theo.
+Loại điều chế đầu tiên được sử dụng để truyền âm thanh qua sóng vô tuyến là
+điều chế biên độ (AM) do Reginald Fessendon phát minh ra vào khoảng năm 1900. Một tín
+hiệu vô tuyến AM có thể được điều chế bằng cách điều chỉnh nó, loại bỏ các xung tần số vô tuyến ở một phía của tàu sân bay, nó từ dòng điện xoay chiều (AC) đến dòng điện trực tiếp pulsating (DC). Biên
+độ của DC thay đổi theo tín hiệu âm thanh điều biến, vì
+vậy nó có thể điều khiển tai nghe. Fessendon đã phát
+minh ra bộ giải điều chế AM đầu tiên vào năm 1904 gọi là máy dò điện phân, bao gồm một cây kim ngắn nhúng vào một cốc axit pha loãng. Trong cùng năm đó,
+John Ambrose Fleming đã phát minh ra van Fleming hoặc diode nhiệt điện cũng có thể hiệu chỉnh tín hiệu AM.
+Các loại giải điều chế.
+Giải điều chế tần số.
+Điều chế tần số (FM) có nhiều ưu điểm hơn AM như độ trung thực và khả năng chống nhiễu tốt hơn. Tuy nhiên, nó phức tạp hơn nhiều để điều chỉnh và giải điều chế sóng mang với FM, và AM có thể sử dụng nó trước vài thập kỷ.
+Có một số loại giải điều chế FM phổ biến:
+

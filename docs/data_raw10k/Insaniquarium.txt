@@ -1,0 +1,23 @@
+Insaniquarium
+
+Insaniquarium là trò chơi được phát triển bởi 2 hãng Flying Bear Entertainment và PopCap Games, được thiết kế bởi George Fan. Trò chơi lần đầu tiên ra mắt trực tuyến vào ngày 2 tháng 5 năm 2002, được xây dựng trên nền tảng Java. Hai năm sau đó, "Insaniquarium Deluxe" ra đời với phiên bản dành cho máy tính.
+Sơ lược.
+Đây là một trò nuôi thú ảo với 4 thể loại, mỗi thể loại có một cách chơi khác nhau. Tuy nhiên, nhiệm vụ của người chơi vẫn chỉ xoay quanh việc chăm sóc những con cá: cho chúng ăn, thu hoạch tiền vàng, kim cương... do chúng đẻ ra và bảo vệ chúng khỏi quái vật ngoài hành tinh. Người chơi có thể sử dụng số "vỏ sò" của mình để mua các loại cá giống.
+Thể loại.
+Có 4 thể loại chơi trong Insaniquarium, người chơi phải chơi lần lượt theo thứ tự để mở khóa hết các vòng:
+Adventure.
+Ở thể loại này, mỗi vòng người chơi sẽ được cho sẵn vài con cá bảy màu ("guppy"), nuôi cho lớn để chúng đẻ ra những đồng tiền hoặc kim cương. Để kết thúc một vòng chơi, ta phải mua được 3 mảnh ghép của một quả trứng ("egg pieces"). Trứng sẽ nở ra một sinh vật đặc biệt ("pet"), có thể giúp người chơi ở những vòng sau.
+Người chơi còn phải chiến đấu với lũ quái vật ("aliens") để bảo vệ đàn cá. Một dòng chữ thông báo màu đỏ sẽ nhấp nháy dưới đáy hồ để cảnh báo nguy hiểm. Khi quái vật xuất hiện, người chơi sẽ dùng tia laser và bắn vào đầu chúng (súng laser có thể nâng cấp lên mức tối đa là 10).
+Có 5 hồ cá, mỗi hồ có 5 vòng chơi, ngoại trừ hồ thứ 5 chỉ có duy nhất một vòng vì đây là vòng đánh với quái vật "trùm".
+Time Trial.
+Mục đích của thể loại này là kiếm được càng nhiều tiền càng tốt trong một thời gian nhất định (5 phút ở hồ thứ nhất và 10 phút ở 3 hồ còn lại). Khi hoàn thành nhiệm vụ ở mỗi hồ trong chế độ "Adventure", người chơi sẽ mở khóa được những hồ tương ứng trong "Time Trial".
+Người chơi không cần phải mua những mảnh ghép của trứng. Thay vào đó, ta có thể mua thẳng một quả trứng và chúng sẽ nở ra một "pet". Số tiền mua trứng sau mỗi lần sẽ tăng gấp đôi, ví dụ trứng thứ nhất giá 100$, trứng thứ hai giá 200$ và trứng thứ ba giá 400$, cứ như vậy mà tăng dần.
+Challenge.
+Đây là mức chơi khó nhất trong 4 thể loại. Cách chơi tương tự với chế độ "Adventure", thu thập đủ 3 mảnh ghép của quả trứng để qua vòng, nhưng lại có chút khó hơn.
+Cứ sau 4 giây, giá của các vật phẩm sẽ tăng thêm 1%. Ví dụ, một con cá bảy màu giống có giá 100$, sau 4 giây sẽ có giá là 101$. Chỉ khi người chơi mua được một mảnh ghép trứng thì tất cả vật phẩm sẽ quay về giá ban đầu, ngoại trừ giá của trứng thì vẫn tăng. Một điều nữa, cửa hàng bán vật phẩm sẽ đóng và mở lại sau 5 phút.
+Ở chế độ này, càng chơi lâu thì lũ quái vật sẽ xuất hiện càng nhiều, số tiền của các vật phẩm sẽ càng tăng, độ khó sẽ càng cao hơn.
+Virtual Tank.
+Đây là chế độ "nhàn hạ" nhất trong 4 thể loại. Người chơi chỉ cần cho lũ cá ăn, thu nhặt những đồng tiền, kim cương..., sử dụng số tiền đó để mua thêm những loại cá khác từ cửa hàng. Điều đặc biệt là những con cá trong "Virtual Tank" không bao giờ chết; tuy nhiên, chúng lớn khá chậm so với 3 thể loại kia. Người chơi có thể cài hồ cá ở chế độ Virtual Tank làm màn hình bảo vệ (screensaver) cho máy tính.
+Đánh giá.
+Insaniquarium nhận được rất nhiều đánh giá và phản ứng tích cực. IGN đã cho Insaniquarium 8.3/10 điểm.
+

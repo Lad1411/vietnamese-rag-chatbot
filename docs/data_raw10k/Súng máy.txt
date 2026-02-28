@@ -1,0 +1,37 @@
+Súng máy
+
+Súng máy, còn gọi là súng liên thanh, là một loại súng có thể bắn hoàn toàn tự động, có khả năng bắn thành các loạt bắn rất dài. Súng thường được gắn trên các loại bệ chống, trên các phương tiện cơ giới để tăng khả năng cơ động. Năng lượng để vận hành súng được lấy từ lực giật của đạn sinh ra sau mỗi phát bắn (Nạp đạn bằng lực giật) hoặc khí thuốc sản sinh ra sau mỗi phát bắn (Trích khí). Do bắn liên thanh nên nòng súng có hệ thống làm mát bằng chất lỏng hoặc không khí. Đạn được tiếp từ băng bằng dây đạn hoặc hộp tiếp đạn loại lớn. Súng này đã vài lần xuất hiện trong chiến tranh
+Súng máy được dùng để tiêu diệt hoặc chế áp các mục tiêu trên đất liền, trên không, trên biển có cự ly dưới 2000 mét.
+Lịch sử.
+Từ thế kỷ 16 đã xuất hiện những mẫu súng liên thanh đầu tiên, trong đó có một số mẫu do Leonardo da Vinci thiết kế. Ban đầu chúng gồm nhiều nòng súng được ghép song song với nhau. Đến cuối thế kỷ 16 nó nhanh chóng rơi vào quên lãng do quá cồng kềnh và tốn nhiều thời gian nạp đạn.
+Năm 1850, súng máy có một nòng duy nhất mà phía trước là một "cơ cấu quay maniven" đẩy một viên đạn và bắn; hoặc là một loạt nòng được lắp đạn và bắn nòng nọ sau nòng kia liên tiếp rất nhanh.
+Nhờ sự xuất hiện của đạn có vỏ kim loại sản xuất hàng loạt đã tạo điều kiện cho việc chế tạo súng máy. Năm 1862 xuất hiện mẫu súng máy đầu tiên và cũng là mẫu phổ biến nhất do Richard Jordan Gatling (1818-1903), người Mỹ, sáng chế. Đây là dạng súng nòng quay có thể đạt nhịp bắn 260 phát một phút với 6 hoặc 8 nòng súng và tay quay đi kèm. ("Nguyên lý của loại súng này hiện đang được sử dụng ở loại pháo M61 Vulcan có một động cơ điện cho phép bắn tới 6000 viên trái phá 20 mm trong một phút"). Song do mới ra đời, súng máy Gatling vẫn còn nhiều hạn chế như vẫn phải tiến hành các thao tác cơ bản khi sử dụng như nạp đạn, lên cò bấm... nên súng máy Gatling cũng không được sản xuất đại trà sau năm 1866.
+Khẩu súng máy tự động thật sự đầu tiên do một người tên Hiram Stevens Maxim thiết kế vào năm 1884. Khẩu súng của ông Maxim vận hành nhờ lực giật sinh ra sau mỗi phát bắn. Súng được người Anh sử dụng lần đầu tại cuộc Chiến tranh Nam Phi giữa người Anh và người Boer trong khoảng thời gian từ năm 1899-1902.
+Năm 1892 John Browning, người Mỹ, đã sáng chế ra súng máy hoạt động nhờ khí thuốc đầu tiên là khẩu Colt-Browning M1895 "Potato digger"
+Súng máy hạng nhẹ (trung liên) bắt đầu xuất hiện từ nửa cuối thế kỉ XIX - đầu thế kỉ XX mà đi tiên phong chính là khẩu Madsen do hai kĩ sư là Julius A. Ramussen và Theodor Schobue thiết kế từ năm 1896 đến năm 1902. Sau Madsen, rất nhiều thiết kế súng máy hạng nhẹ nối tiếp nhau ra đời. Trong Thế chiến thứ I, 92% số thương vong là do súng máy gây nên.
+Súng máy cỡ nòng lớn (trọng liên) lần đầu tiên xuất hiện tại Đức năm 1918. Nó là khẩu MG 18 TuF. Khẩu MG 18 TuF sử dụng cỡ đạn 13.2x99mm TuF của khẩu Mauser 1918 T-Gewehr. Sang thế chiến thứ 2, trọng liên được trang bị cho cả ba quân chủng hải, lục, không quân của nhiều nước như Hoa Kỳ và Liên Xô. Thời điểm này cũng đã xuất hiện nhiều súng máy cỡ nòng trên 15 mm trang bị trên máy bay, xe chiến đấu, hạm tàu...
+Nguyên lý giả Gatling...
+Một số loại súng máy.
+Súng máy tự động (1884).
+Hiram Stevens Maxim (1840-1916), người Anh gốc Mỹ, vào năm 1884 đã phát minh ra loại súng máy tự động đầu tiên bắn liên tục, hoạt động nhờ hiệu ứng giật lùi. Được sửa cho thích hợp với thuốc súng không khói vào năm 1884, nó đã tỏ ra có chất lượng tốt và nguyên lý nạp đạn tự động nhờ lực giật của Maxim vẫn được duy trì trong khá nhiều các loại súng máy ngày nay.
+Xuất phát từ phát minh đó, các nhà nghiên cứu đã đưa ra các phương án hoạt động khác thay cho nạp đạn nhờ lực giật. Vào năm 1892 thì John Browning cùng với một nhà thiết kế vũ khí người Mỹ khác tên Matthew S. Browning đã được chính quyền Hoa Kỳ cấp bằng sáng chế cho một khẩu súng máy có cơ chế bắn hoàn toàn liên thanh nhờ trích lại một phần khí thuốc trong việc nạp đạn khi súng đang bắn. Khẩu súng máy đó được sử dụng phổ biến bởi quân đội Hoa Kỳ từ năm 1896. Sau đó, nó còn được Hoa Kỳ bán cho các nước như: Canada, đế quốc Nga, Úc, Bỉ... Năm 1893, đại úy Odkolek von Augeza, một sĩ quan cũ của quân đội Áo-Hung đã đăng ký một phát minh rất giống như vậy mà ông đã chuyển nhượng lại cho hãng Hotchkiss et Cie.. Hãng vũ khí này do một người Pháp gốc Mỹ tên Benjamin B. Hotchkiss (1828-1885) thành lập, đã trở nên nổi danh với loại pháo quay 37mm 6 nòng bắn nhanh của hãng. Từ đầu thế kỷ, hãng đã chế tạo ra ra một số các mẫu mà đỉnh cao là loại súng máy hạng nặng nổi tiếng Hotchkiss Model 1914 trang bị cho không chỉ quân đội Pháp mà cho cả quân đội của nhiều nước khác, trong đó có cả Mỹ. Mỹ dùng Hotchkiss 1914 cho tới tận năm 1919, khi mà khẩu M1919 Browning ra đời và thay thế.
+Súng trung liên (1902).
+Súng trung liên là một loại vũ khí có sức sát thương cao, được sử dụng rất phổ biến trong các đội quân với tầm xa khoảng 600 mét. Súng trung liên Degtyarev cỡ nòng 7.62 mm do Liên Xô thiết kế. Trung Quốc gọi là trung liên Type 56, Việt Nam gọi là trung liên RPD.
+Súng trung liên RPD là loại vũ khí tự động có hỏa lực mạnh của tiểu đội bộ binh do một người sử dụng dùng để tiêu diệt sinh lực địch tập trung, những mục tiêu lẻ quan trọng hoặc những hỏa điểm của địch trong vòng 800m chi viện cho bộ binh xung phong.
+Năm 1902, 2 vị thợ súng người Đan Mạch là Julius A. Ramussen và Theodor Schobue đã giới thiệu một loại súng máy mới có thể dễ dàng cơ động bởi 1 người lính. Súng được tướng Vilhem Herman Oluf Madsen thông qua vào cuối năm 1902 như là khẩu súng máy hạng nhẹ tiêu chuẩn của quân đội Đan Mạch. Nó được sản xuất liên tục bởi DISA Company của Đan Mạch từ năm 1903 cho đến tận những năm cuối thập niên 1950s. Những mẫu khác đã ra đời tiếp ở những hãng khác. Thực ra, rất nhanh sau đó đã có một sự khác nhau trong các loại súng máy nhỏ, dễ di chuyển nhưng cần nhiều người điều khiển như những loại nổi tiếng MG 34 và MG 42 trong Thế chiến thứ II, cũng tồn tại phương án "súng máy nặng" và khái niệm súng tập thể do một hoặc hai người sử dụng, nghĩa là súng trung liên (FM).
+Loại súng trung liên đầu tiên xứng với tên gọi đó đã được đưa vào sử dụng chắc chắn là loại FM 15 của quân đội Pháp, cũng còn được gọi là CSRG theo tên của những người phát minh (Louis Chauchat, Charles Sutter và Paul Ribeyrolles) cũng như của cơ sở đã chế tạo các nguyên mẫu (hãng Gladiator). Đó là loại súng thô và khả năng vận hành kém nhưng được chế tạo với số lượng lớn và cũng được chấp nhận, do không có điều kiện hơn nữa, bởi quân đội Mỹ từ năm 1917.
+Ngoài ra, còn các loại súng trung liên M1918 BAR của John Browning, ZB 26 Tiệp của anh em Holek (Vaclav, Emanuel và Frantisek Holek) và loại dẫn xuất từ nó của Anh, loại Bren nổi tiếng, loại Lewis Anh bộ lắp đạn tròn, cuối cùng là loại FM Pháp Model 1924 M.29, được một nhóm dưới sự chỉ đạo của đại tá Reibel thiết kế ra.
+Xuất xứ của một vài loại súng máy.
+Tiệp Khắc / Cộng hòa Séc
+Đức
+Hàn Quốc
+Hoa Kỳ
+Israel
+Nga / Liên Xô
+Nhật Bản
+Phần Lan
+Pháp
+Singapore
+Cộng hòa nhân dân Trung Hoa
+Vương quốc Liên hiệp Anh và Bắc Ireland
+

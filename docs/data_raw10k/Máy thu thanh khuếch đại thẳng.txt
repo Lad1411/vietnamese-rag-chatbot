@@ -1,0 +1,7 @@
+Máy thu thanh khuếch đại thẳng
+
+Máy thu thanh khuếch đại thẳng là một loại máy thu thanh hoàn chỉnh đầu tiên, nó được phát triển dựa trên các dạng máy thu sơ khai.Đối với loại máy thu sơ khai sử dụng các bộ tách sóng tinh thể,để tách các tín hiệu âm ra khỏi sóng mang. Nhưng các tín hiệu này rất yếu ớt, phải sử dụng tai nghe để nghe vì không có cách nào để khuếch đại làm âm thanh mạnh lên được. Và khi ống chân không 3 cực ra đời đã giúp cải thiện hoàn chỉnh máy thu. Hiện nay loại máy thu này không còn được sử dụng nữa.
+Cấu tạo và nguyên lý hoạt động.
+Cấu tạo.
+So với máy thu thanh đổi tần,loại máy thu này có cấu tạo đơn giản hơn rất nhiều. Đầu tiên, tín hiệu thu vào nhờ ăng ten,sau đó chọn lọc và được khuếch đại lên,rồi đưa đến mạch tách sóng.Sau khi tách sóng, tín hiệu này được khuếch đại lên cho đủ mạnh và đưa ra loa.
+

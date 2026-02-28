@@ -1,0 +1,7 @@
+Điểm Fermat
+
+Trong hình học phẳng, điểm Fermat của một tam giác, cũng được gọi là điểm Torricelli hoặc điểm Fermat-Torricelli, là một điểm sao cho tổng khoảng cách từ điểm đó đến các đỉnh của tam giác là bé nhất. Vấn đề này đặt ra bởi Fermat trong một lá thư gửi Evangelista Torricelli, và Evangelista Torricelli đã đưa ra giải pháp. Có hai điểm Fermat gọi là điểm Fermat trong và ngoài của tam giác, trong bách khoa toàn thư về các tâm của tam giác lần lượt được ký hiệu là formula_1 và formula_2.
+ Điểm Fermat đưa ra một giải pháp để giải quyết vấn đề cây Steiner cho ba điểm.
+Tính chất.
+Điểm Fermat có nhiều tính chất đặc biệt:
+

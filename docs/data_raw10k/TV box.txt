@@ -1,0 +1,8 @@
+TV box
+
+TV box là một thiết bị dùng để xem truyền hình qua màn hình máy tính (monitor).
+TV box có kích thước khá nhỏ gọn, có đường vào và đường ra VGA để kết nối với máy tính, có cổng nối ăng ten thu tín hiệu truyền hình và cổng đường tiếng (audio), đường hình (video) phục vụ nhu cầu của người sử dụng có thể xem video hay truyền hình kĩ thuật số.
+TV box có điều khiển từ xa như của TV để dò kênh, chuyển kênh, tăng âm lượng, chỉnh chế độ màn hình.
+Tại TV box có loa phát đủ nghe, tuy nhiên người ta có thể nối TV box với loa ngoài để nghe âm thanh tốt hơn.
+TX box để xem truyền hình nhưng không bán ở những cửa hàng điện máy mà hay bán ở cửa hàng bán máy tính.
+

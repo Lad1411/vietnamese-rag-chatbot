@@ -1,0 +1,14 @@
+Quản lý phụ tùng
+
+Quản lý phụ tùng dịch vụ là thành phần chính của quy trình quản lý dịch vụ chiến lược hoàn chỉnh mà các công ty sử dụng để đảm bảo rằng phụ tùng và nguồn lực phù hợp ở đúng nơi (nơi có bộ phận bị hỏng) vào đúng thời điểm.
+Phụ tùng thay thế, là các bộ phận phụ có sẵn và gần với một vật dụng chức năng, chẳng hạn như ô tô, thuyền, động cơ, mà chúng có thể được sử dụng để sửa chữa.
+Xem xét khía cạnh kinh tế.
+Phụ tùng đôi khi được coi là không kinh tế vì:
+Nhưng không có phụ tùng trong tay, mức độ hài lòng của khách hàng của công ty có thể giảm nếu khách hàng phải chờ quá lâu để sản phẩm của họ được sửa chữa. Do đó, các công ty cần lập kế hoạch và sắp xếp hàng tồn kho các bộ phận dịch vụ và lực lượng lao động để đạt được mức độ hài lòng của khách hàng tối ưu với chi phí tối thiểu.
+Khía cạnh người dùng.
+Người sử dụng vật phẩm, có thể yêu cầu các bộ phận, có thể bỏ qua các cân nhắc kinh tế vì:
+Thỏa hiệp hiệu quả chi phí.
+Trong nhiều trường hợp mặt hàng không ổn định, có thể đạt được sự thỏa hiệp giữa chi phí và xác suất thống kê. Vài ví dụ:
+Các biện pháp hiệu quả.
+Hiệu quả của hàng tồn kho phụ tùng có thể được đo lường bằng các số liệu như tỷ lệ lấp đầy và tính sẵn có của mục cuối.
+

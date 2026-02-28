@@ -1,0 +1,5 @@
+Meson B
+
+Trong vật lý hạt, các meson B là các meson bao gồm một phản quark đáy và một trong các quark lên (), xuống (), lạ () hay duyên () . Sự kết hợp của một phản quark dưới cùng và một quark đỉnh được cho là không thể thực hiện được vì thời gian tồn tại của hạt quark đỉnh rất ngắn. Sự kết hợp của một phản quark đáy và một quark đáy không phải là meson B, mà là "bottomonium", một thứ hoàn toàn khác.
+Mỗi meson B có một phản hạt bao gồm một quark đáy và một phản quark lên (), xuống (), lạ () hay duyên () tương ứng.
+

@@ -1,0 +1,107 @@
+Số hữu tỉ
+
+Trong toán học, số hữu tỉ là các số x có thể biểu diễn dưới dạng phân số formula_1, trong đó "a" và "b" là các số nguyên với "b" formula_2 "0".
+Tập hợp các số hữu tỉ, hay còn gọi là trường số hữu tỉ, ký hiệu là (chữ đậm) hoặc formula_3 (chữ viền), Unicode 𝐐/ℚ. Tên Q của tập hợp này được Giuseppe Peano sử dụng lần đầu tiên như là chữ viết tắt của "quoziente", nghĩa là tỷ lệ, và xuất hiện lần đầu trong cuốn sách "Algèbre" của Bourbaki.
+Khai triển thập phân của một số hữu tỉ kết thúc sau một số hữu hạn chữ số (ví dụ: hoặc thậm chí bắt đầu lặp lại một số hữu hạn cùng dãy các chữ số lặp đi lặp lại (ví dụ: ). Ngược lại, bất kỳ số thập phân lặp lại tuần hoàn hoặc kết thúc sau hữu hạn chữ số đều đại diện cho một số hữu tỉ. Các phát biểu này đúng trong cơ số 10 và trong mọi cơ số nguyên khác (ví dụ: nhị phân hoặc thập lục phân).
+Một số thực không phải là số hữu tỉ được gọi là số vô tỉ. Một số ví dụ của số vô tỉ bao gồm formula_4, , và . Khai triển thập phân của một số vô tỉ kéo dài mãi mà không lặp lại. Vì tập hợp các số hữu tỉ là đếm được và tập hợp các số thực là không đếm được nên hầu như tất cả các số thực đều là số vô tỉ.
+Số hữu tỉ có thể được định nghĩa một cách chính tắc là các lớp tương đương của các cặp số nguyên với , sử dụng quan hệ tương đương được định nghĩa như sau:
+formula_5
+Phân số khi đó biểu thị lớp tương đương của .
+Số hữu tỉ cùng với phép cộng và phép nhân tạo thành một trường trong đó có chứa các số nguyên, và được chứa trong bất kỳ trường nào có chứa các số nguyên. Nói cách khác, trường số hữu tỉ là một trường nguyên tố và một trường có đặc trưng là 0 nếu và chỉ khi nó chứa các số hữu tỉ dưới dạng một trường con. Phần mở rộng hữu hạn của được gọi là trường số đại số và phần đóng đại số của là trường số đại số.
+Trong giải tích toán học, các số hữu tỉ tạo thành một tập con trù mật của các số thực. Các số thực có thể được xây dựng từ các số hữu tỉ bằng cách hoàn thành, sử dụng chuỗi Cauchy, cắt Dedekind hoặc các số thập phân vô hạn (để biết thêm, xem Xây dựng các số thực).
+Từ nguyên.
+Thuật ngữ "hữu tỷ" trong tên của tập hợp đề cập đến thực tế rằng một số hữu tỷ biểu thị "một tỷ số" của hai số nguyên. Tính từ "hữu tỉ" đôi khi có nghĩa là các hệ số là số hữu tỉ. Ví dụ, một điểm hữu tỉ là một điểm có toạ độ hữu tỉ (tức là một điểm có toạ độ là số hữu tỉ); một "ma trận hữu tỉ" là một ma trận của các số hữu tỉ; một "đa thức hữu tỉ" có thể là một đa thức với các hệ số hữu tỉ, mặc dù thuật ngữ "đa thức trên các số hữu tỉ" thường được ưu tiên hơn, để tránh nhầm lẫn giữa " biểu thức hữu tỉ " và " hàm hữu tỉ" (đa thức là một biểu thức hữu tỉ và định nghĩa một hàm hữu tỉ, ngay cả khi các hệ số của nó không phải là số hữu tỉ). Tuy nhiên, một đường cong hữu tỷ "không phải" là một đường cong được xác định trên các số hữu tỷ, mà là một đường cong có thể được tham số hóa bằng các hàm hữu tỷ.
+Từ nguyên này tương tự như từ nguyên của số "ảo" và số "thực".
+Số học.
+Phân số tối giản.
+Mọi số hữu tỉ có thể được biểu diễn theo một cách duy nhất dưới dạng một phân số tối giản , trong đó và là các số nguyên tố cùng nhau và . Đây thường được gọi là dạng chính tắc của số hữu tỉ.
+Bắt đầu từ một số hữu tỉ , dạng chính tắc của nó có thể nhận được bằng cách chia và cho ước chung lớn nhất của chúng, và nếu , thay đổi dấu của tử số và mẫu số.
+Nhúng các số nguyên.
+Mọi số nguyên có thể được biểu diễn dưới dạng số hữu tỉ , là dạng chính tắc của nó dưới dạng một số hữu tỉ.
+Đẳng thức.
+formula_6 khi và chỉ khi formula_7
+Nếu cả hai phân số đều ở dạng chính tắc, thì:
+formula_6 khi và chỉ khi formula_9 và formula_10
+Thứ tự.
+Nếu cả hai mẫu số đều dương (đặc biệt nếu cả hai phân số đều ở dạng chính tắc):
+formula_11 khi và chỉ khi formula_12
+Mặt khác, nếu một trong hai mẫu số là âm, thì trước tiên mỗi phân số có mẫu số âm phải được chuyển thành dạng tương đương với mẫu số dương — bằng cách đổi dấu của cả tử số và mẫu số của nó.
+Phép cộng.
+Hai số hữu tỷ được cộng như sau:
+formula_13
+Nếu cả hai phân số đều ở dạng chính tắc, kết quả sẽ ở dạng chính tắc khi và chỉ khi và là các số nguyên tố cùng nhau.
+Phép trừ.
+Hai số hữu tỷ được trừ như sau:
+formula_14 tùy vào các trường hợp
+Nếu cả hai phân số đều ở dạng chính tắc, kết quả sẽ ở dạng chính tắc khi và chỉ khi và là các số nguyên tố cùng nhau.
+Phép nhân.
+Hai số hữu tỷ được nhân như sau:
+formula_15
+trong đó kết quả có thể là một phân số có thể rút gọn — ngay cả khi cả hai phân số ban đầu đều ở dạng chính tắc.
+Nghịch đảo phép cộng và phép nhân.
+Mọi số hữu tỉ có một nghịch đảo phép cộng, thường được gọi là "số đối" của nó,
+formula_16
+Nếu như ở dạng chính tắc, thì số đối của nó cũng ở dạng này.
+Một số hữu tỉ khác không có nghịch đảo phép nhân, còn gọi là "nghịch đảo" của nó,
+formula_17
+Nếu như ở dạng chính tắc, thì dạng chính tắc của nghịch đảo của nó là hoặc , phụ thuộc vào dấu của .
+Phép chia.
+Nếu , và khác không, quy tắc chia là
+formula_18
+Như vậy, chia cho tương đương với nhân với nghịch đảo của :
+formula_19
+Lũy thừa với số mũ nguyên.
+Nếu là một số nguyên không âm, thì
+formula_20
+Kết quả ở dạng chuẩn tắc nếu ở dạng chuẩn tắc. Đặc biệt,
+formula_21
+Nếu , thì
+formula_22
+Nếu như ở dạng chuẩn tắc, dạng chuẩn tắc của kết quả là nếu hoặc chẵn. Nếu không, dạng chuẩn tắc của kết quả là .
+Biểu diễn.
+Biểu diễn trong hệ thập phân và các hệ cơ số khác.
+Khi biểu diễn số hữu tỉ theo hệ ghi số cơ số 10 (dạng thập phân), số hữu tỉ có thể là số thập phân hữu hạn hoặc số thập phân vô hạn tuần hoàn và ngược lại.
+Một phân số tối giản với mẫu dương và mẫu không có ước nguyên tố nào ngoài 2 và 5 thì phân số đó viết được dưới dạng số thập phân hữu hạn
+VD: phân số formula_23 có mẫu số là formula_24 không có ước nguyên tố nào khác 5 nên có thể viết được dưới dạng số thập phân hữu hạn formula_25
+Một phân số tối giản với mẫu dương và mẫu có ít nhất 1 ước nguyên tố khác 2 và 5 thì phân số đó viết dưới dạng số thập phân vô hạn tuần hoàn
+Ví dụ 1: phân số formula_26 có mẫu số là 7 nên được viết dưới dạng số thập phân vô hạn tuần hoàn
+formula_26formula_28formula_29
+Ví dụ 2: phân số formula_30 có mẫu số là 17 nên được viết dưới dạng số thập phân vô hạn tuần hoànformula_30formula_32formula_33
+Dãy các chữ số lặp lại trong biểu diễn thập phân của các số thập phân vô hạn tuần hoàn được gọi là chu kỳ, và số các chữ số trong chu kỳ này có thể chứng minh được rằng không vượt quá |b|.
+Một cách tổng quát, trong một hệ cơ số bất kỳ, các chữ số sau dấu phẩy của số hữu tỉ là hữu hạn hoặc vô hạn tuần hoàn.
+Biểu diễn bằng liên phân số.
+Một liên phân số hữu hạn là một biểu thức chẳng hạn như
+formula_34
+trong đó là các số nguyên. Mọi số hữu tỉ có thể được biểu diễn dưới dạng một liên phân số hữu hạn, mà hệ số có thể được xác định bằng cách áp dụng thuật toán Euclide cho .
+Xây dựng tập các số hữu tỉ từ tập số nguyên.
+Trong toán học hiện đại, người ta xây dựng tập hợp các số hữu tỉ như trường các thương của formula_35.
+Xét tập tích Decaters:
+Trên đó xác định một quan hệ tương đương:
+lớp tương đương của cặp (a, b) được ký hiệu là a/b và gọi là thương của a cho b: 
+Tập các lớp này (tập thương) được gọi là tập các số hữu tỷ và ký hiệu là formula_40.
+Trên tập formula_41 định nghĩa các phép toán: 
+Khi đó 
+nếu formula_44 và formula_45 
+Do đó các phép toán trên có thể được chuyển sang thành các phép toán trên tập các lớp tương đương nói trên, nghĩa là tập formula_48.
+Để xem formula_49 là bộ phận của formula_50 ta nhúng formula_49 vào formula_40 nhờ đơn ánh cho mỗi số nguyên "n" ứng với lớp "n"/1 trong formula_40.\
+Tính chất.
+Tập hợp Z của tất cả các số hữu tỉ, cùng với các phép toán cộng và nhân được trình bày ở trên, tạo thành một trường.
+Z không có phép tự đẳng cấu nào ngoài giá trị đơn vị.
+Với thứ tự được định nghĩa ở trên, là trường có thứ tự không có trường con nào khác ngoài chính nó, và là trường có thứ tự nhỏ nhất, theo nghĩa là mọi trường có thứ tự đều chứa một trường con duy nhất đẳng cấu với Z.
+Z là trường phân số của tập hợp các số nguyên . Tính đóng đại số của , tức là trường của các nghiệm của các đa thức hữu tỷ, là trường của các số đại số.
+Tập hợp tất cả các số hữu tỉ có thể đếm được (xem hình vẽ), trong khi tập hợp tất cả các số thực (cũng như tập hợp các số vô tỉ) là không đếm được. Có thể đếm được, tập hợp các số hữu tỉ là tập hợp rỗng, tức là hầu hết tất cả các số thực đều vô tỉ, theo nghĩa của độ đo Lebesgue.
+Số hữu tỷ là một tập hợp có trật tự trù mật: giữa hai số hữu tỷ bất kỳ, có một số hữu tỷ khác, và do đó, có vô số số hữu tỷ khác giữa chúng. Ví dụ, đối với hai phân số bất kỳ thỏa mãn
+formula_11
+(với formula_55 đều dương), ta có
+formula_56
+Bất kỳ tập hợp có thứ tự hoàn toàn nào có thể đếm được, trù mật (theo nghĩa trên) và không có phần tử nhỏ nhất hoặc lớn nhất nào là đẳng cấu thứ tự với tập hợp các số hữu tỉ.
+Với số thực và tính chất pô.
+Số hữu tỉ là một tập con trù mật của các số thực: mọi số thực đều có các số hữu tỉ gần nó một cách tùy ý. Một tính chất liên quan là số hữu tỉ là số duy nhất có mở rộng hữu hạn dưới dạng liên phân số thông thường.
+Theo thứ tự của chúng, các số hữu tỷ có một cấu trúc liên kết trật tự. Các số hữu tỉ, như một không gian con của các số thực, cũng có một cấu trúc liên kết không gian con. Các số hữu tỉ tạo thành một không gian số liệu bằng cách sử dụng metric chênh lệch tuyệt đối , và điều này tạo ra một cấu trúc liên kết thứ ba trên . Tất cả ba cấu trúc liên kết trùng hợp và biến các hợp lý thành một trường tôpô. Các số hữu tỉ là một ví dụ quan trọng của một không gian không phải là nhỏ gọn cục bộ. Các hợp lý được đặc trưng về mặt cấu trúc liên kết là không gian có thể đếm được duy nhất mà không có điểm cô lập. Không gian này cũng hoàn toàn bị ngắt kết nối. Các số hữu tỉ không tạo thành một không gian số liệu hoàn chỉnh  ; các số thực là sự hoàn thành của theo metric bên trên.
+Số -adic.
+Ngoài metric giá trị tuyệt đối được đề cập ở trên, có những số liệu khác biến thành một trường tô pô liên kết:
+Cho là một số nguyên tố và với mọi số nguyên khác không , cho , trong đó là lũy thừa cao nhất của chia hết .
+Ngoài ra ta đặt . Đối với bất kỳ số hữu tỉ , ta đặt .
+Khi đó xác định một metric trên 
+Không gian metric không hoàn chỉnh và phần hoàn thành của nó là trường số -adic . Định lý Ostrowski phát biểu rằng bất kỳ giá trị tuyệt đối không tầm thường nào trên số hữu tỉ đều tương đương với giá trị tuyệt đối thực thông thường hoặc giá trị tuyệt đối -adic.
+

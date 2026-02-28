@@ -1,0 +1,12 @@
+Diterpen
+
+Diterpen là một nhóm các hợp chất hữu cơ bao gồm bốn đơn vị isopren, thường có công thức phân tử là C20H32. Chúng được sinh tổng hợp bởi thực vật, động vật và nấm thông qua con đường mevalonat, với geranylgeranyl pyrophosphat là chất trung gian. Diterpen là nền tảng của các hợp chất sinh học quan trọng như retinol, retinal và phytol. Chúng được biết đến là chất kháng khuẩn và chống viêm.
+Cấu trúc.
+Các hợp chất terpen tồn tại một số lượng lớn các cấu trúc, có thể được phân loại theo số lượng vòng trong phân tử:
+Sinh tổng hợp.
+Diterpen có nguồn gốc từ việc bổ sung một nhóm IPP vào FPP để tạo thành geranylgeranyl pyrophosphat (GGPP). Từ GGPP, sự đa dạng về cấu trúc đạt được chủ yếu nhờ hai lớp enzym; các enzym diterpen synthase và các cytochrome P450. Một số diterpen được tạo ra bởi thực vật và vi khuẩn lam. GGPP cũng là tiền chất để tổng hợp phytan nhờ hoạt động của enzym geranylgeranyl reductase. Hợp chất này được sử dụng để tổng hợp sinh học tocopherol và nhóm chức phytyl được sử dụng để hình thành chất diệp lục a, coenzyme Q10, plastoquinone và phytomenadione.
+Diterpenoid.
+Diterpen là các hydrocarbon và do đó không chứa các nguyên tố nào khác ngoài hydro và carbon. Thay vào đó, các cấu trúc chức năng được gọi là diterpenoid, mặc dù trong các tài liệu khoa học, hai thuật ngữ này thường được sử dụng thay thế cho nhau. Mặc dù có rất nhiều cấu trúc terpen tồn tại, nhưng rất ít cấu trúc trong số chúng có ý nghĩa về mặt sinh học, ngược lại, diterpenoid có dược tính phong phú và bao gồm các hợp chất quan trọng như retinol và phytol.
+Taxan.
+Taxan là lớp diterpenoid với phần trung tâm là taxadien. Chúng được tạo ra bởi các loài thực vật thuộc chi Taxus (thủy tùng) và được sử dụng rộng rãi như sử dụng trong hóa trị liệu.
+

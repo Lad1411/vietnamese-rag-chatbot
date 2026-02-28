@@ -1,0 +1,70 @@
+Callback
+
+Trong lập trình máy tính, callback là một đoạn code chạy được (thường là một hàm A) được sử dụng như tham số truyền vào của hàm B nào đó. Hàm A được gọi ngay lập tức hoặc trễ một chút sau khi hàm B được gọi. Các ngôn ngữ lập trình khác nhau hỗ trợ callback theo các cách khác nhau, thường được triển khai dưới dạng chương trình con, hàm nặc danh, chuỗi lệnh hoặc con trỏ hàm.
+Thiết kế.
+Có hai loại callback: đồng bộ (blocking callback) và không đồng bộ (asynchronous callback). Trong khi callback đồng bộ được gọi trước khi hàm trả về (trong ví dụ ngôn ngữ lập trình C bên dưới, hàm callback đồng bộ ở đây là hàm main), callback không đồng bộ có thể được gọi sau khi hàm trả về. Callback không đồng bộ thường được dùng trong các thao tác vào / ra hoặc trong việc xử lý sự kiện (event), và được gọi bằng lệnh ngắt hoặc từ các tiểu trình (thread). Callback đồng bộ thường không được sử dụng cho việc đồng bộ dữ liệu giữ liệu giữa các thread.
+Callback được dùng nhiều trong các chương trình có sử dụng giao diện cửa sổ. Trong trường hợp này, chương trình X cung cấp (1 tham chiếu tới) hàm callback Y của nó cho hệ điều hành và để cho hệ điều hành gọi hàm Y này, từ đó  chương trình X có thể bắt và xử lý sự kiện click chuột hoặc ấn phím….(do hệ điều hành tạo ra)  bằng hàm Y. Vấn đề được quan tâm ở đây là quyền hạn thực hiện và tính bảo mật. Vì hàm Y của chương trình X được gọi bởi hệ điều hành, Y không nên có cùng quyền hạn với các hàm khác của hệ thống.
+Cài đặt.
+Cách tạo và gọi callback rất khác nhau giữa các ngôn ngữ lập trình:
+Ví dụ sử dụng.
+Javascript.
+function myFunction() {
+ document.getElementById("demo").innerHTML = "Hello World";
+document.getElementById("myBtn").addEventListener("click", myFunction);
+// Hệ điều hành sẽ gọi hàm callback “myFunction” khi sự kiện click chuột trên element có ID là “myBtn” xảy ra
+C/C++.
+Ví dụ 3:.
+void PrintTwoNumbers(int (*numberSource)(void)) {
+ printf("%d and %d\n", numberSource(), numberSource());
+/* Hàm callback */
+int overNineThousand(void) {
+ return (rand() % 1000) + 9001;
+/* Hàm callback. */
+int meaningOfLife(void) {
+ return 42;
+int main(void) {
+ PrintTwoNumbers(&amp;rand);
+// Kết quả có thể là “125185 and 8914334”.
+// Hàm rand() được dùng làm tham số, điều này tương đương với
+// “printf("%d and %d\n", rand(), rand());” trong hàm PrintTwoNumbers
+ PrintTwoNumbers(&amp;overNineThousand);
+// Kết quả có thể là “9084 and 9441”.
+// Hàm overNineThousand được dùng làm tham số, điều này tương đương với
+// “printf("%d and %d\n", overNineThousand (), overNineThousand ());” trong hàm PrintTwoNumbers
+ PrintTwoNumbers(&amp;meaningOfLife);
+// Kết quả là “42 and 42”.
+// Hàm meaningOfLife được dùng làm tham số, điều này tương đương với
+// “printf("%d and %d\n", meaningOfLife (), meaningOfLife ());” trong hàm PrintTwoNumbers
+ return 0;
+Ví dụ 4:.
+ * This is a simple C program to demonstrate the usage of callbacks
+ * The callback function is in the same file as the calling code.
+ * The callback function can later be put into external library like
+ * e.g. a shared object to increase flexibility.
+ */
+typedef struct _MyMsg {
+ int appId;
+ char msgbody[32];
+} MyMsg;
+void myfunc(MyMsg *msg)
+ if (strlen(msg-&gt;msgbody) &gt; 0)
+ printf("App Id = %d \nMsg = %s \n",msg-&gt;appId, msg-&gt;msgbody);
+ else
+ printf("App Id = %d \nMsg = No Msg\n",msg-&gt;appId);
+ * Prototype declaration
+void (*callback)(MyMsg *);
+int main(void)
+ MyMsg msg1;
+ msg1.appId = 100;
+ strcpy(msg1.msgbody, "This is a test\n");
+ /*
+ * Assign the address of the function "myfunc" to the function
+ * pointer "callback" (may be also written as "callback = &amp;myfunc;")
+ callback = myfunc;
+ * Call the function (may be also written as "(*callback)(&amp;msg1);")
+ callback(&amp;msg1);
+ return 0;
+/* Output is: 
+App Id = 100
+Msg = This is a test
+

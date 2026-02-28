@@ -1,0 +1,41 @@
+Hệ số sử dụng đất
+
+Hệ số sử dụng đất (HSSDĐ) Hệ số sử dụng đất là tỷ lệ giữa tổng diện tích sàn xây dựng (Tổng diện tích sàn của công trình không bao gồm diện tích sàn của tầng hầm và mái) trên tổng diện tích lô đất.
+Như là một công thức HSSDĐ = (Tổng sàn xây dựng) / (diện tích lô đất)
+Thuật ngữ.
+HSDĐ được gọi với các tên gọi khác nhau ở nhiều quốc gia, ví dụ như floor space ratio (FSR), floor space index (FSI), site ratio or plot ratio. Tất cả đều được hiểu cùng khái niệm và công thức tính toán với hệ số sử dụng đất (FAR).
+Sự khác biệt giữa FAR và FSI là đơn vị kết quả. Trong khi FAR sử dụng đơn vị là 1.5 lần thì FSI sử dụng đơn vị là 150%. Việt Nam sử dụng đơn vị tương tự của FAR là lần, tuy vậy Nhật Bản vẫn sử dụng đơn vị của FAR nhưng đơn vị sử dụng vẫn là %.  
+Regional variation.
+The terms most commonly used for this measurement vary from one country or region to the next.
+Ở Úc, "Tỷ lệ không gian sàn "(FSR) được sử dụng ở New South Wales và tỷ lệ lô đất" (Plot ratio)" ở Tây Úc.
+Ở Ấn Độ "chỉ số sàn" (thư viện quốc) và Hệ số sử dụng đất (FAR) đều được sử dụng.
+Trong Vương quốc Anh và Hồng Kông cả "Tỷ lệ lô đất (Plot ratio)" và "Tỷ lệ địa điểm (Site ratio)" được sử dụng.
+Ở Singapore các điều khoản "Tỷ lệ lô đất" (Ở Việt Nam có thể hiểu là Hệ số sử dụng đất thuần) thêm "Tỷ lệ tổng lô đất" (GPR - Việt Nam có thể được hiểu là Hệ số sử dụng đất gộp) được sử dụng nhiều hơn. Ở Việt Nam hiện chưa có khái niệm này, tuy nhiên các khái niệm trước đây về tầng cao trung bình, mật độ xây dựng gộp là những khái niệm có thể dẫn dắt để hiểu được khái niệm và sự khác biệt về Hệ số sử dụng đất gộp và hệ số sử dụng đất thuần. Sự khác biệt chủ yếu do diện tích lô đất được hiểu là diện tích thuần hay gộp.
+Ở Nhật Bản tồn tại song song cả hai khái niệm về hệ số sử dụng đất thuần và trung bình (gộp)
+Ở Hoa Kỳ và Canada, "tỉ lệ sàn" (FSR) và "tỷ lệ diện tích sàn" (FAR) đều được sử dụng.
+Sử dụng tỷ lệ được dùng như một biện pháp của mật độ của địa điểm được xây dựng, phát triển. Tỉ lệ được tạo ra bởi chia tổng diện tích sàn xây dựng trên diện tích lô đất, có sử dụng cùng một đơn vị. 
+Đơn vị là % hoặc lần (Việt Nam).
+Lịch sử.
+Một trong các mục đích của năm 1916 pháp lệnh quy hoạch của thành phố New York để ngăn chặn các tòa nhà cao tầng từ cản trở quá nhiều ánh sáng, và không khí. Pháp lệnh quy hoạch 1916 tìm cách kiểm soát tòa nhà kích thước bằng cách điều chỉnh chiều cao và yêu cầu khoảng lùi cho tòa tháp. Vào năm 1961, quy hoạch phân vùng đã giới thiệu các khái niệm mới về Hệ số sử dụng đất (FAR). Các tòa nhà đã được xây dựng trước năm 1961 thường có hệ số sử dụng đất sẽ không thể thực hiện được ngày nay, chẳng hạn như là Tòa nhà Empire State, có hệ số sử dụng đất rất cao FAR = 25 lần - có nghĩa là nó có được tổng diện tích sàn lớn hơn việc xây dựng mới tòa nhà trên cùng một lô đất hiện nay.
+Ở Việt Nam, hệ số sử dụng đất là một trong ba chỉ tiêu quan trọng gồm Hệ số sử dụng đất, Mật độ xây dựng và Tầng cao. 
+Năm 1997, trong Quy chuẩn xây dựng Việt Nam năm 1997 tập 1 về Quy hoạch xây dựng đã có khái niệm và quy định về hệ số sử dụng đất (không rõ thuần hay gộp) là 5 lần.
+Năm 2008, Quy chuẩn quy hoạch xây dựng Việt Nam được ban hành và thực hiện đến nay (2018) đã loại bỏ khái niệm và quản lý chỉ tiêu hệ số sử dụng đất. Chỉ tiêu sử dụng đất được "ngầm hiểu" bằng mật độ xây dựng nhân với tầng cao (chỉ tính từ mặt đất). Do vậy đối với các công trình cao tầng &gt;15 tầng, thiếu kiểm soát hệ số sử dụng đất tối đa sẽ cho phép các công trình cao tầng có hệ số sử dụng đất lớn, tạo nên các điểm nóng quá tải về hạ tầng đô thị. (TS. Nguyễn Hoàng Minh - Đại học Kiến trúc Hà Nội (2015)
+Mục đích và sử dụng.
+Sàn nhà tỷ lệ khu vực (ĐẾN) có thể được sử dụng trong quy hoạch để giới hạn đô thị mật độ. Trong khi nó trực tiếp giới hạn mật độ xây dựng, gián tiếp, nó cũng có giới hạn số lượng người là một tòa nhà có thể giữ mà không có kiểm soát của một tòa nhà bên ngoài hình dạng.
+Ví dụ, nếu rất nhiều phải tuân theo một hệ số sử dụng đất =0.1, sau đó tổng khu vực của tất cả các tầng trong tất cả các tòa nhà trên rất nhiều phải không quá một phần mười khu vực của lô đất. Nói cách khác, nếu lô đất là 10,000 mét vuông, thì tổng diện tích sàn được phép xây dựng trên tất cả các tầng trong các tòa nhà không được vượt quá 1.000 mét vuông.
+Một kiến trúc sư có thể lập kế hoạch cho công trình duy nhất với một tầng sử dụng toàn bộ diện tích xây dựng được cho phép, hoặc xây dựng nhiều tầng hơn trên một lô đất, nhưng sẽ có mật độ xây dựng nhỏ hơn so với xây dựng duy nhất một tầng với cùng một tổng sàn xây dựng như nhau.
+Bằng cách kết hợp chiều không gian theo chiều ngang và dọc được quy ước thành một chỉ số duy nhất, đã cho phép một số sự linh hoạt trong thiết kế tòa nhà, với một giới hạn về khối tích tổng thể.
+Một lợi thế để sửa chữa thông số này là trái ngược với những yếu tố khác như chiều cao hay chiều dài rằng tổng diện tích sàn xây dựng có các tương quan tốt với các yếu tố cân nhắc khác có liên quan đến quy hoạch định như tổng số chỗ đậu cần thiết cho một tòa nhà văn phòng hay tổng số của căn hộ mà có thể sẵn sàng cho dân cư sử dụng, hay tổng áp tải hạ tầng trên dịch vụ của thành phố.
+Số liệu này có xu hướng liên tục cho một tổng diện tích sàn, mà không phụ thuộc việc làm thế nào khu vực đô thị hoặc khu đất đó được phân phối theo chiều ngang hay chiều đứng. Do đó, nhiều nước đã thấy ích lợi của hệ số sử dụng đất nên không cần thiết việc giới hạn chiều cao khi sử dụng hệ số sử dụng đất để tính toán. 
+Ở Việt Nam việc lập quy hoạch hiện nay thiếu sự kiểm soát về hệ số sử dụng đất, do vậy các giới hạn về chiều cao phụ thuộc khá nhiều vào ý tưởng quy hoạch hoặc các quy định khác như khoảng tĩnh không, an ninh quốc phòng mà lại không chú ý đến việc tạo nên các khu vực có hệ số sử dụng đất lớn sẽ cần có các hệ thống hạ tầng kỹ thuật, hạ tầng xã hội, dịch vụ đô thị đi kèm. Điều này dẫn đến nhiều vấn đề lớn trong việc kiểm soát sự phát triển đô thị theo quy hoạch hay vai trò quản lý xây dựng theo quy hoạch bị giảm sút mà phụ thuộc quá nhiều vào sự tác động của việc phát triển của các dự án độc lập với công cụ điều chỉnh quy hoạch chi tiết. (TS. Nguyễn Hoàng Minh - Đại học Kiến trúc Hà Nội (2015)
+Những diện tích chung được ngoại trừ trong tính toán tổng diện tích sàn xây dựng để tính hệ số sử dụng đất (FAR) bao gồm: khu vực trống, như cơ khí thiết bị ở tầng hầm, cầu thang máy, trục thang máy và bãi đậu xe.
+Ở Việt Nam, do chưa có quan điểm về quản lý hệ số sử dụng đất thống nhất nên các quy định về chi tiết về tính toán tổng diện tích sàn xây dựng cũng chưa có quy định nào. Đây là một vấn đề cần có nghiên cứu khắc phục sớm và gắn với các mục tiêu phát triển đô thị để tạo nên các chức năng sàn xây dựng được ưu đãi như sàn xây dựng cho các không gian mở, cây xanh, bể bơi... (TS. Nguyễn Hoàng Minh - Đại học Kiến trúc Hà Nội (2015)
+Nhật Bản.
+Nhật Bản đã được thông qua rộng rãi về hệ số sử dụng đất trong quy hoạch hệ thống kể từ năm 1970 (trong những ảnh hưởng của quy hoạch Hoa Kỳ). Các giá trị của sự thích nghi, tuy nhiên, gây tranh cãi: một số người nói rằng nó có làm xấu đi đường chân trời và xây dựng đường trong thành phố của Nhật Bản; những người khác tuyên bố rằng nó đã được bảo vệ các khu dân cư môi trường.
+Ấn Độ.
+Ở Ấn Độ FAR và FSI đều được sử dụng. FAR quy định thay đổi từ thành phố này tới thành phố, và nói chung là từ 1,3-3.25 (Hệ số sử dụng đất trung bình?). Trong khi ở Mumbai là 1.33, nhưng Hệ số sử dụng đất cao hơn được sử dụng dọc theo đường tàu điện Ngầm và khu ổ chuột như Dharavi. Ở ấn độ, đường rộng 40 feet (khoảng 12m) cho phép FAR là 1,75 nhưng đường rộng 100 feet (khoảng 30m) cho phép FAR là 3.25.
+Tác động vào giá trị đất.
+Hệ số sử dụng đất đã có một ảnh hưởng lớn đến trị của đất. Nếu chỉ số này cao hơn (theo quy hoạch hoặc quy định cho chức năng đất) sẽ cho phép được xây dựng tổng diện tích sàn cao hơn làm tăng giá trị đất (đặc biệt là đất đai trong đô thị).
+Những lời chỉ trích.
+Andrés Duany (2000) ghi chú:
+

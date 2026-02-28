@@ -1,0 +1,12 @@
+Just-in-time
+
+Just-in-time (JIT) là một khái niệm trong sản xuất hiện đại.
+Tóm lược ngắn gọn nhất là: "Đúng sản phẩm - với đúng số lượng - tại đúng nơi - vào đúng thời điểm cần thiết".
+Trong quá trình sản xuất hay cung ứng dịch vụ, mỗi công đoạn của quy trình sản xuất sẽ được hoạch định để làm ra một số lượng bán thành phẩm, thành phẩm đúng bằng số lượng mà công đoạn sản xuất tiếp theo sẽ cần tới.
+Trong JIT, các quy trình không tạo ra giá trị gia tăng phải bị bãi bỏ. Và như vậy, hệ thống chỉ sản xuất ra những cái mà khách hàng muốn.
+Nói cách khác, JIT là hệ thống điều hành sản xuất trong đó các luồng nguyên nhiên vật liệu, hàng hóa và sản phẩm lưu hành trong quá trình sản xuất và phân phối được lập kế hoạch chi tiết nhất trong từng bước, sao cho quy trình tiếp theo có thể thực hiện ngay khi quy trình hiện thời chấm dứt. Qua đó, không có hạng mục nào trong quá trình sản xuất rơi vào tình trạng để không, chờ xử lý, không có nhân công hay thiết bị nào phải đợi để có đầu vào vận hành.
+JIT còn được áp dụng trong cả suốt quy trình cho đến bán hàng. Số lượng hàng bán và luồng hàng điều động sẽ gần khớp với số lượng hàng sản xuất ra, tránh tồn đọng vốn và tồn kho hàng không cần thiết. Có những công ty đã có lượng hàng tồn gần như bằng không.
+Hệ thống JIT cho phép hệ thống vận hành hiệu quả nhất, tránh lãng phí không cần thiết.
+Hãng Ford đã áp dụng các dây chuyền lắp ráp theo phương châm JIT từ những năm 1930 của thế kỷ 20. Henry Ford là người đã phát minh và áp dựng phổ biến các dây chuyền sản xuất trong hệ thống nhà máy của mình. Tuy nhiên, đó mới chỉ là sơ khai của JIT.
+Đến những năm 1970, quy trình sản xuất theo mô hình JIT này mới được hoàn thiện và tổng kết thành lý thuyết. Hệ thống này cũng được Toyota Motors áp dụng trong sản xuất.
+

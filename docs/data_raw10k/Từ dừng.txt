@@ -1,0 +1,5 @@
+Từ dừng
+
+Trong điện toán và xử lý ngôn ngữ tự nhiên, từ dừng (tiếng Anh: "stopword") là các từ được lọc ra trước hoặc sau quá trình xử lý dữ liệu văn bản. Mặc dù từ dừng thường coi là các từ phổ biến trong một ngôn ngữ, tuy nhiên vẫn chưa các một danh sách chung (toàn cục) các từ dừng được dùng trong tất cả công cụ xử lý ngôn ngữ tự nhiên, và thực vậy không phải tất cả công cụ đều có danh sách này. Một số công cụ tránh xóa từ dùng để hỗ trợ việc tìm kiếm cụm từ.
+Bất cứ nhóm từ nào cũng có thể được chọn làm các từ dừng với mục đích cho trước. Đối với một số máy truy tìm dữ liệu, những từ này là những từ phổ biến nhất, chẳng hạn như trong tiếng Anh là "the", "is", "at", "which", và "on". Một số từ dừng trong tiếng Việt là "bị', "bởi", "cả", "các", và "cái".
+

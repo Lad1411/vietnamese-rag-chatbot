@@ -1,0 +1,28 @@
+Kích hoạt neutron
+
+Kích hoạt neutron là quá trình dùng bức xạ neutron để gây ra phóng xạ cảm ứng trong vật liệu. Trong quá trình này các neutron tự do đã đi vào vùng hạt nhân nguyên tử và bị bắt giữ.
+Có sự phân biệt giữa "bắt giữ neutron nhiệt" và kích hoạt bởi "neutron nhanh". Hạt nhân trở nên nặng hơn và chuyển sang trạng thái kích thích. Sau đó hạt nhân bị kích thích phân rã ngay lập tức bằng cách phát ra tia gamma, hoặc các hạt như hạt beta, hạt alpha, sản phẩm phân hạch và neutron (trong phân hạch hạt nhân). Do đó, quá trình bắt giữ neutron, ngay cả sau bất kỳ sự phân rã trung gian nào, thường dẫn đến việc hình thành sản phẩm hoạt hóa không ổn định. Những hạt nhân phóng xạ như vậy có thể có thời gian bán rã từ những phần nhỏ của giây đến nhiều năm.
+Kích hoạt neutron là cách phổ biến duy nhất để chuyển đổi một vật liệu ổn định trở thành chất phóng xạ đích thực. Nó tạo ra các đồng vị phóng xạ giàu neutron và phần lớn sản phẩm này là đồng vị phóng xạ. Do thời gian bán rã ngắn và bức xạ gamma của chúng có phổ năng lượng đặc trưng, nên đo các bức xạ này có thể được xác định một cách định lượng hoặc định tính hàm lượng các đồng vị có trong khối vật liệu chiếu xạ.
+Bức xạ duy trì sau một vụ nổ bom nguyên tử chủ yếu là do tác động kích hoạt neutron của vật liệu trong vùng nổ.
+Ứng dụng thực tế.
+Chế tạo nguồn phóng xạ.
+Trong lò phản ứng chiếu xạ neutron chuyển đổi một số đồng vị trở thành đồng vị phóng xạ. Những đồng vị có thời gian bán rã từ vài năm đến vài chục năm được chiết tách và đóng gói dạng "capsule" thành nguồn phóng xạ phục vụ các nhu cầu chiếu xạ trong nghiên cứu, trị liệu trong y học, xử lý nông sản...
+Các nguồn cobalt 60 được tạo từ chiếu xạ:
+60Co phân rã phát ra tia γ 1,25 MeV với thời gian bán rã 5,27 năm:
+An toàn bức xạ.
+Trong an toàn bức xạ tại các cơ sở nghiên cứu hạt nhân hoặc lò phản ứng, chiếu xạ neutron diễn ra thường xuyên với thông lượng neutron cao, gây ra hư hỏng vật liệu. Điều này dẫn đến yêu cầu phải giám sát chặt chẽ và thay thế vật liệu kịp thời.
+Tác động kích hoạt neutron gây ra cho một lá nhôm có thể được sử dụng để phát hiện neutron tự do.
+Kiểm tra không phá hủy.
+Kích hoạt neutron được sử dụng trong kỹ thuật Kiểm tra không phá hủy. Để đảm bảo an toàn bức xạ những phép đo thực hiện trong phòng thí nghiệm phóng xạ riêng, hoặc các phép đo trong lòng đất.
+Trong phòng thí nghiệm phóng xạ, kích hoạt neutron được sử dụng để phát hiện các nguyên tố vết mà không cần phải lấy hoặc hòa tan mẫu. Quy trình này được sử dụng cho các đối tượng không được phép hư hỏng, ví dụ các tác phẩm nghệ thuật có giá trị. Sau chiếu xạ neutron vật thể trở nên phóng xạ, nhưng hoạt độ này thường có thể được giữ ở mức rất thấp trong thời gian ngắn. Các phân tích phổ năng lượng gamma thứ cấp cho phép phát hiện các chất với ngưỡng thấp, ví dụ sắt là 10−7 g, vàng là 10−13 g.
+Tại Việt Nam phương pháp kích hoạt neutron đang được sử dụng để nghiên cứu thành phần hóa học các di vật đá thời tiền sử như ở Tây Nguyên, Quảng Nam.
+Xác định niên đại mẫu vật.
+Phương pháp xác định niên đại bằng kali-argon thực hiện cho mẫu vật có chứa kali trong địa chất hoặc khảo cổ học. Phương pháp đo dựa trên hiện tượng kali tự nhiên có đồng vị phóng xạ 40K với tỷ lệ 0,0117%, phân rã beta thành 40Ar với thời gian bán rã t½ = 1,248 tỷ năm. Argon là khí trơ, sẽ bị giữ lại trong khối mẫu vật từ khi "quá trình tạo đá" bắt đầu, ứng với thời điểm khối magma nóng chảy nguội đi và kết tinh, hoặc lớp trầm tích dạng sét lắng đọng. Theo thời gian trôi formula_1 lượng 40K giảm, còn lượng 40Ar tăng.
+Trong dạng đo tỷ số 39Ar-40Ar, mẫu cần đo được chiếu xạ neutron nhanh, dẫn đến một phần 39K chuyển đổi thành 39Ar. Phép đo này cần đến mẫu hiệu chuẩn (phân cỡ, "calibration") là một chất khoáng chuẩn, ví dụ Hornblend, có tuổi đã biết trước, được chiếu xạ và đo cùng.
+Sau chiếu xạ, các mẫu được nung nóng dần dần ở các mức nhiệt độ nhất định. Tại mỗi mức nhiệt độ đo tỷ lệ 39Ar với 40Ar theo phép đo khối phổ khí trơ. Kết quả biểu diễn lên đồ thị theo nhiệt độ.
+Nếu biểu đồ của mẫu cho thấy mức ổn định trong dải nhiệt độ cao, tức là dải nhiệt độ mở rộng trong đó tỷ lệ 39Ar với 40Ar thực tế không đổi (đồ thị nằm ngang), thì argon đã thoát hết khỏi mẫu. Kết quả hàm lượng dùng được cho tính tuổi. Nếu đồ thị không phẳng thì mẫu có nguồn gốc bị xáo trộn, không dùng cho tính tuổi được.
+Phép đo này cho phép xác định tuổi các sự kiện trẻ, như năm 1997 đã xác định tuổi của đá bọt trong vụ phun trào Núi Vesuvius chôn vùi thành Pompeii, là 1925 ± 94 năm trước, phù hợp với ghi chép là năm 72 SCN theo Lịch Gregory.
+Phép đo cũng đã ứng dụng định tuổi cho hóa thạch vượn dạng người "Ardipithecus ramidus" ở Ethiopia có tuổi 4,4 triệu năm, là mức mà phép Định tuổi bằng cacbon-14 không với tới được.
+Vật lý địa chất.
+Trong thăm dò địa chất kích hoạt neutron thực hiện trong hố khoan. Nguồn neutron và đầu dò được thả đến độ sâu cần đo, tương ứng với loại đất đá cần khảo sát. Có hai phương pháp đo chính, là:
+

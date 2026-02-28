@@ -1,0 +1,29 @@
+Giao diện nhân Linux
+
+Nhân Linux cung cấp một số giao diện cho các ứng dụng ở không gian người dùng sử dụng cho các mục đích khác nhau và có các thuộc tính khác nhau tùy theo thiết kế. Có hai loại giao diện lập trình ứng dụng (API) trong nhân Linux, không nên nhầm lẫn giữa: API "hạt nhân – không gian người dùng" và API "nội bộ hạt nhân".
+API Linux.
+API Linux là API hạt nhân – người sử dụng không gian, cho phép các chương trình trong không gian người dùng có thể truy cập hệ thống tài nguyên và các dịch vụ của hạt nhân Linux. Nó được cấu thành từ Giao diện cuộc gọi hệ thống của nhân Linux và các chương trình con trong Thư viện GNU C (glibc). Trọng tâm của sự phát triển API Linux là cung cấp các "tính năng có thể sử dụng" của các thông số kỹ thuật được xác định trong POSIX theo cách tương thích hợp lý, mạnh mẽ và hiệu quả và cung cấp các tính năng hữu ích bổ sung không có trong POSIX, giống như các API hạt nhân– không gian người dùng của các hệ thống khác đang triển khai trên API POSIX cũng cung cấp các tính năng bổ sung không có trong POSIX.
+API Linux, theo lựa chọn, đã được giữ ổn định trong nhiều thập kỷ và không bao giờ bị phá vỡ;   sự ổn định này đảm bảo tính di động của mã nguồn. Đồng thời, các nhà phát triển nhân Linux trong lịch sử đã bảo thủ và tỉ mỉ trong việc giới thiệu các cuộc gọi hệ thống mới.   
+Nhiều phần mềm nguồn mở và miễn phí có sẵn được viết cho API POSIX. Do có quá nhiều dòng phát triển vào nhân Linux so với các nhân tương thích với POSIX khác và thư viện chuẩn của C,nhân Linux và API của nó đã được tăng cường với các tính năng bổ sung. Theo như các tính năng bổ sung này cung cấp lợi thế kỹ thuật, lập trình cho API Linux được ưu tiên hơn API-POSIX. Các ví dụ nổi tiếng hiện nay là udev, systemd và Weston. Những người như Lennart Poettering công khai ủng hộ API Linux hơn API POSIX, nơi điều này mang lại lợi thế.
+Tại FOSDEM 2016, Michael Kerrisk đã giải thích một số vấn đề được nhận thấy với API không gian người dùng của hạt nhân Linux, mô tả rằng nó chứa nhiều lỗi thiết kế do không thể mở rộng, không thể hiểu được, quá phức tạp, vi phạm các tiêu chuẩn và không nhất quán. Hầu hết các lỗi đó không thể sửa được vì làm như vậy sẽ phá vỡ ABI mà kernel thể hiện cho không gian người dùng.
+Giao diện cuộc gọi hệ thống của nhân Linux.
+"Giao diện cuộc gọi hệ thống" là toàn bộ tất cả các cuộc gọi hệ thống được triển khai và có sẵn trong một hạt nhân. Các hệ thống con khác nhau, chẳng hạn như DRM xác định các cuộc gọi hệ thống của riêng chúng và toàn bộ được gọi là Giao diện cuộc gọi hệ thống.
+Nhiều vấn đề khác nhau với việc tổ chức các cuộc gọi hệ thống nhân Linux đang được thảo luận công khai. Nhiều vấn đề đã được chỉ ra bởi Andy Lutomirski, Michael Kerrisk và những người khác.
+Thư viện chuẩn C.
+Thư viện GNU C là một trình bao bọc xung quanh các lệnh gọi hệ thống của nhân Linux; sự kết hợp giữa Giao diện cuộc gọi hệ thống nhân Linux và glibc là thứ xây dựng lên API Linux.
+Bổ sung vào POSIX.
+Giống như trong các hệ thống tương tự Unix khác, các API bổ sung của nhân Linux không phải là một phần của POSIX:
+DRM là tối quan trọng cho việc phát triển và triển khai các trình điều khiển thiết bị đồ họa nguồn mở và miễn phí được xác định rõ ràng và hiệu năng mà không có khả năng tăng tốc kết xuất nào khả dụng, hoặc thậm chí tệ hơn, chỉ có các trình điều khiển 2D mới có sẵn trong X.Org Máy chủ. DRM được phát triển cho Linux và từ đó cũng đã được chuyển sang các hệ điều hành khác.
+Linux ABI.
+Thuật ngữ Linux ABI dùng để chỉ một ABI không gian người dùng của kernel. Giao diện nhị phân ứng dụng đề cập đến các thư viện được biên dịch, trong mã máy. Bất kỳ ABI như vậy do đó bị ràng buộc với tập lệnh. Xác định ABI hữu ích và giữ ổn định là trách nhiệm của các nhà phát triển nhân Linux hoặc của các nhà phát triển Thư viện GNU C và nhiệm vụ cho các nhà phân phối Linux và nhà cung cấp phần mềm độc lập (ISV) muốn bán và cung cấp hỗ trợ cho họ phần mềm độc quyền dưới dạng nhị phân chỉ dành cho một ABI Linux duy nhất, trái ngược với việc hỗ trợ nhiều ABI Linux.
+Một ABI phải được xác định cho mỗi tập lệnh, chẳng hạn như x86, x86-64, MIPS, ARMv7-A (32-Bit), ARMv8-A (64-Bit), vv với endianness, nếu cả hai được hỗ trợ.
+Nó có thể biên dịch phần mềm với các trình biên dịch khác nhau theo các định nghĩa được chỉ định trong ABI và đạt được khả năng tương thích nhị phân đầy đủ. Trình biên dịch là phần mềm miễn phí và nguồn mở, vd Bộ sưu tập trình biên dịch GNU, LLVM / Clang.
+Trên thực tế, người dùng cuối không phải tất cả đều quan tâm đến API Linux (hoặc API Windows), mà là ABI.
+API nội bộ hạt nhân.
+Có rất nhiều API bên trong nhân cho tất cả các hệ thống con để có thể giao tiếp với nhau. Chúng đang được giữ khá ổn định, nhưng không có gì đảm bảo cho sự ổn định. Trong trường hợp nghiên cứu mới hoặc thông tin chi tiết làm cho thay đổi có vẻ thuận lợi, API sẽ được thay đổi, tất cả việc viết lại và kiểm tra cần thiết phải được thực hiện bởi tác giả.
+Nhân Linux là một hạt nhân nguyên khối, do đó trình điều khiển thiết bị là các thành phần hạt nhân. Để giảm bớt gánh nặng của các công ty duy trì các trình điều khiển thiết bị (độc quyền) ngoài luồng, các API ổn định cho trình điều khiển thiết bị đã được yêu cầu nhiều lần. Các nhà phát triển nhân Linux đã liên tục phủ nhận việc đảm bảo các API trong kernel ổn định cho trình điều khiển thiết bị. Việc đảm bảo như vậy sẽ cản trở sự phát triển của nhân Linux trong quá khứ và trong tương lai và, do bản chất của phần mềm miễn phí và nguồn mở, là không cần thiết. Ergo, theo lựa chọn, hạt nhân Linux không có API nội bộ hạt nhân "ổn định".
+ABI nội bộ hạt nhân.
+Vì không có API nội bộ hạt nhân ổn định, nên không thể có ABI nội bộ hạt nhân ổn định.
+API trừu tượng.
+Đối với một số trường hợp sử dụng, API Linux được coi là API ở mức độ thấp và các API trừu tượng cao hơn được sử dụng. Tất nhiên như vậy vẫn cần phải hoạt động trên các API Linux cấp thấp. Ví dụ:
+

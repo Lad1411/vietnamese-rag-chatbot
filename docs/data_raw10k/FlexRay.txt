@@ -1,0 +1,39 @@
+FlexRay
+
+FlexRay là một giao thức truyền thông mạng nội bộ trong ô tô do FlexRay Consortium phát triển. FlexRay được thiết kế nhanh hơn và đáng tin cậy hơn CAN và TTP nhưng đắt hơn. FlexRay Consortium đã giải thể vào năm 2009, nhưng hiện nay tiêu chuẩn FlexRay đã trở thành một phần của bộ tiêu chuẩn ISO (từ ISO 17458-1 đến 17458-5).
+Các đặc tính.
+FlexRay hỗ trợ tốc độ (bitrate) lên tới 10 Mbit/s, hỗ trợ tô-pô hình sao và bus, có hai kênh độc lập nhằm bảo đảm fault-tolerance (giao tiếp có thể tiếp tục với bandwidth nhỏ lại nếu một kênh không hoạt động). Bus hoạt động dựa trên chu kì thời gian, chia thành hai phần, phần tĩnh (static segment) và phần động (dynamic segment). Phần tĩnh từ đầu được phân thành các lát nhỏ, mỗi lát dành cho một nốt tham gia giao tiếp, bảo đảm real-time mạnh hơn tiền bối của nó là CAN. Phần động hoạt động gần giống CAN, các nốt chiếm quyền kiểm soát bus nếu nó rảnh, cho phép các hành vi event-trigger.
+Consortium.
+Các thành viên cốt lõi của FlexRay Consortium gồm:
+Ngoài ra FlexRay consortium từng có các thành viên Premium Associate và Associate. Đến tháng 9 năm 2009, có 28 thành viên premium associate và hơn 60 thành viên associate. Cuối năm 2009, consortium giải thể.
+Dùng ở đâu.
+Series ô tô đầu tiên áp dụng FlexRay là BMW X5 vào cuối năm 2006, nhằm kích hoạt một hệ thống giảm xóc nhanh và mới. BMW 7 Series (F01) sử dụng FlexRay đầy đủ vào năm 2008.
+Chi tiết.
+Clock.
+Hệ thống FlexRay gồm có một bus và các processor (electronic control unit, hay ECU).
+Mỗi ECU có một clock độc lập. Clock drift phải nhỏ hơn 0.15% so với clock reference, sao cho chênh lệch giữa clock chậm nhất và clock nhanh nhất trong hệ thống không lớn hơn 0.3%.
+Điều này có nghĩa là nếu ECU-s là một sender (bên gửi) và ECU-r là một receiver (bên nhận), thì trong mỗi 300 chu kì sender sẽ có từ 299 đến 301 chu kì receiver. Các clock được tái đồng bộ đủ thường xuyên để bảo đảm không xảy ra vấn đề. Clock được gửi trong segment tĩnh.
+Bit trên bus.
+Mỗi lần chỉ có một ECU ghi lên bus. Mỗi bit gửi đi được giữ trên bus trong 8 chu kì clock lấy mẫu (sample clock).
+Receiver giữ bộ đệm lưu 5 sample cuối, và dùng phần đa số (majority) của 5 sample cuối làm tín hiệu vào (input signal).
+Các lỗi truyền chu kì đơn có thể ảnh hưởng đến kết quả gần vùng biên của các bit, nhưng sẽ không ảnh hưởng đến chu kì ở giữa vùng chu kì 8.
+Các bit sample.
+Giá trị của bit được sample ở chính giữa vùng 8-bit.
+Các lỗi được dịch về các chu kì tận cùng và clock thì được đồng bộ hóa đủ thường xuyên để drift đủ nhỏ. (Drift nhỏ hơn 1 chu kì trên 300 chu kì, và suốt quá trình truyền clock được đồng bộ hóa hơn một lần trong mỗi 300 chu kì).
+Frame.
+Giao tiếp truyền tin thông qua các frame. Tin nhắn gồm có các byte formula_1, được đóng gói như sau:
+Nếu không có gì được truyền đi, bus sẽ được giữ ở trạng thái 1 (điện thế cao), để tất cả các receiver biết rằng việc liên lạc đã bắt đầu khi điện thế rơi xuống 0.
+Receiver biết tin nhắn đã được gửi đi hoàn toàn hay chưa bằng cách kiểm tra BSS0 (1) hoặc FES (0) đã được nhận hay chưa.
+Lưu ý 8-chu kì trên 1 bit không liên quan gì đến các byte. Cần 80 chu kì để truyền đi một byte. 16 chu kì dành cho BSS0 và BSS1 và 64 chu kì dành cho các bit của nó.
+Cũng lưu ý rằng BSS0 có giá trị 1, và BSS1 có giá trị 0.
+Đồng bộ hóa.
+Các clock được tái đồng bộ hóa khi tín hiệu được bầu chọn thay đổi từ 1 thành 0, nếu receiver đang ở trong trạng thái nhàn rỗi hay đang trông đợi BSS1.
+Khi sự đồng bộ hóa được thực hiện xong trên tín hiệu được bầu chọn, các lỗi nhỏ về truyền tin trong suốt quá trình đồng bộ hóa ảnh hưởng lên các bit biên có thể làm cho sự đồng bộ hóa lệch đi không quá một chu kì. Vì có nhiều nhất 88 chu kì giữa sự đồng bộ hóa (BSS1, 8 bit của byte cuối, FES và TES - 11 bit của mỗi chu kì 8), và clock drift không lâu hơn 1 trên 300 chu kì, drift có thể làm lệch clock không quá 1 chu kì. Các lỗi nhỏ truyền tin trong suốt quá trình nhận có thể chỉ ảnh hưởng lên các bit biên. Vì thế trong tình huống xấu nhất, hai bit chính giữa sẽ chính xác nên giá trị sample cũng sẽ chính xác.
+Dưới đây là ví dụ về một trường hợp cực kì xấu - lỗi trong quá trình đồng bộ hóa, một chu kì bị mất đi vì clock drift và lỗi trong quá trình truyền.
+Các lỗi đã xảy ra trong ví dụ:
+Ô màu lục là các điểm lấy mẫu (sampling points). Tất cả ngoại trừ điểm đầu tiên đều được đồng bộ hóa bởi edge (cạnh, biên) 1-&gt;0 trong giai đoạn truyền đi như hình.
+Công cụ phát triển.
+Khi phát triển và/hoặc gỡ rối với bus FlexRay, việc kiểm tra tín hiệu phần cứng có thể rất quan trọng. Các logic analyzer (bộ phân tích logic) và bus analyzer (phân tích bus) là các công cụ dùng để thu thập, phân tích, giải mã, lưu trữ tín hiệu để con người có thể xem các tín hiệu dạng sóng tốc độ cao ở một thời điểm khác.
+Tương lai của FlexRay.
+Bus FlexRay có các nhược điểm như các mức điện thế hoạt động thấp hơn và sự không đối xứng ở các edge gây ra các vấn đề khi tăng chiều dài mạng. Ethernet có thể thay thế FlexRay trong các ứng dụng không cực kì an toàn và cần bandwidth lớn.
+

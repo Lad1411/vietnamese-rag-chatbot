@@ -1,0 +1,8 @@
+Bảy công cụ cơ bản về chất lượng
+
+Bảy công cụ cơ bản về chất lượng là một chỉ định được đưa ra cho một tập hợp các kỹ thuật đồ họa cố định được xác định là hữu ích nhất trong việc khắc phục các sự cố liên quan đến chất lượng. Chúng được gọi là "cơ bản" vì chúng phù hợp với những người ít được đào tạo chính thức về thống kê và bởi vì chúng có thể được sử dụng để giải quyết phần lớn các vấn đề liên quan đến chất lượng.
+Tổng quan.
+Bảy công cụ là: 
+Tên gọi này phát sinh tại Nhật Bản thời hậu chiến, lấy cảm hứng từ bảy vũ khí nổi tiếng của Benkei. Nó có thể được Kaoru Ishikawa đưa ra, người đã bị ảnh hưởng bởi một loạt các bài giảng W. Edwards Deming đã trao cho các kỹ sư và nhà khoa học Nhật Bản vào năm 1950. Vào thời điểm đó, các công ty Nhật đã bắt đầu đào tạo lực lượng lao động của họ theo kiểm soát chất lượng thống kê, cho thấy sự phức tạp của nó đã làm hầu hết các công nhân của họ e ngại và việc đào tạo lại quy mô để tập trung chủ yếu vào các phương pháp đơn giản hơn, đủ cho các vấn đề liên quan đến chất lượng. Viện Quản lý Dự án tham khảo bảy công cụ cơ bản trong "Hướng dẫn về những kiến thức cốt lõi trong Quản lý dự án" như một ví dụ về một bộ công cụ chung hữu ích để lập kế hoạch hoặc kiểm soát chất lượng dự án. 
+Bảy công cụ cơ bản này trái ngược với các phương pháp thống kê tiên tiến hơn như lấy mẫu khảo sát, lấy mẫu chấp nhận, kiểm tra giả thuyết thống kê, thiết kế thí nghiệm, phân tích đa biến và các phương pháp khác nhau được phát triển trong lĩnh vực nghiên cứu hoạt động. 
+

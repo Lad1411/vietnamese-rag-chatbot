@@ -1,0 +1,4 @@
+Sinh học tổng hợp
+
+Sinh học tổng hợp ("SynBio: synthetic biology") là một lĩnh vực nghiên cứu về công nghệ sinh học hướng đến việc xác định nguyên lý kỹ thuật để điều khiển DNA trong các sinh vật nhằm thiết kế, tái tạo các bộ phận sinh học, tái thiết các hệ thống sinh học tự nhiên theo mục đích hữu dụng. Đây là một lĩnh vực nghiên cứu mới, có phạm vi rộng, bao gồm các lĩnh vực: y tế, nông nghiệp, công nghiệp, năng lượng… tuy nhiên sẽ làm nảy sinh các vấn đề pháp lý và đạo đức quan của nhân loại.
+

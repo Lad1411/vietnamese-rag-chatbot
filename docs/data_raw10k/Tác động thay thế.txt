@@ -1,0 +1,5 @@
+Tác động thay thế
+
+Hiệu ứng thay thế, trong kinh tế học vi mô, chỉ sự tác động của thay đổi mức giá hàng hóa tới lượng cầu khi người tiêu dùng tối thiểu hóa chi tiêu vẫn muốn có mức thỏa dụng bằng với mức trước khi mức giá thay đổi.
+Giả sử người này chỉ tiêu dùng 2 mặt hàng và cả hai đều là hàng hóa thông thường. Khi mức giá của một mặt hàng tăng lên và giá của mặt hàng còn lại không đổi, để giữ được mức thỏa dụng như cũ, người tiêu dùng sẽ giảm lượng cầu của mình đối với mặt hàng tăng giá và tăng lượng cầu của mình đối với mặt hàng không tăng giá. Hình vẽ minh họa sự thay đổi tổ hợp hàng từ điểm A sang điểm C trên cùng một đường bàng quan U. Lượng cầu đối với mặt hàng tăng giá đã giảm từ X xuống còn X' trong khi lượng cầu đối với mặt hàng không tăng giá đã tăng từ Y lên Y'. Người tiêu dùng đã lấy việc tăng tiêu dùng mặt hàng không tăng giá để thay thế cho việc giảm tiêu dùng mặt hàng tăng giá nếu muốn giữ mức thỏa dụng không đổi. Chú ý là đường ngân sách đã dịch chuyển từ M sang thành M'.
+

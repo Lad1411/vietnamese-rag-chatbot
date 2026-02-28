@@ -106,7 +106,7 @@ class RAGRetriever:
         GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
         self.search = GoogleSearchAPIWrapper()
 
-    def retrieve(self, query, top_k=3, threshold=0.005):
+    def retrieve(self, query, top_k=5, threshold=0.016):
         """
             Retrieve relevant chunks for a query
             Args:
@@ -119,9 +119,10 @@ class RAGRetriever:
         relevant_docs = [doc[0] for doc in docs if doc[1]>=threshold][:top_k]
 
         # No relevant docs -> use Google search
-        # if len(relevant_docs) == 0:
-        #     print("No useful documents -> search on Google")
-        #     raw_relevant_docs = self.search.results(query, top_k)
-        #     relevant_docs = self.fall_back.fallback(new_docs=raw_relevant_docs)
+        if len(relevant_docs) == 0:
+            print("Không tìm thấy thông tin hữu ich -> Tra Google")
+            raw_relevant_docs = self.search.results(query, top_k)
+
+            relevant_docs = self.fall_back.fallback(new_docs=raw_relevant_docs)
 
         return relevant_docs

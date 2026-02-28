@@ -1,0 +1,7 @@
+Kiểm thử thủ công
+
+Kiểm thử thủ công là quá trình kiểm thử phần mềm thủ công để tìm sai sót. Nó yêu cầu một kiểm thử viên đóng vai trò người dùng cuối, theo đó họ sử dụng hầu hết tính năng của ứng dụng để bảo đảm hành vi đúng. Để bảo đảm tính đầy đủ của kiểm thử, kiểm thử viên thường làm theo một kế hoạch kiểm thử bằng văn bản, dẫn họ qua các trường hợp kiểm thử quan trọng.
+Tổng quan.
+Một bước quan trọng trong quá trình này là, kiểm tra hành vi đúng trước của phần mềm trước khi phát hành cho người dùng cuối.
+Đối với các nỗ lực kỹ thuật quy mô nhỏ (kể cả nguyên mẫu), kiểm thử thăm dò có thể là đủ.
+

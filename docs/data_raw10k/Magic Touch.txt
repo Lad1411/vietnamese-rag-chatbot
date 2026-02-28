@@ -1,0 +1,23 @@
+Magic Touch
+
+Magic Touch, tạm dịch: "cú chạm ma thuật" là game đã được phát hành bởi Nitrome vào năm 2007. Người chơi sẽ đóng vai lão pháp sư một mình chống lại đạo quân robot đang đổ bộ vào lâu đài bằng bong bóng. Cách duy nhất để tiêu diệt kẻ thù là pháp sư phải làm phép để bắn bể bong bóng, việc còn lại cứ để lũ robo rơi tự do xuống đất rồi vỡ tan tành.
+Cách chơi.
+Lối chơi trong game cực kì đơn giản, người chơi chỉ cần vẽ phép theo hình thù được đặt sẵn trên mỗi quả bóng bay càng nhanh càng tốt để tiêu diệt kẻ thù. Vì nếu để bất kì tên robot nào tiếp đất thì trò chơi sẽ kết thúc.
+Ban đầu thì game có vẻ khá dễ chơi, tuy nhiên càng về sau tốc độ đổ bộ của lũ robot càng lúc càng nhanh và đông hơn, thậm chí có những con robot còn đeo theo đến 7 quả bóng bay để đề phòng bóng nổ giữa đường.
+Sau mỗi lần nổ bong bóng, người chơi sẽ được ghi điểm.
+Điều khiển.
+Dùng chuột để vẽ mẫu hình theo hình thù được đặt sẵn.
+Màn hình chính.
+Trên màn hình chính xuất hiện phù thủy đứng ở phía dưới màn hình, kẻ thù đeo bóng bay để di chuyển từ trên cao xuống. Lúc này người chơi cần vẽ các ký tự tương ứng xuất hiện trên quả bóng để làm chúng nổ trước khi kẻ thù có thể xâm nhập vào thành lũy của người chơi.
+Màn hình chính xuất hiện nút "PAUSE" để tạm dừng trò chơi. Khi cửa sổ hiện lên, bấm "CONTINUE" để tiếp tục hoặc "QUIT" để thoát.
+Khi có tên robot tiếp đất, cửa sổ "GAME OVER" sẽ xuất hiện. Khi trò chơi kết thúc, số điểm ghi được xuất hiện ở hàng "TOTAL SCORE". Có 2 nút ấn: "TRY AGAIN" để bắt đầu lại, hoặc "QUIT" để về menu chính.
+Menu chính.
+Trên menu chính xuất hiện lâu đài và phù thủy đứng ở chân tòa lâu đài. Menu chính xuất hiện các nút ấn sau:
+Phía dưới màn hình hiện lên chữ: "(C) nitrome ltd 2007 (www.nitrome.com)", nghĩa là trò chơi đã được phát hành vào năm 2007.
+Các loại hình vẽ.
+Trò chơi có bảy loại hình vẽ khác nhau, mỗi hình vẽ tương ứng với một màu xuất hiện trên quả bóng bay. Bảy loại hình vẽ xuất hiện trên màn hình là chữ Z (đỏ), chữ I (cam), xoắn (vàng), tam giác đi lên (xanh lục), chữ V (xanh lam), số 8 (tím), chữ O (hồng).
+Tham khảo.
+http://www.ign.com/games/magic-touch-wizard-for-hire/iphone-20033327
+Liên kết ngoài.
+http://www.nitrome.com/games/magictouch/#.VZ09qrVdK1s
+

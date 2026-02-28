@@ -1,0 +1,8 @@
+Candara
+
+Candara là một phông chữ sans-serif phong cách nhân văn được thiết kế bởi Gary Munch và được ủy quyền bởi Microsoft. Nó là một phần của bộ phông chữ ClearType, một bộ phông chữ từ các nhà thiết kế khác nhau được phát hành cùng với Windows Vista, tất cả đều có tên bắt đầu bằng chữ C để phản ánh rằng chúng được thiết kế để hoạt động tốt với hệ thống kết xuất văn bản ClearType của Microsoft. Những phông chữ khác trong cùng bộ là Calibri, Cambria, Consolas, Corbel và Constantia.
+Các tính năng.
+Các nét thẳng của Candara thể hiện được cả độ cong lồi và cong lõm với hình uốn cong và hình xoắn ốc ở hai phía đối diện của thân ký tự, các đường vòng cung phân nhánh cao ở dạng chữ thường, các khẩu độ lớn ở tất cả các dạng mở và các đường cong ogee độc đáo trên các đường chéo. Dạng chữ nghiêng của nó chịu nhiều ảnh hưởng từ phông chữ thư pháp và serif, vốn phổ biến trong các kiểu chữ sans-serif hiện đại. Calibri và Corbel, cùng một họ phông chữ, có thiết kế và khoảng cách các ký tự tương tự nhau.
+Họ phông chữ này hỗ trợ hầu hết các bộ ký tự WGL4. Các tính năng của OpenType bao gồm bộ chữ ghép tự động, chữ số (dạng bảng, tỷ lệ, kiểu cũ và gạch chân), tử số, mẫu số, các chỉ số khoa học và chữ hoa nhỏ.
+Nó cũng được phân phối cùng với Microsoft Excel Viewer, Microsoft PowerPoint Viewer, Microsoft Office Compatibility Pack cho Microsoft Windows và Open XML File Format Converter cho macOS. Nó không có sẵn dưới dạng phần mềm miễn phí để sử dụng trong các hệ điều hành khác như Linux, sử dụng đa nền tảng và sử dụng web.
+

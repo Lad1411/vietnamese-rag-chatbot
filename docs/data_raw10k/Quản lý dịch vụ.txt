@@ -1,0 +1,11 @@
+Quản lý dịch vụ
+
+ 
+Quản lý dịch vụ trong bối cảnh sản xuất, được tích hợp vào quản lý chuỗi cung ứng như là giao điểm giữa doanh số thực tế và quan điểm của khách hàng. Mục đích của quản lý dịch vụ hiệu suất cao là tối ưu hóa chuỗi cung ứng thâm dụng dịch vụ, thường phức tạp hơn chuỗi cung ứng hàng hóa thành phẩm thông thường. Hầu hết các chuỗi cung ứng thâm dụng dịch vụ đòi hỏi hàng tồn kho lớn hơn và tích hợp chặt chẽ hơn với dịch vụ tại hiện trường và bên thứ ba. Họ cũng phải đáp ứng nhu cầu không nhất quán và không chắc chắn bằng cách thiết lập các luồng thông tin và sản phẩm tiên tiến hơn. Hơn nữa, tất cả các quy trình phải được phối hợp trên nhiều địa điểm dịch vụ với số lượng lớn các bộ phận và nhiều cấp độ trong chuỗi cung ứng. 
+Trong số các nhà sản xuất điển hình, dịch vụ sau bán hàng (bảo trì, sửa chữa và các bộ phận) chiếm ít hơn 20 phần trăm doanh thu. Nhưng trong số các công ty sáng tạo nhất về dịch vụ, những hoạt động tương tự thường tạo ra hơn 50% lợi nhuận. 
+Lợi ích.
+Các trình điều khiển chính cho một công ty để thiết lập hoặc tối ưu hóa các hoạt động quản lý dịch vụ của công ty rất đa dạng: 
+Quản lý dịch vụ toàn diện là công cụ để công ty có thể tối ưu hóa hàng tồn kho, ngăn chặn tình trạng tồn kho hoặc tồn kho và cũng cải thiện số lượng đúng lúc thông qua tích hợp Hệ thống Kanban &amp; Two bin với quản lý Dịch vụ. 
+Các thành phần.
+Nói chung, quản lý dịch vụ bao gồm sáu khả năng khác nhau mà các công ty nên xem xét để tối ưu hóa: 
+

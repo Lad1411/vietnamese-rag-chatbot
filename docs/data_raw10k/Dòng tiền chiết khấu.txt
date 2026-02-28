@@ -1,0 +1,4 @@
+Dòng tiền chiết khấu
+
+Dòng tiền chiết khấu (DCF) là một phương pháp định giá được sử dụng để ước tính giá trị của khoản đầu tư dựa trên dòng tiền trong tương lai của nó. Phân tích DCF cố gắng tìm ra giá trị của một công ty ngày hôm nay, dựa trên dự đoán về việc công ty sẽ tạo ra bao nhiêu tiền trong tương lai. Trong tài chính, phân tích chiết khấu dòng tiền (DCF) là một phương pháp đánh giá một chứng khoán, dự án, công ty hoặc tài sản bằng cách sử dụng các khái niệm về giá trị thời gian của tiền. Phân tích dòng tiền chiết khấu được sử dụng rộng rãi trong tài chính đầu tư, phát triển bất động sản, quản lý tài chính doanh nghiệp và định giá bằng sáng chế.
+

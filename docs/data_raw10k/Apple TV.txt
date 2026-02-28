@@ -1,0 +1,6 @@
+Apple TV
+
+Apple TV là một thiết bị đa phương tiện kỹ thuật số và microconsole được Apple Inc. phát triển và đưa ra thị trường. Apple TV không phải là một chiếc TV mà là một thiết bị mạng và thiết bị giải trí cỡ nhỏ và có khả năng nhận các dữ liệu số từ một số nguồn và chuyển tín hiệu trực tiếp ra một thiết bị truyền hình khác.
+Apple TV sử dụng giao tiếp qua cổng HDMI. Để xem được nội dung của Apple TV, nó phải được kết nối với một TV hay một màn hình ngoài có độ nét cao thông qua cáp HDMI. Thiết bị này không có bộ điều khiển tích hợp và chỉ có thể được điều khiển từ bên ngoài qua Apple Remote, hoặc sử dụng tính năng hồng ngoại/bluetooth của ứng dụng Apple TV Remote (có thể tải xuống từ App Store) trên các thiết bị dùng iOS, như iPhone, iPod Touch, iPad, và Apple Watch qua Wi-Fi, hoặc thông qua các điều khiển từ xa dùng hồng ngoại của các hãng thứ ba.
+Apple TV sử dụng hệ điều hành tvOS. Phiên bản mới nhất là Apple TV 4K thế hệ thứ 5.
+

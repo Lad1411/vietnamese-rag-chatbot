@@ -1,0 +1,32 @@
+Phương sai
+
+Trong lý thuyết xác suất và thống kê, phương sai của một biến ngẫu nhiên là một độ đo sự phân tán thống kê của biến đó, nó hàm ý các giá trị của biến đó thường ở cách giá trị kỳ vọng bao xa.
+Phương sai của biến ngẫu nhiên giá trị thực là moment trung tâm, nó còn là nửa bất biến ("cumulant") thứ hai của nó. Phương sai của một biến ngẫu nhiên là bình phương của độ lệch chuẩn.
+Định nghĩa.
+Nếu formula_1 là giá trị kỳ vọng của biến ngẫu nhiên "X", thì phương sai là
+Nghĩa là, phương sai là giá trị kỳ vọng của bình phương của độ lệch của "X" so với giá trị trung bình của nó. Nói nôm na, phương sai là "trung bình của bình phương khoảng cách của mỗi điểm dữ liệu tới điểm trung bình". Do đó, nó là "giá trị trung bình của bình phương độ lệch". Phương sai của biến ngẫu nhiên "X" thường được ký hiệu là formula_3, formula_4, hoặc đơn giản là formula_5.
+Lưu ý: định nghĩa trên áp dụng cho cả các biến ngẫu nhiên rời rạc và liên tục.
+Nhiều phân phối, ví dụ như phân phối Cauchy, là không có phương sai, do tích phân có được từ định nghĩa phương sai là phân kỳ. Một phân phối không tồn tại giá trị kỳ vọng thì cũng không tồn tại phương sai. Nhưng điều ngược lại thì không đúng: có những phân phối mà giá trị kì vọng tồn tại nhưng không tồn tại phương sai.
+Các tính chất.
+Với formula_10 là hiệp phương sai, bằng 0 nếu X và Y là 2 biến ngẫu nhiên độc lập lẫn nhau.
+Xấp xỉ phương sai của một hàm số.
+Phương pháp Delta sử dụng khai triển Taylor bậc hai để xấp xỉ phương sai của hàm số của một hay nhiều biến ngẫu nhiên. Ví dụ, phương sai của hàm số theo một biến ngẫu nhiên được xấp xỉ bởi:
+với giả thiết formula_12 khả vi bậc hai, trung bình và phương sai của formula_13 là hữu hạn (tức tồn tại).
+Phương sai của tổng thể chung và phương sai mẫu.
+Trên nhiều tình huống thực tế, giá trị chính xác của phương sai của một tổng thể, ký hiệu bởi formula_5 là không thể xác định trước được.
+Phương pháp chung để ước lượng phương sai của một tổng thể (hữu hạn hoặc vô hạn) là ta sẽ lấy một mẫu hữu hạn các cá thể từ quần thể. Giả sử rằng mẫu thu được có các giá trị đo được là formula_15.
+Phương sai của mẫu (gọi tắt là phương sai mẫu) formula_16, được tính bởi:
+trong đó formula_18 là số bình quân số học của mẫu.
+Tuy nhiên, formula_19 là một ước lượng chệch ("biased") của phương sai quần thể. Ước lượng sau là một ước lượng không chệch ("unbiased") của phương sai quần thể:
+Chứng minh 1.
+Phần sau đây chứng minh formula_21 là một ước lượng không chệch của phương sai quần thể. Một ước lượng formula_22 của tham số formula_23 được gọi là ước lượng không chệch nếu formula_24.
+Ký hiệu formula_25 và formula_5 lần lượt là trung bình và phương sai của quần thể. Để chứng minh formula_21 là ước lượng không chệch, ta sẽ chứng minh rằng formula_28. Ta có:
+Chứng minh 2.
+Ta cũng có thể chứng minh bằng cách sau:
+Phương sai của véc tơ ngẫu nhiên.
+Nếu "X" là một véc tơ ngẫu nhiên, xác định trên "R""n", thì phương sai của X được xác định bởi:
+E[("X" − μ)("X" − μ)T]
+với μ = E("X") và "X"T là ma trận chuyển vị của "X". Phương sai này là một ma trận vuông xác định dương. Nó thường được gọi là ma trận hiệp phương sai.
+Lịch sử.
+Thuật ngữ "phương sai" được sử dụng lần đầu tiên bởi Ronald Fisher trong một bài báo của ông vào năm 1918 với tựa đề "The Correlation Between Relatives on the Supposition of Mendelian Inheritance".
+

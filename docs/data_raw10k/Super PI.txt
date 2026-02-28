@@ -1,0 +1,11 @@
+Super PI
+
+Super PI là một chương trình máy tính thực hiện tính toán số pi đến một số chữ số xác định sau dấu thập phân — tối đa lên tới 32 triệu chữ số. Chương trình này sử dụng thuật toán Gauss–Legendre và được Yasumasa Kanada sử dụng vào năm 1995 để tính toán số pi với 232 chữ số.
+Tác dụng.
+Super PI rất phổ biến trong cộng đồng ép xung, cả về kiểm chuẩn (benchmark) để kiểm tra hiệu năng của những hệ thống đó và kiểm tra tính ổn định (stress test) để kiểm tra xem chúng có còn hoạt động chính xác không.
+Lo ngại về độ tin cậy.
+Sự cạnh tranh để đạt thời gian thực hiện Super PI tốt nhất dẫn đến những kết quả gian lận mà trong đó có thời gian tính toán nhanh hơn bình thường. Nỗ lực chống lại điều đó dẫn đến một phiên bản sửa đổi của Super PI dùng một giá trị tổng kiểm (checksum) để xác nhận kết quả. Tuy nhiên, vẫn tồn tại những phương pháp khác tạo ra kết quả gian lận thời gian hoặc tính toán sai, đặt ra câu hỏi về tương lai của chương trình như là một công cụ kiểm chuẩn ép xung.
+Super PI sử dụng quy trình dấu phẩy động x87 được hỗ trợ trên tất cả các bộ xử lý x86 và x86-64, các phiên bản hiện tại hỗ trợ quy trình vectơ Streaming SIMD Extensions độ chính xác thấp.
+Tương lai.
+Super PI là một chương trình đơn luồng, do đó, nó không còn thích hợp để kiểm tra hiệu năng trong thời đại xử lý đa nhân hiện nay. wPrime đã được phát triển để hỗ trợ những phép tính đa luồng được chạy cùng lúc để có thể kiểm tra độ ổn định trên các máy đa nhân. Các chương trình đa luồng khác bao gồm: Hyper PI, IntelBurnTest, Prime95, Montecarlo superPI, OCCT và y-cruncher. Cuối cùng nhưng không kém phần quan trọng, trong khi Super PI không thể tính được nhiều hơn 32 triệu chữ số và Alexander J. Yee &amp; Shigeru Kondo đã có thể lập kỷ lục tính 10 nghìn tỷ chữ số của số pi khi sử dụng y-cruncher với máy tính 2 x Intel Xeon X5680 @ 3,33 GHz - (12 lõi vật lý, 24 siêu luồng) vào ngày 16 tháng 10 năm 2011, Super PI chậm hơn nhiều so với các chương trình khác và sử dụng các thuật toán kém hơn. 
+

@@ -1,0 +1,12 @@
+Thuật toán Edmonds–Karp
+
+Trong khoa học máy tính và lý thuyết đồ thị, thuật toán Edmonds–Karp là một trường hợp đặc biệt của thuật toán Ford–Fulkerson cho việc tìm luồng cực đại trong mạng. Nó có độ phức tạp tính toán "O"("V" "E"2). Độ phức tạp tính toán của nó cao hơn của thuật toán gán lại nhãn-lên đầu ("O"("V"3)), nhưng nó thường chạy nhanh hơn trên đồ thị thưa. Thuật toán này được xuất bản lần đầu tiên bởi Yefim (Chaim) Dinic năm 1970 và một cách độc lập bởi Jack Edmonds và Richard Karp năm 1972. Thuật toán Dinic có thêm một số cải tiến giúp giảm thời gian chạy xuống "O"("V"2"E").
+Thuật toán.
+Cấu trúc của thuật toán giống hệt như thuật toán Ford–Fulkerson, chỉ khác cách lựa chọn đường tăng luồng. Đường tăng luồng được chọn là đường tăng có ít cung nhất. Có thể tìm đường tăng này bằng tìm kiếm theo chiều rộng. Có thể chứng minh thời gian chạy của thuật toán là "O"("VE"2) như sau. Thời gian để tìm mỗi đường tăng là "O"("E"). Sau mỗi lần tăng luồng, ít nhất một cung của đồ thị trở thành bão hòa. Mỗi lần một cung trong "E" trở nên bão hòa (một cung có thể trở thành bão hòa nhiều lần), khoảng cách từ nguồn tới cung bị bão hòa tăng lên ít nhất 1 so với lần cuối cùng nó bị bão hòa trước đó. Khoảng cách này không bao giờ vượt quá "V". Một tính chất nữa là khoảng cách từ nguồn tới một đỉnh bất kì là không giảm trong suốt quá trình tăng luồng. Có thể tham khảo một chứng minh đơn giản cho tính chất này ở . Như vậy số lần tăng luồng là không quá "O"("VE") và thời gian chạy là "O"("VE"2).
+Mã giả.
+"Xem mô tả chi tiết hơn tại Thuật toán Ford-Fulkerson"
+Ví dụ.
+Xét một mạng gồm bảy đỉnh, đỉnh phát A, đỉnh thu G, và khả năng thông qua được cho trong hình dưới đây:
+Trong cặp số formula_1 trên mỗi cung, formula_2 là luồng hiện tại, và formula_3 khả năng thông qua. Khả năng thông qua còn dư từ formula_4 đến formula_5 là formula_6, hiệu của khả năng thông qua và luồng hiện tại. Nếu luồng từ formula_4 đến formula_5 là âm, nó làm tăng khả năng thông qua còn dư từ formula_4 đến formula_5.
+Chú ý là chiều dài đường tăng luồng (màu đỏ) không bao giờ giảm. Đường tăng tìm được luôn là ngắn nhất có thể. Luồng tìm được bằng tổng khả năng thông qua của lát cắt cực tiểu trong đồ thị chia cắt đỉnh phát và đỉnh thu. Có đúng một lát cắt nhỏ nhất trong đồ thị này, chia tập hợp đỉnh thành formula_11 và formula_12, và có khả năng thông qua
+

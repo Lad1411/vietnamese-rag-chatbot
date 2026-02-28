@@ -1,0 +1,19 @@
+Ứng dụng hỗn hợp
+
+Một Ứng dụng hỗn hợp (hay còn gọi là mashup hoặc mash-up) là một ứng dụng kết hợp nội dung hoặc dịch vụ của nhiều ứng dụng khác nhau không đồng nhất, người ta thường gọi mashup artistique hoặc mashup technologiques. 
+Trong môi trường web, một mashup chủ yếu là kết tụ nội dung từ những nguồn khác nhau được cung cấp từ những website khác nhau và tạo thành một
+website mới. để có thể làm được điều đó người ta dùng các thành phần sau: XMLHttpRequest, AJAX client side, và cuối cùng là các API hay còn gọi là dịch vụ web của những website mà từ đó chúng ta kết hợp nội dung của chúng lại.
+Ngày càng có nhiều website đưa ra những API miễn phí, nhằm khích lệ cho cộng đồng lập trình viên tạo ra những mashup sử dụng nội dung của họ, những ứng dụng hỗn hợp được thành lập dựa trên một chuẩn lập trình kể sự việc hay còn gọi là programmation événementielle, có nghĩa là chương trình đó sẽ tạo ra những sự kiện và chương trình sẽ được xác định bởi những tác động của nó đến những sự kiện khác nhau có khả năng tự kích hoạt.
+Ví dụ như Google, Yahoo,[Facebook], Amazon, eBay đã đưa ra rất nhiều API và mục đích chính của họ là nhờ vào các lập trình viên trên toàn thế giới truyền tải và phát tát nội dung, tên tuổi của họ đi khắp nơi trên thế giới, quả là một cách quảng bá thương hiệu hết sức thông minh và không hề tốn kém, tuy nhiên không phải lúc nào những mashup cũng được chào đón bởi tình trạng không chắc chắn của nó vì những website khác đang khai thác những dữ liệu không thuộc về họ.
+Các loại ứng dụng hỗn hợp.
+Hiện nay những ứng dụng kiểu mashup tồn tại dưới 3 dạng chính liên quan đến tiêu dùng, dữ liệu 
+và thương mại.
+những ứng dụng hỗn hợp theo hướng tiêu dùng đã kết hợp lại thành một dạng được nhiều người biết đến đó chính là Google Maps, những ứng dụng này kết hợp dữ liệu từ nhiều nguồn khác nhau và chỉ thể hiện bằng một giao diện đơn giản duy nhất.
+Một dạng khác thường ngày có liên quan đến dữ liệu và kinh doanh, một ứng dụng có liên quan đến những dữ liệu trộn lẫn từ nhiều nguồn tài nguyên khác nhau, ví dụ bằng việc kết hợp nhiều Flux RSS để tạo ra một giao diện kết quả cuối cùng, hoặc một ứng dụng lai của sự kinh doanh 
+thông thường bằng việc kết hợp những dữ liệu bên trong hoặc bên ngoài của một website, nó có 
+thể tạo một bản báo cáo thị trường buôn bán trong tuần vừa qua bằng việc tổng hợp một danh sách tất cả các nhà cung cấp trên internet rất nhanh và rất chính xác.
+Các ứng dụng trong viễn thông.
+Việc sử dụng mashup được nhắm đến bởi những công ty thông tin liên lạc truyền thống cũng như những gã khổng lồ trong kỷ nguyên mới như Google và Yahoo, mục tiêu cuối cùng là có thể tạo và đưa ra những dịch vụ thông tin liên lạc nhanh nhất, và cũng với những công nghệ như vậy chúng ta cũng có thể áp dụng vào hệ thống thông tin liên lạc và mạng cục bộ của doanh nghiệp để có thể kết hợp được những ứng dụng, dịch vụ cũng như quy trình của doanh nghiệp ví dụ như dịch vụ quan hệ khách hàng, ứng dụng chấm công, định vị và Voice IP.
+Lợi ích và sự bất tiện của Mashup.
+Tuy nhiên bất chấp tất cả những điểm tích cực cho các trang web nói chung, người ta nói nhiều hơn và nhiều hơn nữa vấn đề bảo mật liên quan đến công nghệ này:
+

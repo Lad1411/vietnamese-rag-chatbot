@@ -1,0 +1,6 @@
+Vùng liên bang Phía Nam
+
+&lt;mapframe latitude="47.9" longitude="39.6" zoom="4" width="280" height="300" align="right" /&gt; 
+Vùng liên bang phía nam (tiếng Nga: Ю́жный федера́льный о́круг, "Yuzhny federalny okrug") là một trong 8 vùng liên bang của Nga. Dân số vùng là 22,907,141 người (57% dân thành thị) với diện tích 589,200 km². Ngày 19 tháng 1 năm 2010, vùng liên bang này được chia làm đôi, phần phía nam trở thành Vùng liên bang Bắc Kavkaz.
+Vùng liên bang phía nam từng được gọi là Vùng liên bang Bắc Kavkaz khi được thành lập tháng 5 năm 2000 nhưng sau đó được đổi tên vì lý do chính trị.
+

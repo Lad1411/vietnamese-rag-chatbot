@@ -1,0 +1,5 @@
+Kí hiệu H-M
+
+Trong hình học, ký hiệu H-M hay ký hiệu Hermann–Mauguin được dùng để biểu diễn các yếu tố đối xứng tâm, mặt và đường. Nó được đặt theo tên của nhà tinh thể học người Đức Carl Hermann (giới thiệu phương pháp này năm 1928) và nhà khoáng vật học người Pháp Charles-Victor Mauguin (ông hiệu chỉnh ký hiệu này năm 1931). Ký hiệu này đôi khi được xem là ký hiệu quốc tế, vì nó thích hợp theo tiêu chuẩn của "International Tables For Crystallography" kể từ phiên bản đầu tiên năm 1935.
+Ký hiệu Hermann–Mauguin, so với ký hiệu Schoenflies, được tham chiếu trong tinh thể học bởi vì nó dễ sử dụng bao gồm các yếu tố đối xứng chuyển đổi, và nó xác định hướng của các trục đối xứng.
+

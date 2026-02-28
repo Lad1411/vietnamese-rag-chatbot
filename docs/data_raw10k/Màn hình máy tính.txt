@@ -1,0 +1,31 @@
+Màn hình máy tính
+
+Màn hình máy tính () là thiết bị điện tử gắn liền với máy tính với mục đích chính là hiển thị và giao tiếp giữa người sử dụng với máy tính.
+Đối với các máy tính cá nhân (PC), màn hình máy tính là một bộ phận tách rời. Đối với máy tính xách tay màn hình là một bộ phận gắn chung không thể tách rời. Đặc biệt: màn hình có thể dùng chung (hoặc không sử dụng) đối với một số hệ máy chủ.
+Phân loại.
+Có nhiều loại màn hình máy tính, theo nguyên lý hoạt động thì có các loại màn hình máy tính sau:
+Màn hình máy tính loại CRT.
+Thường gặp nhất là các loại màn hình máy tính với nguyên lý ống phóng chùm điện tử (ống CRT, nên thường đặt tên cho loại này là "loại CRT").
+Các màn hình loại CRT có các ưu nhược điểm:
+Nguyên lý hiển thị hình ảnh
+Màn hình máy tính loại tinh thể lỏng.
+Màn hình máy tính loại tinh thể lỏng dựa trên công nghệ về tinh thể lỏng nên rất linh hoạt, có nhiều ưu điểm hơn màn hình CRT truyền thống, do đó hiện nay đang được sử dụng rộng rãi, dần thay thế màn hình CRT.
+Độ phân giải của màn hình tinh thể lỏng dù có thể đặt được theo người sử dụng, tuy nhiên để hiển thị rõ nét nhất phải đặt ở độ phân giải thiết kế của nhà sản xuất. Nguyên nhân là các điểm ảnh được thiết kế cố định (không tăng và không giảm được cả về số điểm ảnh và kích thước), do đó nếu thiết đặt độ phân giải thấp hơn độ phân giải thiết kế sẽ xảy ra tình trạng tương tự việc có 3 điểm ảnh vật lý (thực) dùng để hiển thị 2 điểm ảnh hiển thị (do người sử dụng thiết đặt), điều xảy ra lúc này là hai điểm ảnh vật lý ở sẽ hiển thị trọn vẹn, còn lại một điểm ảnh ở giữa sẽ hiển thị một nửa điểm ảnh hiển thị này và một nửa điểm ảnh hiển thị kia - dẫn đến chỉ có thể hiển thị màu trung bình, dẫn đến sự hiển thị không rõ nét.
+Điểm chết trong màn hình tinh thể lỏng
+Đèn nền trong màn hình tinh thể lỏng
+Màn hình rộng và màn hình chuẩn 4:3 thông thường
+Màn hình máy tính loại khác.
+Ngoài hai thể loại chính thông dụng trên, màn hình máy tính còn có một số loại khác như:
+Màn hình cảm ứng
+Màn hình máy tính sử dụng công nghệ OLED
+Các kiểu giao tiếp kết nối của màn hình máy tính.
+Hai kiểu giao tiếp thông dụng giữa màn hình máy tính và máy tính là: D-Sub và DVI, hai kiểu giao tiếp này đã lỗi thời. Giờ đây màn hình sử dụng chuẩn HDMI, DisplayPort và thunderbolt.
+D-Sub là kiểu truyền theo tín hiệu tương tự, các màn hình CRT đều sử dụng giao tiếp này.
+DVI là kiểu truyền theo tín hiệu số, đa phần màn hình tinh thể lỏng hiện nay sử dụng chuẩn này, phần còn lại vẫn sử dụng theo D-Sub. Kiểu giao tiếp này có ưu điểm hơn so với kiểu D-Sub là có thể cho chất lượng ảnh tốt hơn. Tuy nhiên để sử dụng kiểu DVI đòi hỏi cạc đồ hoạ phải hỗ trợ chuẩn này (đa số các cạc đồ hoạ rời đều có cổng DVI, tuy nhiên cạc đồ hoạ tích hợp sẵn trên bo mạch chủ phần nhiều là không hỗ trợ).
+Điều chỉnh màn hình máy tính.
+Mặc định theo sản xuất, các chế độ làm việc được đưa về thông số thiết kế, do đó tuỳ thuộc vào người sử dụng mà cần phải điều chỉnh lại cho phù hợp.
+Với các màn hình tinh thể lỏng, hầu hết việc điều chỉnh chỉ liên quan đến thiết lập chế độ hiển thị, màu sắc. Với các màn hình kiểu CRT cần phải điều chỉnh nhiều hơn. Do đặc điểm chuyển đổi giữa chế độ hình ảnh, chế độ chuyển đổi giữa các cuộn lái tia sẽ làm việc khác nhau, do đó để phù hợp với chế độ phân giải thường xuyên sử dụng của người dùng máy tính, cần phải thiết lập lại màn hình cho phù hợp (hình ảnh chiếm đầy màn hình, không tạo sự méo mó, biến dạng khi hiển thị). Phần dưới đây chỉ nói đến việc điều chỉnh màn hình CRT và được tiến hành theo thứ tự.
+Tích hợp thiết bị khác trên màn hình máy tính.
+Ngoài chức năng hiển thị, màn hình máy tính ngày nay còn được tích hợp các tính năng khác:
+Tuy nhiên tất cả các tính năng gắn thêm này thường được tích hợp chủ yếu cho người dùng văn phòng, chất lượng của chúng thường ở tầm thấp, không thể dùng cho các mục đích chuyên nghiệp.
+

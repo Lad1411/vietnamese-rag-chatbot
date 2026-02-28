@@ -1,0 +1,25 @@
+Sipuleucel-T
+
+Sipuleucel-T (APC8015, tên thương mại Provenge), được phát triển bởi Dendreon Corporation, là một liệu pháp miễn dịch ung thư dựa trên tế bào cho bệnh ung thư tuyến tiền liệt (CaP). Đây là một phương pháp điều trị được cá nhân hóa, hoạt động bằng cách lập trình cho hệ thống miễn dịch của mỗi bệnh nhân để tìm ra bệnh ung thư và tấn công nó như thể nó là nước ngoài.
+Trong khi được gọi là một loại vắc-xin điều trị chứ không phải là vắc-xin phòng ngừa ngăn ngừa bệnh truyền nhiễm, sipuleucel-T thay vào đó là một chất kích thích miễn dịch. Vào ngày 20 tháng 2 năm 2015, Valete Pharmaceuticals đã nhận được sự chấp thuận để mua tất cả các tài sản của Dendreon (bao gồm cả Provenge).
+Việc điều trị trị giá 93.000 đô la khi được FDA chấp thuận, tăng lên hơn 100.000 đô la vào năm 2014.
+Phương pháp điều trị.
+Một quá trình điều trị bao gồm ba bước cơ bản:
+Một điều trị sipuleucel-T hoàn chỉnh bao gồm ba khóa học trong khoảng thời gian hai tuần.
+Sử dụng.
+Sipuleucel-T được sử dụng để điều trị cho những người bị ung thư tuyến tiền liệt di căn, không triệu chứng, không chịu được hormone (HRPC). Các tên khác cho giai đoạn này là kháng thiến di căn (mCRPC) và độc lập androgen (AI) hoặc (AIPC). Giai đoạn này dẫn đến mCRPC với sự tham gia của hạch bạch huyết và các khối u ở xa (xa); đây là giai đoạn gây chết người của CaP. Chỉ định giai đoạn ung thư tuyến tiền liệt là T4, N1, M1c.
+Các thử nghiệm lâm sàng.
+Đã hoàn thành.
+Sipuleucel-T cho thấy lợi ích sống sót chung (OS) đối với bệnh nhân trong ba thử nghiệm lâm sàng giai đoạn III ngẫu nhiên mù đôi, D9901, D9902a, và IMPACT.
+Thử nghiệm IMPACT là cơ sở cho việc cấp phép của FDA. Thử nghiệm này ghi nhận 512 bệnh nhân có HRPC di căn không triệu chứng hoặc không có triệu chứng tối thiểu ngẫu nhiên theo tỷ lệ 2: 1. Thời gian sống trung bình cho bệnh nhân sipuleucel-T là 25,8 tháng so với 21,7 tháng đối với bệnh nhân điều trị giả dược, tăng 4,1 tháng. 31,7% bệnh nhân được điều trị sống sót sau 36 tháng so với 23,0% ở nhóm đối chứng. Tỷ lệ sống chung có ý nghĩa thống kê (P = 0,032). Sự tồn tại lâu hơn mà không co rút khối u hoặc thay đổi tiến triển là đáng ngạc nhiên. Điều này có thể gợi ý ảnh hưởng của một biến không đo lường được. Thử nghiệm được thực hiện theo Đánh giá Giao thức Đặc biệt của FDA (SPA), một bộ hướng dẫn các nhà điều tra thử nghiệm ràng buộc các tham số cụ thể theo thỏa thuận liên quan đến thiết kế thử nghiệm, quy trình và điểm cuối; tuân thủ đảm bảo tính toàn vẹn khoa học tổng thể và tăng tốc phê duyệt của FDA.  
+Thử nghiệm D9901 ghi nhận 127 bệnh nhân mắc HRPC di căn không triệu chứng ngẫu nhiên theo tỷ lệ 2: 1. Thời gian sống trung bình cho bệnh nhân được điều trị bằng sipuleucel-T là 25,9 tháng so với 21,4 tháng đối với bệnh nhân điều trị giả dược. Tỷ lệ sống chung có ý nghĩa thống kê (P = 0,01).
+Thử nghiệm D9902a được thiết kế giống như thử nghiệm D9901 nhưng thu nhận 98 bệnh nhân. Thời gian sống trung bình cho bệnh nhân được điều trị bằng sipuleucel-T là 19,0 tháng so với 15,3 tháng đối với bệnh nhân điều trị giả dược, nhưng không đạt được ý nghĩa thống kê.
+Trong tiến trình.
+Kể từ tháng 8 năm 2014, thử nghiệm điều trị PRO và điều trị ung thư sớm (PROTECT), một thử nghiệm lâm sàng giai đoạn IIIB bắt đầu vào năm 2001, đã theo dõi các đối tượng nhưng không còn đăng ký đối tượng mới. Mục đích của nó là để kiểm tra hiệu quả đối với những bệnh nhân mắc CaP vẫn được kiểm soát bằng cách ức chế testosterone bằng cách điều trị bằng hormone hoặc bằng phương pháp phẫu thuật. Những bệnh nhân này thường thất bại trong điều trị chính là phẫu thuật cắt bỏ tuyến tiền liệt, (EBRT), xạ trị bên trong, BNCT hoặc (HIFU) cho mục đích chữa bệnh. Thất bại như vậy được gọi là thất bại sinh hóa và được định nghĩa là chỉ số PSA là 2.0   ng / mL trên nadir (đọc thấp nhất được thực hiện sau điều trị chính).
+Kể từ tháng 8 năm 2014, một thử nghiệm lâm sàng quản lý sipuleucel-T kết hợp với ipilimumab (Yervoy) đã theo dõi các đối tượng nhưng không còn đăng ký môn học mới; thử nghiệm đánh giá sự an toàn lâm sàng và tác dụng chống ung thư (định lượng bằng PSA, phản ứng X quang và tế bào T) của liệu pháp phối hợp ở bệnh nhân ung thư tuyến tiền liệt tiến triển.
+Tác dụng phụ.
+Tác dụng phụ thường gặp bao gồm: đau bàng quang; đầy hơi hoặc sưng mặt, cánh tay, bàn tay, chân dưới hoặc bàn chân; nước tiểu có máu hoặc đục; đau nhức cơ thể hoặc đau đớn; đau ngực; ớn lạnh; sự nhầm lẫn; ho; bệnh tiêu chảy; đi tiểu khó khăn, nóng rát hoặc đau đớn; Khó thở; khó khăn trong việc lên tiếng không có khả năng nói; tầm nhìn đôi; mất ngủ; và không có khả năng di chuyển cánh tay, chân hoặc cơ mặt.
+Phê duyệt theo quy định.
+Sipuleucel-T đã được Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) phê duyệt vào ngày 29 tháng 4 năm 2010, để điều trị HRPC di căn không triệu chứng hoặc không có triệu chứng.
+Ngay sau đó, sipuleucel-T đã được thêm vào phần tóm tắt các phương pháp điều trị ung thư do Mạng lưới Ung thư Toàn diện Quốc gia (NCCN) công bố dưới dạng điều trị "loại 1" (khuyến nghị cao nhất) cho HRPC. Bản tóm tắt NCCN được Medicare và các nhà cung cấp bảo hiểm chăm sóc sức khỏe lớn sử dụng để quyết định liệu có nên bồi hoàn điều trị hay không.
+

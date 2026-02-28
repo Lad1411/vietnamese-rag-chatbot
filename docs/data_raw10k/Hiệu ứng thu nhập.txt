@@ -1,0 +1,7 @@
+Hiệu ứng thu nhập
+
+Hiệu ứng thu nhập, trong kinh tế học vi mô, chỉ sự tác động của thay đổi giá cả hàng hóa tới lượng cầu thông qua thay đổi sức mua.
+Giả định là chủ thể kinh tế chỉ tiêu dùng 2 mặt hàng và cả hai đều là hàng hóa thông thường. Khi giá một mặt hàng tăng lên, thì dù thu nhập danh nghĩa của người tiêu dùng không đổi, nhưng sức mua của người này giảm đi. Vì thế, có thể tưởng tượng rằng đó là tình huống các mức giá hàng không đổi, nhưng thu nhập của người tiêu dùng giảm đi; nói cách khác là ngân sách cho chi tiêu của người này bị giảm. Giờ đây, người này đối mặt với chế ước ngân sách mới và cố gắng tối đa hóa thỏa dụng.
+Trong hình vẽ, tổ hợp hàng được lựa chọn trước khi có sự thay đổi giá cả là A tại nơi tiếp xúc giữa đường bàng quan U và đường ngân sách M. Lượng cầu các mặt hàng tạo nên tổ hợp này là X và Y.
+Khi có sự thay đổi giá cả, đường ngân sách M dịch chuyển song song về phía gốc thành đường M". Tổ hợp hàng hóa được lựa chọn giờ đây là B trên đường ngân sách tại tiếp điểm của đường ngân sách mới M" với đường bàng quan mới U' Tại đó lượng cầu về các mặt hàng giảm từ X xuống còn X' và từ Y xuống còn Y'.
+

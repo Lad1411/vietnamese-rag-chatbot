@@ -1,0 +1,11 @@
+Danh sách đồng vị tự nhiên
+
+Tính đến nay, người ta đã phát hiện và tổng hợp được 118 nguyên tố hóa học, trong số đó 98 nguyên tố đầu được tìm thấy trong tự nhiên. Có 83 nguyên tố nguyên thủy, tức là chúng được hình thành từ lúc Trái Đất mới hình thành nói riêng (và vụ nổ Big Bang nói chung). 15 nguyên tố còn lại được gọi là các nguyên tố phi nguyên thủy tồn tại ở Trái Đất dưới dạng vết được hình thành từ sự phóng xạ của các nguyên tố khác. Dưới đây là danh sách đồng vị tự nhiên của các nguyên tố nguyên thủy trên Trái Đất
+Danh sách đồng vị tự nhiên.
+Hydro (Z = 1).
+Ngoài hai đồng vị 1H và 2H, thì hydro còn có đồng vị 3H tồn tại trong tự nhiên ở dạng vết
+Cacbon (Z = 6).
+Ngoài hai đồng vị 12C và 13C, thì cacbon còn có đồng vị 14C tồn tại trong tự nhiên ở dạng vết
+Thori (Z = 90).
+Ngoài đồng vị 232Th, Thori còn có đồng vị 230Th, 231Th, 234Th tồn tại trong tự nhiên ở dạng vết. Chúng đều là sản phẩm phân rã của urani.
+

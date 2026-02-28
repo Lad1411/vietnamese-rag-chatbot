@@ -1,0 +1,18 @@
+Định lý Schooten
+
+Trong lĩnh vực hình học, định lý Schooten là 1 kết quả được tìm ra bởi nhà toán học người Hà Lan Frans van Schooten và là 1 trường hợp suy biến của Định lý Pompeiu. Định lý được phát biểu như sau:
+"Cho tam giác đều ABC nội tiếp đường tròn tâm O. Lấy điểm M thuộc cung BC. Khi đó ta có:"
+formula_1
+Chứng minh.
+Lấy điểm B' thuộc AM sao cho MB=MB'(1).
+Suy ra tam giác BB'M cân tại M.
+Ta lại có: formula_2(cùng chắn cung AB)
+formula_3Tam giác BB'M đều formula_3formula_5
+Ta có: formula_6
+formula_7
+Lại có formula_8 (cùng chắn cung BM)
+và formula_9
+formula_10(2).
+Từ (1), (2) formula_11
+Vậy ta có điều phải chứng minh.
+

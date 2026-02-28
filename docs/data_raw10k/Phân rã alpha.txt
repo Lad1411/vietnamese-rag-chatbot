@@ -1,0 +1,11 @@
+Phân rã alpha
+
+Phân rã alpha hay Phân rã α là một loại phân rã phóng xạ trong đó một hạt nhân nguyên tử phát ra một hạt alpha và qua đó biến đổi (hay "phân rã") bị giảm cả số hiệu nguyên tử lẫn số neutron đi 2 đơn vị, còn số khối lượng bị giảm mất 4 đơn vị. Ví dụ:
+hay có thể viết là:
+Hạt alpha gồm hai proton và hai neutron liên kết với nhau thành một hạt giống hệt hạt nhân nguyên tử heli formula_1.
+Tia alpha là chùm của các hạt formula_1 bay ra với vận tốc khoảng 2*107 (m/s), đi được vài centimet trong không khí và vài micromet trong chất rắn.
+Lịch sử phát hiện.
+Các hạt alpha được Ernest Rutherford mô tả đầu tiên trong khảo sát về phóng xạ vào năm 1899 và đến năm 1907, và chúng được xác định là các ion He2+.
+Đến năm 1928 George Gamow đã giải quyết lý thuyết phân rã alpha thông qua hiệu ứng đường hầm. Hạt alpha bị hạt nhân giữ lại trong một hố thế năng. Về mặt kinh điển, nó bị cấm trốn thoát, nhưng theo các nguyên lý cơ học lượng tử mới được phát hiện (sau đó), nó có xác suất "đường hầm" nhỏ (nhưng vẫn khác không) xuyên qua hàng rào và xuất hiện ở phía bên kia để thoát khỏi hạt nhân. 
+Gamow đã giải một mô hình thế năng cho hạt nhân và dẫn xuất, theo các nguyên lý đầu tiên, mối quan hệ giữa chu kỳ bán rã của phân rã và năng lượng phát xạ, điều đã được phát hiện theo thực nghiệm trước đây và được gọi là định luật Geiger-Nuttall.
+

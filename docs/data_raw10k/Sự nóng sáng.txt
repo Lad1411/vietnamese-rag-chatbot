@@ -1,0 +1,11 @@
+Sự nóng sáng
+
+Sự nóng sáng là sự phát xạ bức xạ điện từ dưới dạng ánh sáng khả kiến từ một vật thể nóng do nhiệt độ cao.
+Sự nóng sáng là một trường hợp riêng của bức xạ nhiệt. Nó thường chỉ riêng bức xạ là ánh sáng nhìn thấy, trong khi bức xạ nhiệt gồm cả hồng ngoại và các bức xạ điện từ khác và có thể tới từ vật không nóng.
+Quan sát và sử dụng.
+Trong thực tế, hầu hết các chất rắn và chất lỏng bắt đầu phát sáng ở nhiệt độ gần , với một màu đỏ sẫm, bất kể có hay không xảy ra một phản ứng hóa học tạo ra ánh sáng do quá trình tỏa nhiệt. Giới hạn nhiệt độ này được gọi là điểm Draper. Ở dưới nhiệt độ đó, sự bức xạ nhiệt vẫn tồn tại, nhưng nó quá yếu trong phổ khả kiến để có thể nhận thấy được.
+Ở những nhiệt độ cao hơn, chất càng trở nên sáng hơn và màu của nó thay đổi từ đỏ đến trắng và cuối cùng là xanh lam.
+Sự nóng sáng được áp dụng trong các bóng đèn sợi đốt, trong đó một sợi đốt (hay dây tóc) được nung nóng tới một nhiệt độ mà tại đó một phần của lượng bức xạ nằm trong phổ ánh sáng khả kiến. Tuy nhiên, phần lớn còn lại của lượng bức xạ nằm trong vùng phổ hồng ngoại, khiến cho bóng đèn sợi đốt trở nên kém hiệu quả với vai trò là một nguồn sáng. Nếu sợi đốt có thể được nung nóng hơn nữa, hiệu suất sẽ tăng, nhưng hiện tại chưa có vật liệu nào có thể chịu một nhiệt độ như vậy mà phù hợp với sử dụng trong bóng đèn.
+Các nguồn sáng khác hiệu quả hơn, chẳng hạn đèn huỳnh quang và LED, không hoạt động dựa trên sự nóng sáng.
+Ánh sáng Mặt Trời là sự nóng sáng của bề mặt "nóng trắng" của Mặt Trời.
+

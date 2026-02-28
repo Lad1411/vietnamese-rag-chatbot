@@ -1,0 +1,7 @@
+Điện toán
+
+Điện toán () là hoạt động định hướng mục tiêu (goal-oriented activity) nào đó, có yêu cầu, hưởng lợi từ hoặc tạo ra một chu trình toán học được gọi là thuật toán thực hiện bằng máy tính hay còn gọi là máy điện toán. 
+Điện toán bao gồm thiết kế, phát triển và xây dựng hệ thống phần cứng và phần mềm thuộc máy điện toán; biên tập, tạo cấu trúc và quản lý các loại thông tin; nghiên cứu khoa học trên máy tính; làm cho hệ thống máy tính hoạt động thông minh; tạo ra và sử dụng phương tiện truyền thông và giải trí. Lĩnh vực điện toán bao gồm kỹ thuật máy tính, công nghệ phần mềm, khoa học máy tính, hệ thống thông tin và công nghệ thông tin.
+Liên kết ngoài.
+__CHỈ_MỤC__
+

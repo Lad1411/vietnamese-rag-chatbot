@@ -1,0 +1,9 @@
+Java API
+
+API Java, bao gồm trong JDK, mô tả chức năng của mỗi thành phần của nó. Trong lập trình Java, nhiều thành phần này được tạo ra và thường được sử dụng. Do đó, lập trình viên có thể áp dụng mã đã viết trước thông qua API Java. Sau khi tham khảo các lớp và gói API có sẵn, lập trình viên dễ dàng gọi các lớp mã hóa và gói cần thiết để triển khai.
+API là một thư viện các lớp, gói và giao diện Java có sẵn. Ba loại API như sau:
+Các API giúp lập trình xác định chức năng lớp, gói, các tham số và các thông tin cần thiết khác. API chính thức bao gồm các gói, ví dụ gói applet, đồ hoạ và gói swing GUI, gói đầu vào / đầu ra (IO) và Tóm tắt Windows Toolkit (AWT).
+Có ba khung khi API khởi động, như sau:
+Tham khảo.
+Danh sách các API đầy đủ: https://docs.oracle.com/javase/7/docs/api/
+

@@ -1,0 +1,19 @@
+Tích phân Wallis
+
+Trong toán học, và chính xác hơn là trong giải tích, tích phân Wallis là một tích phân liên quan đến một lũy thừa nguyên của hàm sin. Các tích phân Wallis được John Wallis giới thiệu, nhằm mục đích khai triển số thành một tích vô hạn các số hữu tỉ: tích Wallis.
+Định nghĩa.
+Các tích phân Wallis là các phần tử của một dãy số thực formula_1 xác định bởi: formula_2 hoặc tương đương (bằng cách đổi biến formula_3): formula_4. Các giá trị đầu tiên: 
+Dãy formula_5 là dương ngặt và giảm ngặt. Giới hạn của dãy bằng không.
+Quan hệ với các tích phân khác.
+Tích phân từng phần cho phép thiết lập mối quan hệ lặp lại: formula_6. Từ đây ta thu được các công thức tổng quát: formula_7.
+Tiệm cận dãy các tích phân Wallis.
+Các tích phân Wallis có thể được thể hiện qua các tích phân Euler:
+Biết rằng formula_10 và formula_11, ta có thể viết các tích phân Wallis dưới dạng: formula_12. Từ công thức lặp lại, ta có mối quan hệ tiệm cận: formula_13. Hệ quả: formula_14.
+Ứng dụng.
+Thiết lập công thức Stirling.
+Giả sử sự tồn tại một hằng số formula_15 sao cho: formula_16. Bằng cách thay thế các giai thừa trong biểu thức trên bằng các tích phân Wallis, ta có:
+So sánh với tiệm cận của tích phân Wallis thu được trước đó, ta có formula_18. Do đó, ta suy ra công thức Stirling:
+Tính.
+Từ formula_20, ta có formula_21. Mặt khác:
+Ta suy ra công thức tích Wallis:
+

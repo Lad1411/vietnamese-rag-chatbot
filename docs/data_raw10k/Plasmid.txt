@@ -1,0 +1,38 @@
+Plasmid
+
+Plasmid (phát âm IPA: /plæs mɪd/, tiếng Việt: plasmit) là phân tử DNA vòng, nhỏ, không mang hệ gen chính của bộ gen.
+Ở mỗi tế bào vi khuẩn thường có rất nhiều plasmid, nhưng chỉ định vị ngoài vùng nhân, còn vùng nhân chứa DNA-nhiễm sắc thể (hình 1).
+Ở sinh vật có nhân thực (eukaryote), plasmid cũng khá phổ biến, chẳng hạn:
+Kích thước plasmid thay đổi tuỳ loại, dao động trong khoảng một vài kbp đến hơn 400 kpb (kilobase pairs). Số lượng plasmid cũng rất thay đổi tuỳ loại và tuỳ tế bào chứa nó, thường có một vài cho tới vài trăm bản sao trong cùng một tế bào.
+Tuy plasmid là DNA vòng, nhưng chúng thường tồn tại ở dạng DNA siêu xoắn (hình 2).
+Tính kháng kháng sinh.
+Plasmid thường chứa các gene hay nhóm gene (gene-cassettes) mang lại một ưu thế chọn lọc nào đó cho tế bào vi khuẩn chứa nó, ví dụ như khả năng giúp vi khuẩn kháng kháng sinh. Mỗi plasmid chứa ít nhất một trình tự DNA có vai trò vị trí bắt đầu sao chép (ori hay "origin of replication"), mang lại cho plasmid khả năng tự sao chép độc lập với DNA nhiễm sắc thể (hình 3).
+Episomes.
+Thuật ngữ "episome" lần đầu xuất hiện do François Jacob và Élie Wollman đề câp đến vào năm 1958, để chỉ vật liệu di truyền ngoài nhiễm sắc thể có thể sao chép tự động hoặc tích hợp vào nhiễm sắc thể. Tuy nhiên, kể từ khi thuật ngữ này ra đời, việc sử dụng nó đã thay đổi, vì "plasmid" đã trở thành thuật ngữ ưa thích để chỉ DNA ngoại nhiễm sắc thể sao chép tự động. Tại một hội nghị chuyên đề năm 1968 ở London, một số người tham gia đề nghị bỏ thuật ngữ "episome", mặc dù những người khác vẫn tiếp tục sử dụng thuật ngữ này với sự thay đổi về nghĩa.
+Episomes là những plasmid có khả năng gắn xen vào DNA nhiễm sắc thể của sinh vật chủ (Hình 3). Nhờ khả năng này, chúng có thể tồn tại trong một thời gian dài, được sao chép cùng lúc với DNA nhiễm sắc thể khi tế bào phân chia, và trở thành một phần trong bộ máy di truyền của tế bào. Thuật ngữ này không còn được dùng cho plasmid, vì giờ đây người ta đã biết trình tự tương đồng (homology) với nhiễm sắc thể trên plasmid, như transposon, biến plasmid thành episome (giúp plasmid gắn xen vào nhiễm sắc thể).
+Vectors.
+Các plasmid nhân tạo có thể được sử dụng làm vector trong kỹ thuật di truyền. Các plasmid này đóng vai trò là công cụ quan trọng trong phòng thí nghiệm di truyền học và công nghệ sinh học, nơi chúng thường được sử dụng để sao chép và khuếch đại (tạo nhiều bản sao) hoặc biểu hiện các gen cụ thể. Nhiều loại plasmid có sẵn cho những mục đích sử dụng như vậy. Gen được sao chép thường được chèn vào một plasmid thường chứa một số tính năng để sử dụng. Chúng bao gồm một gen quy định khả năng kháng các loại kháng sinh cụ thể (ampicillin thường được sử dụng nhất cho các chủng vi khuẩn), một nguồn gốc sao chép để cho phép các tế bào vi khuẩn sao chép DNA plasmid và một vị trí thích hợp để nhân bản. (gọi là nơi nhân bản).
+Các loại plasmid.
+Một cách để phân nhóm các plasmid là dựa vào khả năng truyền sang vi khuẩn khác của chúng
+Plasmid "tiếp hợp" (conjugative) chứa các "tra-genes", giúp thực hiện một quá trình phức tạp gọi là "tiếp hợp" (conjugation), chuyển một plasmid sang vi khuẩn khác (hình 5).
+Plasmid "không tiếp hợp" là những plasmid không có khả năng tự thực hiện tiếp hợp, vì thế chúng chỉ có thể được chuyển sang một vi khuẩn khác khi có sự trợ giúp (ngẫu nhiên) của plasmid tiếp hợp.
+Còn có một nhóm plasmid trung gian gọi là nhóm "di chuyển được" (mobilisable). Chúng chỉ mang các gene cần thiết cho việc di chuyển. Những plasmid này có thể chuyển với tần suất cao khi có mặt một plasmid tiếp hợp.
+Nhiều loại plasmid khác nhau có thể cùng tồn tại trong một tế bào, đã có 7 plasmid khác nhau được tìm thấy trong E. coli. Mặt khác, những plasmid có họ hàng thường không thể cùng tồn tại - không tương hợp (incompatible), một trong số chúng sẽ bị loại khỏi tế bào. Vì thế, các plasmid còn được xếp vào các "nhóm không tương hợp" (incompatibility group), dựa vào khả năng cùng tồn tại của chúng trong một tế bào. Sự sắp xếp theo tính không tương hợp dựa vào cơ chế điều hòa những chức năng thiết yếu của plasmid.
+Một cách khác để phân loại plasmid là dựa vào chức năng. Có 5 nhóm chính:
+Một plasmid có thể thuộc một hoặc nhiều nhóm chức năng kể trên.
+Những plasmid chỉ hiện diện với một hoặc một số ít bản sao trong vi khuẩn, khi tế bào vi khuẩn phân chia, sẽ có nguy cơ bị dồn về một trong hai tế bào con và tế bào con còn lại không còn bản sao nào của plasmid này. Để tránh bị mất đi sau phân bào, những plasmid một bản sao có các cơ chế để chủ động phân phối mỗi bản sao về một tế bào con.
+Một số plasmid khác lại có cơ chế "gây nghiện". Những plasmid này sản xuất ra một loại độc chất có thời gian phân hủy dài và một chất kháng độc có thời gian phân hủy ngắn. Những tế bào con nào còn giữ được một bản sao của plasmid sẽ sống sót, trong khi những tế bào con mất plasmid sẽ chết hoặc giảm sức sống do độc chất vẫn còn trong tế bào mà khả năng tạo chất kháng độc (nằm trên plasmid) đã không còn. Đây là một ví dụ về plasmid như là "phân tử DNA ích kỉ" (selfish DNA).
+Các ứng dụng của plasmid.
+Plasmid đóng một vai trò quan trọng trong các phòng thí nghiệm di truyền và sinh hóa, nơi chúng được sử dụng để nhân bản hoặc biểu hiện các gene cần quan tâm. Có rất nhiều plasmid được thương mại hóa cho các ứng dụng trên. Đầu tiên, các gene cần quan tâm được gắn chèn vào plasmid. Plasmid này có chứa, ngoài gene quan tâm, một hay vài gene kháng kháng sinh. Plasmid này sau đó được đưa vào bên trong vi khuẩn bằng một quá trình gọi là biến nạp (transformation). Vi khuẩn sau đó được nuôi trên môi trường có chứa kháng sinh. Những vi khuẩn nhận được plasmid sẽ biểu hiện khả năng kháng kháng sinh (nhờ gene kháng kháng sinh nằm trên plasmid), do đó sống được trên môi trường nuôi cấy có chứa kháng sinh tương ứng. Kháng sinh trong môi trường, tuy nhiên, lại có khả năng tiêu diệt những vi khuẩn không nhận được plasmid vì chúng không mang gene kháng kháng sinh này. Nhờ vậy, vi khuẩn chứa plasmid được tách riêng ra, tăng sinh, thu lại và ly giải để phân lập plasmid.
+Một ứng dụng quan trọng khác của plasmid là tạo ra protein với số lượng lớn. Trong trường hợp này, vi khuẩn chứa plasmid mang gene mong muốn cũng được nuôi cấy và chúng sẽ được kích hoạt để sản xuất ra số lượng lớn protein từ gene mong muốn nằm trên plasmid. Đây là một phương pháp đơn giản và rẻ tiền để tạo ra một lượng lớn plasmid hoặc protein, như insulin hay cả các kháng sinh.
+Plasmid - yếu tố di truyền ngoài thể nhiễm sắc ở vi khuẩn.
+ Ở vi khuẩn và một số nấm men, ngoài các gen nằm trong genophore còn có các yếu tố di truyền ngoài thể nhiễm sắc, gọi là plasmid.
+ Plasmid là những phân tử DNA mạch kép dạng vòng nằm ngoài thể nhiễm sắc, có kích thước rất nhỏ, có khả năng tự nhân lên độc lập với tế bào và được phân sang các tế bào con khi nhân lên cùng với tế bào.
+ Số lượng plasmid trong tế bào phụ thuộc vào các yếu tố như nhiệt độ, chất kháng sinh, các chất dinh dưỡng …
+ Các plasmid có thể ở trạng thái cài vào thể nhiễm sắc, có khả năng tiếp hợp hoặc không, có thể có một hoặc nhiều bản sao cùng loại trong một tế bào.
+ Các plasmid không phải là cấu tạo bắt buộc của tế bào nhưng sự có mặt của plasmid đem lại cho tế bào nhiều đặc tính quý như có thêm khả năng phân giải một số hợp chất, chống chịu với điều kiện nhiệt độ bất lợi, chống chịu với các chất kháng sinh…
+ Trong công nghệ sinh học, người ta sử dụng plasmid làm vectơ để chuyển ghép gen từ tế bào cho sang tế bào nhận, từ đó nhân dòng tạo ngân hàng genophore hoặc cho gen biểu hiện thu sản phẩm protein có hoạt tính sinh học.
+Cấu hình.
+Khi chạy điện di (electrophoresis), DNA plasmid có thể xuất diện dưới 5 dạng cấu hình như sau:
+Độ linh động điện di tương đối của các loại cấu hình này trên gel như sau:
+

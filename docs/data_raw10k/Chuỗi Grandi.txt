@@ -1,0 +1,25 @@
+Chuỗi Grandi
+
+1-1+1-1+...là một chuỗi vô hạn được đặt tên theo nhà toán học và triết học và linh mục Ý Guido Grandi, người đã giải chuỗi này trong năm 1703.Sử dụng ký hiệu tổng sigma ta có thể biểu diễn chuỗi như sau:
+formula_1
+Chuỗi trên là chuỗi phân kỳ, nhưng có thể tính tổng cesàro được.
+Các phương pháp không chính xác.
+Một cách để tính giá trị của chuỗi
+là coi chuỗi này là chuỗi lồng nhau rồi tính các phép trừ trước
+Tuy nhiên, nểu ta dùng cách đặt dấu ngoặc khác như sau sẽ cho kết quả khác
+Như vậy, tùy theo cách ta đặt dấu ngoặc trong chuỗi Grandi, "giá trị" nhận về có thể là 0 hoặc 1. (Biến thể của ý tưởng này, được gọi là cú lừa của Eilenberg-Mazur, được dùng trong lý thuyết nút thắt và đại số.
+Mặt khác nếu ta coi chuỗi như một chuỗi cấp số nhân phân kỳ và dùng các phương pháp đại số như với chuỗi cấp số nhân hội tụ, ta được giá trị thứ ba
+=&gt; "S" = .
+Do bản chất của việc ta có thể đặt dấu ngoặc tùy ý và tính trực tiếp trên chuỗi, một trong hai kết luận có thể đưa ra là
+Quan hệ với chuỗi cấp số nhân.
+Với bất kỳ số formula_2 trong khoảng formula_3, tổng chuỗi cấp số nhân có thể tính qua
+Với bất kỳ formula_5, ta đổi được thành
+và do đó giới hạn khi formula_7 của chuỗi là
+Tuy nhiên, như đã nói, chuỗi sau khi đổi hai giới hạn với nhau
+sẽ tạo thành chuỗi phân kỳ.
+Nếu xét trong giải tích phức, formula_10 được thấy tại điểm formula_11 trong thác triển giải tích của chuỗi formula_12, duy nhất được định nghĩa trên đĩa đơn vị phức, formula_13.
+Tính phân kỳ.
+Trong toán học hiện đại, tổng của một chuỗi vô hạn được định nghĩa là giới hạn của tổng riêng, nếu nó tồn tại. Chuỗi các tổng một phần của chuỗi Grandi là không chạy gần đến một giá trị nào (tuy nó có hai điểm giới hạn là 0 và 1). Do đó chuỗi Grandi là chuỗi phân kỳ.
+Có thể chứng minh được rằng không thể tính được tổng của chuỗi Grandi khi thực các thao tác vô hại trên chuỗi, ví dụ như sắp xếp lại các phần tử, trừ phi chuỗi hội tụ tuyệt đối. Nếu không, các phép đổi có thể làm thay giá trị chuỗi. Hơn nữa, chuỗi Grandi có thể được sắp xếp lại sao cho điểm giới hạn có thể là 2 hoặc nhiều hơn, không chỉ là 0 hoặc 1. Chẳng hạn chuỗi
+(Trong đó, sau 5 phần tử +1, chuỗi dao động giữa các cặp +1 and −1) là hoán vị của chuỗi Grandi trong đó mỗi phần tử trong chuỗi tương ứng với một giá trị cách tối đa 4 vị trí so với giá trị trong chuỗi ban đầu; các điểm giới hạn của nó là 3, 4, và 5.
+

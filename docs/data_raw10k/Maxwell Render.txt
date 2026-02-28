@@ -1,0 +1,51 @@
+Maxwell Render
+
+Maxwell Render là một phần mềm hỗ trợ tạo ảnh như thật từ dữ liệu mô hình 3 chiều trên máy tính. Nó đã được giới thiệu như một phiên bản alpha từ tháng 12 năm 2004 (sau 2 năm phát triển nội bộ) và áp dụng một giải thuật GI dựa trên một biến thể của phương pháp metropolis light transport. Maxwell Render đã nằm trong số những ứng dụng được phổ biến rộng rãi đầu tiên của kỹ thuật kết xuất không thiên vị và giải thuật GI của nó đã được liên kết trực tiếp tới một mô hình camera vật lý để cung cấp một trải nghiệm kết xuất đơn giản nơi mà người dùng không bị đòi hỏi phải cặm cụi hiệu chỉnh các tham số chiếu sáng, mà các kỹ thuật như dò tia (ray tracing) và quét dòng (scanline) thường yêu cầu. Maxwell Render đã được phát triển nguyên gốc ở Madrid - dựa trên Next Limit Technologies được thành lập năm 1998 bởi các kỹ sư Victor Gonzalez và Ignacio Vargas.
+Maxwell Render chỉ là phần mềm để kết xuất, với ý nghĩa phải dùng những phần mềm 3D khác để xây dựng mô hình 3D.
+Các thành phần của phần mềm.
+Bản alpha đầu tiên ra mắt ngày 4 tháng 12 năm 2004; bản RC đầu tiên ra mắt 2 tháng 12 năm 2005. The latter marked also the first appearance of MXST and MXED.
+Những bản phát hành sau này:
+Phiên bản hiện tại là 2.7.
+Danh sách các đặc điểm.
+Các đặc điểm của nhân.
+RS1: Bộ máy kết xuất mặc định
+RS0: Bộ máy kết xuất xem trước (sử dụng cho khung nhìn và xem trước vật liệu)
+Hệ thống sẽ tính toán trên cơ sở bước sóng
+Hiệu chỉnh (cho một tiêu cự chính xác nào đó) để tương ứng với các giá trị của Camera vật lý
+Tốc độ khe chớp (điều chỉnh phơi sáng và độ mờ chuyển động)
+F-stop (điều chỉnh phơi sáng và độ sâu trường nhìn)
+Thiết lập ISO (điều chỉnh phơi sáng mà không tạo nhiễu cho phim)
+Độ sâu trường nhìn (DoF) (là tiêu chuẩn và không thể bỏ qua, cũng như camera thật)
+Độ dài tiêu cự (cũng tác động tới DoF)
+Film Back size (cũng tác động tới DoF; trong sự phối hợp với độ dài tiêu cự và khoảng cách)
+Màn ngăn (Diaphragm) (Tròn, hoặc là đa giác với số cạnh và góc của quá trình xoay)
+Rotary Disk Shutter (shutter angle and FPS)
+Độ chuyển dời ống kính (Shift Lens)
+Mặt phẳng Z-clip (Đây là một chức năng mang tính chất đồ họa máy tính (không có thật) cho phép camera chụp hoặc nhìn vào bên trong vật thể qua một mặt cắt) 
+Vĩ độ Trái đất
+Kinh độ Trái đất
+Ngày trong năm
+Thời điểm trong ngày
+Hệ thống giờ GMT tùy biến
+Hệ thống giờ GMT tự động (tự hiệu chỉnh động, dựa trên biểu đồ múi giờ nội tại, như khi người dùng xoay mô hình giao diện toàn cầu)
+Các thiết lập trước theo địa điểm (Một lượng lớn các quốc gia có trong danh sách thiết lập trước)
+Sự xoay cực Bắc tương đối với mô hình của người dùng
+Nhập dữ liệu xml của Google (dựa trên cơ sở kinh/vĩ độ)
+Phát sinh mô hình bầu trời rõ ràng dựa theo thời điểm trong ngày, các thông số:
+Độ đục khí quyển
+Tầng Ozone
+Mực nước biển
+Các kênh kết xuất (Mặc định. Chứa hình ảnh chính.)
+Kênh Alpha
+Kênh chỉ số vật liệu
+Kênh bộ đệm trục Z
+Kênh bóng đổ
+Kênh chắn sáng
+Kênh chỉ số đối tượng
+Chiếu sáng trực tiếp
+Chiếu sáng gián tiếp
+Tụ quang phản xạ trực tiếp
+Tụ quang khúc xạ trực tiếp
+Tụ quang phản xạ gián tiếp
+Tụ quang khúc xạ gián tiếp
+

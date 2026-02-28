@@ -1,0 +1,4 @@
+Phản ứng acid-base
+
+Một phản ứng acid–base là một phản ứng hóa học xảy ra giữa một acid và một base. Nhiều mô hình cho một định nghĩa rõ ràng về cách hoạt động của phản ứng hóa học và ứng dụng của chúng trong việc giải quyết những vấn đề có liên quan; những mô hình này được gọi là thuyết acid-base, ví dụ như là thuyết acid-base Brønsted–Lowry. Tầm quan trọng của chúng hiện rõ trong việc phân tích các phản ứng acid–base với dạng khí và dạng lỏng, hoặc là để phân biệt tính acid hay là tính base yếu hơn. Những định nghĩa này được đề ra lần đầu tiên bởi nhà hóa học người Pháp Antoine Lavoisier, vào khoảng năm 1776.
+

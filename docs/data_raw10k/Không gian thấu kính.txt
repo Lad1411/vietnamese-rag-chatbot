@@ -1,0 +1,8 @@
+Không gian thấu kính
+
+Trong toán học, một không gian thấu kính là một không gian tôpô. Nó là một đa tạp ba chiều.
+Có một phân loại đầy đủ các không gian thấu kính ba chiều, theo nhóm cơ bản và xoắn Reidemeister.
+Định nghĩa.
+Các không gian thấu kính ba chiều formula_1 là thương của formula_2 bởi các tác động của formula_3. Chính xác hơn, gọi formula_4 và formula_5 là hai số nguyên tố cùng nhau và xét formula_6 như là hình cầu đơn vị trong formula_7. Ta có một tác động của formula_8 lên formula_2 được cho bởi
+Đây là một tác động tự do. Không gian thương kết quả được gọi là không gian thấu kính formula_1.
+

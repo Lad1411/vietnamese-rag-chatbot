@@ -1,0 +1,12 @@
+Trò chơi Cuộc sống của Conway
+
+ 
+Game of life hay còn gọi là Life (Cuộc sống) là bài toán thuộc lĩnh vực cellular automaton được đưa ra bởi John Horton Conway vào năm 1970.
+Đây là một trò chơi mà không có người chơi. Sự tiến hóa của trò chơi được xác định bởi trạng thái ban đầu, và không cần thêm đầu vào nữa.
+Luật chơi.
+Là mạng lưới các ô (tế bào) tạo nên một không gian hai chiều không giới hạn. Trạng thái của ô: sống hoặc chết. Mỗi tế bào sẽ tương tác với tám hàng xóm (tế bào liền kề).
+Trạng thái tiếp theo của ô được quyết định theo quy tắc:
+Mẫu ban đầu là mầm của hệ thống. Thế hệ đầu tiên được tạo ra bằng cách áo dụng luật trên cho tất cả mọi tế bào trong hạt giống. Sự sống và chết có thể xảy ra đồng thời, và mỗi một thế hệ mới được tạo ra là một hàm thuần túy của thế hệ trước đó.
+Nguyên mẫu.
+Cuối năm 1940, John von Neumann định nghĩa Life như một tạo phẩm có thể tự tái sản xuất và tương tự với một máy Turing.
+

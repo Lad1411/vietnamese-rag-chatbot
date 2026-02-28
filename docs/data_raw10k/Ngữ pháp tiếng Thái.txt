@@ -1,0 +1,16 @@
+Ngữ pháp tiếng Thái
+
+Tiếng Thái là một ngôn ngữ đơn lập, tương tự nhiều ngôn ngữ khác ở Đông Nam Á và Đông Á. Giống như những ngôn ngữ khác trong khu vực, ngữ pháp tiếng Thái theo cấu trúc thứ tự chủ ngữ-động từ-tân ngữ, yếu tố chính-yếu tố bổ nghĩa ("head-initial"), và có một hệ thống lượng từ để đếm danh từ. Thứ tự từ cơ bản trong tiếng Thái thường theo quy tắc với mọi câu đều có cấu trúc "chủ ngữ-động từ-tân ngữ" giống như tiếng Việt và tiếng Anh.
+Động từ.
+Động từ trong tiếng Thái không bị biến đổi để chỉ thì, số lượng... như tiếng Anh, do đó không có dạng số nhiều của động từ. Cũng không có việc phải chia động từ cho ngôi ngữ pháp. Không có từ hay yếu tố ngữ pháp trong tiếng Thái chỉ dạng hoàn thành hay không hoàn thành của động từ. Thì quá khứ được biểu thị bằng việc thêm vào một từ chỉ thời gian riêng biệt. Khi một động từ được lặp lại, hành động mà động từ đó thể hiện được nhấn mạnh.
+Danh từ.
+Danh từ trong tiếng Thái không có giống ngữ pháp như tiếng Pháp. Tiếng Thái không có dạng số nhiều liên quan của danh từ. Trong việc xây dựng một cụm danh từ, "và" khác với "với". Một số danh từ nhất định lặp lại để tạo dạng số nhiều, ví dụ เด็ก "dek" (đứa trẻ) được lặp lại là เด็ก ๆ "dek dek" để chỉ một nhóm những đứa trẻ.
+Tính từ và trạng từ.
+Không có sự khác biệt về hình thái giữa danh từ và trạng từ trong tiếng Thái. Nhiều từ có chứng năng của cả hai. Tính từ có thể đóng vai trò theo hai cách khác nhau. Chúng có thể là một thuộc ngữ ("attributive"), đóng vai trò để bổ nghĩa danh từ để hình thành cụm danh từ. Trong trường hợp này chúng ở trước danh từ chúng bổ nghĩa. Tính từ có thể đóng vai trò bổ nghĩa cho vị ngữ.
+Mạo từ.
+Trong tiếng Thái không có mạo từ như "the" hay "a" trong tiếng Anh.
+Sở hữu cách.
+Sở hữu cách trong tiếng Thái được thể hiện bằng các thêm từ "khong" trước danh từ hay đại từ, nhưng nó thường bị bỏ qua.
+Dạng cách.
+Tiếng Thái không sở hữu các yếu tố đánh dấu hình thái của dạng cách ("case").
+

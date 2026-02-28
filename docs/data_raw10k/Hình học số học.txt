@@ -1,0 +1,8 @@
+Hình học số học
+
+Trong toán học, hình học số học đại khái là ứng dụng các kỹ thuật từ hình học đại số vào các vấn đề trong lý thuyết số. Hình học số học tập trung vào hình học Diophantine, nghiên cứu các điểm hữu tỷ của các đa tạp đại số.
+Theo thuật ngữ trừu tượng hơn, hình học số học có thể được định nghĩa là nghiên cứu các sơ đồ loại hữu hạn trên phổ của vành số nguyên.
+Tổng quan.
+Các đối tượng cổ điển được hình học số học đề cập đến là các điểm hữu tỷ: tập hợp nghiệm của một hệ phương trình đa thức trên các trường số, trường hữu hạn, trường p-adic hoặc trường hàm số đại số, tức là các trường không đóng đại số trừ các số thực. Điểm hữu tỷ có thể được đặc trưng trực tiếp bởi các hàm [[chiều cao]] đo độ phức tạp số học của chúng.
+Cấu trúc của các đa tạp đại số được xác định trên các trường không đại số đã trở thành một lĩnh vực quan tâm nảy sinh với sự phát triển trừu tượng hiện đại của hình học đại số. Trên các lĩnh vực hữu hạn, cohomology étale cung cấp các bất biến tôpô liên quan đến các đa tạp đại số. Lý thuyết Hodge p-adic cung cấp các công cụ để kiểm tra khi các đặc tính chung của các đa tạp này trên các số phức mở rộng đến các trường trên các trường p-adic.
+

@@ -1,0 +1,6 @@
+Băng tần
+
+Băng tần là một khoảng trong miền tần số, xác định bởi tần số thấp và tần số cao. Thuật ngữ này có thể đề cập đến tần số vô tuyến hoặc phổ.
+Dải tần số của một hệ thống là phạm vi mà nó cung cấp hiệu suất tốt nhất, chẳng hạn như mức tín hiệu hữu ích với độ méo chấp nhận được. Ngoài phạm vi này là dải tàn số không hữu dụng.
+Nhiều hệ thống được đặc trưng bởi dải tần số mà chúng đáp ứng. Nhạc cụ phát ra nhiều nốt nhạc khác nhau nằm trong tần số tai người có thể nghe được. Phổ điện từ có thể được chia thành nhiều dải như ánh sáng, hồng ngoại hoặc bức xạ tử ngoại, sóng radio, tia X, v.v..., và mỗi dải này có thể chia thành nhiều dải nhỏ hơn. Tín hiệu liên lạc vô tuyến sử dụng một dải tần số mang phần lớn năng lượng của nó, được gọi là băng thông. Băng tần có thể được mô tả như một hoặc nhiều kênh liên lạc. Phân bổ dải tần số vô tuyến cho các mục đích sử dụng khác nhau là chức năng chính của việc phân bổ phổ tần số.
+

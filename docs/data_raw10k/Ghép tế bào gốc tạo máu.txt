@@ -1,0 +1,95 @@
+Ghép tế bào gốc tạo máu
+
+Ghép tế bào gốc tạo máu hay thường được gọi ngắn gọn là ghép tủy là một phương pháp điều trị bệnh được ứng dụng nhiều trong ngành huyết học và ung thư học. Phương pháp này thực hiện quá trình cấy ghép tế bào gốc tạo máu lấy từ tủy xương hoặc từ máu ghép vào cơ thể người bệnh để chữa các bệnh lý huyết học, bệnh lý miễn dịch, di truyền và một số bệnh lý ung thư khác.
+Lịch sử ngành ghép tủy.
+Ngành ghép tủy thực sự phát triển bắt đầu sau sự bùng nổ của năng lượng và vũ khí hạt nhân năm 1945. Mặc dù trước đó đã có một vài nỗ lực của trong việc dùng tủy xương của người hiến đưa vào cơ thể người nhận là những bệnh nhân bị thiếu máu hay ung thư máu bằng đường uống, tiêm bắp hay truyền tĩnh mạch.
+Vào thời điểm này, ngành ghép tủy bắt đầu được nghiên cứu nhiều vì xuất hiện những bệnh nhân bị các bệnh lý máu ác tính do phơi nhiễm phóng xạ iôn hóa.
+Chúng ta có thể lược lại một số mốc quan trọng của ngành ghép tủy:
+Quy trình ghép tủy.
+Chuẩn bị trước ghép tủy.
+Lựa chọn người cho tủy – Phức hợp phù hợp mô chính MHC.
+Phức hợp phù hợp mô chính hay còn gọi là kháng nguyên bạch cầu người HLA.
+Phức hợp này bao gồm một nhóm gene nằm trên nhánh ngắn của nhiễm sắc thể số 6, gồm ba loại gene, tạo ra các kháng nguyên hệ HLA, gồm hai loại chính:
+Các kháng nguyên lớp I được xác định bằng phương pháp huyết thanh học nên được gọi là kháng nguyên SD (Serum determined). Còn các kháng nguyên HLA-D được xác định bằng phản ứng nuôi cấy bạch cầu hỗn hợp
+Các bạch cầu lymphô thường mang cả hai loại kháng nguyên trên. Một số lớn các tế bào khác chỉ mang kháng nguyên lớp I tức kháng nguyên SD. 
+Kháng thể HLA xuất hiện chủ yếu do truyền máu, mang thai, ghép tổ chức hay do tiêm truyền bạch cầu ở những người tình nguyện. 
+Sự khác biệt kháng nguyên hệ HLA của cơ thể cho và nhận càng lớn thì hiện tượng thải ghép xảy ra càng nhanh. Do đó muốn mảnh ghép sống lâu trong cơ thể thì cần có sự giống nhau về kháng nguyên HLA của cơ thể cho và nhận. Thực tế khó xảy ra trừ khi người cho và nhận là anh chị em sinh đôi một trứng.
+Điều trị trước ghép tủy.
+Trong ghép tạng phải có sự ức chế miễn dịch mạnh ở người nhận để ngăn ngừa thải ghép. Ức chế miễn dịch phải dùng suốt đời bởi sự dung nạp miễn dịch không bao giờ đạt được. Trong ghép tủy xương, ngoài ức chế miễn dịch cần phải tạo nên các khoảng trống trong tủy để các tế bào ghép trú ngụ và sinh sản. Điều này có được bằng điều trị diệt tủy. 
+Hóa trị liều cao trước ghép tủy, các nhóm thuốc thường dùng như alkylating, etoposide, cytarabine... và có thể cả xạ trị toàn thân. Hiện chưa có sự thống nhất rằng phác đồ nào hiệu quả hơn và được dung nạp tốt hơn phác đồ nào.
+Xạ trị toàn thân vai trò cũng chưa rõ ràng và thường được dùng trong lymphôm nguyên bào miễn dịch và lymphôm grad thấp. 
+Chọn lựa nguồn lấy tế bào gốc ,.
+- Tế bào gốc từ tủy tự thân: 
+Tế bào gốc được lấy từ tủy xương của chính người bệnh.
+Phương pháp này có bất lợi là có thể bị nhiễm tế bào bướu. Đa số các tác giả cho rằng tái phát ở những bệnh nhân ghép tủy tự thân là do sự nhiễm tế bào bướu trong tủy ghép và do các tế bào bướu còn sót lại trong tủy xương bệnh nhân trước khi ghép tủy. Đã có nhiều cách nhằm loại bò tế bào bướu khỏi mẫu tủy ghép. Chẳng hạn kháng thể đơn dòng chống tế bào lymphô B đã được dùng để loại tế bào bướu trong ghép tủy tự thân ở bệnh nhân lymphôm không Hodgkin tế bào lymphô B. 
+Phương pháp loại tế bào bướu thường được dùng nhất hiện nay là phương pháp dùng kỹ thuật từ miễn dịch (immunomagnetic) với kháng thể đơn dòng để lựa chọn các tế bào gốc có CD 34(+). Ngoài ra, còn có thể kết hợp thêm kháng thể đơn dòng khác để lựa chọn tế bào có CD 34(+) và Thy-1 (+), phương pháp này đã được ứng dụng trong ghép tủy ở bệnh nhân ung thư vú, đa u tủy và lymphôm.
+- Tế bào gốc từ máu ngoại vi: 
+Tế bào gốc cũng có thể có trong máu ngoại vi. Bằng các phương pháp huy động tế bào gốc sau đó chiết tách tế bào gốc bằng các máy tách tế bào. Đây cũng là một nguồn cung cấp tế bào gốc nhất là ở những bệnh nhân đã có tiền căn xạ trị vùng chậu, bệnh nhân mà tế bào tủy xương có nguy cơ bị nhiễm tế bào bướu hoặc khi quá trình nuôi tế bào gốc từ tủy xương thất bại.
+- Tế bào gốc từ tủy dị thân: 
+Tế bào gốc tạo máu được lấy từ tủy của người cho tủy khỏe mạnh. Ghép tủy dị thân được lợi là không bị nhiễm tế bào bướu, đồng thời tác dụng mảnh ghép chống bướu có thể mang lợi ích diệt trừ tế bào ung thư. Tuy nhiên bù lại sự không tương hợp miễn dịch giữa mảnh ghép và người nhận có thể gây nhiều biến chứng chết người. Những biện pháp để ức chế miễn dịch, hạn chế hiện tượng này như hóa trị liều cao, xạ trị, dùng thuốc ức chế miễn dịch ở người nhận và dùng tủy ghép đã được loại tế bào lymphô T, hoặc dùng kháng thể đơn dòng chống tế bào T.
+Hiện nay, với các bệnh lý lành tính như hội chứng xơ tủy, thiếu máu bất sản, và nhiều loại bệnh lý rối loạn tăng sinh tủy, cũng như những rối loạn bẩm sinh thì chỉ ghép tủy tự thân được ứng dụng. Tuy nhiên với các bệnh lý ác tính của hệ tạo huyết, thì ghép tủy tự thân và dị thân đều được ứng dụng. Nhìn chung ghép tủy dị thân cho kết quả tốt hơn trong việc kiểm soát bệnh với sự giảm đáng kể tỉ lệ tái phát. Ngược lại, những biến chứng của việc ghép tủy dị thân như bệnh lý mảnh ghép chống chủ, độc tính, nhiễm trùng đã ảnh hưởng đáng kể lên kết quả sống còn.
+Các phương pháp huy động tế bào gốc tạo máu (đối với tế bào gốc lấy từ máu ngoại biên).
+Hóa trị ức chế tủy.
+Là một trong những phương pháp được thực hiện đầu tiên. Ở giai đoạn phục hồi sau hóa trị ức chế tủy, lượng tế bào gốc ra máu ngoại biên có thể tăng lên 14 – 100 lần.
+Phương pháp này có một số bất lợi: kéo dài thời gian điều trị, độc tính cao, gây giảm bạch cầu, giảm tiểu cầu, … Và ở một số bệnh nhân, sau khi hóa trị không ghi nhận thấy tình trạng tăng hoặc tăng rất ít tế bào gốc ở máu ngoại vi, nhất là ở bệnh nhân bị xâm nhập tủy.
+Hiện nay, với việc sử dụng các yếu tố kích thích tăng trưởng tế bào gốc thì phương pháp này không còn được sử dụng rộng cũng như không được sử dụng đơn độc để huy động tế bào gốc nữa.
+Dùng các yếu tố kích thích tăng trưởng tế bào gốc đơn thuần.
+Một số thuốc đã được dùng để huy động tế bào gốc ra máu ngoại biên: G-CSF, GM-CSF, interleukin-3, SCF (stem cell factor)…
+Hiện G-CSM là thuốc thường được dùng nhất vì hiệu quả và ít độc tính. Một số thuốc khác mới hơn đang được nghiên cứu như AMD3100. AMD 3100 là chất đối vận lên thụ thể chemokine CXCR4 có ở tế bào bạch cầu. Một số nghiên cứu gần đây cho thấy AMD3100 có tác dụng hiệp đồng với G-CSF.
+Biến chứng sau ghép tủy,.
+Sớm: trong vòng 100 ngày sau ghép tủy.
+Với việc sử dụng nguồn tế bào gốc từ tế bào máu ngoại vi, thu ngắn thời gian hồi phục tế bào tủy, tế bào máu, vì thế làm giảm đáng kể các biến chứng sớm. Thời gian hồi phục thu ngắn làm giảm sử dụng kháng sinh, giảm nuôi ăn bằng đường truyền tĩnh mạch, giảm truyền máu và giảm thời gian nằm viện. Các thuốc tăng trưởng tế bào như G-CSF thường được dùng trong ghép tủy tự thân có vẻ làm gia tăng quá trình hồi phục của dòng BC trung tính một cách vừa phải.
+Sau ghép tủy dị thân gặp nhiều khó khăn hơn. Ở nhiều trung tâm, tế bào gốc từ máu ngoại vi thường được dùng khi người hiến tủy là chị em ruột của bệnh nhân. 
+"Viêm niêm mạc và dinh dưỡng": viêm niêm mạc đường tiêu hóa gặp ở hầu hết những bệnh nhân ghép tủy, đặc biệt ở những bệnh nhân được xạ trị toàn thân hoặc được điều trị methotrexate phòng ngừa bệnh lý mảnh ghép chống chủ. Điều trị chủ yếu là súc miệng, kết hợp dùng kháng sinh phòng ngừa. Giảm đau chủ yếu là tại chỗ, đôi khi phải dùng giảm đau đường tiêm truyền.
+"Chảy máu": những bệnh nhân ghép tủy có nguy cơ cao bị chảy máu, tuy nhiên đa phần xuất huyết ở những bệnh nhân ghép tủy không thường gặp và có thể kiểm soát được bằng các cách thông thường như xuất huyết dạng chấm, chảy máu mũi, nặng hơn có thể xuất huyết dạ dày, xuất huyết đường sinh dục tiết niệu. Tuy nhiên những xuất huyết này có thể kiểm soát được bằng truyền tiểu cầu.
+"Nhiễm trùng": do tổn thương hàng rào bảo vệ là da niêm mạc và giảm bạch cầu. Để giảm biến chứng này, nhiều trung tâm đã thực hiện việc truyền globulin miễn dịch cho bệnh nhân sau ghép tủy.
+Nhiễm vi trùng rất thường gặp trong thời gian đầu sau ghép tủy và tác nhân chủ yếu là gram (+), mặc dù gram (-) cũng có thể gặp. Cụ thể là nhóm staphylococcus, streptococuss viridans, trực khuẩn gram (-). Cũng có thể nhiễm Haemophilus Influenza, nhưng thường gặp muộn hơn, khoảng tháng thứ 2-3 sau ghép tủy, và gặp ở bệnh nhân bị bệnh mảnh ghép chống chủ cấp.
+Theo nhiều tác giả, nguy cơ gia tăng không phải do tình trạng giảm BC mà nguồn bệnh xuất phát từ các đường tiêm truyền mà chủ yếu là catheter tĩnh mạch và do tổn thương hang rào da niêm xảy ra trong quá trình chuẩn bị trước ghép tủy.
+"Nhiễm nấm": thực sự nguy hiểm cho bệnh nhân sau ghép tủy, đặc biệt nhiễm Aspergilus xâm lấn. Candida và Aspergilus là hai tác nhân thường gặp, tuy nhiên còn nhiều tác nhân khác.
+"Nhiễm virus": trong giai đoạn sớm sau ghép tủy thì virus thường gặp là Herpes Simplex Virus, virus á cúm. Nhóm Cytomegalo Virus cũng thường gặp, thường khoảng tháng thứ 2-3 sau ghép tủy.
+"Bệnh mảnh ghép chống chủ cấp": vẫn còn là biến chứng nghiêm trọng và là thách thức cho ghép tủy. Nguyên nhân là sự xung đột miễn dịch giữa tế bào lymphô T của tủy người hiến với mô của cơ thể người nhận, trong điều kiện hệ miễn dịch của người nhận tủy ghép bị ức chế đủ mạnh để không xảy ra phản ứng ngược lại giữa tế bào miễn dịch người nhận với mảnh tủy được ghép. Theo định nghĩa phản ứng này xảy ra trong 100 ngày sau ghép tủy, biểu hiện đầu tiên ở da, đường tiêu hóa và gan. Phòng ngừa bằng cách dùng thuốc ức chế miễn dịch. Thuốc thường dùng là cyclosporine và methotrexate. Tacrolimus (FK506) cũng được sử dụng để phòng ngừa phản ứng này. Một cách khác để phòng ngừa phản ứng này là loại bỏ tế bào lymphô T trong tủy người hiến trước khi ghép cho người nhận. Tuy nhiên, ngược lại, việc loại bỏ tế bào lymphô T thì làm tăng nguy cơ thải ghép và nguy cơ tái phát cho bệnh nhân. Bệnh nhân nhận tủy ghép đã loại bỏ tế bào T cũng gia tăng nguy cơ bị các nhiễm trùng cơ hội. Quan niệm gần đây là chỉ loại bỏ lymphô T ở một mức độ nào đó thôi.
+Điều trị đầu tiên cho bệnh mảnh ghép chống chủ là corticoid thường dùng là glucocoticoid.
+"Thuyên tắc tĩnh mạch": thuyên tắc tĩnh mạch gan là một biến chứng nguy hiểm dễ gây tử vong, thường xuất hiện trong 1 tháng sau ghép tủy, gặp cả trong ghép tủy tự thân và ghép tủy dị thân. Triệu chứng điển hình là tăng cân không rõ nguyên nhân, vàng da, gan to, đau bụng và báng bụng. Khi diễn tiến nặng, có thể ảnh hưởng lên não, suy thận, tổn thương phổi và suy đa cơ quan.
+Những bệnh nhân có tiền căn viêm gan siêu vi B hoặc C là những người có nguy cơ cao bị biến chứng này. Những bệnh nhân bị mức độ nhẹ và trung bình có thể hồi phục lại chức năng gan và hiến khi để lại những di chứng mãn tính lên gan.
+Điều trị biến chứng này còn chưa thống nhất. Một số nghiên cứu cho thấy dùng heparin và rTPA (recombinant Tissue-plasminogen activator) cải thiện ở một số bệnh nhân nhưng ngược lại làm tăng nguy cơ xuất huyết.
+"Biến chứng lên phổi": là một biến chứng thường gặp cả trong ghép tủy tự thân và ghép tủy dị thân. Nguyên nhân có thể do nhiễm trùng, do hóa trị, chảy máu, hoặc đôi khi nguyên nhân không rõ. Viêm phổi mô kẽ gặp ở khoảng 10-15% bệnh nhân. Nguy cơ cao ở bệnh nhân lớn tuổi và bệnh nhân có xạ trị vào phổi trước đó. Viêm phổi kẽ vô căn có thể điều trị bằng corticoid và có đáp ứng khá tốt. Biến chứng này thường gặp ở ngày thứ 20-60 sau ghép tủy.
+Muộn sau 100 ngày.
+"Bệnh mảnh ghép chống chủ mãn"
+Trong khoảng giữa thập kỷ 70, những ca dị ghép tủy xương từ tủy của người hiến là anh chị em cùng huyết thống đã phù hợp kháng nguyên HLA, bệnh nhân có những biểu hiện bệnh lý ở da, miệng, nhãn cầu, ruột, gan và mô phổi. Nhiều bệnh nhân biểu hiện với những tổn thương nặng nề ở da, xơ cứng mô dưới da, dễ nhiễm trùng. Bệnh lý này diễn ra với nhiều biểu hiện của hiện tượng tự miễn.
+Mãn khi những biểu hiện của bệnh xảy ra sau từ ngày thứ 100 trở đi. Biểu hiện của bệnh thường rộng, toàn thân gồm các biểu hiện ở da, đường tiêu hóa, gan, hô hấp.
+Biểu hiện da có thể tương tự như những rối loạn tự miễn như xơ cứng bì, viêm da cơ, da xơ cứng, tróc vẩy, teo da, teo đét móng tay móng chân, rụng tóc. Ở đường tiêu hóa, loét niêm mạc miệng, thực quản, rối loạn hấp thu. Ở gan thì tăng men gan, nghẽn mật trong gan, xơ gan. Khô các tuyến ngoại tiết, nhiễm trùng phổi từng đợt, viêm tắc phế quản...
+Bệnh nhân có thể có nguy cơ tử vong nếu bệnh biểu hiện nặng, nhất là ở những bệnh nhân giảm tiểu cầu &lt; 100 000/mm3 hoặc giảm đạm trong máu.
+Điều trị khá phức tạp, và chính vẫn là các thuốc ức chế miễn dịch, trong đó chủ yếu là prednisone. Bệnh nhân cũng có nguy cơ cao bị nhiễm trùng, do bị ức chế miễn dịch kéo dài, đặc biệt đó là những vi trùng gram (+). Sử dụng vaccine phòng ngừa, dùng IgG miễn dịch truyền tĩnh mạch, dùng kháng sinh luân phiên cho thấy giảm nguy cơ nhiễm trùng.
+Hiện có nhiều thuốc mới được sử dụng trong điều trị bệnh mảnh ghép chống chủ như thalidomide là một ví dụ. Tuy nhiên việc nghiên cứu sử dụng thalidomide để phòng ngừa bệnh này chưa thành công. Một số thuốc khác như psoralen dùng kết hợp với tia cực tím A đã cho một số thành công nhất là ở bệnh nhân có biểu hiện ở da giống như xơ cứng bì. Rapamycin cũng đang được nghiên cứu.
+"Nhiễm trùng": Ở giai đoạn này bệnh nhân vẫn có nguy cơ cao bị nhiễm trùng nguyên nhân được giải thích là do khiếm khuyết chức năng lymphô T, và do bệnh lý mảnh ghép chống chủ mãn. Thường gặp là viêm phổi do pneumocystic carinii, nhiễm vi trùng có vỏ bọc, nhiễm CMV.
+"Biến chứng liên quan đến sinh sản"
+Do sử dụng các phác đồ hóa chất liều cao nhằm mục đích diệt tủy trước ghép tủy, đặc biệt liên quan đến những bệnh nhân nữ trong độ tuổi sinh sản. Với nam giới, lưu giữ tinh trùng trong ngân hàng là một giải pháp đang được chấp nhận. Một số thử nghiệm với trữ lạnh phôi, nhất là phôi đã được thụ tinh trước điều trị cho kết quả thụ thai thành công ở nhiều trường hợp.
+Biến chứng về sinh dục thường gặp nhất là: viêm teo âm đạo, và những vấn đề liên quan đến mất chức năng buồng trứng.
+"Biến chứng liên quan đến phát triển cơ thể": Gặp ở trẻ em, nhất là khi trẻ được xạ trị toàn thân diệt tủy trước ghép tủy. Suy tuyến giáp cũng đôi khi gặp, nhưng có thể điều chỉnh bằng hormone thay thế.
+"Ung thư thứ hai": Thường gặp nhất là hội chứng loạn sản tủy thứ phát và bệnh bạch cầu tủy cấp, xảy ra trong 2 đến 7 năm sau ghép tủy với nguy cơ tích lũy 8-18%.
+Hiệu ứng mảnh ghép chống bướu,.
+Đó là hiện tượng xảy ra trong ghép tủy dị thân khi tác dụng miễn dịch từ tủy người hiến mang lại khả năng diệt những tế bào ác tính còn sót lại trong cơ thể người nhận. Đây là một trong những phát hiện về mặt sinh học đáng chú ý trong ngành ghép tủy và được coi là một trong những nguyên lý của ghép tụy dị thân.
+Một trong những lý do làm tế bào ung thư tăng sinh, phát triển và lan tràn là do hệ thống miễn dịch cơ thể không coi đó là những tế bào bệnh. Ghép tủy sẽ mang lại những tế bào miễn dịch, những tế bào này nhận diện các tế bào ác tính là tế bào bất thường, và tiêu diệt chúng. Đây là một trong các cơ chế giải thích hiệu quả điều trị của ghép tủy dị thân. Tác dụng này thấy rõ hơn ở những bệnh lý diễn tiến chậm, như bệnh bạch cầu mãn, lymphôm grad thấp, một số dạng đa u tủy, ngược lại hiệu quả kém hơn ở những bệnh lý cấp như bạch cầu cấp.
+Ở một số bệnh nhân tái phát sau ghép tủy dị thân, khả năng diệt tế bào bướu của tế bào nguồn gốc từ tủy ghép có thể được hồi phục lại nếu bệnh nhân được truyền thêm bạch cầu người hiến tủy trước đó (donor lymphocyte infusion)
+Những so sánh cho thấy sự giảm nguy cơ bị bệnh mảnh ghép chống chủ đi kèm với sự gia tăng nguy cơ tái phát bệnh sau ghép tủy, việc loại bỏ tế bào lymphô T khỏi tủy ghép tăng tỉ lệ tái phát khi ghép tủy ở bệnh nhân bệnh bạch cầu tủy mãn. Việc điều trị ức chế miễn dịch ở bệnh nhân bị bệnh mảnh ghép chống chủ mãn cũng làm tăng tỉ lệ tái phát. Do đó một trong những mục tiêu sau ghép tủy là làm sao hạn chế được bệnh lý mảnh ghép chống chủ nhưng lại gia tăng hiệu quả mảnh ghép chống khối bướu.
+Truyền bạch cầu của người hiến cho người nhận: Dựa trên hiệu ứng này mà một trong những cách điều trị tái phát sau ghép tủy là truyền lymphô T (Donor Leukocyte Infusion DLI) của người hiến cho người nhận. Có hai nghiên cứu tiền cứu lớn thực hiện ở châu Âu và bắc Mỹ trên những bệnh nhân bạch cầu tủy mãn tái phát sau ghép tủy dị thân, kết quả tổng kết cho thấy đáp ứng hoàn toàn sau truyền lymphô T từ người hiến tủy đạt được từ 60-80% [5]. DLI cũng có hiệu quả trong bệnh bạch cầu cấp, tuy nhiên đáp ứng thấp hơn nhiều, một vài nghiên cứu cho thấy đáp ứng hoàn toàn chỉ đạt 20-65% mà chủ yếu là bệnh bạch cầu tủy cấp. Đối với bạch cầu lymphô cấp, DLI gần như không hiệu quả.
+Riêng vai trò của DLI trong các bệnh lý ác tính khác của hệ tạo huyết như lymphôm không Hodgkin, đa u tủy hiện chưa rõ ràng.
+Biến chứng của DLI: những biến chứng quan trong đó là bệnh mảnh ghép chống bướu và tình trạng ức chế tủy. Ức chế tủy làm giảm các dòng tế bào máu xảy ra ở khoảng 34% các trường hợp.
+Chỉ định ghép tủy.
+Ghép tủy tự thân.
+Bệnh ác tính 
+Bệnh lành tính
+Ghép tủy dị thân.
+Bệnh ác tính 
+Bệnh lành tính 
+Tham khảo.
+Marshall Lichman, Ernest Beutler. Principles of Hematopoietic Cell Transplantation. Trong Williams Hematology. 7th edition. McGrawhill 2007. ISBN 0071435913
+Andrea Bacigalupo. Results of Allogeneic Hematopoietic Stem Cell Transplantation for Hematologic Malignancies. Trong Hoffman: Hematology: Basic Principles and Practice, 4th edition. Churchill Livingstone. 2005. ISBN 0443066280
+Bone Marrow Transplantation – Landes Bioscience 1998. ISBN 1570595607
+Auayporn Nademanee. Stem cell Mobilization. Trong Clinical Malignant Hematology do Mikkeal Sekeres, Matt Kalaycio, Brian Bolwell biên tập. McGraw Hill. 2007. p1001 -1012. ISBN 0071436502
+David L. Porter, Jean M. Connors. Graft-Versus-Tumor Induction With Donor Leukocyte Infusions as Primary Therapy for Patients With Malignancies. Journal of Clinical Oncology, Vol 17, Issue 4 (April), 1999: 1234
+Trần Văn Bé. Hệ thống hòa hợp tổ chức. Trong Lâm sàng huyết học. Nhà xuất bản Y học TPHCM. 1998. Trang 360-366.
+David LongWorth. Infectious Complications Following Stem Cell Transplantation. Trong Clinical Malignant Hematology do Mikkeal Sekeres, Matt Kalaycio, Brian Bolwell biên tập. McGraw Hill. 2007. p1063-1075.ISBN 0071436502
+Scott Bearman. Noninfectious Complications of Stem Cell Transplantation. Trong Clinical Malignant Hematology do Mikkeal Sekeres, Matt Kalaycio, Brian Bolwell biên tập. McGraw Hill. 2007. p1077-1087. ISBN 0071436502
+Trần Văn Bé. Ghép tủy xương. Trong Lâm sàng Huyết học. Nhà xuất bản Y học TPHCM. 1998. Trang 367-384.
+

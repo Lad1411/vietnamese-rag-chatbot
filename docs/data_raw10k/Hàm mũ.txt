@@ -1,0 +1,13 @@
+Hàm mũ
+
+Trong toán học, hàm mũ là hàm số có dạng y = ax, với cơ số a là số dương khác 1.
+Các công thức liên phân số của số Euler.
+Trường hợp đặc biệt khi "x = y = 1":
+Mở rộng cho số mũ phức.
+Người ta đã chứng minh được trong mặt phẳng phức thì công thức ước lượng trên vẫn đúng. Do vậy mọi tính chất của hàm mũ số mũ thực đều đúng trong số mũ phức.
+Khi đó, biểu thị:
+Theo công thức Euler ta có: formula_10
+Như vậy: formula_11. Theo đó hàm tuần hoàn theo chu kỳ 2πi.
+Tuy nhiên cần lưu ý, phép nâng lũy thừa trong hàm mũ phức không hề giống như mũ thực:
+Nếu như cơ số cũng là số phức người ta tính như sau:
+

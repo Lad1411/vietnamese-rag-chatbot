@@ -1,0 +1,17 @@
+Phân số Ai Cập
+
+Phân số Ai Cập là tổng các phân số đơn vị riêng biệt, chẳng hạn formula_1. Cách đây khoảng 4000 năm, người Ai Cập đã hiểu được phân số và biết các phép tính về phân số. Tuy nhiên, người Ai Cập cổ đại chỉ thừa nhận các phân số có tử bằng 1. Đây là phân số đầu tiên trên thế giới và sử dụng rộng rãi ở Ai Cập
+Định nghĩa.
+Những phân số có tử số là 1 thì ta gọi đó là phân số Ai Cập. Dạng tổng quát: formula_2 (y là mẫu số và y ≠ 0)
+Cách viết và tên gọi.
+Khi loài người bắt đầu có sự phân hóa giàu nghèo thì cũng là lúc đồng thời nhu cầu đếm và chia phát sinh. Để chia cho kết quả công bằng, phân số được ra đời. Lịch sử ghi nhận phân số được đưa thành kí hiệu Toán học đầu tiên là của người Ai Cập cách đây khoảng 3.650 năm. Lúc đó, các phân số đều chỉ có tử số là 1, các mẫu số là số tự nhiên lớn hơn 0. Ngày ấy, loài người thống nhất gọi đó là những phân số Ai Cập.
+Do người Ai Cập cổ đại chỉ công nhận các phân số có tử số bằng 1 nên các phân số có tử số lớn hơn 1 đều dược viết dưới dạng tổng các phân số có tử bằng 1 và mẫu số khác nhau.
+Người ta tin rằng mọi phân số đều biểu diễn được dưới dạng tổng của nhiều phân số. Bởi vậy, không cần đưa thêm những phân số có tử số khác 1 vào. Những phân số hay được sử dụng để biểu diễn nhất là những phân số Ai Cập mà mẫu số có nhiều ước số như 12, 24, 60, 36, 144... Có lẽ đó cũng là nguyên nhân hình thành đơn vị như: tá (12 giờ của nửa ngày, 12 chi trong chu kì lịch, 12 tháng của một năm), 24 giờ (trong một ngày), 60 giây (trong một phút), 60 phút (trong một giờ)... Lịch sử ghi nhận bài toán nổi tiếng có tên Bài toán phân số Ai Cập của Paul Erdős: "Mọi phân số có dạng 4/n (n là số tự nhiên lớn hơn 4) đều biểu diễn được thành tổng của 3 phân số Ai Cập khác nhau".
+Hiện đang có một lời giải cho bài toán này như sau:
+Ta có
+formula_3
+Vậy mọi phân số có dạng 4/n (n là số tự nhiên lớn hơn 0) đều biểu diễn được thành tổng của 3 phân số Ai Cập khác nhau
+Người ta viết một phân số bất kì dưới dạng liên phân số, sau khi có khái niệm phân số nghịch đảo
+Sau này người ta thường gọi các phân số dạng 1/n là phân số Ai Cập.
+Trong các tài liệu cổ ở Babylon, người ta thấy các phân số có mẫu là lũy thừa của 60. Có lẽ Ấn Độ Là nơi đầu tiên xuất hiện cách viết phân số như ngày nay.
+

@@ -1,0 +1,17 @@
+UIQ
+
+UIQ (trước đây được biết với tên User Interface Quartz - Giao diện người dùng Thạch anh) của hãng UIQ Technology là một platform phần mềm dựa trên Hệ điều hành Symbian. Một cách cơ bản nó là một lớp giao diện người dùng đồ họa cung cấp những thành phần bổ sung cho nhân hệ điều hành, giúp cho sự phát triển của những điện thoại nhiều tính năng cho phép người dùng có thể có được những tính năng mở rộng thông qua các ứng dụng từ hãng thứ ba.
+Các ứng dụng nền tảng có thể được viết bằng C++ sử dụng SDK Symbian/UIQ. Tất cả các điện thoại dựa trên UIQ (2.x và 3.x) cũng hỗ trợ cả ứng dụng Java.
+Phiên bản 2.0 và 2.1 là những phiên bản dùng viết và được dùng trong những điện thoại thông minh 2.5G và 3G sau: Sony Ericsson P800/P900/P910, BenQ P30/P31 và Arima U300/U308, Nokia 6708, Motorola A920/A925/A1000/M1000.
+Điện thoại UIQ sử dụng màn hình cảm ứng với độ phân giải 208×320 pixels (UIQ 1.x &amp; 2.x) và 240×320 (UIQ 3.x). Tùy vào từng loại điện thoại, số lượng màu là 12-bit (4096 màu), 16-bit (65536 màu), hoặc 18-bit (262144 màu) ở một số điện thoại mới hơn.
+UIQ 3.1 là phiên bản mới nhất của platform và, ngoài giao diện dùng viết, cũng sẽ hỗ trợ các giao diện dùng 1 tay và một số nâng cấp đặc biệt.
+Đối với các nhà phát triển, những thứ đáng chú ý là:
+Điện thoại đầu tiên có UIQ 3.1 là RIZR Z8 của Motorola.
+Vào tháng 10 năm 2007, Motoroloa mua lại 50% UIQ từ Sony Ericsson (công ty đã mua nó với số tiền không được tiết lộ).
+Danh sách các điện thoại UIQ 3.
+Sau đây là danh sách các điện thoại thông minh đã được thông báo chạy trên nền UIQ 3.x.
+Thiết kế theo kiểu PDA (tương tự như máy tính cầm tay)
+Thiết kế trượt
+Xem thêm.
+S60 platform, platform khác dựa trên Symbian.
+

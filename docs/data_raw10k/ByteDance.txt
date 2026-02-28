@@ -1,0 +1,12 @@
+ByteDance
+
+Công ty TNHH ByteDance (tiếng Trung: 字节跳动) là một công ty công nghệ internet đa quốc gia của Trung Quốc có trụ sở tại Bắc Kinh. Được thành lập bởi Trương Nhất Minh vào năm 2012. ByteDance được báo cáo là có trị giá hơn 100 tỷ USD tính đến tháng 5 năm 2020.
+Sản phẩm cốt lõi của ByteDance, Toutiao ("Tiêu đề"), là một nền tảng nội dung ở Trung Quốc và trên toàn thế giới. Toutiao khởi nghiệp như một công cụ đề xuất tin tức và dần dần phát triển thành một nền tảng cung cấp nội dung ở nhiều định dạng khác nhau, chẳng hạn như văn bản, hình ảnh, bài đăng câu hỏi, microblog và video.
+ByteDance là nhà phát triển dịch vụ mạng xã hội chia sẻ video Douyin (TikTok). Vào ngày 09 tháng 11 năm 2017, ByteDance mua công ty khởi nghiệp phương tiện truyền thông xã hội Musical.ly với giá 1 tỷ đô la Mỹ. Sau đó đã hợp nhất với TikTok để trở thành một ứng dụng toàn cầu duy nhất, giữ tên là TikTok.
+Tính đến tháng 11 năm 2018, ByteDance đã có hơn 800 triệu người dùng hoạt động hàng ngày (hơn 1 tỷ người dùng tích lũy) trên tất cả các nền tảng nội dung. Công ty được định giá 78 tỷ USD và được coi là một trong những kỳ lân có giá trị nhất trên thế giới. ByteDance được hỗ trợ bởi Kohlberg Kravis Roberts, SoftBank Group, Sequoia Capital, General Atlantic và Hillhouse Capital Group.
+Vào ngày 19 tháng 5 năm 2020, ByteDance và Disney đã đưa ra một thông báo rằng Kevin Mayer, người đứng đầu mảng phát trực tuyến của Disney, sẽ tham gia ByteDance. Kể từ ngày 1 tháng 6 năm 2020, Mayer trở thành Giám đốc điều hành của TikTok và Giám đốc tài chính của ByteDance, báo cáo trực tiếp với Giám đốc điều hành của công ty Zhang Yiming.
+Công nghệ.
+Công nghệ AI.
+Trong năm 2016, AI Lab ByteDance và Đại học Bắc Kinh đồng phát triển Xiaomingbot , một bot trí tuệ nhân tạo để viết các bài báo. Xiaomingbot đã xuất bản 450 bài báo trong Thế vận hội Mùa hè năm 2016 tại Rio de Janeiro 
+Bộ phận nghiên cứu của ByteDance, phòng thí nghiệm AI, được thành lập vào tháng 3 năm 2016. Được lãnh đạo bởi Wei-Ying Ma, cựu trợ lý giám đốc điều hành của Microsoft Research Asia. Nghiên cứu của phòng thí nghiệm tập trung vào AI để hiểu sâu thông tin (văn bản, hình ảnh, video) và phát triển các thuật toán học máy quy mô lớn cho các khuyến nghị thông tin được cá nhân hóa.
+

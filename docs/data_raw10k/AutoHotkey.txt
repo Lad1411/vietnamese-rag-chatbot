@@ -1,0 +1,45 @@
+AutoHotkey
+
+AutoHotkey là một ngôn ngữ kịch bản tùy biến miễn phí, nguồn mở cho Microsoft Windows, bàn đầu nhằm cung cấp các phím tắt hay phím nóng dễ dàng, tạo macro nhanh và tự động hóa phần mềm để cho phép người dùng máy tính ở cấp độ nào cũng có thể tự động hóa các tác vụ lặp lại ở bất kì ứng dụng Windows nào. Giao diện ngườ dùng cũng có thể dễ dàng được mở rộng hay sửa đổi bởi AutoHotkey (ví dụ, ghi đè lệnh phím Control mặc định của Windows bằng phím tương tự của Emacs). Cài đặt AutoHotkey bao gồm tập tin giúp đỡ của nó với phiên bản luôn được cập nhật trên web.
+Tính năng.
+Các tác vụ chính của AutoHotkey gồm:
+Lịch sử.
+Phiên bản beta công khai đầu tiên của AutoHotkey được phát hành vào ngày 10 tháng 11 năm 2003 sau đề xuất của tác giả Chris Mallett nhằm tích hợp sự hỗ trợ phím tắt vào trong AutoIt v2 nhưng thất bại trong việc nhận được phản hồi từ cộng đồng AutoIt. Vì vậy tác giả bắt đầu chương trình riêng của mình từ đầu dựa trên cú pháp của AutoIt v2 và sử dụng v3 cho một số lệnh và trình biên dịch. Sau đó, AutoIt v3 chuyển từ giấy phép GPL sang mã nguồn đóng bởi vì "những dự án khác liên tục lấy mã nguồn của AutoIt" và "xây dựng lên thành đối thủ cạnh tranh."
+Năm 2010, AutoHotkey v1.1 (trước đây gọi là AutoHotkey_L) trở thành nền tảng cho sự phát triển liên tục của AutoHotkey. Một cổng khác của chương trình là AutoHotkey.dll.
+Ví dụ.
+Kịch bản sau sẽ hoán đổi phím Control và Alt.
+LCtrl::Alt
+LAlt::Ctrl
+Kịch bản sau sẽ cho phép người dùng tìm kiếm một từ hay cụm từ cụ thể bằng Google. Sau khi sao chép văn bản từ bất kì ứng dụng nào vào Clipboard, nhấn phím nóng cấu hình sẽ mở trình duyệt web mặc định của người dùng và thực hiện việc tìm kiếm.
+ Run http://www.google.com/search?q=%clipboard%
+Return
+Sau đây là một ví dụ về kịch bản cần thiết để tạo ra chuỗi nóng "afaik," được tự động thay thế bởi "as far as I know":
+Còn sau đây là một ví dụ về một hàm đơn giản trong AutoHotkey. Khi một URL được sao chép vào Clipboard, phím tắt sẽ kiểm tra URL đó cho bất kì/tất cả dấu ngoặc đơn và thay thế chúng với các kí tự thay thế trước khi dán URL từ Clipboard:
+!x:: ; Alt+x
+ URLReplace()
+ Send ^v ; Ctrl+v
+Return
+URLReplace() {
+ StringReplace, Clipboard, Clipboard, (, `%28, All
+ StringReplace, Clipboard, Clipboard,), `%29, All
+Trong ví dụ này, một khi nội dung của tên người dùng hay liên kết Địa chỉ IP được sao chép từ bất cứ website nào của Wikipedia vào Clipboard (sử dụng Firefox), kịch bản sau cho phép người dùng thực thi hàm CopyUser trong nội dung Clipboard và lưu nó vào trong một biến được chỉ định bằng phím nóng hay phím nóng . Phím nóng tận dụng các giá trị kết quả để tạo ra bản tóm tắt kết quả chỉnh sửa.
+^+w::last:= CopyUser() ; Ctrl+Shift+w
+^+e::edit:= CopyUser() ; Ctrl+Shift+e
+CopyUser() {
+ Clipboard =
+ StringReplace, Clipboard, Clipboard, http://en.wikipedia.org/
+ StringReplace, Clipboard, Clipboard, wiki/
+ StringReplace, Clipboard, Clipboard, w/index.php?title=
+ StringReplace, Clipboard, Clipboard, Special:Contributions&amp;target=
+ StringReplace, Clipboard, Clipboard, User:
+ StringReplace, Clipboard, Clipboard, &amp;action=edit
+ StringReplace, Clipboard, Clipboard, _, %A_Space%, All
+ Return, Clipboard
+^+r::Send revert edits by to last version by %last%
+Cộng đồng.
+Diễn đàn cộng đồng trực tuyến của AutoHotkey có khoảng 22.000 người dùng đăng kí và khoảng 186.000 bài viết vào thời điểm tháng 3 năm 2018.
+Tính năng do người dùng đóng góp.
+Các thư viện mở rộng/interops/inline script có sẵn để sử dụng với/từ các ngôn ngữ lập trình khác:
+Phần mềm ác ý.
+Trong khi AutoHotkey được sử dụng để tạo nên phần mềm tự chứa để phân phối, phần mềm đó phải bao gồm một phần của chính AutoHotkey để nó hiểu được và thực thi được kịch bản của AutoHotkey; nó là một ngôn ngữ thông dịch. Chắc chắn, một số phần mềm ác ý được viết bằng cách sử dụng AutoHotkey.
+

@@ -1,0 +1,16 @@
+Triphosphor pentanitride
+
+Triphosphor pentanitride (công thức hóa học: P3N5) là một hợp chất vô cơ. Chỉ chứa phosphor và nitơ, hợp chất này được phân loại là một nitride nhị phân. Tồn tại ở thể rắn, thường có màu trắng.
+Sự tổng hợp.
+Phosphor nitride có thể được tạo ra từ phản ứng giữa phosphor(V) và các hợp chất nitơ (như amonia và natri azua):
+Những phương pháp tương tự cũng từng được dùng để điều chế bo nitride (BN) và silicon nitride (Si3N4);tuy nhiên những sản phẩm tạo ra thường không tinh khiết và vô định hình.
+Các mẫu tinh thể được sản xuất từ phản ứng giữa amoni chloride (NH4Cl) và hexachlorocyclotriphosphazene ((NPCl2)3), hoặc phosphor pentachloride (PCl5).
+P3N5 cũng được điều chế trong môi trường nhiệt độ phòng, từ phản ứng giữa phosphor trichloride và natri amit.
+Phản ứng.
+P3N5 ít ổn định về nhiệt hơn cả bo nitride (BN) lẫn silicon nitride (Si3N4,) với sự nhiệt phân các nguyên tố xảy ra ở nhiệt độ trên 850 °C:
+Có khả năng kháng axit và base yếu, không tan trong nước ở nhiệt độ phòng, tuy nhiên nó thủy phân khi nung nóng tạo ra sản phẩm là các muối phosphat amoni như diamoni phosphat ((NH4)2HPO4) và amoni dihydro phosphat (NH4H2PO4).
+Ứng dụng.
+Phosphor nitride hiện tại không có ứng dụng quy mô lớn nào mặc dù nó đã được phát hiện và sử dụng như vật liệu cho đèn sợi đốt; thay thế các hỗn hợp chứa phosphor đỏ thường được sử dụng trước đó vào cuối những năm 1960. 
+Cũng có nhiều nghiên cứu dùng nó làm một vật liệu mới cho các thiết bị điện tử dựa vào chất bán dẫn; đặc biệt là làm chất cách điện cổng trong MOSFET.
+Một số bằng sáng chế đã được đệ trình cho việc sử dụng phosphor nitride trong các biện pháp cứu hỏa.
+

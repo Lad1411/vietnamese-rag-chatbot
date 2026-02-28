@@ -1,0 +1,16 @@
+Khai triển Laplace
+
+Trong đại số tuyến tính, khai triển Laplace, được đặt tên theo Pierre-Simon Laplace, còn được gọi là khai triển phần bù đại số, là một biểu thức cho định thức |"B"| của một ma trận "n" × "n" "B" theo các định thức con đầu của "B".
+Đối với các ma trận lớn, khi tính toán, khai triển Laplace nhanh chóng trở nên kém hiệu quả so sánh với các phương pháp sử dụng phân tích ma trận.
+Phát biểu.
+"Phần bù đại số" "(i,j)" của ma trận "B" là vô hướng "Cij" xác định bởi
+trong đó "Mij" là định thức con của "B" tạo ra từ việc xóa hàng thứ "i" và cột thứ "j" của "B."
+Khai triển Laplace được phát biểu như sau
+Định lý. Giả sử "B" = [ "b" "ij" ] là một ma trận "n*n" và "i", "j" là hai phần tử của {1,2...,"n" }.
+Thế thì định thức của | "B" | thỏa mãn:
+Các biểu thức trên lần lượt được gọi là khai triển Lalace theo hàng "i" và theo cột "j" của ma trận "B".
+Ví dụ.
+Xét ma trận
+Khai triển Laplace theo hàng đầu tiên:
+Khai triển Laplace theo cột thứ hai:
+

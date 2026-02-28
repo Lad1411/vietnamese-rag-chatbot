@@ -1,0 +1,10 @@
+Bộ gen
+
+Trong lĩnh vực sinh học phân tử và di truyền học, thuật ngữ bộ gen dùng để chỉ tất cả các vật chất di truyền chứa trong một cá thể sinh vật. Những vật chất di truyền này gồm DNA ở nhiễm sắc thể, DNA ngoài nhiễm sắc thể (như DNA vòng ở ti thể, ở lục lạp nếu có), cả các RNA (nếu là RNA virut), có thể mang thông tin di truyền ở vùng mã hóa hoặc không mã hóa. Thuật ngữ này dịch từ nguyên gốc tiếng Anh là genome, cũng đã được dịch là hệ gen. Môn khoa học chuyên nghiên cứu về bộ gen được gọi là hệ gen học (genomics). Nhiều kiến thức thuộc lĩnh vực này được đề cập ở tạp chí "Genome Research".
+Bộ gen virut.
+Bộ gen virut có thể có DNA hoặc RNA tùy loại.
+Bộ gen nhân sơ.
+Nhân sơ (Prokaryotes) có cấu tạo đơn bào, nhưng bộ gen của chúng được phân biệt thành hai phần: hầu hết các gen phân bố ở một phân tử DNA vòng lớn gọi là nhiễm sắc thể nhân sơ (viết tắt: DNA-NST), còn lại phân bố ở các plasmit có số lượng rất không ổn định.
+Đặc điểm một số bộ gen.
+Dưới đây là bảng giới thiệu một số bộ gen đại diện.
+

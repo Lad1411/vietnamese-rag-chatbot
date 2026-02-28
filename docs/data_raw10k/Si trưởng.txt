@@ -1,0 +1,7 @@
+Si trưởng
+
+Si trưởng (viết tắt là B), hay Đô giáng trưởng (viết tắt là C) là một cung thể trưởng dựa trên nốt Si (B), tức Đô giáng (C), bao gồm các nốt nhạc Si (B), Đô thăng (C), Rê thăng (D), Mi (E), Fa thăng (F), Sol thăng (G), La thăng (A), và Si (B). Bộ khóa của nó có 5 dấu thăng.
+Cung thể tương đương ("relative key") với nó là cung Son thăng thứ và cung thể cùng bậc ("parallel key") với nó là cung Si giáng và nó trùng âm với Đô giáng trưởng. Cung thể thứ của nó là Si thứ.
+Bộ khóa cho Si trưởng là bộ khoá có nhiều dấu thăng nhất với ba dòng nhạc có dấu thăng.
+Trong tiếng Đức, thì nốt Si được ký hiệu là "H," và nốt Si giáng được ký hiệu là "B".
+

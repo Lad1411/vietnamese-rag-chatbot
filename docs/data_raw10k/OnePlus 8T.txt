@@ -1,0 +1,17 @@
+OnePlus 8T
+
+OnePlus 8T là một Android điện thoại thông minh dựa trên cơ sở được sản xuất bởi OnePlus được công bố vào ngày 14 tháng 10 năm 2020. Một biến thể của điện thoại này được bán bởi T-Mobile US như OnePlus 8T+.
+Thiết kế.
+OnePlus 8T tương tự như OnePlus 8 bên ngoài, với khung nhôm anodized và tấm kính Gorilla Glass 5. Màn hình có đường cắt tròn cho camera trước. Tuy nhiên, nó được phân biệt bởi kính hiển thị của nó, phẳng hơn là cong. Bảng điều khiển phía sau có một mô-đun máy ảnh khác với ống kính hình chữ nhật nâng lên, được chia thành hai cột. Chiếc thứ nhất chứa ba trong số các máy ảnh, trong khi máy ảnh thứ hai chứa cảm biến độ sâu, cảm biến nhiệt độ màu và đèn flash LED kép. Nó có sẵn trong hai lớp hoàn thiện, Aquamarine Green (bóng) và Lunar Silver (mờ).
+Phần cứng.
+OnePlus 8T được cung cấp bởi bộ xử lý Snapdragon 865 5G với GPU Adreno 650, đi kèm với 128 hoặc 256 GB dung lượng lưu trữ UFS 3.1 không thể mở rộng và RAM LPDDR5X 8 hoặc 12 GB. Nó có loa stereo với tính năng khử tiếng ồn chủ động, nhưng không có giắc cắm âm thanh. Các tùy chọn sinh trắc học bao gồm máy quét dấu vân tay quang học (trong màn hình) và nhận dạng khuôn mặt.
+Màn hình là AMOLED 6,55 inch 1080p với tỷ lệ khung hình 20:9 và hỗ trợ HDR10+, giống hệt với 8 ngoài tốc độ làm mới, đã được tăng từ 90 Hz lên 120 Hz. Dung lượng pin lớn hơn một chút so với 8 ở 4500 mAh. Sạc nhanh được hỗ trợ lên đến 65 W thông qua Warp Charge 65 so với Warp Charge 30 của 8. Điều này được kích hoạt bởi thiết kế tế bào kép, với pin được chia thành hai ô 2250 mAh. Giống như OnePlus 8, sạc không dây không được hỗ trợ.
+8T mở khóa tiêu chuẩn hỗ trợ hai thẻ SIM vật lý, và thiếu xếp hạng IP, nhưng nó có con dấu để làm cho điện thoại không thấm nước. Biến thể T-Mobile US chỉ có một khe cắm SIM, nhưng có xếp hạng IP68. 
+Máy ảnh.
+OnePlus 8T bao gồm một mảng camera bốn, bao gồm cảm biến rộng 48 MP, cảm biến siêu rộng 16 MP, cảm biến macro 5 MP và cảm biến đơn sắc 2 MP. Hầu hết phần cứng máy ảnh không thay đổi so với 8, với Sony IMX586 được mang theo cho cảm biến rộng. Camera trước có cảm biến 16 MP.
+Phần mềm.
+OnePlus 8T chạy trên OxygenOS 11, dựa trên Android 11. Đây là điện thoại không phải của Google đầu tiên được vận chuyển với Android 11 được cài đặt sẵn.
+Tiếp nhận.
+OnePlus 8T nhận được đánh giá tích cực, nhận được 8.6/10 từ CNET, 8/10 từ The Verge, 8.4/10 từ Engadget, và 3/5 từ Digital Trends. Điện thoại được ca ngợi về hiệu suất, màn hình, phần mềm, thời lượng pin và tốc độ sạc 65W. Tuy nhiên, máy ảnh của nó, mặc dù được khen ngợi, đã bị chỉ trích là thiếu khi so sánh với các điện thoại hàng đầu khác, với các ống kính macro và đơn sắc được coi là thừa hoặc phô trương. Việc loại trừ xếp hạng IP (ngoại trừ trong điện thoại được bán bởi T-Mobile US) và sạc không dây cũng được coi là nhược điểm.
+Các nhà phê bình thường cảm thấy OnePlus 8T là một cải tiến gia tăng so với OnePlus 8. Mẫu cao cấp với RAM 12GB và UFS 256GB bị chỉ trích là đắt đỏ và là mẫu duy nhất được bán ở Mỹ trái ngược với các quốc gia khác, một số gợi ý rằng người mua tiềm năng của Mỹ nên xem xét các điện thoại cạnh tranh khác hoặc từ OnePlus.
+

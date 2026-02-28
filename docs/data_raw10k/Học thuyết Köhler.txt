@@ -1,0 +1,10 @@
+Học thuyết Köhler
+
+Học thuyết Köhler mô tả quá trình trong đó hơi nước ngưng tụ và hình thành các đám mây lỏng, và dựa trên nhiệt động lực học cân bằng. Nó kết hợp hiệu ứng Kelvin, mô tả sự thay đổi áp suất hơi bão hòa do bề mặt cong và định luật Raoult, liên quan đến áp suất hơi bão hòa với chất tan. Đây là một quá trình quan trọng trong lĩnh vực vật lý đám mây. Ban đầu nó được xuất bản vào năm 1936 bởi Hilding Köhler, Giáo sư Khí tượng học tại Đại học Uppsala.
+Phương trình Köhler:
+formula_1
+với formula_2là áp suất hơi nước nhỏ giọt, formula_3là áp suất hơi bão hòa tương ứng trên một bề mặt phẳng, formula_4 là sức căng bề mặt nhỏ giọt, formula_5là mật độ của nước tinh khiết, formula_6 là số mol của chất tan, formula_7là trọng lượng phân tử của nước vàformula_8 là đường kính thả của đám mây.
+Đường cong Köhler.
+Đường cong Köhler là đường biểu diễn trực quan của phương trình Köhler. Nó cho thấy sự siêu bão hòa mà tại đó đám mây rơi ở trạng thái cân bằng với môi trường qua một loạt các đường kính giọt. Hình dạng chính xác của đường cong phụ thuộc vào số lượng và thành phần của các chất hòa tan có trong khí quyển. Các đường cong Köhler trong đó chất tan là natri chloride khác với khi chất tan là natri nitrat hoặc amoni sunfat.
+Hình trên cho thấy ba đường cong Köhler của natri chloride. Xem xét (đối với các giọt chứa chất tan có đường kính bằng 0,05 micromet) một điểm trên biểu đồ trong đó đường kính ướt là 0,1 micromet và độ siêu bão hòa là 0,35%. Vì độ ẩm tương đối trên 100%, giọt sẽ phát triển cho đến khi nó ở trạng thái cân bằng nhiệt động. Khi giọt nước lớn lên, nó không bao giờ gặp phải trạng thái cân bằng, và do đó phát triển mà không bị ràng buộc. Tuy nhiên, nếu độ siêu bão hòa chỉ 0,3%, mức giảm sẽ chỉ tăng lên cho đến khoảng 0,5 micromet. Sự siêu bão hòa mà tại đó sự sụt giảm sẽ phát triển mà không bị ràng buộc được gọi là sự siêu bão hòa quan trọng. Đường kính mà tại đó các đỉnh đường cong được gọi là đường kính tới hạn.
+

@@ -1,0 +1,10 @@
+Blizzard Downloader
+
+Blizzard Downloader hoặc Background Downloader là trình khách BitTorrent được gài sẵn trong trò chơi MMORPG "World of Warcraft" của hãng Blizzard Entertainment. Blizzard Downloader được dùng để tải các bản vá có kích thước lớn của trò chơi, các bản cập nhật có kích thước nhỏ sẽ được tải về trực tiếp máy chủ của Blizzard. Các phiên bản đầu tiên của Blizzard Downloader dựa trên mã nguồn của chương trình BitTorrent nguyên bản, còn hiện nay không thể xác định mô hình mã nguồn của nó như thế nào. Khi một bản vá có kích thước lớn của trò chơi World of Warcraft được phát hành, Blizzard Downloader sẽ tải nó về trong thư mục "WoW" (thư mục mặc định của trò chơi) thông qua cổng số 6881. Sau khi tải xong BNUpdate sẽ áp đặt các cập nhật mới cho trò chơi. Blizzard cung cấp trình khách khác nhau cho mỗi bản vá được phát hành, chứ không sử dụng tệp torrent. Khi "World of Warcraft" được khởi động, Blizzard Downloader sẽ chạy dưới dạng nền với tên là "Background Downloader", và nếu máy đã có bản vá mới nhất nó sẽ trở thành máy gieo hạt và tải lên cho các máy đồng đẳng có yêu cầu bản vá này.
+Cấu trúc.
+Với hệ điều hành Mac OS.
+The Blizzard Downloader là một trình khách BitTorrent có chứa tệp codice_1. Tệp torrent này có thể mở ra bằng trình khách BitTorrent khác, cho phép người dùng có quyền quyết định trong việc chia sẻ bản vá của trò chơi. Dưới đây là đường dẫn của tệp torrent:
+Với hệ điều hành Windows.
+Có thể giải nén tệp codice_1 từ tệp bản vá có đuôi codice_3:
+Cẩn thận sẽ có hai tệp torrent được nhúng trong trình tải về, một tệp torrent dành cho hệ điều hành Mac OS.
+

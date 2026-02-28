@@ -1,0 +1,12 @@
+Số dư
+
+Trong toán học, số dư là lượng "còn lại" sau khi thực hiện một số tính toán. Trong số học, phần còn lại là số nguyên "còn lại" sau khi chia một số nguyên cho một số nguyên khác để tạo ra một thương số nguyên (chia số nguyên). Trong đại số, phần còn lại là "đa thức" còn lại sau khi chia một đa thức cho một đa thức khác. "Phép toán modulo" là phép toán tạo ra phần còn lại như vậy với một số bị chia và số chia.
+Về mặt hình thức, phần còn lại là những gì còn lại sau khi trừ đi một số từ một số khác, mặc dù điều này được gọi chính xác hơn là sự "khác biệt". Cách sử dụng này có thể được tìm thấy trong một số sách giáo khoa tiểu học; thông thường, nó được thay thế bằng biểu thức "phần còn lại" như trong "Trả lại cho tôi hai đô la và giữ phần còn lại." Tuy nhiên, thuật ngữ "phần còn lại" vẫn được sử dụng theo nghĩa này khi một hàm được xấp xỉ bằng một mở rộng chuỗi và biểu thức lỗi ("phần còn lại") được gọi là các biểu thức còn lại.
+Chia số nguyên.
+Nếu "a" và "d" là các số nguyên, với "d" khác không, có thể chứng minh rằng tồn tại các số nguyên duy nhất "q" và "r", sao cho "a" = "qd"   +   "r" và 0   ≤   "r"   &lt;   "| d |". Số "q" được gọi là "thương số", trong khi "r" được gọi là "số dư".
+Xem phép chia Euclide để biết bằng chứng về kết quả này và thuật toán chia cho các thuật toán mô tả cách tính số dư.
+Số dư, như đã định nghĩa ở trên, được gọi là thời gian "số dư dương nhỏ nhất" hoặc đơn giản là "số dư." Số nguyên "a" hoặc là bội số của "d" hoặc nằm trong khoảng giữa các bội số liên tiếp của "d", cụ thể là, "q⋅d" và ("q" + 1)"d" (với "q" dương).
+Đôi khi thuận tiện để thực hiện phép chia sao cho "a" càng gần càng tốt với một bội số của "d", nghĩa là chúng ta có thể viết
+Trong trường hợp này, "s" được gọi là "số dư có giá trị tuyệt đối nhỏ nhất". Như với thương số và số dư thông thường, "k" và "s" được xác định duy nhất ngoại trừ trong trường hợp "d" = 2"n" và "s" = ± "n". Đối với ngoại lệ này, chúng ta có,
+Một số dư duy nhất có thể thu được trong trường hợp này bằng một số quy ước như luôn lấy giá trị dương của "s".
+

@@ -1,0 +1,21 @@
+Dao động
+
+Dao động là sự lặp đi lặp lại nhiều lần một trạng thái của một vật nào đó. Trong cơ học, dao động là chuyển động có giới hạn trong không gian, lặp đi lặp lại nhiều lần quanh vị trí cân bằng. Dao động cơ học là một biến thiên liên tục giữa động năng và thế năng
+Một ví dụ về dao động cơ học là con lắc đồng hồ. Vị trí cân bằng trong ví dụ này là khi con lắc đứng im không chạy.
+Một dao động được nghiên cứu nhiều trong cơ học là dao động tuần hoàn, tức là dao động lặp đi lặp lại như cũ quanh vị trí cân bằng sau những khoảng thời gian bằng nhau. Khoảng thời gian ngắn nhất mà vật lặp lại vị trí cũ được gọi là chu kì của dao động. Mọi dao động tuần hoàn đều có thể được biểu diễn thành chuỗi Fourier của các dao động điều hoà có tần số cơ bản khác nhau.
+Dao động lò xo.
+Dao động dọc.
+Lực làm cho lò xo giãn ra
+Lực làm cho Lò xo trở về vị trí cân bằng
+Ở trạng thái cân bằng
+Dao động ngang.
+Lực làm cho lò xo giãn ra
+Lực làm cho Lò xo trở về vị trí cân bằng
+Ở trạng thái cân bằng
+Phương trình dao động tổng quát.
+Mọi Dao động đều có thể biểu diễn bằng một phương trình Sóng dao động vi phân bậc hai có nghiệm là hàm số Sóng sin như sau
+Dao động tắt dần - điều hoà- cưỡng bức.
+Dao động có biên độ giảm dần theo thời gian được gọi là dao động tắt dần. Nguyên nhân làm tắt dần dao động là do lực ma sát và lực cản của môi trường.
+Dao động được duy trì bằng cách giữ cho biên độ dao động không đổi mà không làm thay đổi chu kỳ dao động riêng được gọi là dao động duy trì
+Dao động chịu tác dụng của ngoại lực cưỡng bức tuần hoàn được gọi là dao động cưỡng bức. Dao động cường bức có biên độ không đổi và có tần số bằng tần số của lực cưỡng bức.
+

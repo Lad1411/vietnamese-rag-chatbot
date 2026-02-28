@@ -1,0 +1,8 @@
+Nghịch lý anh em sinh đôi
+
+Nghịch lý anh em sinh đôi là một suy luận tưởng tượng mà làm cho hệ quả của thuyết tương đối hẹp của nhà khoa học Albert Einstein không còn đúng về mặt logic, có thể dẫn đến phủ định thuyết tương đối hẹp. Nghịch lý này như sau:
+Giả sử hai anh em sinh đôi là A và B, A lên một tên lửa du hành vào vũ trụ và quay trở về (với tốc độ cao), khi đó theo hệ quả của thuyết tương đối hẹp A sẽ thấy B già hơn mình, tuy nhiên theo nguyên lý tương đương khi B ở lại trái đất và quan niệm rằng mình chuyển động đi và về so với A (đứng yên cùng tên lửa) nên khi gặp lại thì theo hệ quả thuyết tương đối hẹp A sẽ già hơn B.
+Giải quyết nghịch lý.
+Đã có nhiều cách giải quyết, lý giải nghịch lý anh em sinh đôi, như A phải có quá trình gia tốc, B thì không nên hệ quy chiếu gắn với A không tương đương với hệ quy chiếu gắn với B. Tựu trung cách chọn hệ quy chiếu của nghịch lý này chỉ là hai điểm A và B thì là tương đương theo nguyên lý tương đối Galileo, nhưng là không đủ và không tương đương theo thuyết tương đối hẹp, không có sự đối xứng giữa các đường không thời gian của của A và B.
+Kết quả là khi gặp lại thì thời gian đã trôi qua của A (du hành) thực sự ngắn hơn thời gian đã trôi qua của B ở lại trên trái đất.
+

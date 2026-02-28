@@ -1,0 +1,18 @@
+Cyclophilin
+
+ Cyclophilins (CYP) là một họ protein được đặt tên theo khả năng liên kết với ciclosporin (cyclosporin A), một chất ức chế miễn dịch thường được sử dụng để ức chế thải ghép sau khi cấy ghép nội tạng. Chúng được tìm thấy trong tất cả các lĩnh vực của cuộc sống. Những protein này có hoạt tính peptidyl prolyl isomerase, xúc tác quá trình đồng phân hóa các liên kết peptide từ "dạng trans" sang "dạng cis" ở dư lượng proline và tạo điều kiện cho protein gấp lại.
+Cyclophilin A là một loại protein tế bào và rất phong phú. Protein thuộc về một họ isozyme, bao gồm cyclophilins B và C, và protein giết người tự nhiên liên quan đến cyclophilin. Các isoforms chính đã được tìm thấy trong các tế bào đơn lẻ, bao gồm cả bên trong mạng lưới nội chất, và một số thậm chí được tiết ra.
+Cyclophilins Mamallian.
+Gen người mã hóa protein chứa miền cyclophilin bao gồm:
+Cyclophilin A.
+Cyclophilin A (CYPA) còn được gọi là peptidylprolyl isomerase A (PPIA), được tìm thấy trong cytosol, có cấu trúc thùng beta với hai vòng xoắn alpha và tấm beta. Các cyclophilin khác có cấu trúc tương tự cyclophilin A. Phức hợp cyclosporin-cyclophilin Một chất ức chế phosphatase calci / peaceodulin, calcineurin, chất ức chế được cho là có tác dụng ngăn chặn sự thải ghép của cơ quan bằng cách ngừng sản xuất các phân tử gây viêm TNF alpha và interukin 2.
+Cyclophilin A cũng được biết là được tuyển dụng bởi polyprotein Gag trong quá trình nhiễm virus HIV-1, và sự kết hợp của nó với các hạt virus mới là điều cần thiết cho sự lây nhiễm HIV-1.
+Cyclophilin D.
+Cyclophilin D (PPIF, lưu ý rằng tài liệu là khó hiểu, cyclophilin ty thể được mã hóa bởi gen PPIF), nằm trong ma trận của ty thể, chỉ là một điều biến, nhưng có thể hoặc không phải là một thành phần cấu trúc của quá trình chuyển vị lỗ chân lông. Việc mở lỗ chân lông làm tăng tính thấm của màng trong của ty thể, cho phép dòng các phân tử tế bào vào ma trận ty thể, làm tăng thể tích ma trận và phá vỡ màng ngoài của ty thể. Kết quả là, ty thể rơi vào một rối loạn chức năng, do đó, việc mở lỗ chân lông đóng vai trò quan trọng trong sự chết của tế bào. Cyclophilin D được cho là điều chỉnh việc mở lỗ chân lông vì cyclosporin A, liên kết với CyP-D, ức chế sự mở lỗ chân lông.
+Tuy nhiên, ty thể thu được từ các nang của Artemia franciscana, không biểu hiện lỗ chân lông chuyển tiếp thấm qua ti thể 
+Ý nghĩa lâm sàng.
+Bệnh tật.
+Sự biểu hiện quá mức của Cyclophilin A có liên quan đến phản ứng kém với các bệnh viêm nhiễm, sự tiến triển hoặc di căn của ung thư và lão hóa.
+Cyclophilins là đích thuốc.
+Các chất ức chế cyclophilin, như cyclosporin, đang được phát triển để điều trị các bệnh thoái hóa thần kinh. Ức chế Cyclophilin cũng có thể là một liệu pháp điều trị các bệnh về gan.
+

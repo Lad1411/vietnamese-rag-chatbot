@@ -1,0 +1,14 @@
+Khuếch đại quang
+
+Khuếch đại quang học hay khuếch đại tín hiệu quang học là thiết bị trực tiếp khuếch đại tín hiệu quang học mà không cần phải chuyển đổi nó thành tín hiệu điện. Một bộ khuếch đại quang học có thể được coi là một laser mà không có một hốc quang học (optical cavity), hoặc trong đó phản hồi từ khoang đó bị triệt tiêu. Bộ khuếch đại quang học có vai trò quan trọng trong truyền thông sợi quang và vật lý laser .
+Khái quát.
+Có những cơ chế vật lý khác nhau có thể được sử dụng để khuếch đại tín hiệu ánh sáng, tương ứng với các loại khuếch đại quang chính. 
+Khuếch đại laser.
+Khuếch đại laser sử dụng bơm (pump) laser cùng loại với môi trường khuếch đại laser tích cực. Môi trường khuếch đại laser là sợi quang pha tạp chất (doped) cùng loại với bơm laser, ví dụ erbi trong "bộ khuếch đại sợi quang pha tạp erbi" (EDFA, erbium-doped fiber amplifier), tạo ra khuếch đại xung cực ngắn. EDFA có chiều dài sợi quang từ một đến khoảng 100 mét, được bơm quang học bằng laser bán dẫn.
+Khuếch đại sợi pha tạp.
+Khuếch đại sợi pha tạp (DFAs) là khuếch đại quang học sử dụng sợi quang được pha tạp làm môi trường khuếch để khuếch đại tín hiệu quang. Chúng có liên quan đến laser sợi quang. Tín hiệu cần được khuếch đại và laser bơm được ghép vào sợi pha tạp và tín hiệu được khuếch đại thông qua tương tác với các ion doping.
+Ví dụ phổ biến nhất là khuếch đại sợi pha tạp Erbi (EDFA, Erbium Doped Fiber Amplifier), trong đó lõi của sợi quang silica được pha tạp với các ion erbi hóa trị ba và có thể được bơm bằng laser ở bước sóng 980 nm hoặc 1.480 nm một cách hiệu quả lên vùng 1.550 nm.
+Khuếch đại quang bán dẫn.
+Khuếch đại quang bán dẫn sử dụng nhiều loại vật liệu bán dẫn pha tạp (Nd:YAG, Yb:YAG, Ti:Sa) với các tạo hình khác nhau (đĩa, tấm, thanh) để khuếch đại tín hiệu quang.
+Sự đa dạng của vật liệu cho phép khuếch đại các bước sóng khác nhau trong khi hình dạng của môi trường khuếch làm phù hợp hơn với năng lượng của quy mô công suất trung bình . Bên cạnh việc sử dụng chúng trong nghiên cứu cơ bản từ phát hiện sóng hấp dẫn đến vật lý năng lượng cao tại NIF (National Ignition Facility, tạm dịch: "Cơ sở Đánh lửa Quốc gia"), và trong nhiều thiết bị laser xung cực ngắn ngày nay.
+

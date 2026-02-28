@@ -1,0 +1,12 @@
+ICOM
+
+ () là một nhà sản xuất quốc tế các thiết bị thu / phát vô tuyến, thành lập vào năm 1954 với tên giao dịch ban đầu là "IEW". Hiện nay, các sản phẩm của nhà sản xuất này bao gồm các mảng thiết bị sử dụng cho vô tuyến nghiệp dư, phi công, công cụ liên lạc hàng hải, ứng dụng chuyên nghiệp di động mặt đất và phục vụ những người đam mê dò sóng vô tuyến.
+Trụ sở của ICOM đặt tại Osaka, Nhật Bản, và các chi nhánh tại Mỹ (ở Bellevue, bang Washington), Canada (ở Delta, British Columbia), Úc (Melbourne, Victoria), New Zealand (Auckland), United Kingdom (Kent, Anh), Pháp (Toulouse), Tây Ban Nha (Barcelona) và tại Trung Quốc (Bắc Kinh).
+Công nghệ.
+IDAS.
+IDAS là sự thực thi Icom's của giao thức NXDN cho sản phảm vô tuyến số hóa song công dành cho Vô tuyến di động mặt đất dùng riêng (PLMR - Private Land Mobile Radio) trong thương mại và hệ thống thông tin an toàn công cộng cấp thấp. NXDN là một tiêu chuẩn kỹ thuật dùng giao diện không gian chung (CAI - Common Air Interface) cho truyền thông di động. Nó được kết hợp phát triển bởi Icom Incorporated và Kenwood Corporation.
+D-STAR.
+ICOM đã phát triển hệ thống vô tuyến mở D-STAR dựa trên kỹ thuật vô tuyến số hóa do Liên minh vô tuyến nghiệp dư Nhật Bản phát triển. Hệ thống này được thiết kế để cung cấp các thông tin liên lạc thoại và dữ liệu tiên tiến trên đài phát thanh nghiệp dư bằng cách sử dụng các tiêu chuẩn mở.
+Các sản phẩm.
+ICOM sản xuất máy bộ đàm vô tuyến song công và máy thu sử dụng trong các nghiệp vụ thông tin hàng hải, hàng không, ứng dụng vô tuyến nghiệp dư, di động mặt đất , và ứng dụng FRS / GMRS. Một số loại bộ đàm do ICOM sản xuất, tương thích với hệ thống trung kế của Motorola và SmarTrunk.
+

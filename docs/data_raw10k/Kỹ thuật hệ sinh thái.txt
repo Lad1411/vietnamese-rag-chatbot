@@ -1,0 +1,10 @@
+Kỹ thuật hệ sinh thái
+
+Một kỹ sư hệ sinh thái là bất kỳ sinh vật nào tạo ra, làm thay đổi một cách quan trọng, duy trì hoặc phá hủy một sinh cảnh. Những sinh vật này có thể có một tác động to lớn lên sự giàu về loài và tính không đồng nhất ở mức độ phong cảnh của một khu vực. Do đó, kỹ sự hệ sinh thái đóng vai trò quan trọng trong việc duy trì sự khỏe mạnh và bền vững của môi trường mà chúng sống. Vì tất cả sinh vật đều tác động lên môi trường sống của chúng bằng cách này hay cách khác, đã có đề xuất là thuật ngữ "kỹ sư hệ sinh thái" chỉ được sử dụng cho các loài chủ chốt, những loài mà hành vi của chúng ảnh hưởng mạnh mẽ tới các sinh vật khác.
+Loại.
+Jones và các đồng nghiệp chia kỹ sư hệ sinh thái thành hai loại:
+Kỹ sư ngoại sinh.
+Kỹ sư ngoại sinh biến đổi môi sinh bằng cách thay đổi về mặt cơ học các vật chất vô tri vô giác hoặc sinh vật sống từ dạng này sang dạng khác. Hải ly là hình mẫu nguyên gốc cho một kỹ sư hệ sinh thái; trong quá trình xây đập, hải lý làm thay đổi hệ sinh thái của chúng một cách rộng khắp. Thêm một cái đập sẽ thay đổi cả phân bố lẫn sự phong phú của nhiều sinh vật ở khu vực đó.
+Kỹ sư nội sinh.
+Kỹ sư nội sinh biến đổi môi trường bằng cách biến đổi chính bản thân chúng. Cây cối là một ví dụ tốt, bởi vì khi chúng lớn lên, thân và cành cây của chúng tạo nên sinh cảnh cho các sinh vật sống khác, có thể bao gồm sóc, chim, côn trùng, v...v.. Ở vùng nhiệt đới, các cây dây leo kết nối cây lớn, cho phép nhiều loài động vật di chuyển giữa các tán rừng.
+

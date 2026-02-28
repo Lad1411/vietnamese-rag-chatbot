@@ -1,0 +1,5 @@
+Phần mở rộng tên tập tin
+
+Phần mở rộng tên tập tin hay phần mở rộng tên tệp hay phần mở rộng tên file (tiếng Anh: Filename extension) là một định danh được chỉ định bằng một hậu tố (suffix) của tên một tập tin máy tính. Phần mở rộng chỉ ra đặc tính của nội dung hoặc mục đích sử dụng tập tin. Phần mở rộng tên tập tin thường được phân cách từ tên tập tin với một dấu chấm (period), nhưng trong một số hệ thống nó được tách ra bởi các dấu trống (space) .
+Một số hệ thống tập tin đặt phần mở rộng tên tập tin như là một đặc tính của hệ thống đó, và có thể hạn chế độ dài và định dạng của phần mở rộng , trong khi một số khác coi phần mở rộng tên tập tin là một phần của tên tập tin mà không có sự khác biệt đặc biệt.
+

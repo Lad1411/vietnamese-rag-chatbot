@@ -1,0 +1,12 @@
+Natri methylsulfinylmethylide
+
+Natri methylsulfinylmethylide (còn gọi là NaDMSO hay dimsyl natri) là muối natri của base liên hợp dimethyl sulfoxide. Công thức hóa học của nó là C2H5NaOS. Muối không màu không thông dụng này có vài ứng dụng trong hóa hữu cơ như một base và chất ái nhân nucleophin.
+Từ lần đầu tiên xuất bản vào năm 1965 bởi Corey và nhiều tác giả khác, một số ứng dụng mới của chất này đã được xác định.
+Điều chế.
+Natri metylsulfinylmetylua được điều chế bởi việc đun nóng natri hydride hay natri amide trong DMSO.
+Phản ứng.
+Như một base.
+pKa của DMSO là 35, dẫn tới NaDMSO trở thành một base Brønsted rất mạnh. NaDMSO dùng trong điều chế các ylid của phosphor và lưu huỳnh. NaDMSO trong DMSO đặc biệt thích hợp trong tổng hợp dimethyloxosulfoni methylide và dimethylsulfoni methylide.
+Phản ứng với este.
+NaDMSO ngưng tụ với các este (1) cho ra các β-ketosulfoxide (2), có thể trở thành các chất trung gian có ích. Khử các β-ketosulfoxide này bằng hỗn hống nhôm cho ra các metyl keton (3). Phản ứng với các alkyl halide kèm sự tách loại cho ra các α,β-ceton không no (4). Thú vị hơn, các β-ketosulfoxide có thể được sử dụng trong phản ứng chuyển vị Pummerer để gắn thêm các nhóm nucleophin vào vị trí alpha tạo thành một carbonyl (5).
+

@@ -1,0 +1,51 @@
+Mạt chược Nhật Bản
+
+ Nhật Bản hay Mạt chược Riichi (tiếng Anh: "Riichi Mahjong)" là một biến thể của mạt chược. Trong biến thể này, nhiều phần luật chơi được thay đổi so với nguyên gốc, với sự xuất hiện của "riichi" và "dora" và việc quan tâm nhiều hơn đến các quân bài đã được đánh ra với luật "furiten". Biến thể này phổ biến nhờ có sự hỗ trợ của anime, manga và các nền tảng chơi trực tuyến.
+Lịch sử.
+Năm 1924, một người lính tên Saburo Hirayama đã đem mạt chược tới Nhật Bản. Tại Tokyo, ông ta mở các câu lạc bộ mạt chược, quán mạt chược và trường học. Trong những năm sau đó, trò chơi này ngày càng được biết tới nhiều hơn - và trong quá trình đó, mạt chược được đơn giản hóa so với nguyên bản tới từ Trung Hoa - sau đó lại thêm các luật chơi mới để tăng độ phức tạp của trò chơi. Năm 2010, mạt chược trở thành trò chơi trên bàn phổ biến nhất tại Nhật Bản. Tính đến năm 2008, có khoảng 7,6 triệu người chơi trò chơi này và 8900 quán mạt chược trên khắp nước Nhật, mang về về doanh thu khoảng 300 tỉ Yên. Đã xuất hiện nhiều bộ manga và anime đan cài các tình tiết có sự xuất hiện của mạt chược, qua đó quảng bá rộng rãi trò chơi này tới công chúng. Một số khu trò chơi arcade ở Nhật Bản cũng có các máy mạt chược arcade có thể kết nối với nhau qua Internet.
+Tại Nhật Bản, mạt chược là một môn thể thao thi đấu chuyên nghiệp - và cũng có cho mình các tuyển thủ chuyên nghiệp, thường được gọi là , tham gia thi đấu các giải và sự kiện đặc biệt với nhau cũng như với công chúng. Có khoảng 1700 tước sĩ chuyên nghiệp đang hoạt động trong 6 tổ chức riêng biệt nhau, ví dụ như Liên đoàn Mạt chược Chuyên nghiệp Nhật Bản (日本プロ麻雀連盟) hay Hiệp hội Mạt chược Chuyên nghiệp Nhật Bản (日本プロ麻雀協会), tuy nhiên không có tổ chức nào thật sự thống nhất và có toàn quyền quản lý mạt chược chuyên nghiệp tại đất nước này, hay trên toàn thế giới. Kể từ năm 2018, có một hệ thống giải đấu của các tuyển thủ chuyên nghiệp được mời thi đấu (từ các tổ chức khác nhau) có tên là M.League, tài trợ bởi Daiwa Securities Group nhằm giới thiệu mạt chược với tư cách là một môn thể thao chuyên nghiệp. Các đội tuyển chiêu mộ các tước sĩ chuyên nghiệp, trả lương định kì, có xếp hạng thường xuyên và đồng phục, từ đó nâng cao hình ảnh của mạt chược với tư cách là một môn thể thao.
+Quân bài.
+Mạt chược Nhật Bản chơi với 136 quân bài, được tráo bằng cách xoa bài và xếp thành 4 bức tường thành - với mỗi tường cao 2 tầng, mỗi tầng 17 quân. 26 đôi được sử dụng để bốc làm bài khởi tạo, 7 đôi tạo thành tử thành không được bốc và 35 đôi còn lại sử dụng để bốc trong quá trình chơi.
+Có 34 loại quân bài khác nhau, mỗi loại có bốn quân giống nhau. Giống như mạt chược nguyên bản, có ba chất chính của quân bài ("bài nạc") là man (chữ), pin (đồng tiền) và sō (xâu tiền, thường bị nhầm thành các cây tre), cùng với các quân jihai ("tài phao") gồm có rồng "(sangenpai)" và gió "(fonpai)." Đôi khi trong luật chơi, ba quân 5-man, 5-pin và 5-sō có màu đỏ - với tác dụng như một dora (sẽ được đề cập ở phần sau) để tăng thêm điểm mà người chơi có thể nhận được. Khác với phiên bản nguyên gốc, trong mạt chược Nhật Bản không có sự xuất hiện của bộ Hoa (Mai - Lan - Cúc - Trúc) hay bộ Mùa (Xuân - Hạ - Thu - Đông).
+Dưới đây là danh sách các quân bài, kèm với cách đọc - cách kí hiệu/thường gọi:
+Luật chơi cơ bản.
+Nhiều luật chơi cơ bản của mạt chược cũng được áp dụng lên biến thể này. Ba hay bốn quân bài có liên quan với nhau được gọi là : nếu là ba quân đồng chất liên tiếp là "shuntsu", nếu là bộ ba quân giống hệt nhau là "kotsu", nếu là bốn quân giống hệt nhau là "kan" hay "kantsu". Để chiến thắng một ván chơi, người chơi phải có đủ hai điều kiện là:
+Tạo ra các bộ bằng cách gọi quân.
+Người chơi có thể tạo ra các bộ mở bằng việc gọi quân của đối phương đã đánh ra, khi đó sẽ mở cả hai/ba quân bài còn lại lên bàn để các người chơi còn lại thấy, sau đó sẽ đến lượt của người vừa gọi quân đánh. Gọi quân của người khác sẽ tạo ra bộ - cũng khiến cho bài của người chơi khi này vào trạng thái Mở. Tuy nhiên, nếu gọi được quân bài để chiến thắng ván đấu đó - bộ vẫn được tính là mở nhưng toàn bài thì vẫn trong trạng thái Kín. Cụ thể, có ba cách là "Chii - Pon" và "Kan".
+Trong thứ tự ưu tiên của việc gọi quân nếu như có nhiều hơn một người chơi muốn gọi cùng một quân, "Ron" (chiến thắng) được ưu tiên đầu tiên, sau đó là "Kan/Pon" và cuối cùng là "Chii".
+Chii.
+Người chơi có thể tạo ra một bộ mở là ba quân đồng chất liên tiếp bằng việc gọi "Chii ("吃 "hay" チー")" - gọi quân bài được đánh ra bởi người ngồi bên trái, hay nói cách khác là người đi lượt liền trước người đó. Khi đó, họ mở toàn bộ các quân trong bộ lên - với quân được gọi đặt ngang đặt ở bên trái hai quân có sẵn và thường đặt ở bên phải tay người vừa Chii.
+Pon.
+Với việc gọi "Pon (碰 hay ポン)" - gọi quân bài được đánh ra bởi bất cứ ai, người chơi sẽ lật ngửa toàn bộ các quân trong bộ - với quân được gọi đặt nằm ngang và tùy thuộc vào người đánh ra quân được gọi để đặt (của người bên trái đặt bên trái, của người đối diện đặt giữa, của người bên phải đặt bên phải) vị trí.
+Kan.
+Việc gọi "Kan" (槓 hay カン) là việc người chơi tạo ra một bộ bốn quân giống hệt nhau. Sau khi có được kan dù theo bất cứ cách nào, quân dora tiếp theo sẽ được lật lên, và người chơi gọi Kan sẽ bốc thêm một quân nữa ở tận cùng của tử thành. Có ba loại Kan, cụ thể là:
+Yaku và Yakuman.
+ là một trong hai điều kiện để chiến thắng một ván chơi, cùng với việc phải ít nhất phải hoàn thành bài. Khi tính điểm, mỗi Yaku sẽ có giá trị riêng, với cao nhất có thể là Yakuman - bản chất là các Yaku đặc biệt và thường rất khó để thực hiện, với hai ví dụ:
+Riichi.
+Việc tuyên bố "riichi" của một người chơi có ý nghĩa rằng bài người đó chỉ cần thêm một quân nữa để hoàn thành, và Riichi cũng là một Yaku. Người chơi có thể thực hiện hành động này nếu thật sự chỉ cần một quân bài để hoàn thiện bài (tenpai) và bài người chơi đó phải là bài Kín. Khi đã tuyên bố Riichi, người chơi không cần để ý đến việc đã hoàn thành Yaku hay chưa vì về bản chất, Riichi là một Yaku,và khi đã Riichi, nếu quân bài được bốc mới không giúp người chơi đó chiến thắng hay tạo Kan kín - họ phải ngay lập tức đánh quân bài đó ra. Để chiến thắng sau khi đã tuyên bố Riichi, có hai cách:
+Cách thực hiện yaku Riichi trong lượt đi của người chơi đó như sau:
+Dora.
+"Dora" (ドラ) là các quân bài mà khi người chơi có Yaku và chiến thắng ván chơi sẽ giúp cho họ được cộng thêm điểm, tất cả các quân bài đều có thể trở thành Dora, nhưng người chơi không cần phải có quân Dora trên tay để hoàn thiện Yaku.
+Khi bắt đầu ván chơi, quân bài ở phía trên, từ cột thứ ba đổ đi ở phía kết của tử thành sẽ được lật ngửa và trở thành "chỉ điểm dora", theo chỉ điểm này sẽ giúp ván chơi xác định được đâu là dora. Ví dụ, nếu như chỉ điểm là hatsu (Rồng Xanh), quân bài liền sau đó theo thứ tự sẽ trở thành dora là chun (Rồng Đỏ). Thứ tự của dora như sau (từ trái sang phải, từ chỉ điểm tới dora):
+Nếu trong quá trình chơi có người gọi Kan, sẽ có thêm một quân nữa (bên cạnh chỉ điểm Dora ban đầu, về phía có nhiều quân hơn) ở tử thành được lật lên và tạo thành chỉ điểm dora mới, đây được gọi là "Kandora" (カンドラ). Ngoài ra, nếu có người chơi chiến thắng bằng việc Riichi thành công, tất cả các quân ở dưới những chỉ điểm dora đã được lật sẽ được lấy ra, lật lên và trở thành những chỉ điểm bổ sung - đây được gọi là "Uradora" (裏ドラ).
+Hơn nữa, có nhiều biến thể có sự xuất hiện của những quân 5 đỏ (với 5 Man - 5 Pin - 5 Sou hoàn toàn màu đỏ). Đây được gọi là "Akadora" (赤ドラ, "Dora đỏ") hay "Akapai" (赤牌). Sở hữu các quân bài này trên tay đồng nghĩa với việc quân bài đó trở thành một dora, và nếu như có một chỉ điểm dora là một quân 4 - dora sẽ được tính chồng lên trở thành hai hoặc nhiều hơn.
+Tính điểm.
+Trong các biến thể mạt chược, cách tính điểm của mạt chược Nhật Bản là độc nhất, với hai giá trị là "han" và "fu" để có thể tính toán. Bài khi có người chiến thắng sẽ dựa vào số "han" và "fu" này để tính toán. Ví dụ tính điểm cho yaku Chiitoitsu như sau:
+Luật phản bội - Furiten.
+Khác với mạt chược nguyên bản, mạt chược Nhật Bản quan tâm tới các quân bài mà người chươi đã đánh ra để giới hạn chiến thắng - luật này được gọi là . Furiten về cơ bản quy định việc cấm sử dụng quân bài mà người chơi khác đánh ra để trở thành chiến thắng của người chơi đó, cụ thể là: 
+Lưu ý rằng khi bị furiten, người chơi đó không thể Ron, tuy nhiên vẫn có thể thực hiện các hành động khác như Tsumo, Chii, Pon hay Kan. 
+Luật furiten cũng là cơ sở để thực hiện phòng thủ trong mạt chược Nhật Bản, với các khái niệm như suji hay kabe. 
+Ván hòa.
+Không phải lúc nào trong một ván chơi cũng có thể xác định người chiến thắng, có những trường hợp hòa sau đây: 
+Chombo - Phạt đền.
+Trong quá trình chơi, một người chơi có thể bị phạt điểm nếu như vi phạm luật chơi, đây được gọi là , một vài tình huống cụ thể như sau: 
+Nếu như bị phạt đền, nhiều luật chơi quy định người chơi đó phải trả một số điểm nhất định cho các người chơi còn lại, hoặc sẽ bị trừ một số điểm quy định sẵn khi kết thúc toàn bộ ván đấu. 
+Kết thúc trận đấu.
+Một trận đấu hoàn chỉnh sẽ kết thúc ở ván đấu gió cuối cùng, ví dụ như Đông 4 hay Nam 4, tuy nhiên có những trường hợp sau đây có thể xảy ra: 
+Phá sản - Âm điểm.
+Trong nhiều luật chơi nghiệp dư, khi số điểm của một người chơi về mức âm, trận đấu đó sẽ ngay lập tức kết thúc. Tuy nhiên khi thi đấu chuyên nghiệp, người chơi vẫn sẽ được tiếp tục thi đấu. 
+Penalty - Điểm tối thiểu để kết thúc ván đấu.
+Nếu sau khi kết thúc ván đấu gió cuối cùng, điểm của người chơi cao nhất bàn chơi đó chưa vượt qua số điểm được quy định để kết thúc ván đấu, một vòng gió phụ sẽ được tiếp tục cho tới khi nào có người chơi vượt qua số điểm đó, thường là một ván gió Tây - đây được gọi là , hoặc nếu xa hơn là với một ván gió Bắc. Chỉ cần có một người chơi vượt qua số điểm được quy định, trận đấu sẽ ngay lập tức được kết thúc. 
+Agari-yame - Nhà cái cuối cùng.
+Trong vòng gió cuối cùng, nếu như người chơi được làm nhà cái cuối cùng đang có số điểm đứng nhất và luật chơi cho phép, người chơi đó có quyền yêu cầu kết thúc trận đấu, đây được gọi là 
+

@@ -1,0 +1,14 @@
+Nguyên tắc Kerckhoffs
+
+Trong mật mã học, nguyên tắc Kerckhoffs (còn gọi là "tiên đề Kerckhoffs") được Auguste Kerckhoffs đưa ra trong thế kỷ 19: ""Độ an toàn của hệ thống mật mã không phụ thuộc vào việc giữ bí mật thuật toán mã hóa, nó phụ thuộc vào việc giữ bí mật chìa khóa mã."
+Nguyên tắc Kerckhoffs cũng được Claude Shannon đưa ra dưới dạng "Kẻ thù biết hệ thống"" (có thể là độc lập với Kerckhoffs). Trong dạng này, nó được gọi là châm ngôn Shannon. Trái với "bảo mật bằng cách che giấu", nguyên tắc này được thừa nhận rộng rãi bởi các nhà mật mã.
+Nguồn gốc.
+Năm 1883, Auguste Kerckhoffs viết hai bài báo về Mã hóa trong quân sự (La Cryptographie Militaire), trong đó ông đã đưa ra sáu nguyên tắc thiết kế cho mật mã quân sự. Dịch từ tiếng Pháp, đó là:
+    Hệ thống không thể dịch được;
+    Nó không cần bí mật mà vẫn an toàn nếu rơi vào tay kẻ thù;
+    Khóa có thể được truyền hoặc nhớ mà không cần ghi chép văn bản, và các bên liên quan phải có khả năng thay đổi hoặc chỉnh sửa nó tùy ý;
+    Nó phải được ứng dụng trong điện tín;
+    Nó phải có tính di động và không yêu cầu nhiều người xử lý hay vận hành;
+    Cuối cùng, khi được sử dụng, hệ thống phải dễ dùng và không quá phức tạp hay yêu cầu người dùng phải biết và tuân thủ quá nhiều quy tắc.
+Ngày nay, một số nguyên tắc đã không còn phù hợp khi mà máy tính có khả năng thực hiện các việc mã hóa phức tạp, chỉ riêng tiên đề thứ hai của ông, hiện được gọi là định luật Kerckhoffs, vẫn còn rất quan trọng.
+

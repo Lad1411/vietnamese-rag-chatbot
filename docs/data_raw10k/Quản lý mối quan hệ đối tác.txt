@@ -1,0 +1,8 @@
+Quản lý mối quan hệ đối tác
+
+Quản lý mối quan hệ đối tác (PRM) là một hệ thống các phương pháp, chiến lược, phần mềm và khả năng dựa trên web giúp nhà cung cấp quản lý các mối quan hệ đối tác. Mục đích chung của PRM là cho phép các nhà cung cấp quản lý tốt hơn các đối tác của họ thông qua việc giới thiệu các hệ thống, quy trình và quy trình đáng tin cậy để tương tác với họ. Các hệ thống PRM dựa trên web thường bao gồm Hệ thống quản lý nội dung, cơ sở dữ liệu liên hệ với đối tác và khách hàng và khái niệm cổng thông tin đối tác cho phép các đối tác đăng nhập và tương tác với cơ sở dữ liệu cơ hội bán hàng của nhà cung cấp và có được sản phẩm, giá cả, và thông tin đào tạo. Có một số nhà cung cấp giải pháp cung cấp cho các công ty phần mềm PRM, những người phụ thuộc rất nhiều vào giải pháp PRM để có liên quan trong các ngành công nghiệp tương ứng của họ.
+Các nhà cung cấp thực hiện giải pháp PRM thường được thúc đẩy bởi nhu cầu giảm chi phí tài chính và thiết lập quan hệ đối tác mới để thúc đẩy doanh thu và quy mô kênh. Đối tác cũng có thể là nhà tích hợp hoặc nhà cung cấp dịch vụ được quản lý. Không giống như các hệ thống CRM, được thiết kế để hướng tới việc khách hàng cuối cùng mua hàng từ bạn, hệ thống PRM tập trung vào việc khiến đối tác bán thay mặt bạn. Do đó, họ thường cung cấp các công cụ, thông tin và tài nguyên tự phục vụ dựa trên web cho các đại lý đối tác. Các công cụ thường bao gồm:
+Xu hướng.
+Gartner báo cáo rằng các giải pháp PRM chủ yếu được các công ty trong ngành công nghệ phần cứng, công nghệ phần mềm, viễn thông và sản xuất áp dụng.
+Thị trường ứng dụng PRM đã mở rộng đáng kể trong 10 năm qua, với các nhà cung cấp cung cấp các giải pháp đầu cuối và điểm cải tiến để quản lý các đối tác bán hàng kênh.
+

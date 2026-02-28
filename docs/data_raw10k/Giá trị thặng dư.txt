@@ -1,0 +1,50 @@
+Giá trị thặng dư
+
+Giá trị thặng dư là một trong những khái niệm trung tâm của kinh tế chính trị Marxist. Karl Marx đã nghiên cứu và đưa ra một số lý luận xung quanh khái niệm này trong các tác phẩm viết về kinh tế chính trị của ông. Nó được sử dụng để khẳng định lao động thặng dư của công nhân bị các nhà tư bản lấy đi, là nền tảng cho sự tích lũy tư bản.
+Nguồn gốc.
+Để tiến hành sản xuất, nhà tư bản phải mua sức lao động và tư liệu sản xuất. Vì tư liệu sản xuất và sức lao động do nhà tư bản mua, nên trong quá trình sản xuất, người công nhân làm việc dưới sự kiểm soát của nhà tư bản và sản phẩm làm ra thuộc sở hữu của nhà tư bản.
+Sản xuất tư bản chủ nghĩa là quá trình tạo ra giá trị tăng thêm cho nhà tư bản khi năng suất lao động đạt tới trình độ nhất định – chỉ cần một phần của ngày lao động người công nhân làm thuê đã tạo ra giá trị bằng giá trị sức lao động của chính mình.
+Bằng lao động cụ thể của mình, công nhân sử dụng các tư liệu sản xuất và chuyển giá trị của chúng vào sản phẩm; và bằng lao động trừu tượng, công nhân tạo ra giá trị mới lớn hơn giá trị sức lao động, phần lớn hơn đó được gọi là giá trị thặng dư.
+Giá trị hàng hóa (W) được sản xuất ra gồm hai phần: giá trị những tư liệu sản xuất đã hao phí được lao động cụ thể bảo tồn và chuyển vào sản phẩm (giá trị cũ, ký hiệu c) và giá trị mới (v+m) do lao động trừu tượng của công nhân tạo ra (lớn hơn giá trị hàng hóa sức lao động). Phần giá trị mới do lao động sống tạo thêm ra ngoài giá trị hàng hóa sức lao động, được nhà tư bản thu lấy mà không trả cho người lao động, được gọi là giá trị thặng dư (m).
+Như vậy, lao động sống là nguồn gốc tạo ra giá trị thặng dư.
+Khái niệm.
+Giá trị thặng dư tư bản chủ nghĩa (m) là giá trị mới do lao động sống tạo thêm ra ngoài giá trị hàng hoá sức lao động, là lao động không được trả công của người lao động làm thuê.
+Công thức: W = c + v + m.
+Sản xuất giá trị thặng dư là mục tiêu và động cơ của từng nhà tư bản cũng như toàn bộ nền sản xuất tư bản chủ nghĩa. Bản chất của giá trị thặng dư tư bản chủ nghĩa thể hiện quan hệ bóc lột giữa người sở hữu tư liệu sản xuất và người sở hữu hàng hoá sức lao động, hay nói cách khác giữa nhà tư bản và người làm thuê.
+Tư bản bất biến và Tư bản khả biến.
+Tư bản bất biến.
+Tư bản bất biến (c) là bộ phận tư bản tồn tại dưới hình thức tư liệu sản xuất mà giá trị được bảo tồn và chuyển vào sản phẩm; tức là giá trị không biến đổi về lượng trong quá trình sản xuất, được gọi là tư bản bất biến. 
+Tư liệu sản xuất gồm: máy móc, thiết bị, nhà xưởng… chuyển giá trị của nó từng phần vào sản phẩm; nhiên liệu, vật liệu khi sử dụng được chuyển ngay toàn bộ giá trị của nó vào sản phẩm.
+Tư bản khả biến.
+Tư bản khả biển (v) là bộ phận tư bản dùng để mua sức lao động. Trong quá trình sản xuất bộ phận tư bản này không tái hiện ra, nhưng thông qua lao động trừu tượng của công nhân mà tăng lên; tức là biến đổi về lượng. Một mặt, giá trị của nó chuyển thành tư liệu sinh hoạt của công nhân và mất đi trong tiêu dùng của công nhân. Mặt khác, trong quá trình lao động, nhờ lao động trừu tượng của mình, công nhân tạo ra giá trị mới lớn hơn giá trị mua sức lao động.
+Sự phát triển của chủ nghĩa tư bản trong công nghiệp.
+Khi nghiên cứu phương pháp sản xuất giá trị thặng dư tương đối, Marx đã trình bày về 3 giai đoạn phát triển chủ nghĩa tư bản trong công nghiệp; cả 3 giai đoạn phát triển này đều làm tăng năng suất lao động, tăng giá trị thặng dư tương đối. 
+Hiệp tác giản đơn.
+Là hình thức xã hóa lao động, sự hiệp tác của nhiều người lao động cùng làm một việc theo kế hoạch trong cùng một thời gian trên cùng một không gian sản xuất ra cùng một loại hàng hóa; dưới sự điều khiển của cùng một nhà tư bản. Hiệp tác giản đơn vừa tăng sức sản xuất cá nhân, vừa tạo ra sức sản xuất tập thể lớn hơn năng lực cá nhân cộng lại. Đây là cuộc cách mạng về tổ chức lao động.
+Phân công công trường thủ công.
+Là thực hiện sự hợp tác lao động có phân công dựa trên kỹ thuật thủ công. Công trường thủ công có nhiều ưu thế hơn hẳn so với hiệp tác giản đơn. Cùng một công việc được chia thành nhiều thao tác độc lập khác nhau, cho nên mỗi người lao động cá biệt đều trở thành lao động bộ phận trong người lao động tổng thể của cái cơ cấu sống là công trường thủ công. Đây là cuộc cách mạng bản thân sức lao động, dẫn tới sự thay đổi trong công cụ lao động. 
+Đại công nghiệp cơ khí.
+Cuộc cách mạng công nghiệp ở nước Anh diễn ra những năm cuối thế kỷ XVIII đầu thế kỷ XIX đã tạo ra sự phát triển mạnh mẽ của lực lượng sản xuất xã hội. Đại công nghiệp có tác dụng đưa máy móc vào sử dụng rộng rãi trong xã hội. Đây là cuộc cách mạng về công cụ lao động.
+Phương pháp đo lường giá trị thặng dư.
+Công thức để đo lường giá trị thặng dư:
+Căn cứ vào việc xác định giá thành của sản phẩm:
+Trong đó:
+Hình thái biểu hiện của giá trị thặng dư.
+Lợi nhuận.
+Để sản xuất hàng hóa phải có chi phí lao động quá khứ và lao động sống, khi đó giá trị hàng hóa được tạo ra là W = c + v + m. 
+Nhà tư bản phải mua tư liệu sản xuất (c) và thuê lao động (v), như vậy, chi phí sản xuất tư bản chủ nghĩa là k = c + v. Khi đó, giá trị hàng hóa sẽ biểu hiện ra dưới hình thái khác là W = k + m.
+Sự hình thành phạm trù chi phí sản xuất cùng với việc giá cả sức lao động biểu hiện ra dưới hình thái chuyển hóa là tiền công, là nguyên nhân làm cho giá trị thặng dư biểu hiện ra dưới hình thái chuyển hóa là lợi nhuận (p). Khi xuất hiện phạm trù lợi nhuận thì giá trị hàng hóa sẽ biểu hiện thành W = k + p.
+Marx nêu ra định nghĩa lợi nhuận: “Giá trị thặng dư, được quan niệm là con đẻ của toàn bộ tư bản ứng trước, mang hình thái chuyển hóa là lợi nhuận”.
+Lợi nhuận của tư bản thương nghiệp.
+Sự hình thành lợi nhuận thương nghiệp do chênh lệch giữa giá bán với giá mua hàng hoá của tư bản thương nghiệp. Lợi nhuận thương nghiệp là một phần giá trị thặng dư được tạo ra trong sản xuất do nhà tư bản công nghiệp “nhường” cho nhà tư bản thương nghiệp.
+Lợi tức của tư bản cho vay và lợi nhuận ngân hàng.
+Tư bản cho vay (TBCV) là một bộ phận của tư bản tiền tệ tạm thời nhàn rỗi trong quá trình tuần hoàn của TBCN được tách ra và vận động độc lập với TBCN. TBCV là tư bản tiền tệ mà người chủ của nó nhường cho một người khác sử dụng trong một thời gian để nhận được một số lời nào đó. 
+Số lời đó gọi là lợi tức (Z). Hình thức vận động của TBCV T – T’.
+Lợi nhuận ngân hàng = (Z cho vay + thu khác) – (Z đi vay + chi phí nghiệp vụ).
+Địa tô.
+Định nghĩa.
+Địa tô tư bản chủ nghĩa là bộ phận lợi nhuận siêu ngạch do lao động của công nhân làm thuê trong lĩnh vực nông nghiệp tạo ra sau khi đã khấu trừ đi phần lợi nhuận bình quân mà các nhà tư bản kinh doanh nông nghiệp buộc phải nộp cho nhà địa chủ (R).
+Hình thức.
+"Địa tô chênh lệch" là số dư ngoài lợi nhuận bình quân thu được trên những ruộng đất tốt và trung bình so với ruộng đất kém nhất, là số chênh lệch giữa giá cả sản xuất chung của nông phẩm được quyết định bởi điều kiện sản xuất trên ruộng đất xấu nhất và giá cả cá biệt trên ruộng đất tốt và trung bình. Địa tô chênh lệch I thu được trên cơ sở đất đai có điều kiện tự nhiên thuận lợi (gắn với điều kiện tự nhiên thuận lợi bị độc chiếm. Do vậy, nó thuộc về chủ ruộng đất). Địa tô chênh lệch II do thâm canh mà có. 
+"Địa tô tuyệt đối" là địa tô mà tất cả các nhà tư bản kinh doanh nông nghiệp đều phải nộp cho địa chủ dù ruộng đất tốt hay xấu. Đây là loại tô thu trên tất cả mọi thứ ruộng đất. Địa tô tuyệt đối cũng là một loại lợi nhuận siêu ngạch ngoài lợi nhuận bình quân, hình thành do cấu tạo hữu cơ của tư bản trong nông nghiệp thấp hơn trong công nghiệp, mà bất cứ nhà tư bản thuê loại ruộng đất nào đều phải nộp cho địa chủ. Tính chất lịch sử của địa tô tuyệt đối gắn liền với quyền sở hữu tư nhân về ruộng đất, với tính chất lạc hậu tương đối của sản xuất nông nghiệp so với sản xuất công nghiệp. 
+

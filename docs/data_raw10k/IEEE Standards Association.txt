@@ -1,0 +1,6 @@
+IEEE Standards Association
+
+Institute of Electrical and Electronics Engineers Standards Association (IEEE-SA) là một tổ chức bên trong IEEE. Tổ chức này phát triển các tiêu chuẩn toàn cầu trong nhiều lĩnh vực công nghiệp, gồm điện lực và năng lượng, y sinh và chăm sóc sức khỏe, công nghệ thông tin và robot học, viễn thông và nhà thông minh, vận tải, công nghệ nano, bảo đảm thông tin, vân vân.
+IEEE-SA đã phát triển các tiêu chuẩn hơn một thế kỉ qua, qua một chương trình cân bằng, cởi mở, công bằng, và đồng thuận. Các chuyên gia kĩ thuật từ khắp nơi trên thế giới đã tham gia phát triển các tiêu chuẩn IEEE.
+IEEE-SA không phải là một tổ chức được sở hữu chính thức bởi bất kì chính phủ nào mà là một cộng đồng. Các tổ chức tiêu chuẩn quốc tế được thừa nhận chính thức (ISO, IEC, ITU, CEN) là liên hiệp các tổ chức tiêu chuẩn quốc gia (American ANSI, German DIN, Japanese JISC, vân vân).
+

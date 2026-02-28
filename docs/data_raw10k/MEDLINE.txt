@@ -1,0 +1,17 @@
+MEDLINE
+
+ 
+MEDLINE (hay Medline, viết tắt tiếng Anh của "Medical Literature Analysis and Retrieval System Online") là một cơ sở dữ liệu hỗn hợp của các ngành khoa học sự sống và y sinh học. Các lĩnh vực phục vụ của MEDLINE bào gồm y học, kỹ thuật điều dưỡng, nha khoa, thú y và tổ chức y tế. Với mục đích cung cấp lượng thông tin tối đa, các ngành liên quan như sinh học và hóa sinh học đã được đưa vào cơ sở dữ liệu, thậm chí cả một số ngành không trực tiếp phục vụ y học như tiến hóa phân tử.
+MEDLINE được biên soạn bởi Trung tâm Thông tin Công nghệ Sinh học Quốc gia ("National Center for Biotechnology Information", NCBI) thuộc Thư viện Y khoa Quốc gia Hoa Kỳ ("National Library of Medicine", NLM) và cho phép truy cập miễn phí trên Internet thông qua PubMed với cỗ máy tìm kiếm tên là Entrez (nghĩa là "Mời vào" hoặc "Nhập (từ khóa) vào", theo tiếng Pháp).
+Cơ sở dữ liệu.
+Cơ sở dữ liệu của MEDLINE chứa trên 14 triệu hồ sơ từ hơn 4.800 tài liệu xuất bản (chủ yếu là các tạp chí y học) từ những năm 1950 đến nay, và các trích dẫn mới được bổ sung mỗi ngày. Các trích dẫn mới hơn còn bao gồm cả phần tóm tắt của các bài báo đang còn thảo luận. MEDLINE được thiết kế để chứa dữ liệu toàn cầu, nhưng hầu hết các tài liệu đều từ các nguồn sử dụng tiếng Anh hoặc có bảng tóm tắt bằng Anh ngữ.
+MEDLINE dùng MeSH ("Medical Subject Headings") để tầm soát thông tin. Các cỗ máy tìm kiếm thiết kế cho MEDLINE (như Entrez) thường sử dụng biểu thức Boole chứa các thuật ngữ MeSH, các từ chứa trong tóm tắt hay tựa đề của bài báo, tên tác giả, ngày xuất bản v.v.. Entrez còn cho phép tìm các tài liệu gần giống với tài liệu đã biết nhờ một hệ thống tính toán mức độ tương đồng giữa các từ ngữ trong nội dung, bản tóm tắt hoặc tựa đề của hai tài liệu.
+Tác động.
+MEDLINE đã trở thành một tài nguyên quan trọng cho các nhà nghiên cứu y sinh học khắp thế giới. Cùng với Thư viện Cochrane, MEDLINE thúc đẩy sự phát triển của y học thực chứng. Ngày nay, hầu hết các nghiên cứu tổng quan đều dựa trên một quá trình tìm kiếm rộng rãi trên MEDLINE để tìm các bài báo có ích cho công trình. Nhiều bài báo nhắc lại các thuật ngữ được dùng khi tìm thông tin trên MEDLINE, nhằm giúp cho các nhà khoa học khác tìm kiếm thông tin hiệu quả hơn.
+Bên cạnh đó, MEDLINE còn ảnh hưởng đến các nhà nghiên cứu trong việc chọn lựa tạp chí để gửi bài đăng. Ngày nay rất ít nhà nghiên cứu còn muốn đăng công trình của mình trên những tạp chí không có trong mục lục của MEDLINE bởi vì điều đó khiến cho các đồng nghiệp không biết đến (và trích dẫn) bài báo của mình.
+Chúng ta tiếp tục bàn nhé.
+Cách dùng MEDLINE.
+Mới nhìn thì có vẻ đơn giản, nhưng thật ra muốn tìm kiếm MEDLINE có hiệu quả cần phải có kỹ thuật và thông qua rèn luyện. Thiếu kinh nghiệm, số lượng khổng lồ các bài báo được tìm ra khi bấm Enter dễ làm nản lòng người. Ngược lại, cũng khó lòng cả quyết rằng kết quả tìm kiếm là đầy đủ, ngay cả khi nó lôi ra được hàng nghìn tựa bài.
+Trên Pubmed có chỉ dẫn cách sử dụng tối ưu các tài nguyên của MEDLINE (bằng tiếng Anh). Tuy nhiên, kỹ năng quyết định là phải biết bố trí một chuỗi tìm kiếm, điều này không phải là dễ. Các thủ thư của NLM sắp xếp tất cả các tài liệu theo chủ đề dựa theo một bảng từ vựng chuẩn hóa ("Medical Subject Headings", MeSH). Do đó, sử dụng cơ sở dữ liệu MeSH để xác lập chủ đề quan tâm là cách thông dụng nhất để cải thiện chất lượng tìm kiếm. Một cách khác là tìm một bài trong chủ đề rồi bấm vào mục "các bài liên quan" ("Related Articles") để tìm đến các bài được xếp loại tương đương.
+Đúng thế
+

@@ -1,0 +1,5 @@
+Danh sách quốc gia theo GDP danh nghĩa năm 2007
+
+Đây là danh sách các quốc gia theo GDP cho năm 2007, giá trị của tất cả sản phẩm và dịch vụ được sản xuất trong một quốc gia trong một năm, tính theo USD dựa vào tỷ giá hối đoái trên thị trường.
+Các giá trị hàng thứ nhất và thứ ba lấy từ nguồn Quỹ Tiền tệ Quốc tế (IMF) và Dữ kiện thế giới của CIA theo số liệu mới nhất về GDP ước tính năm 2007. Hàng thứ 2 là số liệu năm 2007 của Ngân hàng Thế giới (WB)
+

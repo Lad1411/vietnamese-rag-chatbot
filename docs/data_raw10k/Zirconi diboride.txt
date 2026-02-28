@@ -1,0 +1,5 @@
+Zirconi diboride
+
+Zirconi điborua (công thức hóa học là ZrB2) là một vật liệu gốm chịu nhiệt có độ bền cao với cấu trúc tinh thể lục giác. ZrB2 là chất gốm có khả năng chịu được nhiệt độ cực cao, với điểm nóng chảy lên đến 3246 °C. Hợp chất này có mật độ tương đối thấp, khoảng 6,085 g/cm³ (mật độ đo được có thể cao hơn, do thường lẫn tạp chất hafni) và độ bền, chịu được nhiệt độ cao làm cho nó trở thành một hợp chất tiềm năng cho các ứng dụng hàng không vũ trụ nhiệt độ cao như máy bay siêu âm hoặc hệ thống đẩy tên lửa. Đây là một loại gốm đặc biệt, có độ dẫn nhiệt và điện cao tương đối, tính chất nó chia sẻ với titan điborua và hafni.
+Từng phần của ZrB2 thường được cho ép nóng (áp lực lên bột nóng) và sau đó gia công lại để tạo hình. Quá trình thiêu kết ZrB2 bị cản trở bởi tính chất cộng hoá trị của vật liệu và sự hiện diện của các oxit bề mặt làm gia tăng hạt trước khi đông cứng trong quá trình nung. Thiêu kết áp suất của ZrB2 có thể thực hiện với các chất phụ gia thiêu kết như cacbon carbide và cacbon phản ứng với các oxit bề mặt để tăng lực đẩy cho quá trình kết dính, nhưng các tính chất cơ học bị phân hủy so với ép ZrB2 nóng.
+

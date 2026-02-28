@@ -1,0 +1,25 @@
+Phương trình Hammett
+
+Phương trình Hammett trong Hóa hữu cơ mô tả mối quan hệ năng lượng tự do liên quan đến vận tốc phản ứng và hằng số cân bằng cho những phản ứng liên quan đến dẫn xuất acid benzoic thế meta và para với hai yếu tố: hằng số thế và hằng số phản ứng. Phương trình được phát triển và xuất bản bởi Louis Plack Hammett năm 1937 sau những quan sát định tính trong lần xuất bản năm 1935.
+Ý tưởng cơ bản đó là cho bất kì 2 phản ứng với hai tác chất hương phương chỉ khác nhau hai loại nhóm thế làm thay đổi năng lượng tự do và năng lượng hoạt hóa, và tỉ lệ với sự thay đổi trong năng lượng tự do Gibbs. Chú ý rằng những điều sau đây không lấy từ nhiệt hóa học hay động hóa học nguyên tố mà được giới thiệu bởi những quan sát trực quan của Hammett.
+Phương trình cơ bản là:
+formula_1
+trong đó K là hằng số cân bằng của phản ứng cân bằng đã biết với nhóm thế R và K0 là K khi R=H, hằng số thế σ chỉ phụ thuộc vào nhóm thế R và hằng số phản ứng ρ chỉ phụ thuộc vào loại phản ứng mà không phụ thuộc vào nhóm thế đã dùng.
+Phương trình cũng được dùng cho vận tốc phản ứng k của chuỗi phản ứng với nhóm thế của dẫn xuất benzen.
+formula_2
+Trong phương trình này k0 là tốc độ phản ứng của tác chất không thế và k là tác chất đã thế.
+Đồ thị của log(K/K0) cho sự cân bằng và log(k/k0) cho vận tốc phản ứng với sự thay đổi những nhóm thế khác nhau trên tác chất sẽ cho đường thẳng.
+Hằng số thế.
+Điểm khởi đầu để thu thập hằng số thế là sự cân bằng hóa học cho cả hằng số thế và hằng số phản ứng được gán là 1: sự ion hóa acid benzoic (R và R' là H) trong nước ở 25 °C.
+Thu được giá trị của K0, chuỗi hằng số cân bằng K được xác định dựa trên cùng quá trình nhưng bây giờ với nhóm thế para khác nhau cho trường hợp p-hydroxybenzoic acid (R=OH, R'=H) hay 4-aminobenzoic acid (R=NH2, R'=H). Những giá trị này kết hợp trong phương trình Hammett với K0 và nhớ rằng ρ = 1 cho hằng số thế para theo như bảng 1 cho nhóm thế amine, methoxy, ethoxy, dimethylamino, methyl, fluorine, bromine, chlorine, iodine, nitro và cyano. Lặp lại quá trình với nhóm thế meta cho hằng số thế meta. Điều này không bao gồm nhóm thế ortho sẽ được giới thiệu trong hiệu ứng không gian (lập thể).
+Giá trị δ trong bảng 1 cho thấy cho thấy chút ít hiệu ứng nhóm thế. Với ρ = 1, nhóm thế có giá trị dương, đáng chú ý nhất là cyano và nitro gây ra hằng số cân bằng lớn hơn hydrogen, nghĩa là tính acid của anion carboxylate (hình bên phải phương trình phản ứng) đã gia tăng. Độ bền của nhóm thế, 1 điện tích âm trên nguyên tử oxygen của carboxylate, do hiệu ứng cảm (-I) và hiệu ứng quang hoạt âm (-M).
+Tiếp theo là halogen nhưng gây ra hiệu ứng nhóm thế kém hơn, mặc dù vẫn dương. Lý do là trong khi hiệu ứng cảm vẫn dương, hiệu ứng quang hoạt là âm gây ra sự đối nghịch. Dữ kiện cũng cho thấy rằng hiệu ứng nhóm thế meta lớn hơn para và điều này liên quan tới sự thật rằng hiệu ứng không gian đối nghịch với nhóm thế meta.
+Hiệu ứng được mô tả trong hình 3 với nhóm thế para ở 1a, cấu trúc cộng hưởng 1b là quinoid với điện tích dương trên nhóm thế X mất đi electron và vì vậy nhóm thế Y không bền. Hiệu ứng kém bền là không xảy ra khi X có định hướng meta.
+Những nhóm thế khác như methoxy và ethoxy có thể có dấu âm cho hằng số thế do kết quả của sự đối nghịch của hiệu ứng cảm và hiệu ứng quang hoạt. Chỉ có nhóm thế alkyl và aryl giống methyl là đồng biến ở cả hai hiệu ứng.
+Dĩ nhiên khi dấu cho hằng số phản ứng là âm (ở phần tiếp theo) chỉ những nhóm thế với hằng số thế âm giống nhau sẽ tăng hằng số cân bằng.
+Hằng số phản ứng.
+Với kiến thức về hằng số thế, bây giờ có thể thu được hằng số phản ứng cho phạm vi rộng phản ứng hữu cơ. Phản ứng nguyên mẫu là thủy giải alkaline của ethyl benzoate (R=R'=H) trong hỗn hợp nước/ethanol ở 30 °C. Đo lường tốc độ phản ứng không kết hợp với nhiều nhóm thế ethyl benzoates, kết quả sau cùng cho hằng số phản ứng là +2,498.
+Hằng số phản ứng được biết cho nhiều phản ứng khác và đã cân bằng, những giá trị sau đây được chọn bởi chính Hammett (với giá trị của chúng trong dấu ngoặc đơn).
+Cải tiến phương trình Hammett.
+Những phương trình khác được biết tinh tế hơn phương trình nguyên bản Hammett: phương trình Swain-Lupton, phương trình Taft và phương trình Yukawa-Tsuno. Phương trình liên quan đến hóa học lập thể trong hệ thống chất béo cũng đã được biết.
+

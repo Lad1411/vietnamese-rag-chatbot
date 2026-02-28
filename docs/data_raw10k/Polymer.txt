@@ -1,0 +1,7 @@
+Polymer
+
+ 
+Polymer là khái niệm được dùng cho các hợp chất cao phân tử (hợp chất có khối lượng phân tử lớn và trong cấu trúc của chúng có sự lặp đi lặp lại nhiều lần những mắt xích cơ bản). Các phân tử tương tự nhưng có khối lượng thấp hơn được gọi là các oligomer.
+Tên gọi polymer xuất phát từ tiếng Hy Lạp, πoλvς, polus, 'nhiều' và μερος, meros, 'phần', nghĩa là các phân tử lớn được tạo thành từ sự lặp lại của nhiều phân tử con. Các đơn vị tạo ra polymer có nguồn gốc từ các phân tử (thực hoặc ảo) có khối lượng phân tử tương đối thấp. Thuật ngữ này được Jöns Jacob Berzelius đặt ra vào năm 1833, mặc dù ông có một định nghĩa khác biệt với các định nghĩa IUPAC hiện đại. Các khái niệm hiện đại của polymer như là cấu trúc phân tử đồng hóa trị ngoại quan đã được Hermann Staudinger đề xuất vào năm 1920. Ông là người đã trải qua thập kỷ tiếp theo tìm kiếm bằng chứng thực nghiệm cho giả thuyết này.
+Polymer được sử dụng phổ biến trong thực tế với tên gọi là nhựa, nhưng polymer bao gồm 2 lớp chính là polymer thiên nhiên và polymer nhân tạo. Các polymer hữu cơ như protein (ví dụ như tóc, da, và một phần của xương) và acid nucleic đóng vai trò chủ yếu trong quá trình tổng hợp polymer hữu cơ. Có rất nhiều dạng polymer thiên nhiên tồn tại chẳng hạn cellulose (thành phần chính của gỗ và giấy).
+

@@ -1,0 +1,9 @@
+Cistron
+
+Cistron (phát âm quốc tế: /ˈsisträn/, tiếng Việt: xis-trôn) là thuật ngữ chỉ gen cấu trúc. Đó là một đoạn xác định của phân tử ADN mã hóa một chuỗi pôlypeptit. Trong thuật ngữ Di truyền học phổ thông, cistron đã được dịch là gen cấu trúc. Đó là một đơn vị di truyền, sử dụng để nhấn mạnh các gen mã hoá prôtêin với biểu hiện đặc trưng trong "test cis-trans".
+Từ nguyên.
+Thuật ngữ "cistron" được Seymour Benzer đề xuất trong một bài báo khoa học tựa đề "The elementary units of heredity" (Các đơn vị di truyền cơ bản).
+Trong hệ thống Benzer, một cistron phải được xác định trên cơ sở kiểm tra bổ sung (complementation test), được thực hiện bằng cách đặt hai bản sao của gen trong cùng một tế bào chất của vi khuẩn, từ đó quan sát sự tương tác cũng như biểu hiện của chúng; với thể thực khuẩn như T4, hệ thống Benzer đã sử dụng, sẽ thực hiện bằng cách lây nhiễm đồng thời vi khuẩn với hai đột biến.
+Nội hàm thuật ngữ.
+Có một đột biến điểm tại vị trí "x" nào đó trên một nhiễm sắc thể gây ra kiểu hình lặn. Lại giả sử một đột biến lặn khác tại vị trí "y". Cả hai đột biến này dẫn đến cùng một kiểu hình lặn được biểu hiện, thì x và y được cho là nằm trong cùng một cistron, mặc dù chúng là khác lô-cut. Trường hợp này cụm gen ở ôpêron gọi là gen đa xis-trôn (polycistronic), trong khi đó, các gen thường gặp ở sinh vật nhân thực gọi là gen đơn xis-trôn (monocistronic).
+

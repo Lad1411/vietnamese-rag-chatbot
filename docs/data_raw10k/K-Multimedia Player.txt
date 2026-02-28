@@ -1,0 +1,5 @@
+K-Multimedia Player
+
+K-Multimedia Player (thường gọi là The KMPlayer, KMPlayer hay KMP) là một trình chơi phim và nhạc trên Microsoft Windows hàng đầu, có thể chơi một số lượng lớn định dạng như VCD, DVD, AVI, MKV, Ogg, OGM, 3GP, MPEG-1/2/4, WMV, RealMedia, FLV và QuickTime. Nó vận dụng một phạm vi rộng phụ đề và cho phép chụp ghi âm thanh, video, và chụp màn hình. Phần mềm được phát triển bởi công ty Hàn Quốc Pandora TV.
+Chữ "K" của K-Multimedia Player đơn giản là chữ viết tắt của họ người phát triển (Kang). Nó có thể đọc gọn là KMP.
+

@@ -1,0 +1,11 @@
+OpenSUSE Project
+
+openSUSE Project là một dự án cộng đồng nhằm tạo ra, thúc đẩy, cải thiện và cung cấp tài liệu cho bản phân phối openSUSE.
+Dự án.
+Dự án openSUSE phát triển phần mềm và công cụ tự do và có hai bản phân phối Linux chính có tên là openSUSE Leap và openSUSE Tumbleweed. Dự án được tài trợ bởi một số công ty và cá nhân, nổi bật nhất là SUSE, AMD, B1 Systems, Heinlein Support và IP Exchange.
+Hoạt động.
+Dự án openSUSE phát triển bản phân phối openSUSE Linux cũng như một số lượng lớn các công cụ xung quanh việc xây dựng các bản phân phối Linux như Open Build Service, KIWI, YaST, openQA, Snapper, Machinery, Portus...
+Governance.
+Dự án được kiểm soát bởi cộng đồng của nó và dựa vào sự đóng góp của các cá nhân, làm việc như testers, writers, translators, usability experts, artists and nhà phát triển. Dự án bao gồm nhiều công nghệ, những người có trình độ chuyên môn khác nhau, nói các ngôn ngữ khác nhau và có nền tảng văn hóa khác nhau.
+Có một Ban quản trị openSUSE chịu trách nhiệm lãnh đạo dự án tổng thể.
+

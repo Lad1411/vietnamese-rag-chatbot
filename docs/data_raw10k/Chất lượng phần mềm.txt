@@ -1,0 +1,95 @@
+Chất lượng phần mềm
+
+Chất lượng sản phẩm phần mềm (tiếng Anh: "Software quality") là khả năng đáp ứng toàn diện nhu cầu của người dùng về tính năng cũng như công dụng được nêu ra một cách tường minh hoặc không tường minh trong những ngữ cảnh xác định.
+Tổng quan.
+Để đo lường chất lượng phần mềm, các tổ chức thường dựa vào các tiêu chí đánh giá của chứng chỉ ISO 9001 hoặc chứng chỉ CMM (Capability Maturity Model). Các chứng chỉ này xác nhận quy trình đảm bảo chất lượng hợp chuẩn và nâng cao vị thế cạnh tranh cho các tổ chức.
+Theo cách tiếp cận của ISO, chất lượng toàn diện của phần mềm cần phải được quan tâm từ chất lượng quy trình tới chất lượng phần mềm nội bộ; đánh giá chất lượng phần mềm với yêu cầu của người dùng và chất lượng phần mềm khi sử dụng:
+Chất lượng chức năng thường được tiến hành hành và đo bằng kiểm thử phần mềm. Đo lường chất lượng phần mềm định lượng mức độ tỷ lệ phần mềm hoặc hệ thống theo từng năm. Một biện pháp tổng hợp về chất lượng phần mềm có thể được tính thông qua một chương trình chấm điểm chất lượng hoặc định lượng.
+Đo lường.
+Đo lường chất lượng phần mềm là về định lượng mức độ hệ thống hoặc phần mềm có các đặc tính ứng dụng quan trọng bao gồm việc đo các thuộc tính cấu trúc của kiến ​​trúc ứng dụng, mã hóa và tài liệu trực tuyến.
+Đo lường chất lượng phần mềm cấu trúc và chức năng về cơ bản được thực hiện thông qua kiểm thử phần mềm.
+- Kiểm thử phần mềm được sử dụng để đưa ra kết quả xác định mức độ đáp ứng yêu cầu, thực hiện đúng chức năng, mục tiêu, thiết kế hệ thống và nhu cầu người dùng. Kiểm thử là quá trình triển khai, chạy thử phần mềm với mục tiêu tìm thấy lỗi và khẳng định chất lượng phần mềm; giúp giảm thiểu các lỗi, sự cố khi triển khai hệ thống.
+- Chất lượng chức năng phần mềm phản ánh nó tuân thủ hay phù hợp với một thiết kế nhất định, dựa trên các yêu cầu chức năng hoặc thông số kỹ thuật. Thuộc tính đó cũng có thể được mô tả như là sự phù hợp cho mục đích của một phần mềm hoặc là lợi thế cạnh tranh trên thị trường.
+Chất lượng cấu trúc phần mềm đề cập đến việc nó đáp ứng các yêu cầu phi chức năng hỗ trợ việc phân phối các yêu cầu về chức năng như tính mạnh mẽ hay khả năng bảo trì, mức độ sản xuất phần mềm một cách chính xác.
+Phân tích chất lượng cấu trúc và đo lường được thực hiện thông qua việc phân tích mã nguồn, kiến ​​trúc, khuôn khổ phần mềm, lược đồ cơ sở dữ liệu trong mối quan hệ với các nguyên tắc và tiêu chuẩn cùng xác định cấu trúc hệ thống.
+Mục đích.
+-  Quản lý rủi ro: Lỗi phần mềm gây tổn hại chi phí về thời gian, nguồn lực và có thể gây tử vong cho con người. Các nguyên nhân thay đổi từ các giao diện người dùng được thiết kế kém là do lỗi lập trình trực tiếp.
+Ví dụ: Năm 1999, sự biến mất của tàu vũ trụ NASA khi đáp xuống sao Hỏa do lỗi cài đặt dữ liệu.
+-Quản lý chi phí: hệ thống ứng dụng có chất lượng phần mềm tốt đã được kiểm định giúp giảm thiểu chi phí phát triển, bảo trì và dễ dàng thay đổi để đáp ứng nhu cầu kinh doanh.
+Yếu tố quan trọng trong đánh giá chất lượng phần mềm là chất lượng ứng dụng trong kinh doanh. Các hệ thống phần mềm thường là một giao diện người dùng và hiện nay đã chú trọng đến các ứng dụng kinh doanh tích hợp như hệ thống lập kế hoạch tài nguyên doanh nghiệp ERP, quản lý quan hệ khách hàng CRM.
+Ví dụ: Với điện toán di động người dùng truy cập ứng dụng ERP trên điện thoại thông minh phải phụ thuộc vào chất lượng của phần mềm trên tất cả các loại lớp phần mềm.
+Tiêu chí/tiêu chuẩn.
+Sử dụng mô hình chất lượng theo ISO-9126 và quy trình đánh giá sản phẩm phần mềm theo ISO-14598 để đưa ra đánh giá chất lượng phần mềm từ lúc bắt đầu triển khai cho tới khi hoàn thành và sau khi sử dụng phần mềm.
+Tính năng.
+Là khả năng cung cấp các chức năng thỏa mãn yêu cầu, mục đích đã xác định khi bắt đầu triển khai phần mềm. Các tính năng bao gồm:
+-         Tính phù hợp
+-         Tính chính xác
+-         Khả năng tương tác
+-         Tính bảo mật
+Độ tin cậy.
+Nguyên nhân của độ tin cậy kém là do cấu trúc phần mềm không kết hợp được với mã hóa. Việc đánh giá độ tin cậy của một phần mềm cung cấp ước tính mức độ rủi ro kinh doanh và khả năng xảy ra các lỗi tiềm ẩn của ứng dụng khi thử nghiệm. Mục đích của việc kiểm tra và giám sát độ tin cậy là giảm thiểu lỗi phần mềm như ngừng hoạt động hay các lỗi ảnh hưởng trực tiếp đến người dùng.
+-        Tính hoàn thiện cấu trúc ứng dụng
+-        Quy trình mã hóa
+-         Tính phức tạp của các thuật toán lập trình
+-        Khả năng xử lý và chịu lỗi
+-        Khả năng phục hồi, quản lý tài nguyên
+-        Phần mềm quản lý tính toàn vẹn và tính thống nhất của dữ liệu
+Tùy thuộc vào cấu trúc ứng dụng và các thành phần được yêu cầu, kiểm tra tùy chỉnh để đảm bảo đánh giá tốt độ tin cậy của phần mềm.
+Hiệu quả.
+Là khả năng đáp ứng hiệu năng một cách thích hợp nhằm tiết kiệm tài nguyên, tăng hiệu suất ứng dụng và khả năng mở rộng của phần mềm. Tính toán nguồn lực, mã nguồn đảm bảo hiệu năng cao khi phần mềm chạy trên hệ thống như khi xử lý các thuật toán, giao dịch, khả năng mở rộng... Việc phân tích này cung cấp những rủi ro tiềm ẩn, nguy hại do sự trì trệ của phần mềm theo thời gian.
+Ví dụ như các phần mềm đòi hỏi tốc độ xử lý cao để xử lý các thuật toán phức tạp hoặc lượng dữ liệu lớn.
+Đánh giá tính hiệu quả của phần mềm dưới những điều kiện sau:
+-        Cấu trúc ứng dụng
+-        Độ tương tác thích hợp với các nguồn tài nguyên
+-        Hiệu suất, thời gian truy cập và quản lý dữ liệu
+-        Quản lý bộ nhớ, mạng và không gian đĩa
+-        Quy trình mã hóa, lập trình
+Tính bảo mật.
+Có biện pháp bảo vệ, ngăn chặn khả năng xảy ra các vi phạm bảo mật đến phần mềm, dữ liệu của hệ thống và ngăn chặn nguy cơ tấn công các lỗ hổng bảo mật gây tổn hại cho doanh nghiệp; đáp ứng mức độ rủi ro chấp nhận được đối với người dùng, phần mềm hay môi trường sử dụng.
+Để đánh giá độ an toàn, bảo mật cần kiểm tra các thuộc tính sau đây:
+-        Cấu trúc ứng dụng
+-        Sự tuân thủ thiết kế nhiều lớp
+-        Vấn đề thực tế bảo mật
+-        Quy trình mã hóa, lập trình
+-        Bảo mật truy cập vào hệ thống, kiểm soát các chương trình
+Khả năng bảo trì.
+Khả năng bảo trì bao gồm các khả năng kiểm tra, nâng cấp, thay đổi và phát triển phần mềm cho phù hợp với yêu cầu, chức năng và môi trường mới.
+Tính duy trì bao gồm khả năng thích ứng, tính di động và khả năng chuyển đổi. Cần phải cập nhật công nghệ thông tin hay những thay đổi về thị trường, doanh nghiệp  đảm bảo luôn cung cấp thông tin, phần mềm chất lượng đến người dùng.
+Đánh giá khả năng bảo trì qua các thuộc tính sau:
+-        Cấu trúc phần mềm và lập trình hướng đối tượng
+-        Khả năng phân tích
+-        Mức độ phức tạp của giao dịch, lập trình,thuật toán
+-        Kiểm soát mức độ mã hóa
+-        Tính ổn định của phần cứng, hệ điều hành, thành phần trung gian, cơ sở dữ liệu độc lập
+-        Khả năng kiểm thử được
+Kích thước.
+Đo lường kích thước phần mềm yêu cầu toàn bộ mã nguồn phải được thu thập chính xác, bao gồm các tập lệnh cấu trúc cơ sở dữ liệu, mã nguồn thao tác dữ liệu, các tiêu đề thành phần, các tệp cấu hình... Có hai loại kích thước phần mềm cần được đo là kích thước kỹ thuật và kích thước chức năng:
+-        Phương pháp đánh số kỹ thuật phổ biến nhất là số dòng mã trên mỗi công nghệ, số lượng tệp tin, chức năng, các lớp học, bảng biểu,…
+-        Để đo kích thước chức năng phổ biến nhất là phân tích điểm chức năng. Phân tích điểm chức năng đo kích thước của phần mềm được phân phối từ quan điểm, yêu cầu của người dùng. Họ cung cấp một mô tả về kích thước, giá trị và chức năng cho nhà phát triển phần mềm. Các giá trị kích thước này được kết hợp với nhiều biện pháp để định lượng, đánh giá việc phân phối và thực hiện phần mềm.
+Tiêu chuẩn đánh giá điểm phân tích điểm chức năng được hỗ trợ bởi nhóm người sử dụng điểm chức năng quốc tế IFPUG hay kỹ thuật định cỡ chức năng như COSMIC, NESMA... Nó có thể được áp dụng ngay khi bắt đầu quá trình phát triển phần mềm và không phụ thuộc vào các dòng mã. Hạn chế của phương pháp luận điểm là sử dụng quy trình thủ công, tốn lao động và chi phí cao khi phát triển phần mềm.
+Quy trình đánh giá.
+Quy trình đánh giá chất lượng phần mềm được xây dựng theo ISO/IEC 14598
+Bước 1.
+-        Xác định mục tiêu đánh giá
+-        Xác định sản phẩm cần đánh giá
+-        Xây dựng mô hình chất lượng
+Bước 2.
+-        Xác định các đại lượng đo lường
+-        Mức đo lường chuẩn
+-        Tiêu chí đánh giá
+Bước 3.
+Xây dựng kế hoạch đánh giá chất lượng phần mềm
+-        Quản lý ở mức tổ chức
+-        Hỗ trợ việc quản lý dự án
+Bước 4.
+Đo lường, đánh giá chất lượng phần mềm
+-        Thực hiện đo lường
+-        So sánh với mục tiêu, cơ chế đánh giá
+-        Kết quả đánh giá
+Nội dung tiêu chuẩn.
+·       ISO/IEC 9126
+·       ISO/IEC 14598
+·       Hiệp hội doanh nghiệp phần mềm Việt Nam (VINASA)
+·       Công ty HanoiSoftware
+·       Tập đoàn Bưu chính Viễn thông Việt Nam
+

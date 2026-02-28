@@ -35,11 +35,11 @@ class RAG_pipeline:
             context_text = "\n\n".join(docs)
 
         # Prompt
-        system_prompt = "Bạn là một trợ lí Tiếng Việt nhiệt tình và trung thực. Hãy luôn trả lời một cách hữu ích nhất có thể."
+        system_prompt = "Bạn là một trợ lý AI hữu ích. Hãy ưu tiên sử dụng [Ngữ cảnh] dưới đây để trả lời câu hỏi của người dùng."
         template = '''Chú ý các yêu cầu sau:
-        - Câu trả lời phải chính xác và đầy đủ nếu ngữ cảnh có câu trả lời. 
-        - Chỉ sử dụng các thông tin có trong ngữ cảnh được cung cấp.
-        - Nếu ngữ cảnh không đủ thông tin thì sử dụng Google Search.
+        - Nếu [Ngữ cảnh] có chứa thông tin, HÃY trích dẫn dựa trên đó.
+        - Nếu [Ngữ cảnh] không có thông tin, nhưng câu hỏi thuộc về kiến thức chung phổ thông (địa lý, lịch sử cơ bản), bạn được phép dùng kiến thức của mình để trả lời.
+        - Nếu câu hỏi đòi hỏi tính cập nhật, số liệu chuyên sâu mà [Ngữ cảnh] không có, hãy lịch sự từ chối và nói rằng bạn chưa có đủ thông tin.
         Hãy trả lời câu hỏi dựa trên ngữ cảnh:
         ### Ngữ cảnh :
         {context}
@@ -54,8 +54,8 @@ class RAG_pipeline:
             conversation,
             tokenize=False,
             add_generation_prompt=True)
+        # print(text)
         model_inputs = self.tokenizer(text, return_tensors="pt").to(self.model.device)
-
         generated_ids = self.model.generate(
             model_inputs.input_ids,
             attention_mask=model_inputs.attention_mask,

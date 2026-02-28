@@ -1,0 +1,21 @@
+Ủy ban Dữ liệu Khoa học và Công nghệ
+
+Ủy ban Dữ liệu Khoa học và Công nghệ, viết tắt theo tiếng Anh là CODATA (Committee on Data for Science and Technology) là một ủy ban liên kết đa ngành do Hội đồng Quốc tế về Khoa học (ICSU) thành lập năm 1966, nhằm tìm cách cải thiện việc biên soạn, thẩm định mức quan trọng, lưu trữ và truy xuất các dữ liệu quan trọng cho khoa học và công nghệ.
+Ngày nay Hội đồng Khoa học Quốc tế (ISC) kế thừa ICSU quản lý Ủy ban.
+CODATA có trụ sở ban thư ký tại Paris, Pháp. Chủ tịch nhiệm kỳ từ 2018 đến 2022 là Barend Mons từ . Chủ tịch trước đó là Geoffrey Boulton từ Anh Quốc. Chủ tịch nhiệm kỳ 2010-2014 là Guo Huadong từ Trung Quốc.
+Mục tiêu.
+CODATA có mục tiêu là:
+Tổ chức.
+CODATA có các thành viên quốc gia hay vùng lãnh thổ, thành viên khu vực đại diện cho một nhóm các quốc gia, thành thành viên liên hiệp từ ICSU, và thành viên lựa chọn khác, có mục tiêu liên quan đến chương trình dữ liệu khoa học của CODATA.
+Các nhóm công tác chuyên môn được ấn định tại Đại hội đồng (General Assembly) 2014 ở New Delhi có:
+Hoạt động.
+Một trong các hoạt động quan trọng do "Nhóm công tác CODATA về các Hằng số cơ bản" (Task Group on Fundamental Constants) thành lập năm 1969, là cung cấp cho cộng đồng khoa học và công nghệ quốc tế các bộ giá trị các "hằng số vật lý cơ bản" và các "hệ số chuyển đổi" liên quan chặt chẽ để sử dụng trên toàn thế giới. Đã có bảy bản được biên soạn và công bố:
+Các dữ liệu có bất định.
+Các dữ liệu có bất định (u - Uncertainty) là vấn đề của khoa học, và trong các công bố của CODATA thì giá trị chính có thể thay đổi. Mức bất định thường được biểu diễn cùng với giá trị dữ liệu.
+Ví dụ "hằng số Avogadro" được biểu diễn là:
+Biểu diễn đó được hiểu là:
+Tức là độ bất định tiêu chuẩn là formula_4.
+Bảng dưới đây là các giá trị khác nhau trong các xuất bản CODATA: hằng số Avogadro "N"A, hằng số cấu trúc tinh tế "α" (fine structure constant), và hằng số Rydberg "R"∞.
+Xuất bản.
+Tạp chí "Data Science Journal" được xuất bản tại Pháp từ năm 2014 với sự tài trợ của nhà xuất bản Ubiquity Press ở Anh Quốc.
+

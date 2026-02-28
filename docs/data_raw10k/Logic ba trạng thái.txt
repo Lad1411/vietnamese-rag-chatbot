@@ -1,0 +1,6 @@
+Logic ba trạng thái
+
+Logic ba trạng thái (tiếng Anh: "three-state logic" hay "tri-state logic") trong điện tử học là mạch logic có ngõ ra có bố trí trạng thái thứ ba là trạng thái trở kháng cao cộng với mức logic 0 và 1, nhằm có thể ngăn chặn ngõ ra này tác động (tức là điều khiển sự truyền đưa các mức logic ra của mạch) lên đường truyền tín hiệu.
+Hoạt động.
+Logic ba trạng thái (tiếng Anh: "three-state logic" hay "tri-state logic") trong điện tử học là mạch logic có ngõ ra có bố trí trạng thái thứ ba là trạng thái trở kháng cao cộng với mức logic 0 và 1, nhằm có thể ngăn chặn ngõ ra này tác động (tức là điều khiển sự truyền đưa các mức logic ra của mạch) lên đường truyền tín hiệu.
+

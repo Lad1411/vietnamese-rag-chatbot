@@ -1,0 +1,8 @@
+X265
+
+x265 là một phần mềm mã nguồn mở miễn phí và dùng để mã hóa video bằng cách sử dụng chuẩn Mã hóa video Hiệu suất cao (HEVC/H.265). x265 hiện đang được cấp phép hai giấy phép Giấy phép Công cộng GNU (GPL) và giấy phép thương mại, tương tự như dự án x264.
+Lịch sử.
+Vào 23 tháng 7 năm 2013, MulticoreWare phát hành pre-alpha mã nguồn cho x265. Phát triển trên x265 bắt đầu từ tháng 3 năm 2013. Dự án x265 được tài trợ bởi một số công ty sẽ trực tiếp yêu cầu phát triển và nhận thương mại giấy phép sử dụng x265 trong sản phẩm của họ mà không cần phải phát hành sản phẩm của mình theo 2 giấy phép GPL. Dự án x265 đã cấp phép quyền sử dụng mã nguồn x264 cho những tính năng có thể được sử dụng với HEVC. x265 được viết bằng C + + và ngôn ngữ Assembly.
+Chi tiết kỹ thuật.
+Việc phát hành hiện tại của x265 hỗ trợ hồ sơ cá nhân chính của HEVC, trong đó 8-bit cho mỗi mẫu YCbCr với 04:02:00 sắc độ lấy mẫu con, với sự hỗ trợ hạn chế cho 10 hồ sơ chính. x265 hỗ trợ nhiều tính năng của x264 bao gồm cả mã hóa liên tục QP, Trung bình kiểm soát bitrate, và lookahead. Một số tính năng như dự đoán trọng và mã hóa 10-bit được hỗ trợ nhưng tối ưu hoá. MulticoreWare đã nói rằng dựa trên đỉnh tín hiệu tỷ lệ noise (PSNR) giảm trong tỷ lệ bit khi đi từ x264 để x265 sẽ là từ 25% đến 35% và mã hóa hiệu quả cho x265 sẽ tăng lên khi cải tiến được thực hiện cho các bộ mã hóa. Trong một so sánh phim thực hiện trong tháng 7 năm 2013 của ExtremeTech với một cài sẵn cần thời gian 129 giây để mã hóa một đoạn video clip với x264 và 247 giây để mã hóa nó với x265.
+

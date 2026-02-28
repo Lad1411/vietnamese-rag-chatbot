@@ -1,0 +1,7 @@
+Phần mềm tiện ích
+
+Phần mềm tiện ích (tiếng Anh: "Utility software") là phần mềm úng dụng được thiết kế giúp phân tích, cấu hình, tối ưu hóa và bảo vệ máy tính, được sử dụng để hỗ trợ cơ sở hạ tầng máy tính. Khác với phần mềm tiện ích, phần mềm ứng dụng là một chương trình máy tính được thiết kế để thực hiện một nhóm các chức năng phối hợp nhiệm vụ hoặc các hoạt động vì lợi ích của người sử dụng ví dụ như trình xử lý văn bản, bảng tính, ứng dụng kế toán, trình duyệt web, trình phát media, hoặc trình chỉnh sửa ảnh. 
+Đặc điểm.
+Giống như phần mềm hệ thống, các tiện ích tập trung vào những tác vụ chính của máy tính như chặn virut hoặc chẩn đoán lỗi đĩa cứng hơn là tập trung những tác vụ thực tế như sản xuất tài liệu hay tính toán.
+Mặc dù một bộ chương trình tiện ích cơ bản thường được phân phối bởi một hệ điều hành, nhưng phần mềm tiện ích không được coi là một phần của hệ điều hành mà người dùng thường cài đặt các bộ phận thay thế hoặc các tiện ích bổ sung.
+

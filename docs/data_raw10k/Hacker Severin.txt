@@ -1,0 +1,9 @@
+Hacker Severin
+
+Severin Hacker (sinh ngày 6 tháng 7 năm 1984) là một Nhà khoa học máy tính người Thụy Sĩ là nhà đồng sáng lập đồng thời cũng là Giám đốc công nghệ của Duolingo ,ứng dụng học ngôn ngữ phổ biến nhất hiện tại .
+Tiểu sử.
+Hacker sinh ra và lớn lên ở Zug ,Thụy Sĩ và được học tại ETH Zürich,năm 2009 sau khi anh nhận bằng Ngành Cử nhân ngành khoa học máy tính ,vào năm 2009 Anh chuyển đến Pittsburgh để học tại Đại học Carnegie Mellon, nơi anh mà gặp được Luis von Ahn người mà sau này cùng đồng sáng ra Duolingo. 
+Trong một cuộc phỏng vấn năm 2020, Hacker chỉ ra rằng chơi game đóng vai trò khiến anh bị thu hút đến ngành khoa học máy tính. "Điều ban đầu thu hút tôi đến với máy tính là chơi trò chơi điện tử và tôi mong muốn xây dựng trò chơi theo cách của riêng mình cũng như theo cách những trò chơi đó được tạo ra. Tôi đã phần nào bị ám ảnh với trò chơi diện tử " .
+Thành lập Duolingo.
+Ban đầu, Severin Hacker và Luis von Ahn, muốn phát triển một ứng dụng có thể dịch các trang web trên internet để dành cho những người không giỏi Tiếng Anh vẫn có thể truy cập và hiểu được ngôn ngữ, tuy nhiên họ cảm thấy rằng phần mềm dịch ngôn ngữ tự động không hiệu quả bằng việc sử dụng các kỹ năng và kiến ​​thức của những người bản xứ. Sau này Hacker cùng với Ahn đã tạo ra Duolingo cho ứng dụng miễn phí để cho những người không có đủ tiền để học ngôn ngữ có thể truy cập để học.
+

@@ -1,0 +1,17 @@
+Đơn vị cơ bản
+
+Các hiện tượng trong tự nhiên có thể được miêu tả qua các định luật Vật lý, thông qua các phương trình thể hiện mối liên hệ Toán học giữa các đại lượng. Một số đơn vị của các đại lượng này tồn tại độc lập, không phụ thuộc vào các đơn vị khác, những đơn vị này được gọi là đơn vị cơ bản, có tổng cộng 7 đơn vị cơ bản trong hệ SI.
+Các đơn vị cơ bản trong hệ thống SI:
+Các đơn vị được dẫn ra từ các đơn vị cơ bản gọi là các đơn vị dẫn xuất.
+Các chuẩn đơn vị.
+Chiều dài.
+- Năm 1799, khi mét được chọn làm đơn vị đo hợp pháp của chiều dài tại Pháp, thì mét được định nghĩa bằng 1/10.000.000 chiều dài của đoạn kinh tuyến đi qua Paris, tính từ xích đạo lên cực bắc của Trái đất. (Giá trị này không thỏa mãn yêu cầu sử dụng trong toàn vũ trụ.)
+- Năm 1960, mét được định nghĩa là khoảng cách giữa hai vạch trên một thanh platinum–iridium đặc biệt được lưu trữ tại Pháp trong điều kiện kiểm soát được.
+- Trong những năm 1960 - 1970, mét được định nghĩa bằng 1.650.763,73 lần bước sóng λ của ánh sáng đỏ - cam phát ra từ đèn khí kripton-86.
+- Năm 1983, mét được định nghĩa là quãng đường mà ánh sáng đi được trong chân không trong khoảng thời gian 1/299.792.458 s. Trong thực tế, định nghĩa này thiết lập tốc độ ánh sáng trong chân không chính xác bằng 299.792.458 m/s. Định nghĩa này là hợp lệ trong toàn vũ trụ và dựa trên giả thiết rằng ánh sáng là như nhau ở khắp mọi nơi.
+Khối lượng.
+Năm 1887, chuẩn khối lượng được đưa ra và từ đó đến nay chưa thay đổi, do platinum-iridium là hợp kim đặc biệt bền. Một bản sao của khối trụ này được giữ tại Viện quốc tế về tiêu chuẩn và công nghệ (NIST) tại Gaithersburd, Maryland.
+Thời gian.
+-Trước năm 1967, chuẩn về thời gian được định nghĩa theo ngày mặt trời trung bình (là khoảng thời gian giữa hai lần mặt trời đứng bóng liên tiếp). Đơn vị giây (second – s) được định nghĩa là formula_1 của ngày mặt trời trung bình. Định nghĩa này dựa trên sự quay của một hành tinh là Trái đất nên không thể xem là chuẩn thời gian của vũ trụ.
+-Năm 1967, "giây" được định nghĩa lại khi xuất hiện đồng hồ nguyên tử (đo các dao động của nguyên tử Cesium - Cs). Theo đó, 1 giây là 9.192.631.770 chu kỳ dao động của nguyên tử Cs-133.  
+

@@ -1,0 +1,6 @@
+Chuyển mạch gói
+
+Nối chuyển gói, hay đơn giản hơn chuyển gói, (Anh ngữ: "packet switching"), có nơi còn gọi là nối chuyển khung hay chuyển khung, là một loại kĩ thuật gửi dữ liệu từ máy tính nguồn tới nơi nhận (máy tính đích) qua mạng dùng một loại giao thức thoả mãn 3 điều kiện sau:
+Mỗi gói dữ liệu có kích thước được định nghĩa từ trước (đối với giao thức TCP/IP thì kích thước tối đa của nó là 1500 bytes) và thường bao gồm 3 phần:
+Kĩ thuật này rất hiệu quả để vận chuyển dữ liệu trong các mạng phức tạp bao gồm rất nhiều hệ thống máy tính nối với nhau.
+

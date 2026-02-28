@@ -1,0 +1,11 @@
+Unit testing
+
+Trong lập trình máy tính, unit testing (tiếng Việt: kiểm thử đơn vị) là một phương pháp kiểm thử phần mềm mà mỗi đơn vị mã nguồn, tập hợp một hoặc nhiều các môđun chương trình máy tính cùng với dữ liệu kiểm soát liên quan, thủ tục sử dụng, và các quy trình vận hành, được kiểm tra để xác định chúng có phù hợp để sử dụng hay không.
+Kiểm thử đơn vị là một loại kiểm thử phần mềm, trong đó sẽ tiến hành kiểm tra từng phần nhỏ - module hoặc các thành phần của phần mềm.
+Mục đích của nó nhằm đảm bảo mỗi đoạn code (mỗi phần của chương trình) đều hoạt động hoàn hảo.
+Kiểm thử đơn vị được thực hiện bởi người phát triển(có một số trường hợp có thể là kiểm thử viên - tester hoặc QA) ở giai đoạn đang phát triển phần mềm.
+Quá trình kiểm thử đơn vị sẽ tách code thành các đoạn mã đơn vị (một hàm, một phương thức, một thủ tục, một module hoặc là một đối tượng) và kiểm tra độ chính xác của nó.
+Trong chu trình phát triển phần mềm SDLC, STLC, V-Model thì kiểm thử đơn vị là lần kiểm tra đầu tiên trước khi tiến hành kiểm tra tích hợp (intergration testing).
+Unit Testing =&gt; Integration Testing =&gt; System Testing =&gt; Acceptance Testing
+Kiểm thử đơn vị là phương pháp kiểm thử Whitebox, thường được thực hiện bởi người phát triển phần mềm (developer).
+

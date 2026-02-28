@@ -1,0 +1,6 @@
+Mật mã sách
+
+ 
+Mật mã sách là một kỹ thuật mã hóa trong đó từ khóa được lấy từ một cuốn sách hoặc văn bản, các sách hay văn bản được chọn thường phổ biến vào hiện tại, và người sử dụng mật mã thường chắc chắn rằng chìa khóa không thể lọt vào tay bên thứ ba. Mật mã là một ví dụ điển hình cho "bảo mật bằng cách che giấu". Để giải mã, người nhận phải có cùng ấn bản của cuốn sách dùng để mã hóa.
+Mật mã sách cổ điển thay thế những từ trong thông điệp với vị trí tương ứng của từ đó trong một cuốn sách. Khi một từ trong thông điệp không có trong cuốn sách, nó không thể mã hóa được. Để khắc phục, người ta thay thế chữ cái, thay vì từ, bằng vị trí của một từ bắt đầu bằng chữ cái đó trong sách. Dạng mã hóa này là một loại mã hóa đồng âm. Nó có một hiệu ứng phụ nhỏ: quá trình mã hóa sẽ tạo ra bản mã lớn hơn nhiều so với thông điệp.
+

@@ -1,0 +1,34 @@
+Nhóm đồng luân của các hình cầu
+
+Trong toán học, và cụ thể hơn là trong tô pô đại số, các nhóm đồng luân của hình cầu là các bất biến mô tả, một cách đại số, những cách mà các hình cầu formula_1 chiều và formula_2 chiều có thể quấn quanh nhau. Khái niệm này, vốn ban đầu được xác định cho các mặt cầu 1 chiều (vòng tròn) và 2 chiều (hình cầu), được khái quát cho các mặt cầu formula_1 chiều.
+Định nghĩa.
+Nhóm đồng luân bậc formula_4 của hình cầu formula_1 chiều formula_6, là tập hợp, ký hiệu formula_7, các lớp đồng luân của các hàm liên tục giữa hai hình cầu sao cho một điểm cố định của hình cầu formula_8 được gửi tới một điểm cố định của hình cầu formula_9 (gọi là hai điểm cơ sở).
+Tập hợp formula_10 có thể được trang bị một cấu trúc nhóm abel.
+Nếu formula_11, nhóm này là nhóm tầm thường: formula_12.
+Nếu formula_13, ta có formula_14 (có thể chứng minh bằng định lý Hurewicz).
+1 chiều: các nhóm đồng luân của đường tròn.
+Ta có:
+2 chiều và 3 chiều.
+Các hình cầu có ít nhất hai chiều là đơn liên, nói riêng:
+Với mọi formula_1 lớn hơn hoặc bằng 3, ta có: formula_20, nói riêng:
+Với mọi formula_1, ta có: formula_14, nói riêng:
+Thành thớ Hopfformula_26 cho ta một dãy khớp đồng luân, formula_27 Từ formula_15 và với formula_29, formula_30 ta có một đẳng cấu
+nói riêng
+Với các nhóm đồng luân bậc cao hơn, nhiều kỹ thuật khác cho ta các kết quả sau
+Chiều cao hơn.
+Bảng.
+Tính toán các nhóm đồng luân của các hình cầu nói chung là phức tạp. Bảng sau tóm gọn lại kết quả thu được. 
+Ổn định khi số chiều lớn.
+Bảng đồng luân của formula_37 dễ nhìn hơn: 
+Với số chiều đủ lớn, ta có
+Hóa ra là formula_41 không phụ thuộc vào formula_1 với formula_1 đủ lớn. Hiện tượng này được gọi là sự ổn định. Nó xuất phát từ định lý suspension Freudenthal sau đây:
+Danh sách các nhóm đồng luân ổn định.
+Các nhóm ổn định đầu tiên formula_47 là như sau:
+Các nhóm đồng luân ổn định là hữu hạn ngoại trừ formula_58. 
+Từ formula_59, formula_60 trở nên phức tạp, ví dụ:
+Các nhóm đồng luân không ổn định.
+Một số nhóm đồng luân không ổn định:
+Nhóm đồng luân vô hạn.
+Các nhóm đồng luân ổn định formula_37 là hữu hạn ngoại trừ formula_58 ((formula_70).
+Các nhóm đồng luân không ổn định là hữu hạn ngoại trừ các nhóm formula_71 (với "p" &gt; 0). Những nhóm này formula_72, formula_73, formula_74...) đẳng cấu với tổng trực tiếp của formula_75 và một nhóm hữu hạn.
+

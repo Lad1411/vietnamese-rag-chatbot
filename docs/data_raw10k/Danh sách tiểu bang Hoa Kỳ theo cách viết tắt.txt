@@ -1,0 +1,16 @@
+Danh sách tiểu bang Hoa Kỳ theo cách viết tắt
+
+Các chữ viết tắt và mã tên cho các tiểu bang và lãnh thổ của Hoa Kỳ được sử dụng cho các địa chỉ bưu điện, xử lý dữ kiện, chữ viết tắt thông thường và các mục đích khác.
+Cách viết tắt truyền thống.
+Các chữ viết tắt truyền thống cho các tiểu bang Hoa Kỳ và lãnh thổ được sử dụng rộng rãi đối với địa chỉ thư tín trước khi chữ viết tắt của Bưu điện Hoa Kỳ gồm hai mẫu tự ra đời. Các chữ viết tắt truyền thống này vẫn còn được sử dụng phổ thông trong các mục đích khác (thí dụ như trong các văn bản pháp lý), và vẫn còn được bưu điện công nhận mặc dù không được khuyến khích.
+Trước năm 1987 khi Bộ trưởng Thương mại Hoa Kỳ chấp thuận mã số hai mẫu tự sử dụng trong các tài liệu của chính phủ, Cục Ấn loát Chính phủ Hoa Kỳ có đề nghị một danh sách các chữ viết tắt đặc biệt nhưng có một số tiểu bang bị bỏ qua vì không có chữ viết tắt.
+Ngoài ra, sách hướng dẫn chuẩn viết của Associated Press) có cố vấn việc sử dụng các chữ viết tắt cho đa số các tên tiểu bang khi đi cùng với tên một thành phố (thí dụ, "Miami, Fla."). Associated Press hay AP đề nghị đánh vần "Alaska," "Hawaii," và tất cả các tên tiểu bang có 5 mẫu tự hoặc ít hơn; và không như đề nghị của Cục Ấn loát Chính phủ Hoa Kỳ, AP đề nghị viết đầy đủ tên của tất cả các lãnh thổ không phải tiểu bang, ngoại trừ Đặc khu Columbia (District of Columbia). Các sách hướng dẫn về văn bản pháp lý như "Bluebook" và "ALWD Citation Manua" cũng thường hay sử dụng cách viết tắt truyền thống.
+Cách viết tắt của Bưu điện Hoa Kỳ.
+Bưu điện Hoa Kỳ có thiết lập một bộ chữ viết tắt để giúp xử lý thư tín bằng hệ thống quang học nhận biết mẫu tự ("optical character recognition") và trang bị tự động khác. Cũng có những chữ viết tắt chính thức riêng của Bưu điện Hoa Kỳ dành cho những phần khác nhau trong địa chỉ thí dụ như phân loại đường phố (thí dụ đường phố Mỹ được phân loại là street, avenue, road...).
+Các chữ viết tắt bưu điện này thì khác biệt với chữ viết tắt truyền thống (thí dụ như Calif., Fla., hay Tex.).
+Phương pháp.
+Đối với mỗi tiểu bang, mẫu tự đầu của chữ viết tắt là mẫu tự đầu của tên tiểu bang. Mẫu tự thứ hai của chữ viết tắt, ít nhất theo các phương thức sau đây:
+Cách viết tắt và mã tên khác.
+Chuẩn Xử lý Thông tin Liên bang ("Federal Information Processing Standard") có thiết lập mã số và mã tên tiểu bang gọi là FIPS cho từng tiểu bang và các vùng quốc hải. Mã số FIPS được ghi là 'FIPS' trên bảng phía trên. Mã tên FIPS thì giống như mã tên của Bưu điện Hoa Kỳ trừ các tiểu đảo xa của Hoa Kỳ có mã tên FIPS là UM nhưng không có mã tên bưu điện và các nơi thư tín quân sự của Hoa Kỳ có mã tên bưu điện (AA, AE, AP) nhưng không có mã tên FIPS.
+Tuần duyên Hoa Kỳ sử dụng một bộ mã tên hai mẫu tự ghi kèm với số tàu thuyền, được ghi trên bảng phía trên nhưng không có biểu thị cho 39 tiểu bang và Đặc khu Columbia vì nó giống như chữ viết tắt của Bưu điện Hoa Kỳ. Các chữ viết tắt của Tuần duyên Hoa Kỳ cũng được thiết lập cho 5 lãnh thổ nằm xa. Chúng được ghi ở trên danh sách bên trên mặc dù chỉ khác với mã bưu điện ở mã dành cho Quần đảo Bắc Mariana.
+

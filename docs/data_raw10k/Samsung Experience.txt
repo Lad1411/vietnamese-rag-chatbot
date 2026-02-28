@@ -1,0 +1,35 @@
+Samsung Experience
+
+ Samsung Experience là một hệ điều hành di động tùy chỉnh dựa trên Android được Samsung thiết kế cho các thiết bị Galaxy của mình. Nó được giới thiệu vào cuối năm 2016 trên bản beta dựa trên Android Nougat cho Galaxy S7, kế nhiệm TouchWiz.
+Lịch sử.
+TouchWiz là tên cũ được Samsung sử dụng cho giao diện người dùng và biểu tượng. Ban đầu nó được phát hành vào ngày 4 tháng 6 năm 2010 cho điện thoại thông minh Galaxy S. Những người đánh giá đã chỉ trích Samsung vì bao gồm quá nhiều tính năng và bloatware, đặc biệt là trong Galaxy S4, bao gồm cái mà nhiều người dùng gọi là " feature creep" của Samsung. Tuy nhiên, trong những năm tiếp theo, Samsung đã loại bỏ dần các phần mềm bloatware và các tính năng bổ sung, cho đến khi TouchWiz không còn được công nhận là TouchWiz, khiến họ đổi tên nó.
+Tính năng, đặc điểm.
+Màn hình chính.
+Samsung Experience thực hiện một số thay đổi đối với màn hình chính mặc định của Android. Biểu tượng ứng dụng nằm ở dưới cùng bên phải của màn hình thay vì ở giữa dưới, thanh tìm kiếm Google Now nằm ngay dưới giữa màn hình thay vì ở trên cùng và có một tiện ích thời tiết (được cung cấp bởi The Weather Channel hoặc AccuWeather ở một số quốc gia hoặc thiết bị được chọn) ở góc trên cùng bên phải của màn hình. Ngoài ra, người dùng có thể chỉnh sửa bố cục lưới ứng dụng.
+Edge UX.
+"Edge" (kính cong ở cạnh màn hình) ban đầu được giới thiệu trong Galaxy Note Edge và phổ biến với Galaxy S6 Edge.
+Edges.
+Cạnh nhiệm vụ cung cấp cho người dùng lối tắt đến các tác vụ thường được sử dụng, chẳng hạn như gọi điện thoại đến một số liên lạc nhất định, đặt hẹn giờ và tạo sự kiện trong S Planner. Đó là một loại biểu tượng (ví dụ: hình ảnh liên lạc [với điện thoại, tin nhắn hoặc biểu tượng thư], biểu tượng ứng dụng có biểu tượng dấu cộng ở góc dưới bên phải hoặc ảnh [từ thư viện của bạn] được che trong hình tròn [ với biểu tượng thư viện ở góc dưới bên phải]) ở bên phải màn hình. Cạnh người cho phép người dùng thêm 5 liên hệ khác nhau để hiển thị trên màn hình, để truy cập nhanh vào các chức năng như gọi điện, nhắn tin và gửi email. Nó hiển thị tên và hình ảnh của liên hệ. Cạnh ứng dụng hiển thị mười ứng dụng được sử dụng thường xuyên nhất của người dùng, với năm trong hai cột. Một người dùng cũng có thể thêm một thư mục hoàn chỉnh vào màn hình. 
+Tấm cạnh.
+Yahoo! thể thao, tài chính và tin tức là những tấm được bao gồm trong điện thoại. Người dùng có thể tải xuống các bảng bổ sung để dễ sử dụng, chẳng hạn như trình đọc RSS, xu hướng Twitter và tin tức từ CNN.
+Công cụ nhanh.
+Với các công cụ nhanh chóng, Edge biến thành thước kẻ, la bàn hoặc đèn pin.
+Nguồn cấp dữ liệu cạnh.
+Khi người dùng vuốt cạnh màn hình và màn hình tắt, màn hình cạnh sẽ bật và hiển thị các cuộc gọi nhỡ, thời gian hiện tại, thời tiết và tin tức.
+Grace UX.
+Được phát hành lần đầu tiên với Samsung Galaxy Note 7 cho Android Marshmallow, Grace UX được đặt theo tên mã của thiết bị và cuối cùng được chuyển sang các thiết bị cũ hơn, bao gồm Galaxy Note 5 thông qua bản cập nhật (Hàn Quốc và cuối cùng là các quốc gia khác) Galaxy S7 và S7 Edge thông qua bản cập nhật Android Nougat chính thức. Grace UX nổi bật với vẻ ngoài gọn gàng hơn cho biểu tượng và sử dụng rộng rãi khoảng trắng. Các thiết bị TouchWiz Grace UX cũng được hưởng lợi từ chức năng Thư mục bảo mật, cho phép người dùng giữ một số dữ liệu nhất định và thậm chí cả ứng dụng, đằng sau mật khẩu an toàn.
+Ngoài ra, đối với hầu hết các quốc gia, tất cả các ngôn ngữ không có trong các phiên bản trước (Android Marshmallow hoặc trước đó) sẽ có sẵn trong phiên bản này, bắt đầu với Galaxy Tab S3.
+Always-on display.
+Chỉ các pixel đơn được chiếu sáng khi màn hình luôn bật đang hoạt động. Màn hình sẽ hiển thị thời gian hiện tại, lịch hoặc hình ảnh được chọn. Có nhiều kiểu khác nhau cho mỗi tùy chọn (đồng hồ có 7 kiểu, lịch có 2 kiểu và hình ảnh có 3 kiểu).
+Always-on display có sẵn trên các dòng Galaxy A (2017 &amp; 2018), Galaxy S7 / S7 edge, Galaxy S8 / S8 +, Galaxy S9 / S9 +, Galaxy J7 (2017) / J7 Pro / J7 + (hoặc C7 2017), Galaxy C5 / C7 / C9 Pro và Galaxy Note 7 / FE / 8 / 9 thiết bị duy nhất.
+Quản lý tập tin.
+Samsung bao gồm một trình quản lý tập tin với điện thoại Galaxy, không giống như Android.
+Game Launcher.
+Bất kỳ trò chơi nào mà người dùng tải xuống được kết hợp vào một thư mục. Trong thư mục đó, người ta có thể tối ưu hóa tốc độ khung hình và độ phân giải. Nó bao gồm Công cụ trò chơi, một nút xuất hiện khi người dùng đang chơi trò chơi. Khi gõ, nó có thể tắt tiếng thông báo, tắt các phím điện dung, thu nhỏ trò chơi, ảnh chụp màn hình và ghi lại trò chơi.
+Bixby.
+Bixby là một trợ lý được ra mắt cùng với Samsung Galaxy S8. Nó thay thế S Voice trên điện thoại Samsung và có ba phần, bao gồm "Bixby Voice", "Bixby Vision" và "Bixby Home". "Bixby Voice" có thể được kích hoạt bằng cách nói "Hey Bixby" hoặc nhấn và giữ nút nằm bên dưới nút chỉnh âm lượng, được đặt tên là "Nút Bixby". "Bixby Vision" được tích hợp vào ứng dụng camera và có thể "nhìn thấy" những gì người ta có thể thấy vì thực chất đây là một camera thực tế tăng cường có thể xác định các đối tượng trong thời gian thực, tìm kiếm chúng trên các dịch vụ khác nhau và cung cấp cho người dùng mua chúng nếu có. Bixby cũng có thể dịch văn bản, đọc mã QR và nhận biết các mốc. "Bixby Home" có thể được tìm thấy bằng cách vuốt sang phải trên màn hình chính. Đây là danh sách cuộn thông tin theo chiều dọc mà Bixby có thể tương tác, ví dụ như thời tiết, hoạt động thể dục và các nút để điều khiển các thiết bị nhà thông minh của họ.
+Từ khóa.
+Bixby có thể thực hiện các nhiệm vụ liên quan đến một từ khóa duy nhất. Ví dụ: "Chúc ngủ ngon" đơn giản có thể yêu cầu thiết bị chuyển sang chế độ im lặng và bật màn hình Night Mode.
+Thiết bị chạy Samsung Experience.
+Lưu ý rằng danh sách này không đầy đủ.
+

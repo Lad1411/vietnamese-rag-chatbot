@@ -1,0 +1,5 @@
+Mô hình màu RYB
+
+Hệ màu RYB (Red – Yellow – Blue, tức Đỏ - Vàng - Xanh lam) là cơ sở tạo nên bánh xe màu . Trong lĩnh vực hội họa, các họa sĩ thường pha màu theo hệ Đỏ - Vàng - Xanh này và họ gọi là pha màu theo phép trừ.
+Như vậy ta có bánh xe màu bao gồm 12 cung màu cơ bản như trên. Với 12 cung màu cơ bản khi được tăng/giảm sắc độ hoặc thay đổi tỷ lệ pha giữa các màu ta sẽ có các màu khác nhau. Thực ra cách pha màu này không cho phổ màu rộng. Các màu trộn với nhau có thể làm mất đi sắc độ. Pha càng nhiều màu với nhau thì màu càng đục, hay gọi bằng từ chuyên môn là "chết màu".
+

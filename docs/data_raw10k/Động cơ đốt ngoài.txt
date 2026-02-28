@@ -1,0 +1,8 @@
+Động cơ đốt ngoài
+
+Động cơ đốt ngoài là động cơ nhiệt trong đó chất lỏng làm việc, chứa bên trong, được đốt nóng bằng cách đốt từ nguồn bên ngoài, thông qua thành động cơ hoặc bộ trao đổi nhiệt. Chất lỏng sau đó, thông qua giãn nở và tác động lên cơ chế của động cơ, sẽ tạo ra chuyển động và công, mà con người có thể sử dụng. Chất lỏng sau đó được làm mát, nén và tái sử dụng (chu trình kín) hoặc thải ra ngoài (chu trình mở). Trong các loại động cơ này, quá trình đốt cháy chủ yếu được sử dụng làm nguồn nhiệt và động cơ có thể hoạt động tốt như nhau với các loại nguồn nhiệt khác.
+Đốt cháy.
+" Đốt cháy " là việc đốt cháy nhiên liệu bằng chất oxy hóa, để cung cấp nhiệt. Động cơ có cấu hình và hoạt động tương tự (hoặc thậm chí giống hệt nhau) có thể sử dụng nguồn cung cấp nhiệt từ các nguồn khác như phản ứng hạt nhân, mặt trời, địa nhiệt hoặc tỏa nhiệt không liên quan đến quá trình đốt cháy; sau đó chúng không được phân loại nghiêm ngặt như động cơ đốt ngoài, mà là động cơ nhiệt bên ngoài.
+Chất lỏng làm việc.
+Chất lỏng làm việc có thể là bất kỳ thành phần nào và hệ thống có thể là một pha (chỉ chất lỏng hoặc khí) hoặc pha kép (lỏng / khí).
+

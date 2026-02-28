@@ -1,0 +1,5 @@
+CodePlex
+
+CodePlex là một trang Web của Microsoft, được chuyên dùng lưu trữ các dự án mã nguồn mở. Tất cả các dự án tại "CodePlex" đều có một không gian Wiki, một phần mềm kiểm soát mã nguồn dựa trên Team Foundation Server, một diễn đàn, một phần mềm theo dõi lỗi v.v... Một số tác phẩm của các dự án tại "CodePlex" được phát hành với giấy phép mã nguồn mở trong khi đó một số tác phẩm khác được phát hành với các giấy phép hạn chế hơn.
+CodePlex đã bị đóng cửa vào ngày 31/3/2017 do Microsoft nhận thấy GitHub là một nền tảng vững chắc hơn. Trang web đã trở thành chỉ đọc và người dùng hiện có thể xem bản lưu trữ của trang kèm theo các dự án trong đó.
+

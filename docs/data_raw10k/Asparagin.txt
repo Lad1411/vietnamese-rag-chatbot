@@ -1,0 +1,8 @@
+Asparagin
+
+Asparagine (ký hiệu là Asn hoặc N ), là một axit α-amin được sử dụng trong quá trình sinh tổng hợp protein. Nó chứa một nhóm α-amino (tồn tại ở dạng −NH3 + trong điều kiện sinh học), một nhóm axit α-carboxyl (ở dạng giảm proton là "COO−" trong điều kiện sinh học), và một chuỗi bên carboxamide, vì vậy amino acid này là phân cực (ở pH sinh lý), và có mạch thẳng. amino acid này là "không" thiết yếu ở con người, có nghĩa là cơ thể có thể tự tổng hợp nó. Asparagine được mã hóa bởi các codon AAU và AAC.
+Phản ứng giữa asparagine và đường khử hoặc nguồn cacbonyl nào khác tạo ra acrylamide trong thực phẩm khi đun nóng đến một ngưỡng nhiệt độ nào đó. Những chất này có thể xuất hiện trong các sản phẩm nướng như khoai tây chiên, khoai tây lát mỏng và bánh mì nướng.
+Chức năng cấu trúc ở protein.
+Vì chuỗi bên của asparagine có thể hình thành các tương tác liên kết hydro với mạch "xương sống" peptide, nên chuỗi bên asparagine thường được tìm thấy gần đầu của xoắn alpha như điểm ngoặt asx và motif asif, hoặc trong các motif ngoặt tương tự, hoặc cũng có thể là vòng amid, trong các phiến gấp beta. Vai trò của nó có thể được coi là "nút" các tương tác liên kết hydro mà nếu không thì sẽ được đáp ứng bởi mạch "xương sống" peptide.
+Asparagine cũng cung cấp các vị trí quan trọng cho glycosyl hóa liên kết N, sửa đổi chuỗi protein với việc bổ sung các chuỗi carbohydrate. Thông thường, một nhánh carbohydrate chỉ có thể được thêm vào một chuỗi bên asparagine nếu sau đó chuỗi bên này được gắn thêm vào vị trí C bằng X-serine hoặc X-threonine, trong đó X là bất kỳ amino acid nào ngoại trừ proline.
+

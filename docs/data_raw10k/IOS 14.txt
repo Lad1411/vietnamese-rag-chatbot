@@ -1,0 +1,16 @@
+IOS 14
+
+iOS 14 là phiên bản thứ mười bốn của hệ điều hành di động iOS được phát triển bởi Apple Inc. cho các dòng iPhone và iPod Touch của họ. Nó đã được công bố tại Hội nghị các nhà phát triển toàn cầu của công ty vào ngày 22 tháng 6 năm 2020 với tư cách là phiên bản kế nhiệm iOS 13. Phiên bản này được phát hành chính thức tới người dùng vào ngày 17 tháng 9 năm 2020.
+Lịch sử.
+Cập nhật.
+Bản beta dành cho nhà phát triển đầu tiên của iOS 14 được phát hành vào ngày 22 tháng 6 năm 2020 và bản beta công khai đầu tiên được phát hành vào ngày 9 tháng 7 năm 2020. iOS 14 chính thức được phát hành vào ngày 16 tháng 9 năm 2020. Không có thử nghiệm beta công khai của 14.1.
+Chú thích: 
+Sự thay đổi và nâng cấp.
+Thư viện ứng dụng.
+Thư viện ứng dụng là một không gian hoàn toàn mới, xuất hiện lần đầu trên iOS 14. Không gian này nằm tại trang cuối cùng ở bên phải ngoài Màn hình chính. Nó liệt kê và phân loại toàn bộ ứng dụng được cài đặt trong máy kể cả khi các ứng dụng đã bị ẩn khỏi màn hình chính.
+Thẻ tiện ích.
+Thẻ tiện ích (Widget) đã có mặt khá lâu trước đó trên phiên bản iOS 10.Nhưng những thẻ tiện ích này chỉ được tìm thấy khi tại trang ngoài cùng bên trái ở màn hình chính. Chúng được sắp xếp dạng danh sách đơn thuần theo chiều dọc và khả năng tiện dụng nó mang lại không đạt hiệu quả cao.
+Trên iOS 14, các thẻ tiện ích không những xuất hiện ở trang ngoài cùng bên trái mà còn xuất hiện ở ngay màn hình chính. Ngoài ra, các thẻ tiện ích có thể tùy chỉnh tối đa lên tới 3 hình dạng kích thước khác nhau.
+Thiết bị hỗ trợ.
+Tất cả các thiết bị hỗ trợ iOS 13 đều được hỗ trợ nâng cấp lên phiên bản iOS 14. iPhone 6S, iPhone 6S Plus và iPhone SE (thế hệ thứ nhất) là những thiết bị lâu đời nhất có thể hỗ trợ iOS 14.
+

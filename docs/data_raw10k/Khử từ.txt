@@ -1,0 +1,20 @@
+Khử từ
+
+Khử từ (Degaussing) là quá trình giảm hoặc loại bỏ Từ hóa dư cho một khối vật liệu hay thiết bị. Nó được đặt tên theo gauss, một đơn vị đo từ được đặt tên theo Carl Friedrich Gauß.
+Khử từ thực hiện khi từ hóa dư ở đó là không mong muốn. Do từ trễ và từ trường có ở môi trường như từ trường Trái Đất, thường không thể làm giảm từ trường cho một khối vật liệu hoàn toàn về không, vì vậy khử từ thường gây ra một cảm ứng rất nhỏ gọi là thiên vị (bias).
+Biện pháp khử từ.
+Khử từ bằng từ trường.
+Khử từ bằng từ trường biến đổi là cách thông dụng nhất, bằng cách đặt khối vật chất vào từ trường tạo bằng dòng điện xoay chiều (AC) đủ mạnh rồi cho biên độ giảm dần. Từ trường biến đổi này từ hóa lại khối vật chất theo tiến trình từ trễ, giảm dần đến khi dòng điện cấp cho phương tiện khử từ bằng 0.
+Trong thực tế cách khử từ này dẫn đến khối vật chất giữ lại từ trường của môi trường, ví dụ từ trường Trái Đất tại vị trí khử từ. Để đạt được khử từ thật sự, phải cấp dòng điện một chiều (DC) thích hợp vào phương tiện khử từ để khử từ trường ngoài.
+Các cách khác.
+Có nhiều các khác để khử từ, ví dụ đốt nóng vật từ đến trên nhiệt độ trật tự từ của chất ("nhiệt độ Curie" với các chất sắt từ, hay "Nhiệt độ Néel" với các chất phản sắt từ...), lúc này các chất từ trạng thái có từ độ lớn sẽ bị mất từ tính và trở thành chất thuận từ.
+Ngoài ra, sự va đập cơ học và ăn mòn hóa học cũng là những cách khử đi từ tính của chất.
+Ứng dụng.
+Khử từ tàu chiến.
+Khử từ ban đầu được áp dụng để giảm dấu vết từ trường của tàu trong Chiến tranh thế giới thứ hai. Ngày nay các tàu chiến nhất là tàu ngầm được định kỳ khử từ để tránh bị phát hiện bằng từ kế quân sự, và tránh các loại thủy lôi khởi nổ bằng từ trường.
+Khử từ các công cụ.
+Khử từ cũng được sử dụng để làm giảm từ trường dư ở màn hình CRT, trong phá hủy dữ liệu đã được ghi ở phương tiện lưu trữ dữ liệu từ tính như băng, đĩa từ.
+Trong chế tạo cơ khí tinh vi như đồng hồ, các dụng cụ đo lường... cần đến khử từ cho các dụng cụ và vật liệu.
+Khử từ phòng cách ly từ trường.
+Các phòng thí nghiệm vật lý từ, hoặc phòng chẩn đoán y - sinh học dùng từ trường cường độ nhỏ, cỡ một vài pT đến nT, để chẩn đoán quá trình hoạt động của não, thần kinh, tim... thì khử từ trường Trái Đất và các nhiễu từ trường là việc quan trọng. Các giải pháp khử từ kết hợp với bọc bằng vật liệu có độ từ thẩm cao như "Mu-metal" để chắn từ. "Phòng chắn từ BMSR-2" thuộc ở Berlin là một trong các phòng tốt nhất thế giới, cho phép thực hiện thí nghiệm ở mức cường độ từ trường femto Tesla.
+

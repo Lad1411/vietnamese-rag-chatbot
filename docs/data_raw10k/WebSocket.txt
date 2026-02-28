@@ -1,0 +1,45 @@
+WebSocket
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;68374876&lt;/parentid&gt;
+ &lt;timestamp&gt;2023-06-08T02:12:42Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;ip&gt;203.167.11.186&lt;/ip&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Dynamic port, edit callback event variable&lt;/comment&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+WebSocket là một giao thức truyền tin dựa trên kết nối TCP. Giao thức WebSocket tuân theo tiêu chuẩn IETF là RFC 6455 năm 2011 và WebSocket API sử dụng trên Web IDL đang được W3C chuẩn hóa. WebSocket API cho phép mở phiên giao tiếp tương tác hai chiều giữa trình duyệt của người dùng và máy chủ. Sử dụng giao thức này, bạn có thể gửi tin nhắn đến máy chủ và nhận các phản hồi theo hướng sự kiện mà không cần phải gửi gói tin thăm dò đến máy chủ để có hồi đáp.
+Mặc dù cùng hoạt động trên các cổng 443 và 80 tương tự như HTTP nhưng WebSocket và HTTP là hai giao thức khác nhau. Cả hai giao thức đều nằm ở lớp 7 trong mô hình OSI và phụ thuộc vào TCP ở lớp 4. RFC 6455 tuyên bố rằng WebSocket "được thiết kế để hoạt động trên các cổng HTTP 443 và 80 nhằm mục đích hỗ trợ hoạt động trên HTTP proxy và lớp trung gian khác".
+Giao thức chuẩn thông thường của WebSocket là codice_1, giao thức secure mã hóa là codice_2. Gói tin giao tiếp được hỗ trợ ở cả dạng text và binary. Mặc dù được thiết kế để triển khai trên trình duyệt cho các ứng dụng Web nhưng Websocket vẫn có thể dùng trong các loại ứng dụng khác. Nhờ là giao thức truyền tin dễ sử dụng, có độ trễ thấp và dễ xử lý lỗi, Websocket thường được sử dụng cho những trường hợp yêu cầu trao đổi real-time như ứng dụng chat, bảng giá chứng khoán hay các biểu đồ động.
+Giao thức con sử dụng WebSocket.
+Giao thức WebSocket hỗ trợ sử dụng giao thức con. Phía máy khách có thể yêu cầu máy chủ sử dụng một giao thức con cụ thể bằng cách thêm trường "Sec-WebSocket-Protocol" vào header trong gói tin bắt tay của nó. Nếu nó được máy chủ chấp nhận, máy chủ máy chủ cũng sẽ trả lại giá trị tương ứng về giao thức con đã chọn trong phản hồi của nó để kết nối được thiết lập.
+Triển khai trên trình duyệt.
+Giao thức WebSocket tương thích với hầu hết các trình duyệt mới, nó được triển khai trên các trình duyệt từ các phiên bản Firefox 7, Safari 6, Google Chrome 14, Opera 12.10 và Internet Explorer 10. 
+Mặc dù ở một số trình duyệt phiên bản cũ hơn có thể vẫn hỗ trợ WebSocket nhưng không đầy đủ, kém an toàn hơn giao thức đã được triển khai trong các phiên bản trên hoặc bị vô hiệu hóa do có các lỗ hổng bảo mật như trong Firefox 4 và 5, và Opera 11.
+Ví dụ triển khai bằng JavaScript.
+// Cổng giao tiếp của máy chủ WebSocket
+const port = 8080;
+// Khởi tạo đối tượng WebSocket mới kết nối đến URI máy chủ
+const socket = new WebSocket(`ws://localhost:${port}`);
+// Bẫy sự kiện opened của đối tượng WebSocket, được gọi sau khi mở kết nối
+socket.onopen = function(event) {
+ alert("[open] Connection established");
+ socket.send("This is first message send to server");
+// Bẫy sự kiện received của đối tượng WebSocket, được gọi sau khi nhận được gói tin từ máy chủ
+socket.onmessage = function(event) {
+ console.log(`[message] Data received from server: ${event.data}`);
+// Bẫy sự kiện closed của đối tượng WebSocket, được gọi sau kết nối bị đóng
+socket.onclose = function(event) {
+ if (event.wasClean) {
+ alert(`[close] Connection closed cleanly, code=${event.code} reason=${event.reason}`);
+ } else {
+ // trả về khi kết nối bị ngắt cưỡng bức, hoặc gián đoạn đường truyền
+ // trường hợp này event.code thường có mã 1006
+ alert('[close] Connection died');
+};
+// Bẫy sự kiện error của đối tượng WebSocket, được gọi khi xảy ra lỗi
+socket.onerror = function(error) {
+ alert(`[error] ${error.message}`);
+

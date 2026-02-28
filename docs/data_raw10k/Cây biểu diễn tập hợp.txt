@@ -1,0 +1,16 @@
+Cây biểu diễn tập hợp
+
+Một trong các ứng dụng của cây là biểu diễn các tập hợp rời nhau. Khi đó có thể thực hiện phép hợp các tập hợp rời nhau.
+Cây biểu diễn tập.
+Để dùng cây biểu diễn tập, ta chọn một phần tử trong tập hợp làm đại diện cho tập. Phần tử này sẽ làm gốc của cây. Các phần tử khác trong tập là các nút của cây. Trong hình vẽ bên có biểu diễn cây của hai tập: một tập hợp gồm các phần tử A, B, C, D, một tập hợp gồm các phần tử E,F. Để lưu trữ cầu trúc cây này, mỗi phần tử được gán thêm một trường parent chỉ tới nút cha của chúng. Trong hình vẽ ta có Parent(D)= B, Parent(C)= A, Parent(E)= F. Vì nút gốc u không có parent nên người ta cũng tận dụng trường parent(u) của nút gốc u để ghi số phần tử của tập mà nó đại diện. Chẳng hạn trong hình bên Parent(A)= -4, Parent(E) = -2. Khi ấy cũng có thể trường parent của các nút không phải là gốc nhận giá trị là chỉ số (index) của nút cha. Chẳng hạn nếu trong hình bên chỉ số của các nút A, B, C, D, E, F tương ứng là các số nguyên dương 1, 2, 3, 4, 5, 6 thì Parent(D)= 2,Parent(C)= 1,Parent(B)= 1,Parent(A)= -4, Parent(F)= 5, Parent(E)=-2.
+Các phép toán trên tập.
+Tạo một tập mới chỉ gồm một phần tử u.
+Khi đó cây biểu diễn tập chỉ có một nút gốc. 
+codice_1
+Tìm tập hợp chứa phần tử u.
+Đấy chính là tìm phần tử đại diện của tập, hay tìm nút gốc của cây
+codice_2
+Hợp hai tập.
+Hợp hai tập hợp rời nhau chứa hai phần tử u, v là hợp hai cây thành một cây, bằng cách chọn một trong hai gốc làm gốc của tập mới, còn gốc của cây kia thành con của gốc ấy. Để có thể rút ngắn thời gian tìm kiếm ta chọn gốc của cây chứa nhiều phần tử hơn làm gốc của cây mới. Chẳng hạn trong hình vẽ trên, khi hợp hai tập {A, B, C, B, D} và {E, F} ta gán Parent(E):= 1, Parent (A) = -5.
+codice_3
+

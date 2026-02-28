@@ -1,0 +1,29 @@
+Simple DirectMedia Layer
+
+Simple DirectMedia Layer (thường được viết tắt là SDL) là một thư viện lập trình có khả năng trừu tượng hóa các phần cứng đồ họa, âm thanh hay thiết bị vào và ra. Thư viện này giúp các lập trình viên viết các chương trình giải trí hay các ứng dụng đa phương tiện ("multimedia") trên nhiều hệ điều hành khác nhau như: GNU/Linux, Windows, Mac OS Classic, Mac OS X, BeOS và một vài hệ điều hành không chính thức khác. Qua thư viện này, lập trình viên có thể điều khiển phần hiển thị, sự kiện, âm thanh, ổ dĩa CD-ROM, thread và đồng hồ đo giờ.
+Lịch sử.
+Sam Lantinga là người tạo ra thư viện này vào năm 1998, lúc ông còn làm cho hãng Loki Software. Ông nảy ra ý định này khi mang các chương trình Windows vào môi trường Macintosh. Sau đó ông dùng thư viện này để đem chương trình giải trí Doom sang hệ điều hành BeOS (Xem mã nguồn của chương trình Doom). Một vài thư viện tự do khác như SMPEG và OpenAL có thể hoạt động chung với SDL.
+SDL được chia thành nhiều hệ thống con ("subsystem") như: Video, Audio, CD-ROM, Joystick và Timer. Bên cạnh những hệ thống con cơ bản này, do đây là thư viện cấp thấp, còn có một số thư viện chính thức riêng biệt, cung cấp các chức năng khác. Bao gồm:
+Sơ lược.
+Đây là thư viện đa phương tiện, đa nền tảng ("cross-platform"), được thiết kế để cung cấp sự truy cập ở mức cấp thấp đến âm thanh, hình ảnh, bàn phím, chuột, cần điều khiển game ("joystick"), phần cứng 3D ("3D hardware")... thông qua OpenGL và 2D video framebuffer.
+SDL hỗ trợ các hệ điều hành như Linux, Windows, Windows CE, BeOS, MacOS, MacOS X, FreeBSD, NetBSD, OpenBSD, BSD/OS, Solaris, IRIX và QNX. Ngoài ra còn hỗ trợ một số hệ điều hành khác như: AmigaOS, Dreamcast, Atari, AIX, OSF/Tru64, RISC OS, SymbianOS và OS/2 nhưng không chính thức.
+Thư viện SDL được viết bằng C chuẩn, nhưng hỗ trợ tốt với C++ và nhiều ngôn ngữ lập trình khác như: Ada, C#, Eiffel, Erlang, Euphoria, Guile, Haskell, Java, Lisp, Lua, ML, Objective C, Pascal, Perl, PHP, Pike, Pliant, Python, Ruby và Smalltalk.
+Kiến trúc.
+SDL thật sự là một gói bao bọc ("wrapper") xung quanh các chức năng xác định của hệ điều hành. Mục đích chính của SDL là lập thành một giao diện lập trình cốt lõi đa hệ điều hành phổ biến cho việc truy cập chức năng đa phương tiện.
+Do cách thiết kế của SDL, hầu hết mã nguồn của thư viện được tách thành nhiều phần cho từng hệ điều hành. Khi SDL được biên dịch cho một hệ điều hành, các phần thích hợp được chọn cho hệ điều hành đó.
+Trong sơ đồ, đối với hệ điều hành Windows, SDL thật sự bao bọc xung quanh DirectX. Phiên bản cũ của SDL sử dụng DirectX 5. Phiên bản ổn định hiện tại của SDL sử dụng DirectX 7. Trong môi trường đồ họa X11, bao gồm Linux, SDL sử dụng Xlib để giao tiếp với hệ thống X11 khi làm việc với đồ họa và sự kiện.
+Thí dụ bằng ngôn ngữ C.
+Dưới đây là một chương trình rất đơn giản dùng thư viện SDL. Nó khởi động các hệ thống đa phương tiện, đợi 2 giây rồi sau đó nó đóng thư viện SDL và trở về hệ điều hành.
+// Dùng các hàm của thư viện SDL
+// Hàm chính
+int main(int argc, char* argv[])
+ // Khởi động thư viện SDL
+ if(SDL_Init(SDL_INIT_EVERYTHING) == -1)
+ return(1);
+ // Đợi 2 giây
+ SDL_Delay(2000);
+ // Thoát khỏi SDL
+ SDL_Quit();
+ // Trở về hệ điều hành
+ return 0;
+

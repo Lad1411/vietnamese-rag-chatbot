@@ -1,0 +1,5 @@
+Kỹ sư máy tính
+
+Kỹ sư máy tính hay còn gọi là Kỹ sư công nghệ thông tin là những người có hiểu biết cao về lĩnh vực công nghệ thông tin, họ thành thạo về phần cứng và các thiết bị số khác, ngoài ra còn có những kỹ năng lập trình quản lý thông tin trên máy, quản trị mạng máy tính, có khả năng thiết kế hoặc phát triển phần mềm...
+Hiện nay Kỹ sư công nghệ thông tin được chia thành các chuyên ngành nhỏ hơn gồm: Công nghệ phần mềm, Hệ thống thông tin, Khoa học máy tính, Kỹ thuật máy tính, Truyền thông và mạng máy tính. Sự chia nhỏ này nằm đào tạo những kỹ sư có trình độ chuyên môn cao hơn ở một mảng nhỏ nhất định, khi ra trường những kỹ sư này thường làm việc trong một mảng nhỏ hơn nữa.
+

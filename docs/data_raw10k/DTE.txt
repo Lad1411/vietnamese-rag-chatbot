@@ -1,0 +1,9 @@
+DTE
+
+DTE, nguyên là chữ viết tắt của "Data Terminal Equipment" trong tiếng Anh, hay Thiết bị cuối xử lý số liệu (hoặc dữ liệu). Từ này ám chỉ đến một thiết bị cuối ("end instrument") sử dụng để biến tư liệu sang tín hiệu truyền thông, hoặc biến những tín hiệu thu được sang tư liệu. Thiết bị cuối xử lý số liệu (DTE) giao thông với thiết bị kết cuối kênh số liệu ("Data Circuit-terminating Equipment" - DCE). IBM là công ty giới thiệu sự phân loại thiết bị cuối xử lý số liệu (DTE) và thiết bị kết cuối kênh số liệu (DCE).
+DTE là một đơn vị xử lý ("functional unit") trong một trạm dữ liệu ("data station") hoặc một bồn lưu trữ dữ liệu ("data sink"), nhằm hỗ trợ tính năng điều khiển truyền thông dữ liệu, vận hành trong quy định của một giao thức liên kết ("link protocol") nhất định.
+Thiết bị cuối xử lý số liệu (DTE) có thể chỉ đơn giản là một thiết bị hoặc một hệ thống liên thông kết nối phụ, bao gồm nhiều bộ phận thiết bị nhỏ, thao tác tất cả những chức năng cần thiết để người dùng có thể truyền thông. Hoặc là người dùng tương tác với DTE (ví dụ thông qua một giao diện người-máy ("Human-Machine interface")), hoặc chính DTE trở thành người dùng nữa.
+Thông thường, thiết bị DTE là một thiết bị đầu cuối (hoặc một máy tính mô phỏng thiết bị đầu cuối), và DCE là modem.
+DTE thường được coi là một giắc đực ("male connector") và DCE là một giắc cái ("female connector").
+Theo quy tắc chung, DCE cung cấp một cái đồng hồ (đồng hồ nội hành - "internal clocking") và thiết bị DTE đồng bộ hóa với đồng hồ của DTE (đồng hồ ngoại hành - "external clocking"). Các giắc cắm D-sub tuân theo một quy chế riêng trong việc bố trí đầu cắm. Các thiết bị DTE thường truyền tin dùng đầu cắm số 2 và nhận nhận tin dùng đầu cắm số 3. Các thiết bị DCE thì ngược lại, đầu cắm số 2 dùng để nhận tin trong khi đầu cắm số 3 dùng để truyền tín hiệu.
+

@@ -1,0 +1,14 @@
+Đường cong lãi suất
+
+Trong tài chính, đường cong lợi suất là một đồ thị mô tả cách thức lợi suất của các khoản nợ - chẳng hạn như trái phiếu - thay đổi như thế nào theo hàm số năm còn lại của chúng cho đến khi đáo hạn.
+Đặc trưng và ý nghĩa của đường cong lợi suất.
+Đường cong lợi suất đối với các trái phiếu do Chính phủ phát hành được coi là đường cong lợi suất tham chiếu do rủi ro tín dụng gần như bằng 0.
+Khoảng chênh lệch giữa đường cong lợi suất của một loại trái phiếu nào đó só với đường cong lợi suất tham chiếu sẽ hình thành nên chênh lệch tín dụng (credit spread). Mức độ rủi ro của chủ thể phát hành càng cao thì chênh lệch tín dụng càng lớn và ngược lại.
+Đường cong lợi suất được sử dụng như một công cụ định giá trái phiếu, đồng thời được các nhà kinh tế sử dụng như một cảnh báo về tình hình kinh tế vĩ mô trong tương lai.
+Phân loại.
+Về cơ bản có ba loại đường cong lợi suất chính:
+Trong điều kiện này, các trái phiếu có kì hạn dài sẽ có lợi tức cao và ngược lại. Điều này là do trái phiếu có thời gian dài hơn thì rủi ro sẽ cao hơn, do đó lợi tức yêu cầu phải cao hơn nhằm bù đắp rủi ro.
+Trong điều kiện đó, thị trường rất khó tự quyết định hướng chuyển động của lợi suất trong tương lai. Do đó, lợi suất của các kì hạn khác nhau có xu hướng bằng nhau. Trường hợp này thường xuất hiện trong quá trình chuyển đổi nền kinh tế từ khủng hoảng sang tăng trưởng hoặc ngược lại.
+Trong điều kiện này, trái phiếu ngắn hạn có lợi suất cao hơn trái phiếu dài hạn. Khi đường cong lõm xuất hiện, đó là tín hiệu cảnh báo nền kinh tế rơi vào suy thoái, khủng hoảng.
+Lí do lợi suất của trái phiếu ngắn hạn cao thể hiện nhu cầu thanh khoản của nền kinh tế trong ngắn hạn rất cao, do đó các chủ thể phát hành chấp nhận một lãi suất cao để huy động vốn ngắn hạn. Điều này thường xảy ra khi Chính phủ thực hiện chính sách thắt chặt tiền tệ, làm giảm khả năng tiếp cận vốn của nền kinh tế.
+

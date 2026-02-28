@@ -1,0 +1,45 @@
+Maple
+
+Maple là một gói phần mềm toán học thương mại phục vụ cho nhiều mục đích. Nó phát triển lần đầu tiên vào năm 1980 bởi Nhóm Tính toán Hình thức tại Đại học Waterloo ở Waterloo, Ontario, Canada.
+Từ năm 1988, nó đã được phát triển và thương mại hóa bởi Waterloo Maple Inc. (còn được biết đến với tên gọi Maplesoft), một công ty Canada cũng có trụ sở tại Waterloo, Ontario. Phiên bản hiện tại là Maple 13 được phát hành vào tháng 5 năm 2009. Đối thủ cạnh tranh chính của nó là Mathematica.
+Tổng quan.
+Chức năng cốt lõi.
+Người dùng có thể nhập biểu thức toán học theo các ký hiệu toán học truyền thống. Có thể dễ dàng tạo ra những giao diện người dùng tùy chọn. Maple hỗ trợ cho cả tính toán số và tính toán hình thức, cũng như hiển thị. Nhiều phép tính số học được thực hiện dựa trên thư viện số học NAG; trong Maple, các chương trình con NAG đã được mở rộng để cho phép độ chính xác ngẫu nhiên lớn. Các ví dụ về tính toán hình thức sẽ được trình bày trong phần sau.
+Maple cũng có một ngôn ngữ lập trình cấp cao đầy đủ. Cũng có giao diện cho những ngôn ngữ khác (C, Fortran, Java, MatLab, và Visual Basic). Cũng có một giao diện dành cho Excel.
+Kiến trúc.
+Phần lớn Maple được viết bằng ngôn ngữ java. Maple chạy trên tất cả các hệ điều hành chính.
+Ngôn ngữ lập trình Maple là một ngôn ngữ kiểu động. Cũng giống như các hệ thống đại số máy tính, các biểu thức hình thức được lưu trữ trong bộ nhớ theo đồ thị không chu trình có hướng (DAG). Ngôn ngữ cho phép các biến có phạm vi nhất định ("lexical scoping"). Ngôn ngữ có hình thức lập trình hàm, nhưng cũng có hỗ trợ đầy đủ cho lập trình truyền thống, theo kiểu mệnh lệnh.
+Một điều lạ đối với chương trình thương mại, đa số mã nguồn đều có thể xem tự do.
+Nguồn gốc tên gọi.
+Tên "Maple" không phải là tên viết tắt hoặc từ cấu tạo bằng chữ đầu, mà chỉ đơn giản là để chỉ hình tượng Lá phong () trên Quốc kỳ Canada.
+Ví dụ về mã Maple.
+Tìm formula_1.&lt;br&gt;
+ integrate(cos(x/a), x);
+Đáp án: formula_2
+----&lt;br&gt;
+Tính lời giải chính xác cho phương trình vi phân thường formula_3 với điều kiện ban đầu formula_4&lt;br&gt;
+ dsolve({diff(y(x),x,x) - 3*y(x) = x, y(0)=0, D(y)(0)=2}, y(x));
+Đáp án: formula_5
+----&lt;br&gt;
+Tính toán ra số nghiệm của phương trình formula_6 bắt đầu tại điểm formula_7; viết kết quả với 75 số sau dấu chấm.&lt;br&gt;
+ evalf[75](RootOf(exp(x)=x^2+2,x,-1));
+Đáp án: formula_8
+----&lt;br&gt;
+Tính định thức của ma trận.&lt;br&gt;
+ M:= Matrix(1,2,3, [a,b,c], x,y,z); # Ma trận mẫu
+ with(LinearAlgebra):Determinant(M);
+Đáp án: formula_10
+----&lt;br&gt;
+Vẽ formula_11 với formula_12 và formula_13 đi từ -1 đến 1&lt;br&gt;
+ plot3d(x^2+y^2,x=-1..1,y=-1..1);
+----&lt;br&gt;
+Giải hệ phương trình vi phân cục bộ
+with formula_17.
+ eqn1:= diff(v(x, t), x) = -u(x,t)*v(x,t):
+ eqn2:= diff(v(x, t), t) = -v(x,t)*(diff(u(x,t), x))+v(x,t)*u(x,t)^2:
+ eqn3:= diff(u(x,t), t)+2*u(x,t)*(diff(u(x,t), x))-(diff(diff(u(x,t), x), x)) = 0:
+ pdsolve({eqn1,eqn2,eqn3,v(x,t)&lt;&gt;0},[u,v]): op(%);
+Đáp án:   &lt;math&gt;v \left(x,t \right) ={e^{\sqrt {\it \_C3
+}\,{e^{\it \_C1}+{\frac , \ \ u \left(x,t
+ \right) =-{\frac {\sqrt 
+

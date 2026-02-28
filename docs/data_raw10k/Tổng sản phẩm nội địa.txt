@@ -1,0 +1,48 @@
+Tổng sản phẩm nội địa
+
+ Trong kinh tế học, tổng sản phẩm nội địa, tức tổng sản phẩm quốc nội hay GDP (viết tắt của "gross domestic product") là "giá trị thị trường" của tất cả hàng hóa và dịch vụ "cuối cùng" được sản xuất ra trong "phạm vi một lãnh thổ nhất định "(thường là quốc gia) trong một "thời kỳ nhất định" (thường là một năm).
+Gần đây, trong các tài liệu thống kê mang tính nghiêm ngặt, thuật ngữ tiếng Anh "national gross domestic product"- NGDP hay được dùng để chỉ tổng sản phẩm quốc nội, "regional (hoặc provincial) gross domestic product"- RGDP hay dùng để chỉ tổng sản phẩm nội địa của địa phương. GDP là một trong những chỉ số cơ bản để đánh giá sự phát triển kinh tế của một vùng lãnh thổ nào đó.
+Phương pháp tính GDP.
+Phương pháp chi tiêu.
+Theo phương pháp chi tiêu, tổng sản phẩm quốc nội của một quốc gia là tổng số tiền mà các hộ gia đình trong quốc gia đó chi mua các hàng hóa cuối cùng. Như vậy trong một nền kinh tế giản đơn ta có thể dễ dàng tính tổng sản phẩm quốc nội như là tổng chi tiêu hàng hóa và dịch vụ cuối cùng hàng năm.
+GDP (Y) là tổng của tiêu dùng (C), đầu tư (I), chi tiêu chính phủ (G) và cán cân thương mại (xuất khẩu ròng, X - M).
+Chú giải:
+Phương pháp thu nhập hay phương pháp chi phí.
+Theo phương pháp thu nhập hay phương pháp chi phí, tổng sản phẩm quốc nội bằng tổng thu nhập từ các yếu tố tiền lương (wage), tiền lãi (interest), lợi nhuận (profit) và tiền thuê (rent); đó cũng chính là tổng chi phí sản xuất các sản phẩm cuối cùng của xã hội.
+Trong đó
+Phương pháp giá trị gia tăng.
+Giá trị gia tăng của doanh nghiệp ký hiệu là (VA), giá trị tăng thêm của một ngành (GO), giá trị tăng thêm của nền kinh tế là GDP
+VA = Giá trị thị trường sản phẩm đầu ra của doanh nghiệp - Giá trị đầu vào được chuyển hết vào giá trị sản phẩm trong quá trình sản xuất
+Giá trị gia tăng của một ngành (GO)
+Trong đó:
+Giá trị gia tăng của nền kinh tế GDP
+Trong đó:
+Lưu ý là kết quả tính GDP sẽ là như nhau với cả ba cách trên. Ở Việt Nam GDP được tính toán bởi Tổng cục thống kê dựa trên cơ sở các báo cáo từ các đơn vị, tổ chức kinh tế cũng như báo cáo của các Cục thống kê tỉnh, thành phố trực thuộc trung ương. Còn ở Mỹ GDP được tính toán bởi Cục phân tích kinh tế.
+GDP danh nghĩa và thực tế.
+GDP danh nghĩa là tổng sản phẩm nội địa theo giá trị sản lượng hàng hoá và dịch vụ cuối cùng tính theo giá hiện hành. Sản phẩm sản xuất ra trong thời kỳ nào thì lấy giá của thời kỳ đó. Do vậy còn gọi là GDP theo giá hiện hành
+Sự gia tăng của GDP danh nghĩa hàng năm có thể do lạm phát.
+Trong đó: 
+GDP thực tế là tổng sản phẩm nội địa tính theo sản lượng hàng hoá và dịch vụ cuối cùng của năm nghiên cứu còn giá cả tính theo năm gốc do đó còn gọi là GDP theo giá so sánh. Theo cách tính toán về tài chính-tiền tệ thì GDP thực tế là hiệu số của GDP tiềm năng trừ đi chỉ số lạm phát CPI trong cùng một khoảng thời gian dùng để tính toán chỉ số GDP đó.
+GDP thực tế được đưa ra nhằm điều chỉnh lại của những sai lệch như sự mất giá của đồng tiền trong việc tính toán GDP danh nghĩa để có thể ước lượng chuẩn hơn số lượng thực sự của hàng hóa và dịch vụ tạo thành GDP. GDP thứ nhất đôi khi được gọi là "GDP tiền tệ" trong khi GDP thứ hai được gọi là GDP "giá cố định" hay GDP "điều chỉnh lạm phát" hoặc "GDP theo giá năm gốc" (Năm gốc được chọn theo luật định).
+GDP bình quân đầu người.
+GDP bình quân đầu người của một quốc gia hay lãnh thổ tại một thời điểm nhất định là giá trị nhận được khi lấy GDP của quốc gia hay lãnh thổ này tại thời điểm đó chia cho dân số của nó cũng tại thời điểm đó.
+Các thành phần của GDP.
+GDP có thể tính là tổng của các khoản tiêu dùng, hoặc tổng của các khoản chi tiêu, hoặc tổng giá trị gia tăng của nền kinh tế. Về lý thuyết, dù theo cách tính nào cũng cho kết quả tính GDP như nhau. Nhưng trong nhiều báo cáo thống kê, lại có sự chênh lệch nhỏ giữa kết quả theo ba cách tính. Đó là vì có sai số trong thống kê.
+Theo cách tính GDP là tổng tiêu dùng, các nhà kinh tế học đưa ra một công thức như sau:
+GDP = C + I + G + NX
+Trong đó các ký hiệu:
+Ba thành phần đầu đôi khi được gọi chung là "nội nhu", còn thành phần cuối cùng là "ngoại nhu".
+GDP theo cách tính tổng chi phí (lúc này không gọi là GDP nữa, mà gọi là tổng chi tiêu nội địa hay GDE (viết tắt của Gross Domestic Expenditure) được tính toán tương tự, mặc dù trong công thức tính tổng chi phí không kê khai những khoản đầu tư ngoài kế hoạch (bỏ hàng tồn kho vào cuối chu kỳ báo cáo) và nó phần lớn được sử dụng bởi các nhà kinh tế lý thuyết.
+Phân biệt GDP với GNP.
+GDP khác với tổng sản phẩm quốc dân (GNP) ở chỗ loại bỏ việc chuyển đổi thu nhập giữa các quốc gia, nó được quy theo lãnh thổ mà sản phẩm được sản xuất ở đó hơn là thu nhập nhận được ở đó. Chẳng hạn như một nhà máy sản xuất đồ ăn nhanh đặt tại Việt Nam do công dân Mỹ đầu tư để tiêu thụ nội địa. Khi đó mọi thu nhập từ nhà máy này sau khi bán hàng được tính vào GDP của Việt Nam, tuy nhiên lợi nhuận ròng thu được (sau khi khấu trừ thuế phải nộp và trích nộp các quỹ phúc lợi) cũng như lương của các công nhân Mỹ đang làm việc trong nhà máy được tính là một bộ phận trong GNP của Mỹ.
+So sánh xuyên quốc gia.
+GDP của các quốc gia khác nhau có thể so sánh bằng cách chuyển đổi giá trị của chúng (tính theo nội tệ) sang bằng một trong hai phương thức sau:
+Thứ bậc tương đối của các quốc gia có thể lệch nhau nhiều giữa hai xu hướng tiếp cận kể trên.
+Phương pháp tính theo "sự ngang giá của sức mua" tính toán hiệu quả tương đối của sức mua nội địa đối với những nhà sản xuất hay tiêu thụ trung bình trong nền kinh tế. Nó có thể sử dụng để làm chỉ số của mức sống đối với những nước chậm phát triển là tốt nhất vì nó bù lại những điểm yếu của đồng nội tệ trên thị trường thế giới.
+Phương pháp tính theo "tỷ giá hối đoái hiện tại" chuyển đổi giá trị của hàng hóa và dịch vụ theo các tỷ giá hối đoái quốc tế. Nó là chỉ thị tốt hơn của sức mua quốc tế của đất nước và sức mạnh kinh tế tương đối.
+Các vấn đề.
+Mặc dù GDP được sử dụng rộng rãi trong kinh tế, giá trị của nó như là một chỉ số vẫn đang là vấn đề gây tranh cãi. Sự phê phán sử dụng GDP bao hàm các điểm sau:
+Mặc dù còn nhiều hạn chế nhưng việc tìm một chỉ số khác thay thế GDP cũng rất khó khăn. Một sự thay thế được biết đến là Chỉ số tiến bộ thực sự (GPI) được cổ động bởi Đảng Xanh của Canada. GPI đánh giá chính xác như thế nào thì chưa chắc chắn; một công thức được đưa ra để tính nó là của Redefining Progress, một nhóm nghiên cứu chính sách ở San Francisco.
+Dữ liệu.
+Danh sách đầy đủ các quốc gia theo GDP: Purchasing Power Parity Method và Current Exchange Rate Method
+

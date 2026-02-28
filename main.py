@@ -23,10 +23,14 @@ rag_pip = RAG_pipeline(
 print('Initialize retriever successfully')
 
 if __name__ == '__main__':
-    query = input('Chat with bot: ')
-    response = rag_pip.generate(query=query)
+    while True:
+        query = input('Nhập câu hỏi: ')
+        if query == "/bye":
+            break
+        response = rag_pip.generate(query=query)
 
-    print(f"Bot: {response}")
+        print(f"Bot: {response}")
+        print("\nNhập /bye để thoát.")
 
 
 

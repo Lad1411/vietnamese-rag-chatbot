@@ -1,0 +1,12 @@
+Astemizole
+
+Astemizole (được bán với biệt dược Hismanal, mã phát triển R43512) là thuốc kháng histamin thế hệ thứ hai có thời gian tác dụng dài. Astemizole được phát hiện bởi Dược phẩm Janssen vào năm 1977. Thuốc đã bị ngừng cấp phép ở hầu hết các quốc gia vì tác dụng phụ hiếm gặp nhưng có thể gây tử vong (kéo dài khoảng QTc và rối loạn nhịp tim liên quan do phong tỏa kênh hERG).
+Dược lý.
+Astemizole là một chất đối kháng thụ thể histamin H1. Nó có tác dụng kháng cholinergic và chống ngứa.
+Astemizole hấp thu nhanh qua đường tiêu hóa và liên kết cạnh tranh với các vị trí thụ thể histamin H1 trong đường tiêu hóa, tử cung, mạch máu và cơ phế quản. Điều này ngăn chặn sự hình thành phù và ngứa (gây ra bởi histamin).
+Mặc dù có một số báo cáo trước đó cho thấy astemizole không vượt qua hàng rào máu não, một số nghiên cứu đã cho thấy tính thấm và liên kết cao với nếp gấp protein liên quan đến bệnh Alzheimer.
+Astemizole cũng có thể tác dụng lên thụ thể histamin H3, do đó tạo ra tác dụng phụ.
+Astemizole cũng hoạt động như FIASMA (chất ức chế chức năng của axit sprialomyelinase).
+Độc tính.
+Astemizole có LD50 đường uống khoảng 2052 mg/kg (ở chuột).
+

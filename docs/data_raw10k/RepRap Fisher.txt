@@ -1,0 +1,5 @@
+RepRap Fisher
+
+RepRap Fisher là một máy in 3D mô hình hóa lắng đọng nóng chảy nguồn mở và là một phần của dự án RepRap. RepRap Fisher được đặt tên theo nhà thống kê và sinh vật học người Anh Ronald Fisher, nó được thiết kế bởi RepRapPro.
+RepRap Fisher có đường kính 150mm với chiều cao 180mm, sử dụng bộ đùn bowden và có độ phân giải in là 12.5um theo mọi hướng, nó cũng có thẻ micro SD và kết nối USB và Ethernet cho phép kết nối với mạng. Máy in đã được ca ngợi vì dễ xây dựng và giá thành thấp và chỉ có sẵn ở dạng bộ.
+

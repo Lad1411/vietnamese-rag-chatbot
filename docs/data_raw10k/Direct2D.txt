@@ -1,0 +1,5 @@
+Direct2D
+
+Direct2D là một API cho đồ họa 2D, một phần trong bộ DirectX do Microsoft thiết kế cho Windows 7 và Windows Server 2008 R2. Nó cũng có thể được chuyển hệ sang Windows Vista. Direct2D được thiết kế để xử lý nhanh và cho ra những hình ảnh đồ họa 2D chất lượng cao trong khi vẫn đảm bảo tương thích với GDI, GDI+ và Direct3D. Direct2D không còn sử dụng COM.
+Direct2D còn có DirectWrite, một API mới tăng cường khả năng đọc và hiển thị text trên các màn hình LCD hiện đại, cùng với cải tiến chức năng khử răng cưa, và công nghệ ClearType. Chức năng này sẽ có mặt trong tất cả các ứng dụng. Đi kèm với khả năng hỗ trợ Unicode cho phép xây dựng các ứng dụng tương thích với các ngôn ngữ trên toàn thế giới.
+

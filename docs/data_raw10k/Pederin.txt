@@ -1,0 +1,15 @@
+Pederin
+
+Pederin là một amid độc, gây rộp da, có hai vòng tetrahydropyran, được tìm thấy trong haemolymph của chi "Paederus", thuộc họ Staphylinidae. Nó lần đầu tiên được chiết xuất từ 25 triệu con "Paederus fuscipes" (kiến ba khoang) thu thập được từ môi trường tự nhiên. Nó chiếm khoảng 0.025% trọng lượng của côn trùng (đối với "kiến ba khoang").
+Việc tạo ra pederin dựa trên những hoạt động của một phân loài vi khuẩn cộng sinh ("Pseudomonas ssp.") trong "Paederus" đã được chứng minh.
+Việc sản xuất ra pederin phần lớn chỉ giới hạn ở những con bọ cánh cứng cái trưởng thành—ấu trùng và con đực có được pederin từ mẹ (chẳng hạn như từ trứng) hoặc thông qua tiêu hóa.
+Ảnh hưởng đến cơ thể.
+Da tiếp xúc với pederin từ dịch tiết ra từ một con kiến ba khoang cái sẽ gây ra viêm da Paederus. Nó là một dạng phát ban thay đổi từ ửng đỏ nhẹ cho đến phồng rộp nặng, tùy thuộc vào nồng độ và thời gian phơi nhiễm. Điều trị bằng cách rửa phần da bị kích ứng với nước xà phòng mát. Bôi thuốc steroid ngoài da cũng được khuyến cáo nên dùng trong những trường hợp bị phơi nhiễm nặng. Những biện pháp này có thể làm giảm đáng kể những tác động của độc tố trên vùng da bị ảnh hưởng.
+Tổng hợp.
+Sự tổng hợp ra pederin đã được biết đến. Bắt đầu bằng axít (+)-benzoylselenopederic, thêm chất khử Zn(BH4)2, phản ứng khử chọn lọc lập thể (stereoselective) của xeton không vòng xảy ra. Phản ứng Michael của nitromethane được thực hiện. Sau một vài bước của phản ứng oxy hóa khử Pfitzner–Moffatt, phenylselenation, thủy phân, và khử, thu được axít pederic.
+Những bước cuối cùng của việc tổng hợp nên pederin được trình bày trong hình bên phải. Tại đây, axít pederic được thêm vào chất bảo vệ trong LiHMDS và THF, hiệu suất 75%. Các nhóm bảo vệ sau đó được loại bỏ bằng TBAF và dung dịch thủy phân. Bước này có hiệu suất 88%.
+Cơ chế tác động.
+Pederin ngăn chặn quá trình nguyên phân ở nồng độ thấp với chỉ 1 ng/ml, bằng cách ức chế sự tổng hợp protein và DNA mà không làm ảnh hưởng đến sự tổng hợp RNA, ngăn chặn sự phân chia tế bào, và đã được chứng minh có thể kéo dài sự sống cho những con chuột mang nhiều khối u. Vì lý do này mà nó có được sự quan tâm như là một phương pháp điều trị ung thư tiềm năng.
+Sử dụng.
+Pederin và những dẫn xuất của nó đang được nghiên cứu để làm thuốc chống ung thư. Nhóm những hợp chất này có thể ức chế sự sinh tổng hợp protein và DNA, hữu ích trong việc làm chậm sự phân chia của tế bào ung thư. Một dẫn xuất của pederin là psymberin được thấy rằng nó có tính chọn lọc cao trong việc nhắm vào các tế bào khối u cứng.
+

@@ -1,0 +1,5 @@
+Đồ thị vô hướng
+
+Đồ thị vô hướng là một đồ thị mà các cạnh của nó không có hướng. Mỗi cạnh luôn là một mối quan hệ hai chiều, và mỗi cạnh có thể được duyệt qua theo hai hướng. Đồ thị có hướng là trường hợp ngược lại của đồ thị vô hướng, với các cạnh có hướng, xuất phát từ hoặc kết thúc tại một đỉnh, thông thường ký hiệu bằng dấu mũi tên. 
+Cho đồ thị formula_1. Nếu chúng ta không phân biệt thứ tự của cặp đỉnh liên kết với mỗi cạnh thì sẽ có được đồ thị vô hướng. Đồ thị vô hướng formula_1 được định nghĩa bởi:
+

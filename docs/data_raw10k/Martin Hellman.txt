@@ -1,0 +1,8 @@
+Martin Hellman
+
+Martin Edward Hellman (sinh ngày 2 tháng 10 năm 1945) là một nhà mật mã học, được biết đến nhiều nhất cho phát minh của ông về mật mã hóa công khai cùng với Whitfield Diffie và Ralph Merkle. Hellman là một nhà cống hiến lâu năm cho cuộc tranh luận bảo mật máy tính và gần đây được biết đến với việc thúc đẩy các nghiên cứu phân tích nguy cơ về các mối đe dọa hạt nhân, bao gồm cả các trang web NuclearRisk.org.
+Bài viết "hướng mới trong mã hóa" của Diffie và Martin Hellman được xuất bản vào năm 1976. Nó giới thiệu một phương pháp phân phối các khóa mật mã hoàn toàn mới, vượt xa theo hướng giải quyết cơ bản của mật mã, phân phối chính. Nó trở nên nổi tiếng với tên trao đổi khóa Diffie-Hellman. Bài báo cũng dường như kích thích sự phát triển công cộng gần như ngay lập tức của một lớp mới của các thuật toán mã hóa, thuật toán khóa đối xứng..
+Năm 2016, Whitfield Diffie và Martin Hellman được trao Giải Turing vì những ý tưởng mật mã hóa khóa công khai và chữ ký số.
+Tiểu sử.
+Hellman tốt nghiệp Trung học Khoa học Bronx. Anh tiếp tục lấy bằng cử nhân từ Đại học New York năm 1966, và bằng thạc sĩ tại Đại học Stanford năm 1967 và bằng tiến sĩ năm 1969, tất cả đều về kỹ thuật điện. Từ năm 1968 đến năm 1969, anh làm việc tại Trung tâm nghiên cứu Watson của IBM, nơi anh gặp Horst Feistel. Từ năm 1969 đến năm 1971, anh là trợ lý giáo sư tại MIT. Anh làm giáo sư tại Stanford năm 1971, làm tại đó cho đến năm 1996 khi anh trở thành giáo sư danh dự.
+

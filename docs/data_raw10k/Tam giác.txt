@@ -1,0 +1,51 @@
+Tam giác
+
+ 
+Tam giác hay hình tam giác là một loại hình cơ bản trong hình học: hình hai chiều phẳng có ba đỉnh là ba điểm không thẳng hàng và ba cạnh là ba đoạn thẳng nối các đỉnh với nhau. Tam giác là đa giác có số cạnh ít nhất (3 cạnh). Tam giác luôn luôn là một đa giác đơn và luôn là một đa giác lồi (các góc trong luôn nhỏ hơn 180°). Một tam giác có các cạnh AB, BC và AC được ký hiệu là formula_1.
+Từ nguyên.
+Chữ Hán: 三角; nghĩa: "ba góc".
+Các yếu tố trong một tam giác.
+Các góc trong một tam giác được gọi là góc trong. Các góc kề bù với góc trong được gọi là góc ngoài. Góc ngoài thì bằng tổng các góc trong không kề bù với nó. Mỗi tam giác chỉ có 3 góc trong và 6 góc ngoài.
+Các đường đồng quy của tam giác.
+Đường cao là một đoạn thẳng đi qua một đỉnh và vuông góc với cạnh đối diện của đỉnh đó. Mỗi tam giác chỉ có ba đường cao. Ba đường cao của một tam giác đồng quy tại một điểm, điểm này được gọi là trực tâm của tam giác. Đường cao đi qua đỉnh góc vuông của một tam giác vuông thì sẽ chia tam giác ấy thành 2 tam giác đồng dạng với và cùng đồng dạng với tam giác đã cho.
+Đường trung tuyến là một đoạn thẳng nối từ đỉnh đến trung điểm của cạnh đối diện. Một tam giác chỉ có ba đường trung tuyến. Ba đường trung tuyến của một tam giác đồng quy tại một điểm, điểm này được gọi là trọng tâm của tam giác. Khoảng cách từ trọng tâm đến mỗi đỉnh bằng formula_2 đường trung tuyến tương ứng với đỉnh đó và suy ra, khoảng cách từ trọng tâm đến mỗi trung điểm bằng formula_3 đường trung tuyến tương ứng với điểm đó. Trên một mặt phẳng, đường thẳng đi qua bất kỳ một đỉnh và trọng tâm của "tam giác đều" thì chia tam giác đó thành hai tam giác có diện tích bằng nhau. Trong một tam giác, ba trung tuyến chia tam giác đó thành 6 tam giác có diện tích bằng nhau.
+Đường trung trực của một tam giác là đường vuông góc với một cạnh của tam giác đó tại trung điểm. Mỗi tam giác chỉ có ba đường trung trực. Ba đường trung trực của một tam giác đồng quy tại một điểm, điểm đó có tên gọi là tâm của đường tròn ngoại tiếp tam giác. Tâm của đường tròn ngoại tiếp tam giác cách đều ba đỉnh của tam giác đó.
+Đường phân giác là đoạn thẳng nối từ đỉnh đến cạnh đối diện và chia góc ở đỉnh làm 2 phần có số đo góc bằng nhau. Mỗi tam giác chỉ có ba đường phân giác. Ba đường này đồng quy tại một điểm. Điểm đó có tên gọi là tâm của đường tròn nội tiếp tam giác. Khoảng cách từ tâm của đường tròn nội tiếp tam giác tới các cạnh là bằng nhau. Đường phân giác đi qua một góc của một đinh tam giác thì chia cạnh đối diện của góc đó những đoạn tỉ lệ với hai cạnh còn lại của tam giác.
+Theo định lý Euler: "Trong một tam giác:" "trực tâm, trọng tâm, tâm của đường tròn ngoại tiếp tam giác cùng thuộc một đường thẳng, trọng tâm sẽ nằm giữa trực tâm và tâm của đường tròn ngoại tiếp tam giác, từ trực tâm đến tâm của đường tròn ngoại tiếp tam giác sẽ bằng 3 lần từ trọng tâm đến tâm của đường tròn ngoại tiếp tam giác. Đường thẳng chứa ba điểm đó được gọi là đường thẳng Euler."
+Sự bằng nhau giữa các tam giác.
+Hai tam giác được gọi là bằng nhau khi chúng có thể đặt trùng khít lên nhau sau một số phép tịnh tiến, quay và đối xứng. Nói cách khác hai tam giác được gọi là bằng nhau nếu chúng có các cạnh tương ứng bằng nhau và các góc tương ứng bằng nhau. Hai tam giác bằng nhau khi và chỉ khi thỏa mãn một trong bảy điều kiện sau đây:
+Sự đồng dạng giữa các tam giác.
+Hai tam giác được gọi là đồng dạng nếu một trong chúng bằng với một tam giác nhận được từ tam giác kia sau một phép vị tự. Các điều kiện cần và đủ để hai tam giác đồng dạng:
+Các tính chất của tam giác đồng dạng:
+Tỉ số đồng dạng của hai tam giác là tỷ số giữa hai cạnh tương ứng bất của hai tam giác đó khi chúng đồng dạng
+Phân loại tam giác.
+Trong hình học Euclid, thuật ngữ "tam giác" thường được hiểu là tam giác nằm trên một mặt phẳng. Ngoài ra còn có tam giác cầu trong hình học cầu, tam giác hyperbol trong hình học hyperbol. Tam giác phẳng có một số dạng đặc biệt, được xét theo tính chất các cạnh và các góc của nó:
+Một số tính chất của tam giác (trong hình học Euclid).
+Trong hình học phi Euclid thì một tam giác có thể có tổng ba góc phụ thuộc vào kích thước của tam giác, khi kích thước tam giác gia tăng thì tổng đó tiến tới giá trị là 0 và có diện tích là vô hạn.
+Các công thức tính diện tích tam giác.
+Tính diện tích tam giác là một bài toán cơ bản thường được gặp trong hình học sơ cấp.
+Bằng cách sử dụng hình học.
+Diện tích "S" bằng "½bh", trong đó "b" là độ dài của một cạnh bất kỳ của tam giác (thường gọi là "đáy") và "h" là độ dài đường cao hạ từ đỉnh đối diện xuống cạnh ấy.
+Có thể giải thích công thức này bằng cách dùng diện tích hình chữ nhật như sau:
+Từ một tam giác (màu xanh lục), ta sẽ sao một tam giác bằng nó,(màu xanh lam), quay góc 180°, và ghép chúng thành hình bình hành. Cắt một phần của hình bình hành, ghép lại thành hình chữ nhật. Vì diện tích hình chữ nhật là "bh", nên diện tích tam giác là ½"bh".
+Nói cách khác, diện tích tam giác bằng độ dài cạnh đáy nhân với chiều cao chia 2:
+Bằng phương pháp dùng tọa độ.
+Nếu đỉnh A đặt ở gốc tọa độ (0, 0) của hệ tọa độ Descartes và tọa độ của hai đỉnh kia là B = ("x"B, "y"B) và C = ("x"C, "y"C), thì diện tích "S" của tam giác ABC bằng một nửa của giá trị tuyệt đối của định thức
+Trong trường hợp tổng quát, ta có:
+Trong không gian ba chiều, diện tích của tam giác cho bởi {A = ("x"A, "y"A, "z"A), B = ("x"B, "y"B, "z"B) và C = ("x"C, "y"C, "z"C)} là tổng 'Pythagor' của các diện tích các hình chiếu của chúng trên các mặt phẳng tọa độ (nghĩa là "x"=0, "y"=0 and "z"=0):
+Áp dụng công thức Heron.
+Cũng có thể tính diện tích tam giác "S" theo Công thức Heron: formula_9
+trong đó formula_10 là nửa chu vi của tam giác.
+Những nguyên tắc cơ bản.
+Euclid đã trình bày các nguyên tắc cơ bản về tam giác trong tập 1 đến tập 4 tác phẩm Cơ sở ("Elements") của ông, viết khoảng năm 300 TCN.
+Tam giác là một đa giác và đơn hình bậc 2 ("xem đa diện").
+Hai tam giác là đồng dạng nếu có thể khai triển (co hay giãn) tam giác này theo cùng một tỷ lệ để có tam giác kia. Trường hợp này, độ dài của những bên đồng vị có tỷ lệ bằng nhau. Tức là hai tam giác đồng dạng với nhau, nếu cạnh lớn nhất của tam giác này gấp bao nhiêu lần cạnh lớn nhất của tam giác kia, thì cạnh bé nhất của tam giác này cũng gấp bấy nhiêu lần cạnh bé nhất của tam giác kia và tương tự với cạnh còn lại.
+Hơn nữa, tỷ lệ cạnh dài trên cạnh ngắn của một tam giác sẽ phải bằng tỷ lệ cạnh dài trên cạnh ngắn của tam giác kia. Điều quan trọng là những góc đồng vị phải bằng nhau để hai tam giác được đồng dạng nhau. Việc này cũng xảy ra nếu một tam giác có một cạnh chung với tam giác kia, và những cạnh đối với nó thì bằng nhau.
+Hàm lượng giác sin và cosin có thể hiểu được khi dùng tam giác vuông và khái niệm đồng dạng. Đó là hai hàm của góc được nghiên cứu bởi lượng giác học.
+Những định lý nổi tiếng được áp dụng trong tam giác.
+Một số định lý nổi tiếng có liên quan đến tam giác là:
+Các công trình kiến trúc sử dụng hình tam giác.
+Hiện nay, hình chữ nhật là một dạng hình học phổ biến và phổ biến nhất cho các công trình vì hình dạng dễ xếp chồng và sắp xếp, thật dễ dàng để thiết kế đồ nội thất và đồ đạc để phù hợp với bên trong các tòa nhà hình chữ nhật. Hình tam giác, trong khi khó sử dụng hơn về mặt khái niệm nhưng nó cung cấp rất nhiều sức mạnh cho chúng ta. Khi công nghệ máy tính giúp các kiến ​​trúc sư thiết kế các tòa nhà mới sáng tạo, hình dạng tam giác ngày càng trở nên phổ biến như là một phần của các công trình và là hình dạng chính cho một số loại nhà cao tầng cũng như các vật liệu xây dựng, đồ dùng nội thất. Năm 1989 tại Tokyo, Nhật Bản, các kiến ​​trúc sư đã tự hỏi liệu có thể xây dựng một tòa tháp với hơn 500 tầng để cung cấp không gian văn phòng giá cả phải chăng cho thành phố đông đúc như thế này hay không. Nhưng sự nguy hiểm đối với các tòa nhà từ trận động đất, các kiến ​​trúc sư cho rằng hình dạng tam giác sẽ là cần thiết, và như vậy một tòa nhà hình tam giác đã được xây dựng.
+Tại thành phố New York, khi đi qua các đại lộ lớn, ta có thể nhìn thấy nhiều các công trình lớn xây dựng theo hình lăng trụ đứng có đáy là tam giác. Ví dụ điển hình như vậy là Tòa nhà Flatiron hình tam giác mà mọi người thừa nhận có một "không gian thật không dễ để chứa đồ nội thất văn phòng hiện đại" nhưng điều đó không ngăn cản công trình trở thành một biểu tượng mang tính bước ngoặt. Các nhà thiết kế đã làm nhà ở Na Uy bằng cách sử dụng các chủ đề hình tam giác. Hình dạng tam giác cũng đã xuất hiện trong nhà thờ cũng như các tòa nhà công cộng bao gồm các trường đại học cũng như hỗ trợ cho các mẫu thiết kế nhà sáng tạo hơn nữa.
+Cấu trúc của một hình tam giác rất chắc chắn, trong khi đó cấu trúc của một hình chữ nhật có thể bị bẻ nghiêng thành hình bình hành từ áp suất đến những điểm trong nó, hình tam giác có sức mạnh tự nhiên hỗ trợ các cấu trúc chống lại các áp lực bên. Một hình tam giác sẽ không bao giờ thay đổi hình dạng trừ khi các cạnh của nó bị uốn cong, mở rộng hoặc gãy hoặc nếu các khớp của nó bị gãy. Về bản chất, mỗi một cạnh trong tam giác đều hỗ trợ cho hai cạnh còn lại. Một hình chữ nhật, ngược lại, phụ thuộc nhiều hơn vào sức mạnh của các khớp theo nghĩa cấu trúc. Một số nhà thiết kế sáng tạo đã đề xuất làm cho gạch không chỉ có hình dạng chữ nhật, và với hình dạng tam giác có thể được kết hợp theo ba chiều. Rất có khả năng các hình tam giác sẽ được sử dụng ngày càng nhiều theo những cách mới khi kiến ​​trúc tăng độ phức tạp. Điều quan trọng cần nhớ là hình tam giác rất mạnh về độ cứng, nhưng trong khi được sắp xếp theo hình tam giác sắp xếp không mạnh như hình lục giác khi bị (do đó sự phổ biến của các hình lục giác trong tự nhiên).
+

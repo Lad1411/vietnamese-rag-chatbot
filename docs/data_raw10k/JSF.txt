@@ -1,0 +1,12 @@
+JSF
+
+JSF là viết tắt của JavaServer Faces, một bản miêu tả kĩ thuật giúp đơn giản hóa việc phát triển giao diện cho các ứng dụng Web viết bằng Java bằng cách dùng các thành phần dùng lại được ("reusable components").
+JSF là một bộ khung (framework) phát triển các ứng dụng Web viết bằng Java nhằm làm đơn giản hóa quá trình phát triển giao diện người dùng cho các ứng dụng J2EE. Để tạo ra giao diện hiển thị, JSF dùng dạng cấu trúc cây của các thẻ, mỗi thẻ là một thành phần giao diện ("component") và FacesServlet servlet sẽ thực hiện công đoạn chuyển đổi ra giao diện tương ứng cho người dùng với định dạng HTML. Ngoài ra, JSF cũng có thể sử dụng các kĩ thuật hiển thị khác, như XUL. JSF bao gồm:
+Bản miêu tả kĩ thuật JSF được quy định trong JSR 127 của Quá trình Cộng đồng Java.
+Mục tiêu của JSF.
+8 mục tiêu thiết kế sau là lý do cho sự ra đời của JSF:
+Đặc điểm.
+Mô hình của JSF là mô hình xử lý hướng sự kiện giống như trong các ứng dụng GUI truyền thống, sự khác biệt là nó được áp dụng cho các ứng dụng Web.
+Các hiện thực của JSF.
+Có hai hiện thực cho JSF được biết cho đến nay:
+

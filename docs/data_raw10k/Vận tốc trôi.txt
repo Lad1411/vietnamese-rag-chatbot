@@ -1,0 +1,33 @@
+Vận tốc trôi
+
+Trong vật lý, vận tốc trôi (tiếng Anhː "drift velocity"), ký hiệu hoặc "formula_1", là vận tốc trung bình đạt được của các hạt tích điện, chẳng hạn như electron trong vật liệu dưới ảnh hưởng của điện trường. Nói chung, một electron trong dây dẫn sẽ chuyển động ngẫu nhiên với vận tốc Fermi, dẫn đến vận tốc trung bình bằng không. Tác động một điện trường vào chuyển động ngẫu nhiên này sẽ làm electron dịch chuyển có hướng, gọi là "trôi" ("drift").
+Trong kim loại.
+Hạt mang điện có tác dụng chủ yếu trong kim loại là electron (hiếm khi là lỗ trống). Trong trường hợp không có điện trường, các hạt mang điện trong một vật dẫn ở nhiệt độ phòng sẽ chuyển động nhiệt vô hướng ngẫu nhiên ở tốc độ Fermi, do đó vận tốc trung bình của chúng bằng không, không có sự tạo ra dòng điện.
+Nếu có một hiệu điện thế đặt vào vật dẫn, vật dẫn này sẽ xuất hiện điện trường, các electron tự do đang chuyển động ngẫu nhiên sẽ di chuyển có hướng ngược chiều điện trường này. Kkhi chuyển sang di chuyển cùng hướng, vì các electron có vận tốc đầu khác nhau nên chúng va chạm liên tiếp, đặc biệt là phonon (có thể mất vận tốc nếu đi theo hướng điện trường), tạo ra vận tốc mới theo hướng đó ngoài vận tốc nhiệt ngẫu nhiên và tạo ra dòng điện. Kết quả là vận tốc trôi nhỏ xác định của các electron xuất hiện, đặt chồng lên chuyển động ngẫu nhiên của các electron tự do. Mặt khác vì có vận tốc đầu nên electron sẽ có gia tốc theo phương của điện trường, làm vận tốc trôi tăng lên dần. Do vận tốc trôi này, vận tốc tổng hợp sẽ có hướng ngược chiều điện trường.
+Liên hệ với định luật Ohm.
+Trong một vật dẫn có điện trở, vận tốc trôi tỷ lệ thuận với cường độ điện trường:
+Trong đó dấu "" thể hiện sự ngược chiều điện trường, formula_3 là một hệ số tỷ lệ, là cường độ điện trường.
+Ngoài ra, vận tốc trôi cũng tỷ lệ thuận với cường độ dòng điện và phụ thuộc vào thời gian trung bình giữa hai va chạm (hằng số):
+Trong đó là khối lượng hiệu dụng của electron trong vật liệu, formula_5 là điện tích của 1 electron, thương số formula_6 là độ linh động electron, kí hiệu .
+Từ hai công thức (1) và (2), suy ra vận tốc trôi được xác định bởi công thức:
+Từ công thức (3), biết được mật độ electron có thể tính được mật độ dòng điện formula_8ː
+Từ công thức (4), có thể xác định điện trở suất ρ (hoặc độ dẫn σ) bằng công thức: formula_10
+Thay vào (4), ta có công thức formula_11 (5)
+Phương trình (5) chính là một cách thể hiện khác của Định luật Ohm viết bởi Gustav Kirchhoff. Trong hệ đơn vị MKS, đơn vị của các đại lượng , và lần lượt là m/s, m2/(V·s) và V/m.
+Công thức khác.
+Công thức tính vận tốc trôi của các hạt mang điện trong vật dẫn có tiết diện không đổi như sau:
+Trong đó là vận tốc trôi của các electron, là mật độ dòng điện chạy qua vật dẫn, là mật độ hạt mang điện tích và là điện tích trên số hạt mang điện.
+Công thức này cũng có thể được viết là:
+Nhưng mật độ dòng điện và vận tốc trôi trên thực tế là các vectơ, vì vậy mối quan hệ này thường được viết là:
+Trong đóː
+là mật độ điện tích thể tích (đơn vị SI: coulomb trên mét khối).
+Xét về các tính chất cơ bản của dây dẫn kim loại hình trụ thẳng, trong đó các hạt mang điện là electron, biểu thức này có thể được viết lại thành:
+Trong đóː
+Ví dụ cụ thể.
+Điện được truyền phổ biến nhất trong dây đồng. Đồng có khối lượng riêng 8,94 g/cm³ và khối lượng nguyên tử là 63,546 g/mol, tương đương 140685,5 mol/m³. Trong một mol của bất kỳ nguyên tố nào cũng có 6,023 × 1023 nguyên tử (số Avogadro). Do đó, trong 1 m³ đồng có khoảng 8,5 × 1028 nguyên tử (6,02 × 1023 × 140685,5 mol/m³). Mỗi nguyên tử đồng cung cấp một electron tự do (electron dẫn), vì vậy bằng 8,5 × 1028 electron/m³.
+Giả sử cường độ dòng điện và đường kính 2 mm (bán kính = 0,001 m). Dây này có tiết diện là × (0,001 m)2 = 3,14 × 10−6 m2 = 3,14 mm2. Điện tích của một electron là = -1,6 × 10−19 C. Vận tốc trôi do đó được tính như sau:
+Phân tích thứ nguyên:
+formula_18
+Do đó, trong dây này các electron đang dịch chuyển với tốc độ . Trong trường hợp dòng điện xoay chiều 60 Hz, điều này có nghĩa là trong vòng nửa chu kỳ, độ dời của các electron nhỏ hơn 0,2 m. Nói cách khác, các electron dịch chuyển qua điểm tiếp xúc trong một công tắc sẽ không bao giờ thực sự rời khỏi công tắc.
+Để so sánh, vận tốc Fermi của các electron này (vận tốc trong điều kiện nhiệt độ phòng có thể được coi là vận tốc gần đúng của chúng khi không có dòng điện) là khoảng .
+

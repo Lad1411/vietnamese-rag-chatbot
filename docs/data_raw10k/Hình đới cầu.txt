@@ -1,0 +1,22 @@
+Hình đới cầu
+
+Trong hình học không gian, hình đới cầu, khối đới cầu hay, cầu đài, cầu phân (spherical segment), là một phần của khối cầu đặc, xác định bằng cách cắt khối cầu bởi hai mặt phẳng song song. Phần bề mặt cong của nó gọi là mặt đới cầu.
+Thể tích của hình đới cầu bằng:
+với formula_2 là bán kính của hai hình tròn giới hạn (mặt phẳng đáy và mặt phẳng đỉnh của hình đới cầu) và formula_3 là chiều cao của nó.
+Diện tích của "mặt đới cầu" bằng:
+và tổng diện tích bề mặt hình đới cầu (hai mặt phẳng đáy và đỉnh và mặt đới cầu):
+Từ các dữ liệu formula_6 của hình đới cầu, bán kính của mặt cầu bao hình đới cầu bằng:
+Chứng minh công thức.
+Thể tích của hình đới cầu bằng thể tích của hình chỏm cầu (spherical cap) lớn formula_8 (có đáy là mặt phẳng đáy của hình đới cầu), trừ đi thể tích của hình chỏm cầu formula_9 (có đáy là mặt phẳng đỉnh của hình đới cầu). Đặt formula_10 là chiều cao của formula_8 và formula_12 là chiều cao của formula_9. 
+Thể tích.
+Thể tích của các hình chỏm cầu lần lượt bằng formula_14 (xem hình chỏm cầu). Do vậy
+Với mối liên hệ formula_17 (xem bài hình chỏm cầu) thu được
+Vì formula_20 nên suy ra công thức thể tích:
+formula_1.
+Diện tích mặt đới cầu.
+Với "diện tích mặt đới cầu" chứng minh tương tự
+Bán kính mặt cầu.
+Để chứng minh mối quan hệ giữa formula_23 và formula_24 là khoảng cách từ mặt phẳng đáy đến tâm hình cầu formula_25. Do vậy 
+Đặt hai phương trình bằng nhau và thay thế formula_24, với formula_28 
+Quay trở lại phương trình (1) có 
+

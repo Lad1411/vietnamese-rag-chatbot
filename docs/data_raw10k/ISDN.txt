@@ -1,0 +1,17 @@
+ISDN
+
+Trong lĩnh vực viễn thông, ISDN ("Integrated Services Digital Network"-Mạng số tích hợp đa dịch vụ) là công nghệ băng hẹp được sử dụng rộng rãi, cho phép truyền dữ liệu số hóa từ một hệ thống cuối (máy chủ) gia đình qua đường điện thoại ISDN tới một công ty điện thoại. Ban đầu, ISDN ra đời vào năm 1976 được thiết kế cho việc truyền dữ liệu số giữa hai đầu của một hệ thống điện thoại, nó còn là một công nghệ mạng quan trọng cho phép truy nhập tốc độ cao (ví dụ 128 Kbps) từ nhà tới một mạng dữ liệu (ví dụ Internet).
+Nhược điểm của công nghệ là chỉ truyền dịch vụ thoại và chuyển mạch gói tốc độ thấp. Nó không thích hợp cho chuyển mạch gói tốc độ cao và thời gian chiếm giữ lâu dài.
+Kiến trúc giao thức.
+Từ quan điểm của tiêu chuẩn OSI, pin ISDN bao gồm ba giao thức:
+Từ quan điểm của giao diện với người dùng, các giao thức cho tương tác mạng người dùng và các giao thức cho tương tác người dùng-người dùng được bao gồm trên lớp mạng.
+Trong ngữ cảnh của mô hình OSI, các giao thức được xác định hoặc được tham chiếu trong ISDN. Vì ISDN về cơ bản không khác biệt với các lớp người dùng từ 4 đến 7, nên chỉ truy cập các lớp từ 1 đến 3. Lớp 1, được định nghĩa trong I.430 và I.431, chỉ định giao diện vật lý cho cả truy cập cơ bản là chính.
+Sự khác biệt với mô hình OSI là:
+Nhiều giao thức liên quan đến nhau.
+Cuộc gọi đa phương tiện.
+Kết nối đa điểm.
+Đối với kênh D, chuẩn hóa lớp liên kết dữ liệu mới đã được xác định, LAPD (thủ tục truy cập liên kết trên kênh D), giao thức của lớp liên kết ISDN xuất phát từ LAP-B (thủ tục truy cập liên kết, cân bằng). Tiêu chuẩn hóa này dựa trên HDLC, được sửa đổi để đáp ứng các yêu cầu của ISDN. Tất cả truyền trên kênh D xảy ra ở dạng khung LAPD được tăng giữa thiết bị thuê bao và phần tử chuyển mạch ISDN. Ba ứng dụng được xem xét: báo hiệu điều khiển, chuyển mạch gói và đo từ xa.
+Kênh B có thể được sử dụng để chuyển mạch, mạch bán cố định và chuyển mạch gói. Đối với chuyển mạch, một mạch được xây dựng trên kênh B theo yêu cầu.
+Mạch bán cố định là mạch kênh B đã được thiết lập thỏa thuận trước giữa người dùng được kết nối và mạng. Cả kết nối chuyển mạch và mạch bán cố định, các trạm được kết nối trao đổi thông tin như thể một liên kết trực tiếp song công hoàn toàn đã được thiết lập.
+Trong trường hợp chuyển mạch gói, kết nối chuyển mạch được thiết lập trên kênh B giữa người dùng và nút chuyển gói bằng giao thức kênh D.
+

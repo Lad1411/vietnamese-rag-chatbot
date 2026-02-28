@@ -1,0 +1,26 @@
+JSON
+
+JavaScript Object Notation (thường được viết tắt là JSON) là một kiểu dữ liệu mở trong JavaScript. Kiểu dữ liệu này bao gồm chủ yếu là văn bản, có thể đọc được theo dạng cặp "thuộc tính - giá trị". Về cấu trúc, nó mô tả một vật thể bằng cách bọc những vật thể con trong vật thể lớn hơn trong dấu ngoặc nhọn ({ }). JSON là một kiểu dữ liệu trung gian, chủ yếu được dùng để vận chuyển thông tin giữa các thành phần của một chương trình.
+Ví dụ.
+ "name":"Product",
+ "properties":
+ "id":
+ "type":"number",
+ "description":"Product identifier",
+ "required":true 
+ "name": 
+ "description":"Name of the product", 
+ "type":"string", 
+ "required":true 
+ },
+ "price": 
+ "type":"number",
+ "minimum":0, 
+ "required":true 
+ }, 
+ "tags": 
+ "type":"array", 
+ "items": 
+ "type":"string" 
+ } 
+

@@ -1,0 +1,6 @@
+Multicast
+
+Trong lĩnh vực mạng máy tính, multicast là cách thức truyền tin được gửi từ một điểm đến một tập hợp các điểm khác, và do đó là một hình thức kết nối đa điểm. Kỹ thuật này được sử dụng theo mô hình OSI trong tầng mạng. Lợi thế của nó là cùng một lúc thông điệp được gởi tới nhiều người tham gia hoặc tới một nhóm người sử dụng kín. Máy gửi chỉ cần tốc độ truyền tải dữ liệu giống như khi chỉ có một máy nhận duy nhất trong khi multicasting. Multicast hữu ích nếu một nhóm khách hàng yêu cầu một bộ dữ liệu chung cùng một lúc. Việc truyền tin Multicast sẽ tiết kiệm băng thông một cách đáng kể.
+Sự khác biệt với broadcast là các nội dung khi broadcast được phân phối, với máy nhận thích hợp ai cũng có thể xem, trong khi với multicast việc đăng ký trước với máy phát là cần thiết.
+Một hình thức đặc biệt của multicast là "geocast", trong đó chỉ gửi trong một khu vực không gian giới hạn.
+

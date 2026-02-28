@@ -2,6 +2,7 @@ from langchain_community.retrievers import BM25Retriever
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 load_dotenv()
 
@@ -39,7 +40,13 @@ def create_vector_db(chunks, db_dir='../vector_db', embed_model = '/home/lad/AI/
         collection_metadata={"hnsw:space": "cosine"}
     )
 
-    vector_store.add_documents(chunks)
+    batch_size = 5000
+    total_chunks = len(chunks)
+    progressbar = tqdm(range(0, total_chunks, batch_size), desc="Ingesting to ChromaDB")
+
+    for i in progressbar:
+        batch_chunks = chunks[i: (i+batch_size)]
+        vector_store.add_documents(batch_chunks)
     return vector_store
 
 

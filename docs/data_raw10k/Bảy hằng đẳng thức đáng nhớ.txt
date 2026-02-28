@@ -1,0 +1,5 @@
+Bảy hằng đẳng thức đáng nhớ
+
+Trong toán học sơ cấp, bảy hằng đẳng thức đáng nhớ là những đẳng thức cơ bản nhất mà mỗi người học toán cần phải nắm vững. Các đẳng thức được chứng minh bằng phép nhân đa thức với đa thức. Các hàng đẳng thức này nằm trong nhóm các hàng đẳng thức đại số cơ bản, bên cạnh nhiều hàng đẳng thức khác.
+Những đẳng thức này được sử dụng thường xuyên trong các bài toán liên quan đến giải phương trình, nhân chia các đa thức, biến đổi biểu thức tại cấp học THCS và THPT. Học thuộc bảy hằng đẳng thức đáng nhớ giúp giải nhanh những bài toán phân tích đa thức thành nhân tử. Trong những hằng đẳng thức này, 1 bên dấu bằng là tổng hoặc hiệu và bên còn lại là tích hoặc lũy thừa. Bảy hằng đẳng thức đáng nhớ được in trong sách giáo khoa bậc THCS ở Việt Nam và được in rất nhiều trong bìa sau của vở viết cấp THCS hoặc cấp THPT của học sinh. Ở các quốc gia khác trên thế giới, tùy theo mỗi nước, các hằng đẳng thức này xuất hiện trong chương trình Toán trung học thường là ở lớp 7, 8, 9.
+

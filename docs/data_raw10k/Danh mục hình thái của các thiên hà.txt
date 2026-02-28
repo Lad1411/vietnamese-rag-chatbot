@@ -1,0 +1,4 @@
+Danh mục hình thái của các thiên hà
+
+Danh mục hình thái của các thiên hà (MCG) hoặc Morfologiceskij Katalog Galaktik, là một danh mục tiếng Nga gồm 30.642 thiên hà được biên soạn bởi Boris Vorontsov-Velyaminov và VP Arkhipova. Nó dựa trên những nghiên cứu kỹ lưỡng các bản in của các tấm Khảo sát bầu trời Palomar, và hoàn thành với độ lớn 15 ảnh. Danh mục này bao gồm các thiên hà có cường độ 16 nên nó có bộ dữ liệu lớn không thể kiểm soát được. Danh mục đã được xuất bản thành năm phần (chương) trong khoảng thời gian từ 1962 đến 1974, chương cuối cùng bao gồm một số thiên hà nhất định có độ lớn hình ảnh trên 15.
+

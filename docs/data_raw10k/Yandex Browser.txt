@@ -1,0 +1,17 @@
+Yandex Browser
+
+Yandex Browser là một trình duyệt web freeware được phát triển bởi công ty tìm kiếm trên web của Nga Yandex sử dụng công cụ trình duyệt web Blink và dựa trên dự án nguồn mở Chromium. Trình duyệt kiểm tra bảo mật trang web bằng hệ thống bảo mật Yandex và kiểm tra các tệp đã tải xuống bằng phần mềm diệt virus Kaspersky. Trình duyệt cũng sử dụng công nghệ Turbo của Opera Software để tăng tốc độ duyệt web trên các kết nối chậm.
+Trình duyệt có sẵn cho Windows, macOS, Android và iOS. Vào tháng 10 năm 2014, phiên bản beta Linux đã được giới thiệu.
+Yandex đang đối mặt với cạnh tranh tìm kiếm trên web ở Nga với Google Search. Google Chrome, Trình duyệt web phổ biến nhất của Nga, sử dụng Google Search làm công cụ tìm kiếm mặc định của nó. Vào tháng 6 năm 2012, Mozilla Firefox, trình duyệt web phổ biến thứ ba trên thế giới, đã ký một thỏa thuận để thay thế công cụ tìm kiếm mặc định của nó là Yandex Search với Google Search. Khi "Smartbox" của Yandex Browser sử dụng Yandex Search làm công cụ tìm kiếm mặc định của nó, trình duyệt sẽ giúp Yandex cạnh tranh để giành thị phần tìm kiếm của Nga.
+Tính năng khác biệt.
+Các tính năng phân biệt của Trình duyệt Yandex bao gồm các tính năng sau:
+Bảo mật.
+Bảo vệ giả mạo DNS.
+Công nghệ bảo mật hoạt động quét các tệp và trang web cho vi-rút, chặn các trang web gian lận, bảo vệ mật khẩu và chi tiết thẻ ngân hàng và giữ thanh toán trực tuyến an toàn khỏi hành vi trộm cắp.
+DNSCrypt.
+Trình duyệt đầu tiên trên thế giới có hỗ trợ công nghệ DNSCrypt. Mã hóa Hệ thống tên miền (DNS). Ví dụ, nó bảo vệ khỏi trojan DNSChanger, nhà cung cấp dịch vụ theo dõi Internet hoặc tin tặc. Tùy chọn này phải được bật trong cài đặt trình duyệt.
+Bảo vệ Wi-Fi.
+Khi kết nối để mở mạng Wi-Fi hoặc tới các điểm sử dụng tính năng bảo vệ WEP yếu, Trình duyệt Yandex sẽ tự động mã hóa lưu lượng giữa các mạng đó và các trang web HTTP.
+Thị phần.
+Theo phân tích của Liveinternet.ru, Yandex Browser đã đạt 2,3% thị phần tại Nga sau 2 tháng phát hành. Tính đến tháng 11 năm 2016, Trình duyệt Yandex dành cho máy tính đã đạt 19,1% và 4.9% trên thiết bị di động ở Nga.
+

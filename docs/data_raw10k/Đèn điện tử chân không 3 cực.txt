@@ -1,0 +1,7 @@
+Đèn điện tử chân không 3 cực
+
+Đèn điện tử chân không 3 cực hay còn gọi với cái tên triode, đây là thế hệ đèn điện tử chân không tiếp theo đèn diode. So với đèn diode chỉ có tính chỉnh lưu, thì loại đèn này có thể thực hiện được nhiều chức năng giống như transistor.
+Cái tên "triode" được đặt ra bởi nhà vật lý người Anh William Eccles vào khoảng năm 1920, bắt nguồn từ tiếng Hy Lạp τρίοδος, tríodos, từ tri- (ba) và Hodos (đường, chiều), ban đầu có nghĩa là nơi mà ba đường giao nhau.
+Lịch sử.
+Ống chân không đầu tiên được sử dụng trong vô tuyến điện là diode nhiệt hoặc van Fleming, do John Ambrose Fleming phát minh vào năm 1904 như một máy dò cho máy thu thanh. Đó là một bóng đèn thủy tinh đã được hút hết không khí có chứa hai điện cực, sợi dây tóc đốt nóng và một tấm (cực dương). Triode xuất hiện vào năm 1906 khi kỹ sư người Mỹ Lee De Forest và nhà vật lý người Áo Robert von Lieben đã cấp bằng độc lập các ống đã thêm vào một điện cực thứ ba, một lưới điện giữa dây tóc và tấm để điều khiển dòng điện. Ống ba phần được tản nhiệt một phần của von Lieben, được cấp bằng sáng chế vào tháng 3 năm 1906, chứa một dấu vết của hơi thủy ngân và nhằm khuếch đại các tín hiệu điện thoại yếu. De Forest đã cấp bằng sáng chế cho một số thiết kế ống ba thành phần bằng cách thêm một điện cực vào diode, mà ông gọi là Audions, dự định được sử dụng làm thiết bị phát hiện sóng vô tuyến điện.
+

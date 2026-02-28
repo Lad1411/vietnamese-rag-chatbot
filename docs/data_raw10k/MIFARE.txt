@@ -1,0 +1,100 @@
+MIFARE
+
+MIFARE là thương hiệu sở hữu bởi NXP Semiconductors gồm hàng loạt các chip được sử dụng rộng rãi trong ứng dụng làm thẻ thông minh và thẻ cảm ứng. Theo các nhà sản xuất, hàng tỷ chip thẻ thông minh và nhiều triệu module đọc đã được bán ra. Công nghệ này được sở hữu bởi NXP Semiconductors (sáng kiến từ Philips Electronics vào năm 2006) có trụ sở tại Eindhoven, Hà Lan, và các điểm kinh doanh chính tại Nijmegen, Hà Lan và Hamburg, Đức.
+- MIFARE với công nghệ độc quyền theo tiêu chuẩn ISO / IEC 14443 Loại A 13,56 MHz, là thẻ thông minh không tiếp xúc tiêu chuẩn.
+Các phiên bản.
+- Công nghệ này được thể hiện trong cả hai thẻ và đầu đọc
+- Tên MIFARE có nguồn gốc từ tên MIkron FARE Collection System bao gồm bảy loại khác nhau của thẻ không tiếp xúc: thẻ MIFARE CLASIC (thẻ MIFARE cổ điển), thẻ MIFARE siêu nhẹ, thẻ MIFARE DESFire, thẻ MIFARE DESFire EV1(Trước đây gọi là DESFire8), thẻ MIFARE DESFire EV2, thẻ MIFARE Plus, thẻ MIFARE SAM AV2,
+Thẻ MIFARE CLASIC (thẻ MIFARE cổ điển).
+- Sử dụng một giao thức độc quyền tương thích với các bộ phận (nhưng không phải tất cả) theo tiêu chuẩn ISO / IEC 14.443-3 loại A, với NXP giao thức bảo mật độc quyền để xác thực và mã khối.
+- Thẻ MiFARE CLASIC là thẻ thông minh không tiếp xúc thông dụng nhất phù hợp cho các ứng dụng như: kiểm soát ra vào, thanh toán bằng thẻ, các ứng dụng thanh toán trong công ty hoặc trường học, vé xe công cộng, thẻ khách hàng thân thiết... Với kích thước bằng thẻ tín dụng thông thường.
+- MiFARE CLASIC gồm hai loại bộ nhớ 1K và 4K
+- Dữ liệu được bảo vệ bởi Key A và B
+- Tính năng đọc/ghi thông tin lên thẻ, tốc độ dưới 10% giây
+- Tuổi thọ của chíp lên tới 100.000 lần đọc/ghi
+- Công nghệ ổn định đã được sử dụng rộng rãi – biên độ đọc ổn định
+- Ứng dụng kiểm soát ra vào, vé thu phí, thẻ tích điểm, ghi thông tin
+- Kích thước bằng thẻ tín dụng tiêu chuẩn (85.6mm x 56mm x 0.78mm)
+- Có thể in hình ảnh trực tiếp lên thẻ
+MIFARE siêu nhẹ.
+- IC chi phí thấp mà sử dụng một giao thức độc quyền phù hợp tiêu chuẩn ISO]] / IEC 14.443-3 Loại A.
+- MIFARE siêu nhẹ là thẻ thông minh không tiếp xúc 13.56 MHz, dung lượng bộ nhớ 512 bits với chi phí thấp nhất.
+- Bộ nhớ 512 bits, phiên bản siêu nhẹ C hỗ trợ Triple DES
+-Ứng dụng làm vé sử dụng một lần, thẻ khách hàng thân thiết, thẻ vé xe công cộng với chi phí thấp.
+- Bộ nhớ 512 bits
+- Tính năng đọc/ghi thông tin lên thẻ, tốc độ dưới 10% giây
+- Tuổi thọ của chíp lên tới 100.000 lần đọc/ghi
+- Công nghệ ổn định đã được sử dụng rộng rãi – biên độ đọc ổn định
+- Ứng dụng kiểm soát ra vào, vé thu phí, thẻ tích điểm, ghi thông tin
+- Kích thước bằng thẻ tín dụng tiêu chuẩn (85.6mm x 56mm x 0.78mm)
+- Có thể in hình ảnh trực tiếp lên thẻ
+MIFARE DESFire.
+- Là thẻ thông minh theo đúng quy định tiêu chuẩn ISO / IEC 14.443-4 loại A với một hệ điều hành mặt nạ-ROM từ NXP.
+- MIFARE DESFire là thẻ thông minh không tiếp xúc 13.56Mhz, độ bảo mật cao phù hợp với các ứng dụng ví điện tử.
+- Tương thích với chuẩn ISO/IEC 14443A (từ 1-4)
+- Hỗ trợ các thuật toán bảo mật 2KTDES, 3KTDES
+- Với Mifare EV1 hỗ trợ bảo mật AES128
+- Dụng lượng 2K, 4K và 8K
+MIFARE DESFire EV1(Trước đây gọi là DESFire8).
+- Bao gồm mã hóa AES.
+- Phát triển mới của thẻ MIFARE DESFire có sẵn dung lượng 2 KB, 4 KB và 8 KB.
+- Các tính năng khác bao gồm:
+- Hỗ trợ cho các ID ngẫu nhiên
+- Hỗ trợ 128-bit AES
+- Phần cứng và hệ điều hành là tiêu chuẩn chung được chứng nhận ở cấp EAL 4 +
+- MIFARE DESFire EV1 đã được công bố công khai trong tháng 11 năm 2006
+MIFARE DESFire EV2.
+- Bao gồm MIsmartApp, giao dịch MAC, ứng dụng không giới hạn
+- Phát triển mới của thẻ MIFARE DESFire, rộng tương thích ngược
+- Các tính năng mới bao gồm:
+- MIsmartApp cho phép cung cấp hoặc bán không gian bộ nhớ cho các ứng dụng bổ sung của bên thứ 3 mà không cần phải chia sẻ khóa bí mật
+- Giao dịch MAC để xác thực các giao dịch của các bên thứ 3
+- Kiến trúc thẻ ảo để bảo vệ sự riêng tư
+- Agains kiểm tra gần chuyển tiếp các cuộc tấn công
+- MIFARE DESFire EV2 đã được công bố công khai trong tháng 11 năm 2013
+Thẻ MIFARE Plus.
+- Thay thế cho MIFARE CLASIC với mức độ bảo mật được chứng nhận (AES 128 cơ bản)
+- MIFARE Plus là một thẻ thay thế cho MIFARE cổ điển. Nó cung cấp một cơ sở hạ tầng nâng cấp dễ dàng với độ bảo mật cao. Quản lý dữ liệu giống hệt với MIFARE cổ điển, tuy nhiên việc quản lý an ninh đòi hỏi việc sửa đổi các cơ sở được người dùng cài đặt.
+- Các tính năng khác bao gồm:
+- Bộ nhớ: 2 Kbytes hoặc 4 Kbytes
+- 7 hoặc 4 byte UID, với sự hỗ trợ tùy chọn cho UID ngẫu nhiên
+- Hỗ trợ 128-bit AES
+- Tiêu chuẩn chung đượcchứng nhận ở cấp EAL 4 +
+- An ninh nâng cấp
+- Ít linh hoạt hơn MIFARE DESFire EV1.
+- MIFARE Plus được công bố công khai tháng 3 năm 2008 với mẫu đầu tiên trong quý 1 năm 2009.
+- MIFARE Plus khi được sử dụng trong hệ thống giao thông cũ mà chưa hỗ trợ AES từ phía đầu đọc vẫn có thể bị tấn công.
+MIFARE SAM AV2.
+- Mô-đun bảo mật truy cập cung cấp lưu trữ an toàn các khóa mật mã và chức năng mã hóa
+- MIFARE SAM AV2 là thẻ thông minh không tiếp xúc. MIFARE SAM có sẵn từ NXP trong số liên lạc chỉ sốmô-đun (PCM 1.1) theo quy định tại tiêu chuẩn ISO / IEC 7816-2 và định dạng HVQFN32
+- Các tính năng chính:
+- Tương thích với các giải pháp danh mục đầu tư MIFARE
+- Hỗ trợ MIFARE, 3DES và AES mã hóa
+- Đa dạng hóa phím
+- Tải về an toàn và lưu trữ các phím
+- ISO / IEC 7816 tốc độ truyền lên đến 1,5 Mbit / s
+Lịch sử.
+1994 – Giới thiệu công nghệ thẻ MIFARE 1k tiếp xúc
+1996 - Chương trình giao thông đầu tiên tại Seoul sử dụng thẻ MIFARE cổ điển 1k.
+1997 – Giới thiệu thẻ MIFARE PRO với Triple DES coprocessor
+1999 - Giới thiệu thẻ MIFARE PROX với PKI coprocessor
+2001 - Giới thiệu thẻ MIFARE siêu nhẹ
+2002 - Giới thiệu thẻ MIFARE DESFire và sản phẩm bộ vi xử lý cơ bản
+2004 - Giới thiệu thẻ MIFARE DESFire SAM, đối tác cơ sở hạ tầng an toàn của MIFARE DESFire.
+2006 - MIFARE DESFire EV1 được công bố là sản phẩm đầu tiên hỗ trợ 128-bit AES
+2008 - MIFARE Plus được công bố như một sự thay cho MIFARE cổ điển dựa trên 128-bit AES
+2008 - MIFARE siêu nhẹ C được giới thiệu như paperticket IC gồm Triple DES xác thực
+2010 - MIFARE SAM AV2 được giới thiệu như là lưu trữ khóa an toàn cho người đọc AES, Triple DES, PKI xác thực
+2012 – Giới thiệu MIFARE siêu nhẹ EV1, tương thích ngược với MIFARE siêu nhẹ
+2013 - MIFARE DESFire EV2 được công bố với cải thiện hiệu suất, bảo mật và riêng tư và hỗ trợ đa ứng dụng
+Ứng dụng tiêu biểu:
+Hệ thống thẻ đa năng tại Trường Đại học Kinh doanh và Công nghệ - Hà Nội
+Hệ thống thẻ quản lý nhà ăn tại nhà máy Nokia
+Hệ thống thanh toán tại nhà ăn tại làng FPT
+Tham khảo.
+Mafire 
+Mifare
+file PDF về Mifare
+Các loại thẻ Mifare
+Team Mifare
+

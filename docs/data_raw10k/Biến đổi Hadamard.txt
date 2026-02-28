@@ -1,0 +1,28 @@
+Biến đổi Hadamard
+
+Biến đổi Hadamard (Hay còn được gọi là Biến đổi Walsh–Hadamard, Biến đổi Hadamard–Rademacher–Walsh, Biến đổi Walsh , hay Biến đổi Walsh–Fourier) là một kiểu đặc biệt của Biến đổi Fourier. Biến đổi này thực hiện một phép tính trực giao, đối xứng, luỹ thừa, tuyến tính trên formula_1 số thực (có thể áp dụng trên cả số phức, mặc dù ma trận Hadamard là thuần số thực).
+Biến đổi Hadamard được xây dựng trên phép Biến đổi Fourier rời rạc (DFT) 2 chiều, và tương đương với một biến đổi Fourier rời rạc nhiều chiều với kích thước formula_2. Nó phân tích một vector đầu vào bất kì thành một dạng chồng chập của các hàm Walsh.
+Biến đổi này được đặt tên theo tên của nhà toán học người Pháp Jacques Hadamard, nhà toán học người Mỹ gốc Đức Hans Rademacher, và nhà toán học người Mỹ Joseph Leonard Walsh. 
+Định nghĩa.
+Biến đổi Hadamard "H""m" là một ma trận 2"m" × 2"m", Ma trận Hadamard biến đổi 2"m" số thực "x""n" thành 2"m" số thực "X""k". Biến đổi Hadamard có thể biểu diễn bằng hai cách: đệ quy hoặc biểu diễn nhị phân của "n" và "k".
+Đối với cách biểu diễn bằng đệ quy, ta gán cho phép biến đổi Hadamard cỡ 1 × 1 ("H"0) một giá trị khởi tạo "H"0 = 1, từ đó tính tiếp "H""m" với "m" &gt; 0 theo cách sau:
+trong đó 1/√2 là giá trị chuẩn hoá, trong nhiều trường hợp có thể lược bỏ. Do đó, ngoài những giá trị chuẩn hoá, toàn bộ ma trận Hadamard được lấp đầy bởi các giá trị 1 và −1.
+Tương đương với cách biểu diễn bằng đệ quy, trong cách biểu diễn nhị phân, ta biểu diễn ma trận Hadamard bằng các phần tử thứ ("k", "n") của nó theo cách sau:
+và
+trong đó "k""j" và "n""j" là những chữ số trong biểu diễn nhị phân (0 hoặc 1) của "k" và "n". Một điều cần lưu ý rằng với phần tử ở góc trên cùng bên trái, chúng ta gán: formula_6. Trong trường hợp này, ta có:
+Chúng ta có thể coi đây là một phép biến đổi Fourier rời rạc nhiều chiều kích thước formula_8, được chuẩn hoá thành đồng nhất, nếu đầu ra và đầu vào được coi như mảng nhiều chiều với các vị trí được đánh dấu bởi "n""j" và "k""j".
+Sau đây là một số ví dụ về ma trận Hadamard:
+trong đó formula_11 là tích chấm (tích vô hướng) của các biểu diễn nhị phân của i và j. Ví dụ, nếu formula_12, ta có: formula_13, đúng với những gì ở trên (bỏ qua hằng số toàn cục). Chú ý rằng hàng đầu và cột đầu của ma trận được ký hiệu bởi formula_14.
+Các hàng trong ma trận Hadamard chính là những hàm Walsh.
+Ứng dụng trong điện toán lượng tử.
+Trong lĩnh vực xử lý thông tin lượng tử, phép biến đổi Hadamard, thường được gọi là cổng Hadamard, là phép quay một qubit, ánh xạ trạng thái qubit cơ bản formula_15 và formula_16 thành hai trạng thái chồng chập với hệ số của các trạng thái cơ bản formula_15 và formula_16 bằng nhau. Pha thường được chọn sao cho ta có
+trong ký pháp Dirac. Điều này tương tự như phép biến đổi ma trận
+với cơ sở formula_21.
+Rất nhiều thuật toán lượng tử sử dụng biến đổi Hadamard trong bước khởi tạo nếu nó cần ánh xạ "n" qubits với giá trị ban đầu là formula_22 thành một trạng thái chồng chập của tất cả 2"n" trạng thái trực giao của các cơ sở formula_23 vơi hệ số bằng nhau.
+Hoạt động của cổng Hadamard.
+Khi áp dụng cổng Hadamard, một qubit đang ở trạng thái 0 hoặc 1 sẽ bị chuyển về một trạng thái chồng chập mà khi đo đạc sẽ bị chuyển về một trong hai trạng thái 0 hoặc 1 với xác suất của hai trạng thái bằng nhau (chúng ta có thể dễ dàng nhận thấy ở hai phép tính đầu tiên). Trạng thái này giống như ta gieo một đồng xu hai mặt chuẩn. Tuy nhiên, nếu cổng Hadamard được áp dụng thành công 2 lần (2 lần áp dụng đều có hiệu lực, không gặp trục trặc trong kĩ thuật) thì trạng thái cuối cùng luôn luôn giống trạng thái khởi điểm. Việc này có thể tưởng tượng giống như việc lấy một đồng xu đang ở mặt ngửa, lật hai lần, và nó luôn quay về trạng thái ngửa sau lần lật thứ hai.
+Độ phức tạp tính toán.
+Phép biển đổi Hadamard có thể được thực hiện trong "n" log "n" phép toán ("n" = 2"m") bằng cách sử dụng thuật toán biến đổi Hadamard nhanh.
+Những ứng dụng khác.
+Biến đổi Hadamard cũng được dùng trong mã hoá dữ liệu, cũng như nhiều thuật toán xử lý tín hiệu và nén dữ liệu như JPEG XR và H.264/MPEG-4 AVC. Trong các ứng dụng liên quan đến nén video, nó được dùng như một cách để tính tổng lượng sai lệch chuyển đổi tuyệt đối (SATD - Sum of Absolute Transformed Differences). Biến đổi Hadamard cũng là một phần trọng yếu trong thuật toán Grover và thuật toán Shor trong điện toán lượng tử.
+

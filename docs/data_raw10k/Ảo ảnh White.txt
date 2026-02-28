@@ -1,0 +1,13 @@
+Ảo ảnh White
+
+Ảo ảnh màu trắng là một ảo giác về độ sáng khi một phần của những sọc đen và trắng được thay thế bằng các thanh chữ nhật màu xám (xem hình 1). Cả hai thanh chữ nhật A và B đều có cùng một màu và độ mờ. Độ sáng của thanh màu xám sẽ chuyển sang độ sáng của hai sọc cùng màu ở trên và dưới của nó. Điều này trái ngược rõ ràng với sự ức chế bên bởi vì nó không thể giải thích cho hiện tượng này. Một ảo ảnh tương tự xảy ra khi các sọc ngang có nhiều màu sắc khác nhau, được gọi là ảo ảnh Munker-White hay ảo giác Munker.
+Ức chế bên.
+Lượng phản ứng của tế bào lưỡng cực phụ thuộc vào lượng kích thích mà nó nhận được từ thụ thể và lượng phản ứng này sẽ bị giảm bởi sự ức chế bên mà nó nhận được từ những tế bào lân cận.
+Sự ức chế bên không thể giải thích ảo ảnh White. Trong hình 2.1, sự ức chế bên được gửi bởi các điểm màu đen A và C sẽ làm cho điểm O sáng màu hơn, trong khi ở hình 2.2, sự ức chế bên bởi các điểm A và C làm cho điểm O trở nên sẫm màu hơn; mặc dù cả hai điểm O đều mang cùng một màu. Đó là sự cảm ứng độ sáng xảy ra sau sự tương phản độ sáng theo hướng của thanh màu chứ không phải khu vực xung quanh.
+Giải thích.
+Trong hình 2.1, giả định rằng điểm sáng B và D tạo ra một phản ứng 100 đơn vị. Vì các điểm A và C tối hơn nên chỉ có 20 đơn vị được tạo ra từ những điểm này. Giả thiết khác, sự ức chế bên được gửi bởi mỗi điểm chiếm 10% phản ứng của nó; do đó, B và D sẽ gửi một ức chế 10 đơn vị, trong khi A và C là 2 đơn vị. Sự ức chế được gửi bởi các điểm A và C lớn hơn vì kích thước của chúng lớn hơn của B và D (giả sử 2 lần). Điều này kết luận rằng O sẽ nhận được một sự ức chế I = 10 + 10 + 2 × 2 + 2 × 2 = 28.
+Ở hình 2.2 cũng với các giả thiết như trên, ức chế I của O sẽ bằng 10 × 2 + 10 × 2 + 2 + 2 = 44.
+Bởi vì điểm O trong hình 2.1 nhận được một sự ức chế nhỏ hơn điểm O trong hình 2.2, ô màu xám sẽ trở nên sáng hơn.
+Thí nghiệm.
+Hai nhà khoa học White (1985) kết luận rằng, ở tần số không gian cao hơn, ảo ảnh White có thể được mô tả bằng sự đồng hóa độ sáng. Họ cũng kết luận rằng ở những tần số không gian thấp hơn, ảo ảnh của White vẫn còn xảy ra.
+

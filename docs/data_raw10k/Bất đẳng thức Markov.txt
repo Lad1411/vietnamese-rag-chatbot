@@ -1,0 +1,24 @@
+Bất đẳng thức Markov
+
+Trong lý thuyết xác suất, Bất đẳng thức Markov cho một chặn trên cho xác suất một hàm số không âm của một biến ngẫu nhiên nhận giá trị lớn hơn một hằng số dương. Nó được đặt tên theo nhà toán học Nga Andrey Markov, mặc dù nó đã xuất hiện trong nghiên cứu của Pafnuty Chebyshev (thầy của Markov), và có nhiều nguồn, đặc biệt là trong giải tích, gọi nó là bất đẳng thức Chebyshev hoặc bất đẳng thức Bienaymé.
+Bất đẳng thức Markov liên hệ xác suất với giá trị kỳ vọng, và cho một giới hạn (thường không chặt) cho giá trị của hàm phân phối tích lũy của một biến ngẫu nhiên.
+Phát biểu.
+Nếu "X" là một biến ngẫu nhiên và "a" &gt; 0, thì
+Dưới dạng ngôn ngữ của lý thuyết độ đo, bất đẳng thức Markov khẳng định rằng nếu ("X", Σ, "μ") là một độ đo, "ƒ" là một hàm đo được nhận giá trị thực, và formula_2, thì
+Hệ quả: bất đẳng thức Chebyshev.
+Bất đẳng thức Chebyshev sử dụng phương sai để chặn trên xác suất một biến ngẫu nhiên sai khác nhiều so với giá trị kỳ vọng. Cụ thể là:
+với mọi "a&gt;0". Ở đây Var("X") là phương sai của "X", định nghĩa như sau:
+Có thể thu được bất đẳng thức Chebyshev bằng cách áp dụng bất đẳng thức Markov cho biến ngẫu nhiên formula_6. Theo bất đẳng thức Markov,
+Chứng minh.
+Theo ngôn ngữ lý thuyết xác suất.
+Với một sự kiện "E" bất kì, đặt "I""E" là biến ngẫu nhiên nhận giá trị 1 nếu "E" xảy ra và nhận giá trị 0 nếu "E" không xảy ra. Do đó "I"(|"X"| ≥ "a") = 1 nếu |"X"| ≥ "a" và "I"(|"X"| ≥ "a") = 0 nếu |"X"| &lt; "a". Do đó với mọi "a" &gt; 0,
+Vì vậy
+Theo tính chất tuyến tính của giá trị kỳ vọng,
+Do đó
+và do "a" &gt; 0, ta có thể chia cả hai vế cho "a" và thu được bất đẳng thức Markov.
+Theo ngôn ngữ lý thuyết độ đo.
+Không mất tính tổng quát giả sử formula_12 nhận giá trị không âm do ta chỉ quan tâm đến giá trị tuyệt đối của formula_12. Ta xét hàm "s" định nghĩa trên tập "X" như sau
+formula_14
+Hàm formula_15 thỏa mãn formula_16. Theo định nghĩa của tích phân Lebesgue
+và do formula_18, có thể chia cả hai vế cho formula_19 và thu được
+

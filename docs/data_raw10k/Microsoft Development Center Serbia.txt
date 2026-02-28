@@ -1,0 +1,6 @@
+Microsoft Development Center Serbia
+
+Microsoft Development Center Serbia (MDCS) là một trong số các trung tâm phát triển của hãng Microsoft trên thế giới. MDCS được thành lập vào năm 2005 và tại thời điểm thành lập, đây là trung tâm thứ năm trên thế giới. Trụ sở được đặt tại Belgrade, Serbia.
+MDCS có một số nhóm gồm: Azure Data Team, Office Team, Office Media Group Team, Mixed Reality Team, Havok Team, Maps Team, Math Team. Họ đang làm việc dựa trên các công nghệ khác nhau của Microsoft, chẳng hạn như Microsoft SQL Server, Microsoft Office và công cụ tìm kiếm Bing.
+Giám đốc của Trung tâm Phát triển Microsoft ở Belgrade là Dragan Tomic.
+

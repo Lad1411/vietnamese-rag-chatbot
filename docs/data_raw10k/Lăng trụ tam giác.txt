@@ -1,0 +1,13 @@
+Lăng trụ tam giác
+
+Trong hình học, hình lăng trụ tam giác là hình lăng trụ có ba mặt bên; nó là một khối đa diện được hình thành từ một đáy hình tam giác, một hình tạo bởi phép tịnh tiến của đáy và 3 mặt nối với các cạnh tương ứng. Hình lăng trụ tam giác vuông có các mặt bên là hình chữ nhật, nếu không nó là "hình lăng trụ tam giác" "xiên". Hình lăng trụ tam giác đều là một hình lăng trụ tam giác vuông có đáy bằng nhau và các mặt hình vuông.
+Ngoài ra, nó là một khối đa diện trong đó hai mặt song song, trong khi các đường pháp tuyến của ba mặt kia nằm trong cùng một mặt phẳng (không nhất thiết phải song song với các mặt phẳng cơ sở). Ba mặt này là hình bình hành. Tất cả các mặt cắt song song với các mặt cơ sở đều là các hình tam giác giống nhau.
+Là một khối đa diện bán nguyệt (hoặc đều).
+Một hình lăng trụ tam giác vuông là hình bán nguyệt hay tổng quát hơn, là một đa diện đều nếu những mặt cơ bản là tam giác đều, và ba mặt khác là hình vuông. Nó có thể được xem như là một hình hosohedron tam giác cụt, được biểu thị bằng biểu tượng Schläfli formula_1. Nói cách khác, nó có thể được xem là tích Descartes của một hình tam giác và một đoạn thẳng và được kí hiệu bởi phép nhân &lt;chem&gt;{3}x{}&lt;/chem&gt;. Khối đa diện đối ngẫu của một hình lăng trụ tam giác là một hình chóp tam giác.
+Nhóm đối xứng của một hình lăng trụ 3 mặt bên vuông góc có đáy hình tam giác là "D3h" của bậc 12. Nhóm xoay là "D3" của bậc 6. Nhóm đối xứng không gồm đối xứng tâm.
+Thể tích.
+Thể tích của bất kỳ lăng kính nào là tích của diện tích đáy và khoảng cách giữa hai đáy. Trong trường hợp này, đáy là một hình tam giác, vì vậy chúng ta chỉ cần tính diện tích của hình tam giác và nhân số này với chiều dài của hình lăng trụ:
+Trong đó là chiều dài của một cạnh của tam giác, là chiều dài của đường cao được vẽ ở cạnh đó và là khoảng cách giữa các mặt tam giác.
+Lăng trụ tam giác cụt.
+"Lăng trụ tam giác cụt vuông" có một mặt hình tam giác cụt (đã cắt gọt) theo một góc xiên.
+

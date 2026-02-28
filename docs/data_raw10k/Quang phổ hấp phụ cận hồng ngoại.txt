@@ -1,0 +1,6 @@
+Quang phổ hấp phụ cận hồng ngoại
+
+Quang phổ hấp thụ cận hồng ngoại (Near Infrared Reflectance Spectroscopy - NIRS) là kỹ thuật dùng để xác định thành phần hóa học trong các mẫu sinh học nguyên liệu, thực phẩm, dược phẩm; kỹ thuật chẩn đoán trong y tế (xác định lượng đường và đo oxy trong máu); kỹ thuật dùng để kiểm soát chất lượng nông hóa, nghiên cứu quá trình đốt cháy, nghiên cứu khoa học thần kinh nhận thức…
+Nguyên lý.
+Theo William (1998), khi có một chùm ánh sáng tới chiếu qua các mẫu sinh học, vùng ánh sáng cận hồng ngoại, bước sóng 750 – 2.500 nm được các liên kết C-H, N-H, O-H có trong các chất hữu cơ của mô sinh học hấp phụ. Đo phổ ánh sáng phản xạ từ các mẫu sinh học sẽ thu được các thông tin về thành phần hóa học của mẫu đó. Những giá trị phổ thu được sẽ được phân tích bằng phần mềm máy tính và cho ra một ma trận các giá trị của phổ chất hữu cơ cần phân tích (như protein thô, lipid…). Áp dụng mô hình thống kê nhiều biến sẽ mô tả được mối quan hệ giữa phổ hấp phụ và thành phần hóa học; mối quan hệ này là cơ sở để chẩn đoán thành phần hóa học tại các máy phân tích (máy NIR).
+

@@ -1,0 +1,19 @@
+Chồng giao thức
+
+Một chồng giao thức (tiếng Anh: "protocol stack") là hình thức cài đặt phần mềm cho một bộ giao thức mạng máy tính ("computer networking protocol suite"). Hai thuật ngữ này thường được dùng lẫn lộn. Thực ra, bộ giao thức là định nghĩa của các giao thức còn chồng giao thức là một hình thức xử lý bộ giao thức bằng phần mềm.
+Các giao thức trong một bộ thường được thiết kế cho một mục đích duy nhất. Việc phân module này làm cho nhiệm vụ thiết kế và đánh giá dễ dàng hơn. Do mỗi module giao thức thường giao tiếp với hai module khác, chúng thường được hình dung như các "tầng" trong một chồng các giao thức. Giao thức thấp nhất luôn làm việc với các tương tác vật lý "bậc thấp" với phần cứng. Mỗi tầng cao hơn lại bổ sung thêm tính năng mới. Các ứng dụng người dùng theo thói quen thường chỉ tương tác với các tầng trên cùng. (Xem thêm mô hình OSI.)
+Trong cài đặt thực tế, các chồng giao thức thường được chia thành ba phần chính dành cho môi trường truyền dẫn, giao vận, và ứng dụng. Một hệ điều hành cụ thể thường có hai giao diện phần mềm được định nghĩa chặt chẽ, một nằm giữa các tầng môi trường và giao vận, và một nằm giữa các tầng giao vận và các ứng dụng.
+Giao diện môi trường-giao vận định nghĩa cách phần mềm giao thức giao vận sử dụng các loại phần cứng và môi trường cụ thể. Ví dụ, giao diện này định nghĩa cách phần mềm giao vận TCP/IP liên lạc với phần cứng Ethernet. Ví dụ về các giao diện này bao gồm ODI và NDIS trong hệ điều hành Microsoft Windows và DOS.
+Giao diện ứng dụng-giao vận định nghĩa cách các chương trình ứng dụng sử dụng các tầng giao vận. Ví dụ, giao diện này có thể định nghĩa các một trình duyệt Web nói chuyện với phần mềm giao vận TCP/IP. Ví dụ về các giao diện này bao gồm Berkeley socket và các dòng System V các hệ điều hành Unix, và Winsock các hệ điều hành của Microsoft.
+Mô tả bộ giao thức tổng quát.
+ T ~ ~ ~ T
+ [A] [B]_____[C]
+Tưởng tượng ba máy tính "A", "B", và "C". "A" và "B" đều có thiết bị vô tuyến và có thể liên lạc bằng sóng điện từ theo một giao thức mạng thích hợp, chẳng hạn IEEE 802.11. "B" và "C" nối với nhau bằng cáp và trao đổi dữ liệu qua đó theo một giao thức, chẳng hạn Ethernet. Tuy nhiên, cả hai giao thức này đều không thể chuyển thông tin từ "A" đến "C", do hai máy tính này thực chất nằm trên hai mạng khác nhau. Do đó, ta cần một giao thức liên mạng để "kết nối" chúng.
+Ta có thể kết hợp hai giao thức để tạo thành giao thức thứ ba dành cho cả việc truyền dữ liệu qua cáp và bằng sóng vô tuyến, nhưng như vậy, ta sẽ cần một siêu-giao thức cho mỗi cặp giao thức có thể. Phướng án tốt hơn là giữ nguyên các giao thức cơ bản và thiết kế một giao thức có thể hoạt động bên trên một giao thức cơ bản bất kỳ. Giao thức IP ("Internet Protocol - IP") là một ví dụ. Điều này tạo nên hai chồng, mỗi chồng gồm hai giao thức. Giao thức liên mạng sẽ liên lạc với từng giao thức cơ bản bằng ngôn ngữ đơn giản của giao thức đó. Các giao thức cơ bản không trực tiếp nói chuyện với nhau.
+Tại máy tính "A", một yêu cầu gửi một đoạn dữ liệu tới "C" sẽ được chấp nhận bởi giao thức phía trên. Nó (bằng cách nào đó) biết rằng có thể gửi tới "C" qua trung gian "B". Do đó, nó lệnh cho giao thức không dây chuyền gói dữ liệu tới "B". Tại "B", tầng thấp hơn sẽ chuyển gói tin lên cho giao thức liên mạng. Khi nhận ra rằng "B" không phải là đích cuối cùng, giao thức liên mạng sẽ lại gọi các chức năng mức thấp. Lần này, giao thức cáp được sử dụng để gửi dữ liệu đến "C". Tại đó, gói tin lại được chuyển lên cho giao thức phía trên. Do "C" là đích cuối cùng nên nó chuyển tiếp lên trên. Thông thường, một giao thức bậc cao hơn nằm trên giao thức liên mạng sẽ tiếp tục xử lý gói tin.
+Dưới đây là một chồng giao thức thường dùng:
+ | HTTP |
+ | TCP |
+ | IP |
+ | Ethernet |
+

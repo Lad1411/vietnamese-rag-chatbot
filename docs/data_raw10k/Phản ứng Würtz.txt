@@ -1,0 +1,19 @@
+Phản ứng Würtz
+
+Phản ứng Würtz là một phản ứng hóa học được nhà hóa học người Pháp Charles Adolphe Würtz tìm ra vào năm 1855. Phản ứng này là một trong những phản ứng thuộc phương pháp làm tăng mạch cacbon của các hydrocarbon thường dùng để điều chế các ankan đối xứng. Chất tham gia phản ứng Würtz là một dẫn xuất mono halogen của một hydrocarbon no và natri. Dung môi được sử dụng là ete khan.
+Natri thường được dùng trong phản ứng này. Tuy nhiên có thể sử dụng những kim loại khác như bạc, kẽm, sắt, đồng... hoặc hỗn hợp mangan và đồng chloride.
+Phản ứng tổng quát.
+2RX +2 Na formula_1 R-R +2 NaX
+Cơ chế.
+Cơ chế của phản ứng Würtz khá giống phản ứng Grignard. Mono halogen tác dụng với kim loại tạo gốc alkyl Rformula_2 và muối halogen.
+RX + M formula_1 Rformula_2 + &lt;chem&gt;M+X-&lt;/chem&gt;
+Gốc alkyl tiếp theo sẽ phản ứng với kim loại M tạo ra cacbocation.
+Rformula_2 + M formula_1R-M+
+Sau đó cacbocation phản ứng với halide tạo mạch hydrocarbon mới có mạch dài hơn
+R-M+ + RX →  R-R + M+X-
+Ví dụ và điều kiện phản ứng.
+Do nhiều hạn chế mà phản ứng này ít được sử dụng. Ví dụ nó phản ứng với rất nhiều nhóm chức. Tuy nhiên phản ứng này khá hữu ích trong việc đóng vòng nhỏ.
+Ví dụ như bicyclo butan được điều chế bằng 1-brom-3-clo cyclo butan với hiệu suất 95%. Phản ứng được hồi lưu trong đioxan, trong nhiệt độ này natri là chất lỏng.
+Hạn chế.
+Phản ứng Würtz có nhiều hạn chế như sau:
+

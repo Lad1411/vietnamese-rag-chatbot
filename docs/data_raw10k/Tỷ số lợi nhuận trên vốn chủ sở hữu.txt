@@ -1,0 +1,16 @@
+Tỷ số lợi nhuận trên vốn chủ sở hữu
+
+ 
+Tỷ số lợi nhuận trên vốn chủ sở hữu hay Tỷ suất thu nhập của vốn cổ đông hay Chỉ tiêu hoàn vốn cổ phần của cổ đông (có thể viết tắt là ROE từ các chữ cái đầu của cụm từ tiếng Anh "Return on Equity") là tỷ số tài chính để đo khả năng sinh lợi trên mỗi đồng vốn cổ phần ở một công ty cổ phần.
+Cách tính.
+Lợi nhuận trong tỷ số này là lợi nhuận ròng dành cho cổ đông, lấy từ báo cáo kết quả kinh doanh của công ty cổ phần, tính trong một thời kỳ nhất định (1 tháng, 1 quý, nửa năm, hay 1 năm) gọi là kỳ báo cáo. Còn vốn cổ phần trong tỷ số này là bình quân vốn cổ phần phổ thông (common equity).
+Công thức của tỷ số này như sau:
+Vì lợi nhuận ròng chia cho doanh thu thuần thì bằng tỷ suất lợi nhuận biên, vì doanh thu thuần chia cho giá trị bình quân tổng tài sản thì bằng số vòng quay tổng tài sản, và vì bình quân tổng tài sản chia cho bình quân vốn cổ phần phổ thông thì bằng hệ số đòn bẩy tài chính, nên còn có công thức tính thứ 2 như sau:
+Tỷ số lợi nhuận trên vốn chủ sở hữu = Tỷ suất lợi nhuận biên x Số vòng quay tổng tài sản x Hệ số đòn bẩy tài chính
+Mặt khác, vì tỷ suất lợi nhuận trên tài sản (ROA) bằng tỷ suất lợi nhuận biên nhân với số vòng quay tổng tài sản, nên:
+ROE = ROA x Hệ số đòn bẩy tài chính
+Ý nghĩa.
+Tỷ số lợi nhuận trên vốn chủ sở hữu ROE cho biết cứ 100 đồng vốn chủ sở hữu của công ty cổ phần này tạo ra bao nhiều đồng lợi nhuận. Nếu tỷ số này mang giá trị dương, là công ty làm ăn có lãi; nếu mang giá trị âm là công ty làm ăn thua lỗ.
+Cũng như tỷ số lợi nhuận trên tài sản, tỷ số này phụ thuộc vào thời vụ kinh doanh. Ngoài ra, nó còn phụ thuộc vào quy mô và mức độ rủi ro của công ty. Để so sánh chính xác, cần so sánh tỷ số này của một công ty cổ phần với tỷ số bình quân của toàn ngành, hoặc với tỷ số của công ty tương đương trong cùng ngành.
+Tỷ số lợi nhuận trên vốn chủ sở hữu hay được đem so sánh với tỷ số lợi nhuận trên tài sản (ROA). Nếu tỷ số lợi nhuận trên vốn chủ sở hữu lớn hơn ROA thì có nghĩa là đòn bẩy tài chính của công ty đã có tác dụng tích cực, nghĩa là công ty đã thành công trong việc huy động vốn của cổ đông để kiếm lợi nhuận với tỷ suất cao hơn tỷ lệ tiền lãi mà công ty phải trả cho các cổ đông.
+

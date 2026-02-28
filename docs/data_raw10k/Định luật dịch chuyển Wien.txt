@@ -1,0 +1,7 @@
+Định luật dịch chuyển Wien
+
+Định luật dịch chuyển Wien nói rằng đường cong bức xạ của vật đen đối với các nhiệt độ khác nhau sẽ đạt cực đại ở các bước sóng khác nhau tỷ lệ nghịch với nhiệt độ. Sự dịch chuyển của giá trị cực đại đó là hệ quả trực tiếp của định luật bức xạ Planck, mô tả độ sáng của phổ của bức xạ vật đen là một hàm của bước sóng ở bất kỳ nhiệt độ nào. Tuy nhiên, Wilhelm Wien đã tìm ra định luật này vài năm trước khi Max Planck phát triển phương trình tổng quát hơn, và mô tả toàn bộ sự dịch chuyển của phổ bức xạ vật đen sang bước sóng ngắn hơn khi nhiệt độ tăng.
+Định luật dịch chuyển của Wien phát biểu rằng bức xạ quang phổ của bức xạ vật đen trên mỗi bước sóng đơn vị, cực đại ở bước sóng "λ" max được cho bởi:
+Trong đó "T" là nhiệt độ tuyệt đối đo bằng kelvin. "b" là hằng số tỷ lệ được gọi là "hằng số dịch chuyển Wien", bằng hoặc để thu được bước sóng tính bằng micromet, . Nếu đang xem xét mức phát xạ cơ thể đen trên mỗi tần số đơn vị hoặc trên mỗi băng thông tỷ lệ, thì phải sử dụng hằng số tỷ lệ khác nhau. Tuy nhiên, hình thức của định luật này vẫn giống nhau: bước sóng cực đại tỷ lệ nghịch với nhiệt độ và tần số cực đại tỷ lệ thuận với nhiệt độ.
+Định luật dịch chuyển Wien có thể được gọi là "định luật Wien", một thuật ngữ cũng được sử dụng cho phương pháp tính gần đúng Wien.
+

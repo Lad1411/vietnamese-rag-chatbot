@@ -1,0 +1,19 @@
+Brom monofluoride
+
+Brom monofluoride là một hợp chất halogen kém bền với công thức hóa học BrF. Đây là chất lỏng ở nhiệt độ phòng, có màu đỏ vàng, dễ bay hơi và có mùi khó chịu. BrF là chất độc ở liều lượng cao.
+Tính chất hóa học.
+Brom monofluoride phân hủy tự oxy hóa khử ở nhiệt độ thường tạo thành brom trifluoride hoặc brom pentafluoride và brom đơn chất:
+Phản ứng với dung dịch kiềm nóng pha loãng:
+Phản ứng với dung dịch kiềm lạnh pha loãng:
+Hợp chất rất hoạt động về mặt hóa học. Phản ứng ngay cả với vàng và thạch anh. Để giữ ổn định và lưu trữ, chúng được chuyển đổi thành một hợp chất kép ổn định hơn với pyridine.
+Cấu trúc phân tử brom monofluoride hydrofluoride (BrF · HF hoặc HBrF2) đã được tính toán và người ta đã chỉ ra rằng một hợp chất như vậy, nếu được tổng hợp thành công, sẽ có cấu trúc bất thường kiểu Br-FHF.
+Điều chế.
+Brom monofluoride có thể được tạo ra thông qua phản ứng của brom trifluoride (hoặc brom pentafluoride) và brom đơn chất. Do tính linh hoạt của nó, hợp chất có thể được phát hiện nhưng không thể cô lập:
+Brom monofluoride thường được tạo ra với sự hiện diện của caesi fluoride.
+Tuy nhiên, trong phản ứng (*), cùng với monofluoride, brom trifluoride và pentafluoride cũng được tạo thành. Để thu được brom monofluoride tinh khiết, các bẫy lạnh với nhiệt độ đến −20 °C, −50 °C và −120 °C được sử dụng để tách lần lượt BrF3, BrF5 và BrF tương ứng. Thiết bị tổng hợp phải được làm bằng đồng, vì với nhiều vật liệu khác, ví dụ bạch kim, xúc tác cho phản ứng phân hủy brom monofluoride. Hiệu suất tổng hợp của brom monofluoride trên lý thuyết là khoảng 40%.
+Dưới tác dụng của quang phổ hồng ngoại, brom trifluoride tự oxy hóa khử tạo ra brom monofluoride:
+Ứng dụng.
+Vì không thể phân lập được brom monofluoride ở dạng tinh khiết do bị phân hủy một phần, nên trong nhiều trường hợp, hỗn hợp của brom và brom trifluoride được sử dụng thay thế để tạo ra monofluoride tại chỗ ("in-situ").
+Dùng tổng hợp fluorobrom:
+Một quan điểm thú vị là khí BrF được sử dụng như nguyên liệu chính được kích thích bởi phân tử O2 ở trạng thái singlet để phát ra ánh sáng khả kiến, ứng dụng làm tia laser hóa học.
+

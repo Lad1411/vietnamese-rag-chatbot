@@ -1,0 +1,43 @@
+Advanced Encryption Standard
+
+Trong mật mã học, Advanced Encryption Standard (tiếng Anh, viết tắt: AES, nghĩa là Tiêu chuẩn mã hóa tiên tiến) là một thuật toán mã hóa khối được chính phủ Hoa Kỳ áp dụng làm tiêu chuẩn mã hóa. Giống như tiêu chuẩn tiền nhiệm DES, AES được kỳ vọng áp dụng trên phạm vi thế giới và đã được nghiên cứu rất kỹ lưỡng. AES được chấp thuận làm tiêu chuẩn liên bang bởi Viện tiêu chuẩn và công nghệ quốc gia Hoa Kỳ (NIST) sau một quá trình tiêu chuẩn hóa kéo dài 5 năm (Xem thêm: quá trình thiết kế AES).
+Thuật toán được thiết kế bởi hai nhà mật mã học người Bỉ: Joan Daemen và Vincent Rijmen. Thuật toán được đặt tên là "Rijndael" khi tham gia cuộc thi thiết kế AES. Rijndael được phát âm là "Rhine dahl" theo phiên âm quốc tế (IPA: ).
+Quá trình phát triển.
+Thuật toán được dựa trên bản thiết kế Square có trước đó của Daemen và Rijmen; còn Square lại được thiết kế dựa trên Shark.
+Khác với DES sử dụng mạng Feistel, Rijndael sử dụng mạng thay thế-hoán vị. AES có thể dễ dàng thực hiện với tốc độ cao bằng phần mềm hoặc phần cứng và không đòi hỏi nhiều bộ nhớ. Do AES là một tiêu chuẩn mã hóa mới, nó đang được triển khai sử dụng đại trà.
+Mô tả thuật toán.
+Mặc dù 2 tên "AES" và "Rijndael" vẫn thường được gọi thay thế cho nhau nhưng trên thực tế thì 2 thuật toán không hoàn toàn giống nhau. AES chỉ làm việc với các khối dữ liệu (đầu vào và đầu ra) 128 bít và khóa có độ dài 128, 192 hoặc 256 bít trong khi Rijndael có thể làm việc với dữ liệu và khóa có độ dài bất kỳ là bội số của 32 bít nằm trong khoảng từ 128 tới 256 bít.
+Các khóa con sử dụng trong các chu trình được tạo ra bởi quá trình tạo khóa con Rijndael. Mỗi khóa con cũng là một cột gồm 4 byte.
+Hầu hết các phép toán trong thuật toán AES đều thực hiện trong một trường hữu hạn của các byte.
+Mỗi khối dữ liệu 128 bit đầu vào được chia thành 16 byte (mỗi byte 8 bit),có thể xếp thành 4 cột, mỗi cột 4 phần tử hay là một ma trận 4x4 của các byte,nó được gọi là ma trận trạng thái, hay vắn tắt là trạng thái (tiếng Anh: "state", trạng thái trong Rijndael có thể có thêm cột). Trong quá trình thực hiện thuật toán các toán tử tác động để biến đổi ma trận trạng thái này.
+Mô tả mức cao của thuật toán.
+Mở rộng khóa (KeyExpansion).
+Là quá trình tạo các vòng khóa từ khóa chính, mỗi khóa con chứa 4 byte.
+Quá trình mã hóa.
+Bao gồm các bước:
+Tại chu trình cuối thì bước MixColumns không thực hiện.
+Bước SubBytes.
+Các byte được thế thông qua bảng tra S-box. Đây chính là quá trình phi tuyến của thuật toán. Hộp S-box này được tạo ra từ một phép biến đổi khả nghịch trong trường hữu hạn GF ("28") có tính chất phi tuyến. Để chống lại các tấn công dựa trên các đặc tính đại số, hộp S-box này được tạo nên bằng cách kết hợp phép nghịch đảo với một phép biến đổi affine khả nghịch. Hộp S-box này cũng được chọn để tránh các điểm bất động (fixed point).
+Xem thêm: Rijndael S-box.
+Bước ShiftRows.
+Các hàng được dịch vòng một số bước nhất định. Đối với AES, hàng đầu được giữ nguyên. Mỗi byte của hàng thứ 2 được dịch vòng trái một vị trí. Tương tự, các hàng thứ 3 và 4 được dịch vòng 2 và 3 vị trí. Do vậy, mỗi cột khối đầu ra của bước này sẽ bao gồm các byte ở đủ 4 cột khối đầu vào. Đối với Rijndael với độ dài khối khác nhau thì số vị trí dịch chuyển cũng khác nhau.
+Bước MixColumns.
+Bốn byte trong từng cột được kết hợp lại theo một phép biến đổi tuyến tính khả nghịch. Mỗi khối 4 byte đầu vào sẽ cho một khối 4 byte ở đầu ra với tính chất là mỗi byte ở đầu vào đều ảnh hưởng tới cả bốn byte đầu ra. Cùng với bước ShiftRows, MixColumns đã tạo ra tính chất khuếch tán cho thuật toán. Mỗi cột được xem như một đa thức trong trường hữu hạn và được nhân với đa thức formula_1 (modulo formula_2). Vì thế, bước này có thể được xem là phép nhân ma trận trong trường hữu hạn.
+Bước AddRoundKey.
+Tại bước này, khóa con được kết hợp với các khối. Khóa con trong mỗi chu trình được tạo ra từ khóa chính với quá trình tạo khóa con Rijndael; mỗi khóa con có độ dài giống như các khối. Quá trình kết hợp được thực hiện bằng cách XOR từng bít của khóa con với khối dữ liệu.
+Xem thêm: Rijndael mix columns.
+Tối ưu hóa.
+Đối với các hệ thống 32 bít hoặc lớn hơn, ta có thể tăng tốc độ thực hiện thuật toán bằng cách sáp nhập các bước SubBytes, ShiftRows, MixColumns và chuyển chúng thành dạng bảng. Có cả thảy bốn bảng với 256 mục, mỗi mục là 1 từ 32 bít, bốn bảng này chiếm 4096 byte trong bộ nhớ. Khi đó, mỗi chu trình sẽ được bao gồm 16 lần tra bảng và 12 lần thực hiện phép XOR 32 bít cùng với 4 phép XOR trong bước AddRoundKey.
+Trong trường hợp kích thước các bảng vẫn lớn so với thiết bị thực hiện thì chỉ dùng một bảng và tra bảng kết hợp với hoán vị vòng quanh.
+An toàn.
+Vào thời điểm năm 2006, dạng tấn công lên AES duy nhất thành công là tấn công kênh bên (side channel attack]). Vào tháng 6 năm 2003, chính phủ Hoa Kỳ tuyên bố AES có thể được sử dụng cho thông tin mật. 
+Điều này đánh dấu lần đầu tiên công chúng có quyền tiếp xúc với thuật toán mật mã mà NSA phê chuẩn cho thông tin TUYỆT MẬT. Nhiều phần mềm thương mại hiện nay sử dụng mặc định khóa có độ dài 128 bít.
+Phương pháp thường dùng nhất để tấn công các dạng mã hóa khối là thử các kiểu tấn công lên phiên bản có số chu trình thu gọn. Đối với khóa 128 bít, 192 bít và 256 bít, AES có tương ứng 10, 12 và 14 chu trình. Tại thời điểm năm 2006, những tấn công thành công được biết đến là 7 chu trình đối với khóa 128 bít, 8 chu trình với khóa 192 bít và 9 chu trình với khóa 256 bít.
+Một số nhà khoa học trong lĩnh vực mật mã lo ngại về an ninh của AES. Họ cho rằng ranh giới giữa số chu trình của thuật toán và số chu trình bị phá vỡ quá nhỏ. Nếu các kỹ thuật tấn công được cải thiện thì AES có thể bị phá vỡ. Ở đây, "phá vỡ" có nghĩa chỉ bất cứ phương pháp tấn công nào nhanh hơn tấn công kiểu duyệt toàn bộ. Vì thế một tấn công cần thực hiện 2120 cũng được coi là thành công mặc dù tấn công này chưa thể thực hiện trong thực tế. Tại thời điểm hiện nay, nguy cơ này không thực sự nguy hiểm và có thể bỏ qua. Tấn công kiểu duyệt toàn bộ quy mô nhất đã từng thực hiện là do distributed.net thực hiện lên hệ thống 64 bít RC5 vào năm 2002 (Theo định luật Moore thì nó tương đương với việc tấn công vào hệ thống 66 bit hiện nay).
+Một vấn đề khác nữa là cấu trúc toán học của AES. Không giống với các thuật toán mã hóa khác, AES có mô tả toán học khá đơn giản . Tuy điều này chưa dẫn đến mối nguy hiểm nào nhưng một số nhà nghiên cứu sợ rằng sẽ có người lợi dụng được cấu trúc này trong tương lai.
+Vào năm 2002, Nicolas Courtois và Josef Pieprzyk phát hiện một tấn công trên lý thuyết gọi là tấn công XSL và chỉ ra điểm yếu tiềm tàng của AES. Tuy nhiên, một vài chuyên gia về mật mã học khác cũng chỉ ra một số vấn đề trong cơ sở toán học của tấn công này và cho rằng các tác giả đã có sai lầm trong tính toán. Việc tấn công dạng này có thực sự trở thành hiện thực hay không vẫn còn để ngỏ và cho tới nay thì tấn công XSL vẫn chỉ là suy đoán.
+Tấn công kênh bên (Side channel attacks).
+Tấn công kênh bên không tấn công trực tiếp vào thuật toán mã hóa mà thay vào đó, tấn công lên các hệ thống thực hiện thuật toán có sơ hở làm lộ dữ liệu.
+Tháng 4 năm 2005, Daniel J. Bernstein công bố một tấn công lên hệ thống mã hóa AES trong OpenSL gọi là . Một máy chủ được thiết kế để đưa ra tối đa thông tin về thời gian có thể thu được và cuộc tấn công cần tới 200 triệu bản rõ lựa chọn. Một số người cho rằng tấn công không thể thực hiện được trên Internet với khoảng cách vài điểm mạng .
+Tháng 10 năm 2005, Adi Shamir và 2 nhà nghiên cứu khác có một bài nghiên cứu minh họa một vài dạng khác. Trong đó, một tấn công có thể lấy được khóa AES với 800 lần ghi trong 65 mili giây. Tấn công này yêu cầu kẻ tấn công có khả năng chạy chương trình trên chính hệ thống thực hiện mã hóa.
+

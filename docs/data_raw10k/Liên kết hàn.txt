@@ -1,0 +1,4 @@
+Liên kết hàn
+
+Liên kết hàn là liên kết giữa các vật liệu (chủ yếu là kim loại) được tạo ra bằng hàn hàn (công nghệ). Năm loại liên kết hàn cơ bản nhất là các liên kết giáp mối (còn được gọi là giáp mép, giáp mí), chữ T, chồng, góc, và mép. Về thực chất, liên kết hàn bao gồm phần kim loại của mối hàn, cộng với vùng ảnh hưởng nhiệt và phần kim loại cơ bản liền kế ở trạng thái ứng suất và biến dạng khác rõ rệt so với phần còn lại của kim loại cơ bản.
+

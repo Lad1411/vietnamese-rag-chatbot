@@ -1,0 +1,27 @@
+Pseudomonas
+
+Pseudomonas là một chi vi khuẩn xuất hiện ở mọi nơi trong môi trường. Sự biến dưỡng dễ thay đổi và linh động của chúng làm cho chúng có thể sống ở nhiều môi trường khác nhau như nước, đất, trên cây và trong các động vật. Trong số những loài Pseudomonas này, có những loài tiêu biểu có thể được sử dụng trong công nghệ sinh học.
+Đặc điểm hình thái học chung cho Pseudomonas là Gram âm, tế bào hình que, di động nhờ roi ở đầu và không có bào tử.Các đặc điểm sinh lý là dị dưỡng, không lên men, linh hoạt về dinh dưỡng, không quang hợp hoặc cố định nitrogen.
+Ứng dụng của một số loài Pseudomonas khác.
+Trong nông nghiệp.
+Một trong những nhóm vi khuẩn hữu ích cho cây lúa cần được khai thác là vi khuẩn pseudomonas sinh huỳnh quang bởi chúng được coi là tác nhân sinh học tiềm năng trong phòng chống vi nấm gây bệnh cây trồng. Các chủng pseudomonad sinh huỳnh quang vùng rễ cây lúa đã được phân lập và chọn lọc theo khả năng đối kháng Fusarium oxysporum, tác nhân gây bệnh khô vằn cây lúa
+Atrazine là một chất độc diệt cỏ (herbicid) hầu như hoàn toàn không tan trong nước (33 mg/lít), nhưng nồng độ cho phép trong nước là 0,2 mg/lít. Một số chủng vi sinh như Pseudomonas sp. strain ADP có khả năng chuyển hoá atrazine. Chủng này tiết ra Atrazine chlorohydrolase xúc tác phản ứng chuyển hoá atrazine. Như vậy, bằng phản ứng Atrazine chlorohydrolase, atrazine độc, không tan có thể chuyển hoá các sản phẩm tan được và không độc.
+Enzyme parathiohydrolase do Pseudomonas SP. tổng hợp có khả năng phân hủy tới 94-98% dư thuốc trừ sâu paraythion. Hoạt độ của enzyme này phụ thuộc vào cấu trúc, độ ẩm và dung đệm của đất... 
+Trong công nghệ môi trường.
+Một số Pseudomonas có thể chuyển hóa các chất ô nhiễm hóa học trong môi trường, và có thể được sử dụng để xử lý sinh học:
+Phân giải tinh bột.
+Trong rác bể ủ có nhiều loại vi sinh vật có khả năng phân giải tinh bột. Một số vi sinh vật có khả năng tiết ra môi trường đầy đủ các loại enzym trong hệ enzym amilaza. Ví dụ như một số vi nấm bao gồm một số loại trong các chi Aspergillus, Fusarium, Rhizopus. Trong nhóm vi khuẩn có một số loài thuộc chi Bacillus, Cytophaza, Pseudomonas... Xạ khuẩn cũng có một số chi có khả năng phân hủy tinh bột. Đa số các vi sinh vật không có khả năng tiết đầy đủ hệ enzym amilaza phân hủy tinh bột. Chúng chỉ có thể tiết ra môi trường một hoặc một vài men trong hệ đó. Các nhóm này cộng tác với nhau trong quá trình phân hủy tinh bột thành đường. Trong sản xuất người ta thường sử dụng các nhóm vi sinh vật có khả năng phân hủy tinh bột. Ví dụ trong chế biến rác thải hữu cơ người ta cũng sử dụng những chủng vi sinh vật có khả năng phân hủy tinh bột để phân hủy tinh bột có trong thành phần rác hữu cơ.
+Phân giải phosphat.
+Trong rác ủ, phospho tồn tại ở nhiều dạng hợp chất khác nhau. Phospho được tích luỹ trong rác khi động thực vật chết đi, những hợp chất phospho hữu cơ này được vi sinh vật phân giải tạo thành các hợp chất phospho vô cơ khó tan. Do đó phospho tồn tại ở hai dạng: phospho hữu cơ và phospho vô cơ.
+Vi sinh vật phân giải lân hữu cơ chủ yếu thuộc hai chi: Bacillus và Pseudomonas. Các loài có khả năng phân giải mạnh là Bacillus megaterium, Bacillus mycoides và Pseudomonas sp.
+Vi sinh vật phân giải lân vô cơ bao gồm các loại vi khuẩn có khả năng phân giải mạnh là Bacillus megaterium, Bacillus butyricus, Bacillus mycoides. Pseudomonas radiobacter, Pseudomonas gracilis...
+Các loài tiêu biểu.
+Nhóm P. aeruginosa
+Nhóm P. chlororaphis
+Nhóm P. fluorescens
+Nhóm P. pertucinogena
+Nhóm P. putida
+Nhóm P. stutzeri
+Nhóm P. syringae
+Nhóm incertae sedis
+

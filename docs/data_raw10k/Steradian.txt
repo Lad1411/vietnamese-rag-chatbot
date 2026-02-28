@@ -1,0 +1,8 @@
+Steradian
+
+Steradian (ký hiệu: sr) là đơn vị SI của góc khối. Nó được dùng để mô tả độ lớn tương đối giữa vật thể và một điểm quan sát cho trước trong không gian ba chiều. Khái niệm tương tự steradian trong mặt phẳng hai chiều là radian. Cái tên steradian xuất phát từ "stereos" trong tiếng Hy Lạp có nghĩa là "khối" và "radius" trong tiếng Latinh có nghĩa là "tia". Tương tự radian, steradian là đơn vị không có thứ nguyên, 1 sr = m²·m−2 = 1.
+Định nghĩa.
+1 steradian được định nghĩa là góc khối của một mặt chiếu có diện tích r2 trên hình cầu bán kính r đối với tâm của hình cầu đó.
+Xét phần mặt chiếu có dạng chóp cầu diện tích A = 2πrh, ta có 2πrh = r2, suy ra formula_1. Tương ứng với góc khối 1 steradian trong mặt phẳng cắt của chóp cầu sẽ là góc đỉnh 2θ, có:
+Như vậy 1 steradian tương ứng với mặt nón xoay góc 2θ ≈ 1,144 rad hoặc 65,54°. Góc khối của toàn bộ mặt cầu như vậy sẽ có độ lớn 4π steradian.
+

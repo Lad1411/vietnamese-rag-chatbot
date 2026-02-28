@@ -1,0 +1,29 @@
+Tham số
+
+Một tham số là một đối số của một hàm toán học.
+Các loại tham số.
+Toán học.
+Trong toán học, sự khác nhau giữa một "tham số" ("parameter") và một "đối số" ("argument") của một hàm là: tham số là các ký hiệu thuộc phần định nghĩa của hàm, trong khi các đối số là các ký hiệu được cung cấp cho hàm khi nó được dùng.
+Khoa học.
+Khi các thuật ngữ "tham số hình thức" và "tham số thực" được sử dụng, chúng tương ứng với các định nghĩa dùng trong khoa học máy tính. Trong định nghĩa của một hàm, ví dụ:
+"x" là một tham số hình thức. Khi hàm được dùng, ví dụ:
+Giá trị 3 là tham số thực. Xem thêm trong lập trình hàm và các nguyên lý nền tảng, tích phân lambda và combinatory logic.
+Logic.
+Trong logic, các tham số truyền cho (hay tác động lên) một "vị từ mở" (tiếng Anh: "open predicate") được gọi là "tham số" bởi một số tác giả (ví dụ, Prawitz, "Suy diễn tự nhiên"; Paulson, "Thiết kế bộ chứng minh định lý"). Các tham số được định nghĩa bên trong một vị từ gọi là "biến".
+Kĩ thuật.
+Trong kĩ thuật (đặc biệt trong thu thập dữ liệu) thuật ngữ "tham số" thỉnh thoảng để chỉ một vật được đo riêng lẻ. Thí dụ máy thu thập dữ liệu ("flight data recorder") của một chuyến bay có thể thu thập 88 loại dữ liệu khác nhau, mỗi loại được gọi là "tham số". Cách dùng của từ này không đồng đều, có nhiều khi thật ngữ "channel" chỉ đến một cá nhân của các tham số này, với từ "tham số" chỉ đến các thông tin về cách dàn dựng cho 'channel' đó.
+Hình học giải tích.
+Trong hình học giải tích, các đường cong thường được cho dưới dạng đồ thị của một hàm nào đó. Thông số cho hàm được gọi là "tham số". Một đường tròn bán kính 1 có tâm tại gốc tọa độ có thể được xác định bằng nhiều hình thức: 
+Xem miêu tả chi tiết hơn trong bài phương trình tham số.
+Giải tích.
+Trong giải tích toán học, người ta thường xét tới "các tích phân phụ thuộc vào một tham số". Chúng có dạng:
+Trong công thức trên, đối với vế bên trái "t" là một "đối số" của hàm "F", và "t" lại trở thành "tham số" mà tích phân này phụ thuộc vào ở vế bên phải. Đại lượng "x" là một "biến hình thức" hay "biến số" (hay "tham số") của tích phân này.
+Bây giờ nếu thay thế "x"="g"("y"), nó sẽ được gọi là phép đổi biến (tích phân).
+Lý thuyết xác suất.
+Trong lý thuyết xác suất, người ta có thể nói rằng phân bố của một biến ngẫu nhiên thuộc về một "họ" các phân bố xác suất. Các phân bố thuộc họ đó phân biệt lẫn nhau bởi các giá trị của một số hữu hạn các "tham số". Ví dụ, người ta nói về "một phân bố Poisson với giá trị trung bình λ", hay "một phân bố chuẩn với trung bình μ và phương sai σ2".
+Có thể dùng chuỗi mô men (trung bình, bình phương trung bình...) hoặc các nửa bất biến ("cumulant") (trung bình, phương sai...) làm các tham số cho một phân bố xác suất.
+Thống kê.
+Trong thống kê, các khái niệm khung trong lý thuyết xác suất vẫn được tôn trọng. Tuy nhiên, sự lưu ý giờ chuyển tới phép ước lượng các tham số của một phân bố dựa trên dữ liệu quan sát được hay dựa trên các giả thiết thử nghiệm trên dữ liệu này. Trong phép uớc lượng cổ điển, các tham số này được xem là "cố định nhưng chưa xác định"; ngược lại, trong phép Ước lượng Bayes chúng là các biến ngẫu nhiên với các phép phân bố riêng của chúng.
+Hoàn toàn có thể đưa ra các kết luật thống kê mà không có các giả thiết về một "họ tham số " đặc trưng của các phép phân bố xác suất. Trường hợp đó gọi là thống kê phi tham số; ngược với thống kê có tham số đã được mô tả trong phần trước. Chẳng hạn, Spearman là một phép thử phi tham số mà nó được tính dựa trên bậc ("order") của dữ liệu bất chấp các giá trị hiện thời của chúng, trong đó, Pearson là một tham số thử được tính trực tiếp trên các dữ liệu và có thể dùng để suy ra một quan hệ toán hoc.
+Các thống kê là các tính chất toán học của các mẫu mà có thể được dùng như là những tham số của các ước lượng, và là các tính chất toán học của tổng thể mà từ đó các mẫu được lấy ra.
+

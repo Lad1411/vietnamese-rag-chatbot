@@ -1,0 +1,14 @@
+Điệu thức
+
+Trong âm nhạc học, các điệu thức là một loại thang âm nhạc, ở đó vẫn sử dụng các nốt nhạc có cao độ khác nhau, khoảng cách (cung) giữa chúng không thay đổi, mà chỉ thay đổi nốt chủ của thang âm. Ở thuật ngữ âm nhạc phương Tây, khái niệm này là mode bắt nguồn từ tiếng Latinh là "modus". Đến thế kỷ 18, đã phát hiện thuật ngữ "mode" (điệu thức) cũng tồn tại và được áp dụng trong các nền văn hóa âm nhạc ngoài châu Âu, nhưng không có sự tương thích hoàn toàn. 
+Phần sau đây chỉ giới thiệu thuật ngữ "mode" theo âm nhạc châu Âu và đã được dịch chính thức là điệu thức, dùng phổ biến trong giảng dạy về âm nhạc ở Việt Nam.
+Tổng quan.
+Khái niệm.
+Về khái niệm này, nhà âm nhạc học người Mỹ là Harold S. Powers đề xuất rằng: đây là một thuật ngữ chung giới hạn cho các loại giai điệu dựa trên quãng tám Hy Lạp cổ đại được gọi là tonos (τόνος) hoặc harmoniac (ἁρμονία), với "hầu hết khu vực giữa nằm trong miền của điệu thức".
+Còn theo nhà âm nhạc học người Ba Lan là , thì điệu thức là bất kỳ những cách sắp xếp nào các nốt của thang âm theo các quãng mà chúng tạo thành, từ đó tạo nên một khung lý thuyết cho giai điệu. Nói cách khác - theo ông - điệu thức là "từ vựng" (vốn từ) của một giai điệu; nó chỉ định những nốt nào có thể được sử dụng và chỉ ra những nốt nào có tầm quan trọng đặc biệt. Trong số này, có hai nốt chính: nốt cuối cùng kết thúc giai điệu và nốt chủ là trung tâm.
+Ví dụ.
+Cùng một thang âm gồm 7 nốt nhạc gồm "C (đồ) - D (rê) - E (mi) - F (fa) - G (son) - A (la) - B (si)", thuộc thang âm nguyên, nhưng nếu giai điệu lấy nốt chủ âm khác nhau, thì sẽ có điệu thức khác nhau.
+Sự thay đổi này giống như phép hoán vị trong toán học. Vì vậy, trên lí thuyết có thể có vô số kiểu điệu thức do hoán vị, chưa kể những điệu thức dân tộc tùy theo từng vùng lãnh thổ hoặc các Quốc gia trên Thế giới.
+Xem đủ hơn.
+Định nghĩa và các điệu thức chính (tiếng Anh) ở https://www.britannica.com/art/mode-music/Plainchant
+

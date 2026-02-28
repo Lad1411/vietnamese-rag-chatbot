@@ -1,0 +1,38 @@
+Dãy hoạt động hóa học của kim loại
+
+Dãy hoạt động hóa học của kim loại gồm dãy các kim loại được sắp xếp theo thứ tự, thứ tự này phụ thuộc vào mức độ hoạt động của kim loại (tức là khả năng tham gia phản ứng hóa học với chất khác). Dãy hoạt động hóa học của kim loại được xây dựng từ phương pháp thực nghiệm. 
+Dãy hoạt động hóa học của kim loại.
+"Được sắp xếp theo chiều giảm dần mức độ hoạt động hóa học của kim loại." 
+Đi từ dưới lên trên cùng của bảng kim loại:
+Ý nghĩa.
+Khả năng phản ứng với nước.
+Kim loại kiềm và một số kim loại kiềm thổ (như Ca, Ba) tác dụng với nước tạo ra base (hoặc hydroxide lưỡng tính) và giải phóng khí H2 ở điều kiện bình thường
+Kim loại trung bình và đồng phản ứng với oxi ở nhiệt độ cao. Một số kim loại để lâu ngoài không khí tạo thành hợp chất oxide làm mất dần đi tính chất ban đầu, ví dụ như để sắt ngoài không khí ẩm lâu ngày tạo thành Fe2O3 (Sắt (III) oxide) rất giòn và dễ gãy, người ta gọi hiện tượng này là gỉ sét.
+Kim loại yếu còn lại khó tham gia phản ứng với oxy (như vàng, bạc, platin). Người ta thường dùng lửa để thử xem vàng có phải là vàng thật không, nếu sau khi đốt mà vàng vẫn giữ được màu sắc như ban đầu thì là vàng thật, còn nếu bị thay đổi về màu sắc thì đó là vàng giả (có thể là đồng thau).
+Chú ý.
+Đồng tham gia phản ứng với oxi ở nhiệt độ cao từ màu đỏ gạch chuyển sang màu đen của đồng (II) oxide. Ở nhiệt độ cao hơn (800 - 1000oC) thì một phần CuO ở lớp bên trong bị oxy hóa Cu thành Cu2O màu đỏ.
+Phản ứng với dung dịch acid.
+Kim loại mạnh và trung bình tác dụng với dung dịch acid (trừ Pb,Cu,Ag...) tạo ra muối và giải phóng khí hydro. Do đó trong phòng thí nghiệm, người ta thường dùng một số kim loại như Zn, Al, Fe tác dụng với acid hydrochloric hoặc acid sulfuric loãng để điều chế khí H2. Nhưng trong acid HNO3 đặc, nguội hay H2SO4 đặc, nguội thì Fe, Al và Cr bị thụ động hóa.
+&lt;chem&gt;Zn + 2HCl -&gt; ZnCl_2 + H_2 (^)&lt;/chem&gt;
+Kim loại yếu không thể phản ứng với acid loãng nhưng một số kim loại (như Cu, Ag) có thể phản ứng với acid đặc (H2SO4 đặc, nóng hoặc HNO3 đặc hay loãng) tạo ra dung dịch muối mới nhưng không giải phóng khí hydro mà thay vào đó là khí sunfurous (hoặc khí NO2 hay khí NO).
+Chú ý.
+Kim loại tác dụng với acid sunfuric loãng thì tạo ra muối có số oxy hóa thấp nhưng còn tác dụng với acid sunfuric, acid nitric đặc, nóng hay acid nitrous (acid nitrơ) đặc thì sẽ tạo ra muối có số oxy hóa cao.
+Sắt tác dụng với acid nitric loãng thu được khí NO hay N2O hay khí nitơ hay NH4NO3 còn tác dụng với acid nitric rất loãng, lạnh sẽ giải phóng khí hydro.
+Nhôm tác dụng với acid nitric rất loãng sẽ tạo ra dung dịch nhôm nitrat và amoni nitrat. Nhôm tác dụng với acid sulfuric đặc nóng thì thu được khí sunfurơ hay một số trường hợp khác thì sinh ra lưu huỳnh hoặc khí hydro sulfide.
+Khả năng đẩy kim loại yếu hơn ra khỏi muối.
+Kim loại từ magnesi (Mg) trở về sau khi tác dụng với dung dịch muối của kim loại yếu hơn thì kim loại yếu hơn bị đẩy ra khỏi dung dịch muối.
+&lt;chem&gt;CuSO_4 + Fe -&gt; FeSO_4 + Cu&lt;/chem&gt;
+Khả năng phản ứng với khí CO hoặc khí hydro.
+Khí CO hoặc khí hydro có thể khử các oxide của kim loại trung bình và kim loại yếu (từ Zn trở vào) tạo ra kim loại và khí CO2 hoặc nước.
+Ví dụ.
+&lt;chem&gt;CuO + H2 -&gt;[t^o] Cu + H2O&lt;/chem&gt;
+&lt;chem&gt;PbO + CO -&gt;[t^o] Pb + CO2&lt;/chem&gt;
+Chú ý.
+Tính chất quan trọng của nhôm là tính khử mạnh. Nhôm có khả năng phản ứng dễ dàng với các phi kim như khí chlor, lưu huỳnh, oxy... Nhôm khử được oxide kim loại tạo ra kim loại và nhôm oxide (phản ứng nhiệt nhôm).
+Đối với Fe2O3 thì khí CO/ hydro khử thành Fe3O4 rồi khử thành FeO cuối cùng mới tạo ra Fe. (Fe giảm hóa trị) 
+Ở nhiệt độ cao, carbon còn khử được một số oxide kim loại như PbO, ZnO, CuO... thành các kim loại như Pb, Zn, Cu... Vì vậy trong luyện kim người ta sử dụng tính chất này của cacbon để điều chế kim loại.
+Khả năng bị nhiệt phân hủy.
+Khi nung nóng các base hydroxide không tan trong nước ta được oxide của kim loại đó và có hơi nước thoát ra.
+Chú ý.
+Đồng (II) hydroxide tan dễ dàng trong dung dịch amonia tạo ra dung dịch xanh lam thẫm gọi là nước Svayde [Cu(NH3)4](OH)2.
+

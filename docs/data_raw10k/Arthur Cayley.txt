@@ -1,0 +1,12 @@
+Arthur Cayley
+
+Arthur Cayley (; sinh ngày 16 tháng 8 năm 1821 – mất ngày 26 tháng 1 năm 1895) là nhà toán học Anh làm việc chủ yếu với đại số. Ông giúp thành lập ra các trường đại học Anh hiện đại cho toán học thuần túy.
+Khi còn bé, Cayley thích giải những bài toán khó để giải trí. Ông được học tại đại học Trinity, Cambridge, nơi ông xuất sắc trong các môn tiếng Hy Lạp, tiếng Pháp, tiếng Đức, và tiếng Ý, cũng như toán học. Sau đó , ông làm luật sư trong suốt 14 tháng.
+Ông là người đưa ra định lý Cayley–Hamilton— rằng mọi ma trận vuông là nghiệm của chính đa thức đặc trưng của nó, và chứng thực kết quả với các ma trận bậc hai và bậc ba. Ông là một trong những người đầu tiên đưa ra khái niệm nhóm trong toán học hiện đại — là một tập đi kèm phép toán hai ngôi thỏa mãn một số tiên đề nào đó. Trước đó, khi các nhà toán học nói đến "nhóm", ý của họ thường là các nhóm hoán vị. Bảng Cayley và đồ thị Cayley cũng như định lý Cayley được đặt tên để vinh danh ông.
+Di sản.
+Cayley được chôn tại nghĩa trang Mill Road, Cambridge.
+Chân dung của Cayley năm 1874 vẽ bởi Lowes Cato Dickinson và một chân dung khác vào 1884 vẽ bởi William Longmaid đều nằm trong bộ sưu tầm của đại học Trinity, Cambridge.
+Một số thuật ngữ được tên theo ông:
+Liên kết ngoài.
+ "This article incorporates text from the 1916 "Lectures on Ten British Mathematicians of the Nineteenth Century" by Alexander Macfarlane, which is in the public domain".
+

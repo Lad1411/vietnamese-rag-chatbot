@@ -1,0 +1,111 @@
+Quy hoạch động
+
+Trong ngành khoa học máy tính, quy hoạch động (tiếng Anh: "dynamic programming") là một phương pháp giảm thời gian chạy của các thuật toán thể hiện các tính chất của các bài toán con gối nhau ("overlapping subproblem") và cấu trúc con tối ưu ("optimal substructure").
+Nhà toán học Richard Bellman đã phát minh phương pháp quy hoạch động vào năm 1953. Ngành này đã được thành lập như là một chủ đề về kỹ nghệ và phân tích hệ thống đã được tổ chức IEEE thừa nhận.
+Tổng quan.
+"Cấu trúc con tối ưu" có nghĩa là các lời giải tối ưu cho các bài toán con có thể được sử dụng để tìm các lời giải tối ưu cho bài toán toàn cục. Ví dụ, đường đi ngắn nhất tới một đỉnh trong một đồ thị có thể được tìm thấy bằng cách: trước hết tính đường đi ngắn nhất tới đích từ tất cả các đỉnh kề nó, rồi dùng kết quả này để chọn đường đi toàn cục tốt nhất, như trong hình 1. Nói chung, ta có thể giải một bài toán với cấu trúc con tối ưu bằng một quy trình ba bước:
+Các bài toán con được giải bằng cách chia chúng thành các bài toán nhỏ hơn, và cứ tiếp tục như thế, cho đến khi ta đến được trường hợp đơn giản dễ tìm lời giải.
+Nói rằng một bài toán có "các bài toán con trùng nhau" có nghĩa là mỗi bài toán con đó được sử dụng để giải nhiều bài toán lớn hơn khác nhau. Ví dụ, trong dãy Fibonacci, F3 = F1 + F2 và F4 = F2 + F3 — khi tính mỗi số đều phải tính F2. Vì tính F5 cần đến cả F3 và F4, một cách tính F5 một cách ngây thơ có thể sẽ phải tính F2 hai lần hoặc nhiều hơn. Điều này áp dụng mỗi khi có mặt các bài toán con gối nhau: một cách tiếp cận ngây thơ có thể tốn thời gian tính toán lại lời giải tối ưu cho các bài toán con mà nó đã giải.
+Để tránh việc đó, ta lưu trữ lời giải của các bài toán con đã giải. Do vậy, nếu sau này ta cần giải lại chính bài toán đó, ta có thể lấy và sử dụng kết quả đã được tính toán. Hướng tiếp cận này được gọi là "lưu trữ" (trong tiếng Anh được gọi là "memoization", không phải "memorization", dù từ này cũng hợp nghĩa). Nếu ta chắc chắn rằng một lời giải nào đó không còn cần thiết nữa, ta có thể xóa nó đi để tiết kiệm không gian bộ nhớ. Trong một số trường hợp, ta còn có thể tính lời giải cho các bài toán con mà ta biết trước rằng sẽ cần đến.
+Tóm lại, quy hoạch động sử dụng:
+Quy hoạch động thường dùng một trong hai cách tiếp cận:
+Một số ngôn ngữ lập trình hàm, nổi tiếng nhất là Haskell, có thể tự động lưu trữ kết quả của một lời gọi hàm với một tập đối số ("argument") cụ thể, để tăng tốc cách đánh giá call-by-name (cơ chế này được gọi là "call-by-need"). Việc này chỉ có thể đối với các hàm không có hiệu ứng phụ, tính chất này luôn luôn đúng trong ngôn ngữ Haskell nhưng ít khi đúng trong các ngôn ngữ lập trình mệnh lệnh, chẳng hạn Pascal, C, C++, Java...
+Ví dụ.
+Dãy Fibonacci.
+Một cài đặt đơn giản của một hàm tính phần tử thứ "n" của dãy Fibonacci, trực tiếp dựa theo định nghĩa toán học. Cài đặt này thực hiện rất nhiều tính toán thừa.:
+ function fib(n)
+ if n = 0 or n = 1
+ return 1
+ else
+ return fib(n − 1) + fib(n − 2)
+Lưu ý rằng nếu ta gọi, chẳng hạn, codice_1, ta sẽ tạo ra một cây các lời gọi hàm, trong đó các hàm của cùng một giá trị được gọi nhiều lần:
+Cụ thể, codice_7 được tính hai lần. Trong các ví dụ lớn hơn, sẽ có nhiều giá trị của codice_8, hay "các bài toán con" được tính lại, dẫn đến một thuật toán có thời gian lũy thừa.
+Bây giờ, giả sử ta có một đối tượng ánh xạ đơn giản, nó ánh xạ mỗi giá trị của codice_8 đã được tính tới kết quả của giá trị đó. Ta sửa đổi hàm trên như sau để sử dụng và cập nhật ánh xạ trên. Hàm thu được chỉ đòi hỏi thời gian chạy O("n") thay vì thời gian chạy luỹ thừa:
+ var m:= map(0 → 1, 1 → 1)
+ function fib(n)
+ if n not in keys(m)
+ m[n]:= fib(n − 1) + fib(n − 2)
+ return m[n]
+Đây là cách tiếp cận từ trên xuống, do trước hết ta chia bài toán thành các bài toán nhỏ hơn, rồi giải chúng và lưu trữ các kết quả. Trong trường hợp này, ta cũng có thể giảm từ chỗ hàm sử dụng không gian tuyến tính (O("n")) xuống chỉ còn sử dụng không gian hằng bằng cách sử dụng cách tiếp cận từ dưới lên. Cách này tính các giá trị nhỏ hơn của codice_8 trước, rồi từ đó xây dựng các giá trị lớn hơn:
+ function fib(n)
+ var previousFib:= 1, currentFib:= 1
+ repeat n − 1 times
+ var newFib:= previousFib + currentFib
+ previousFib:= currentFib
+ currentFib:= newFib
+ return currentFib
+Phiên bản bottom-up này gần với vòng lặp mệnh lệnh đơn giản dùng cho việc tính hàm Fibonacci có trong môn học nhập môn khoa học máy tính.
+Trong cả hai ví dụ trên, ta chỉ tính codice_7 một lần, rồi sử dụng nó để tính cả codice_12 và codice_13, thay vì tính nó mỗi lần cần tính codice_12 hay codice_13.
+Bàn cờ.
+Xét một bàn cờ hình vuông "n" × "n" và một hàm giá trị "c"("i", "j") trả về giá trị của ô "i","j" ("i" là chỉ số hàng, "j" là chỉ số cột). Ví dụ: bàn cờ 5 × 5:
+ 5 | 6 | 7 | 4 | 7 | 8 |
+ 4 | 7 | 6 | 1 | 1 | 4 |
+ 3 | 3 | 5 | 7 | 8 | 2 |
+ 2 | 2 | 6 | 7 | 0 | 2 |
+ 1 | 7 | 3 | 5 | 6 | 1 |
+ 1 2 3 4 5
+Trong ví dụ, ta có chẳng hạn "c"(1, 3) = 5
+Giả sử ta có một quân cờ có thể xuất phát tại một ô bất kỳ tại hàng đầu tiên (hàng 1), và ta cần tìm đường đi ngắn nhất (tổng giá trị của các ô đi qua là nhỏ nhất) để tới được hàng cuối cùng (hàng "n"), với điều kiện quân cờ chỉ có thể tiến thẳng hoặc tiến theo đường chéo sang trái hoặc sang phải. Nghĩa là, một quân cờ tại ô (1,3) có thể nhảy sang được một trong ba ô (2,2), (2,3) và (2,4).
+ 5 | | | | | |
+ 4 | | | | | |
+ 3 | | | | | |
+ 2 | | x | x | x | |
+ 1 | | | O | | |
+ 1 2 3 4 5
+Bài toán này thể hiện tính chất "cấu trúc con tối ưu". Nghĩa là, lời giải cho bài toán lớn phụ thuộc vào lời giải cho các bài toán con. Ta định nghĩa hàm "q"("i", "j") như sau:
+Nếu ta có thể tìm được giá trị của hàm này tại tất cả các ô nằm trên hàng "n", ta sẽ chọn lấy giá trị nhỏ nhất và lần ngược con đường đó để có được đường đi ngắn nhất.
+Dễ thấy rằng "q"("i", "j") bằng chi phí tối thiểu để đến ô bất kỳ trong ba ô nằm dưới nó (do chỉ có thể đến được ("i","j") từ các ô này) cộng thêm "c"("i", "j"). Ví dụ:
+ 5 | | | | | |
+ 4 | | | A | | |
+ 3 | | B | C | D | |
+ 2 | | | | | |
+ 1 | | | | | |
+ 1 2 3 4 5
+Bây giờ, ta định nghĩa "q"("i", "j") một cách chính thức hơn:
+Phương trình trên rất dễ hiểu. Dòng đầu tiên là các trường hợp đặc biệt, dòng này có mục đích dọn dẹp cho tính chất đệ quy. Dòng thứ hai mô tả những gì xảy ra tại hàng đầu tiên, để ta có xuất phát điểm. Dòng thứ ba, phần đệ quy, là phần quan trọng nhất. Về cơ bản, nó giống với ví dụ A,B,C,D.
+Từ định nghĩa này, ta có thể dễ dàng tạo một đoạn mã đệ quy để tính "q"("i", "j"). Trong đoạn mã giả sau, "n" là kích thước của bàn cờ, codice_16 là hàm chi phí, và codice_17 trả về giá trị nhỏ nhất của các giá trị nằm trong ngoặc:
+ function minCost(i, j)
+ if j = 0 or j = n + 1
+ return infinity
+ else if i = 1
+ return c(i, j)
+ else 
+ return min(minCost(i-1, j-1), minCost(i-1, j), minCost(i-1, j+1)) + c(i, j)
+Cần lưu ý rằng hàm này chỉ tính chi phí của đường đi chứ không phải đường đi đích thực. Ta sẽ nói đến phần đó sau.
+Cũng như ví dụ về dãy Fibonacci, hàm trên chạy rất rất lâu do nó phải tốn hàng núi thời gian để tính đi tính lại các đường đi ngắn nhất. Tuy nhiên, ta có thể tính nhanh hơn rất nhiều nếu hàm trên thực hiện công việc lưu trữ các giá trị đã được tính (trong một mảng). Hoặc, ta còn có thể nhanh hơn nữa nếu tính toán theo kiểu từ dưới lên và một mảng hai chiều codice_18. Tại sao? Đơn giản là vì khi đó ta tính toán mỗi đường đi chỉ một lần, và ta có thể chọn cái gì cần tính toán trước.
+Ta còn cần biết đường đi thực sự như thế nào. Vấn đề đó có thể được giải quyết bằng cách sử dụng một mảng nữa: "mảng nút đứng trước" codice_19. Mảng này lưu các dấu vết về chuyện các đường đi từ hướng nào tới. Xét đoạn mã sau:
+ function computeShortestPathArrays()
+ for x from 1 to n
+ q[1, x]:= c(1, x)
+ for y from 1 to n
+ q[y, 0]:= infinity
+ q[y, n + 1]:= infinity
+ for y from 2 to n
+ for x from 1 to n
+ m:= min(q[y-1, x-1], q[y-1, x], q[y-1, x+1])
+ q[y, x]:= m + c(y, x)
+ c[y, x]:= q[y, x]
+ if m = q[y-1, x-1]
+ p[y, x]:= -1
+ else if m = q[y-1, x]
+ p[y, x]:= 0
+ else
+ p[y, x]:= 1
+Bây giờ, vấn đề đơn giản còn lại là xác định cực tiểu và in nó ra.
+ function computeShortestPath()
+ computeShortestPathArrays()
+ minIndex:= 1
+ min:= q[n, 1] 
+ for i from 2 to n 
+ if q[n, i] &lt; min
+ minIndex:= i
+ min:= q[n, i]
+ printPath(n, minIndex)
+ function printPath(y, x)
+ print(x)
+ print("&lt;-")
+ if y = 2
+ print(x + p[y, x])
+ else
+ printPath(y-1, x + p[y, x])
+

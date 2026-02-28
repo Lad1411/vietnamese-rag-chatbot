@@ -1,0 +1,22 @@
+Vụ bắt giữ Mark Bernstein
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;68565496&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-09-29T10:04:27Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Trần Nguyễn Minh Huy&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Vào ngày 11 tháng 3 năm 2022, một blogger và biên tập viên của Wikipedia tiếng Nga tên là Mark Bernstein, sống tại Minsk, bị lực lượng an ninh GUBOPiK của Belarus bắt giữ sau những cáo buộc trực tuyến vi phạm Các luật tin giả của Nga vì đã chỉnh sửa các bài viết trên Wikipedia thuộc chủ đề Nga xâm lược Ukraina năm 2022. Ông bị kết án 15 ngày giam giữ hành chính theo Điều 24.3 của Bộ luật Hành chính Belarus (vì tội kháng lệnh cảnh sát), tuy nhiên vẫn không được thả khi đến hạn mà tiếp tục bị buộc tội hình sự.
+Wikipedia.
+Bernstein sửa đổi Wikipedia bằng biệt danh Pessimist2006. Từ cuối năm 2009 cho đến đầu năm 2022, Bernstein là một trong 50 biên tập viên tích cực nhất của Wikipedia tiếng Nga, với hơn 200.000 lần sửa đổi. Ông được các nhà xuất bản bách khoa toàn thư khác ủy thác viết bài. Bernstein miêu tả thành tích "tốt nhất" của bản thân trên Wikipedia vào năm 2009 là những đóng góp cho bài viết về mà ông đã trích dẫn hơn 250 nguồn tham khảo. Khoảng thời gian đó Bernstein cũng được hãng truyền thông Đức Deutsche Welle phỏng vấn vì kinh nghiệm của mình; ông đã bình luận về sự phát triển của các dự án Wikipedia tiếng Belarus với hai phiên bản ngữ pháp khác nhau là Taraškievica và Narkamaŭka. Bernstein khuyên các biên tập viên Wikipedia mới đến trước hết hãy học hỏi từ những chỉnh sửa khuôn mẫu của các biên tập viên giàu kinh nghiệm và chuẩn bị tinh thần làm việc cùng với các biên tập viên có quan điểm rất khác nhau và thường đối lập, điều mà ông coi là chìa khóa cho sự phát triển của các bài viết trên Wikipedia.
+Vụ bắt giữ năm 2022.
+Khi một số biên tập viên của Wikipedia tiếng Nga cho rằng tên bài viết "Nga xâm lược Ukraina (2022)" vi phạm chính sách của Wikipedia về trình bày thông tin theo quan điểm trung lập, Bernstein nói: "Quân đội Nga đã xâm lược lãnh thổ Ukraina. Đó đơn thuần là một sự thật, không phải là một quan điểm."
+Ngày 10 tháng 3 năm 2022, một diễn đàn trực tuyến tuyên truyền thân Nga trên Telegram, "Mrakoborets" (, mượn từ "Harry Potter"), đăng tải thông tin cá nhân của Bernstein và cáo buộc ông vi phạm luật mới của Nga về việc xuất bản tin giả. Diễn đàn nọ cho rằng việc Bernstein chỉnh sửa các bài viết trên Wikipedia về cuộc tấn công của Nga vào Ukraina năm 2022 đã vi phạm luật mới.
+Ngày 11 tháng 3 năm 2022, GUBOPiK, "Cục phòng chống tội phạm có tổ chức và tham nhũng" của Belarus, tiến hành bắt giữ Bernstein tại Minsk. Các kênh Telegram thân chính phủ đã công bố đoạn phim ghi lại cảnh Bernstein bị giam giữ và cáo buộc ông phát tán thông tin "chống Nga" giả. Ngày 12 tháng 3, ông bị kết án 15 ngày giam giữ hành chính vì "không chấp hành mệnh lệnh của người thực thi công vụ" (điều 24.3 Bộ luật Hành chính Belarus).
+Wikimedia Foundation, tổ chức vận hành Wikipedia và các dự án khác, ra tuyên bố sau khi tìm hiểu về vụ bắt giữ Bernstein rằng "Nhóm Tín thác và An toàn cùng nhóm Nhân quyền [của Quỹ] đang theo dõi cuộc khủng hoảng đang diễn ra ở Ukraina và tiếp xúc chặt chẽ với các cộng đồng [Wikimedia] trong khu vực để đảm bảo an toàn và đáp ứng nhu cầu của họ." Trên kênh Telegram của Wikipedia tiếng Nga, người dùng tại Belarus và Nga được khuyên nên giấu thông tin cá nhân và sử dụng tài khoản khác để biên tập các bài viết liên quan đến cuộc chiến.
+Ngày 26 tháng 3 năm 2022, tờ báo Belarus "Nasha Niva" thông tin rằng Bernstein vẫn không được trả tự do sau 15 ngày giam giữ và cho biết ông bị buộc tội "tổ chức và lên kế hoạch thực hiện các hành vi vi phạm nghiêm trọng trật tự công cộng, hoặc tích cực tham gia vào các hành vi như thế" (Điều 342.1 Bộ luật Hình sự Belarus). Trong một tuyên bố chung vào ngày 29 tháng 3 của bảy tổ chức, bao gồm Trung tâm Nhân quyền Viasna, ông được công nhận là một tù nhân chính trị.
+

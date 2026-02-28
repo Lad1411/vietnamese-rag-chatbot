@@ -1,0 +1,24 @@
+Chuyển động Brown
+
+ 
+Chuyển động Brown (đặt tên theo nhà thực vật học Scotland Robert Brown) mô phỏng chuyển động của các hạt trong môi trường lỏng (chất lỏng hoặc khí) và cũng là mô hình toán học mô phỏng các chuyển động tương tự, thường được gọi là vật lý hạt.
+Chuyển động Brown có nhiều ứng dụng thực tế, và thường được dùng để mô phỏng sự dao động của thị trường chứng khoán.
+Chuyển động Brown là một trong những quá trình ngẫu nhiên liên tục đơn giản nhất.
+Mặc dù chuyển động trộn lẫn của các hạt bụi được gây ra chủ yếu bởi dòng không khí, sự chuyển động lấp lánh, lấp lánh của các hạt bụi nhỏ, quả thực, gây ra chủ yếu bởi các động lực Brown đúng sự thật.
+Trong khi Jan Ingenhousz mô tả chuyển động bất thường của các hạt bụi than trên bề mặt của rượu vào năm 1785, việc phát hiện ra hiện tượng này thường được ghi nhận cho nhà thực vật học Robert Brown năm 1827. Brown đang nghiên cứu hạt phấn của cây Clarkia pulchella lơ lửng trong nước dưới một kính hiển vi khi ông quan sát các hạt phút, bị đẩy ra bởi các hạt phấn hoa, thực hiện một chuyển động jittery. Bằng cách lặp lại thí nghiệm với các hạt vật chất vô cơ, ông đã có thể loại trừ rằng chuyển động liên quan đến cuộc sống, mặc dù nguồn gốc của nó vẫn chưa được giải thích.
+Người đầu tiên mô tả toán học đằng sau chuyển động Brown là Thorvald N. Thiele trong một bài báo về phương pháp hình vuông nhỏ nhất được xuất bản năm 1880. Điều này được theo sau độc lập bởi Louis Bachelier năm 1900 trong luận án tiến sĩ của ông "Lý thuyết về đầu cơ", trong đó ông trình bày một phân tích ngẫu nhiên về thị trường chứng khoán và các lựa chọn. Mô hình chuyển động Brown của thị trường chứng khoán thường được trích dẫn, nhưng Benoit Mandelbrot từ chối khả năng ứng dụng của nó đối với các biến động giá cổ phiếu một phần vì chúng không liên tục. [4]
+Albert Einstein (trong một trong 1905 bài báo của ông) và Marian Smoluchowski (1906) đã đưa ra giải pháp cho vấn đề với sự chú ý của các nhà vật lý, và trình bày nó như một cách để gián tiếp xác nhận sự tồn tại của các nguyên tử và phân tử. Các phương trình mô tả chuyển động Brown của họ sau đó đã được xác minh bởi công trình thực nghiệm của Jean Baptiste Perrin vào năm 1908.
+Sự phát hiện về chuyển động Brown.
+Robert Brown là một nhà sinh học người Scotland. Năm 1827, ông quan sát các hạt phấn hoa lắc lư dưới kính hiển vi. Ông là nhà khoa học đầu tiên mô tả chuyển động này. Nó được đặt tên là chuyển động Brown.
+Robert Brown đặt ra nghi vấn với những gì ông quan sát được. Ông đã thử đưa ra lời giải thích. Ông nghĩ rằng có lẽ các hạt phấn hoa đang tự mình chuyển động, tự bơi trong nước.
+Để thử nghiệm ý tưởng này, ông đã quan sát những hạt bụi trong nước. Các hạt bụi di chuyển giống hạt phấn hoa. Brown biết rằng các hạt bụi không phải là sinh vật sống, nên ý tưởng ban đầu của ông là không chính xác.
+Vào thời Robert Brown sống, không ai biết rằng các chất được tạo nên bởi các hạt nhỏ xíu liên tục chuyển động, vậy nên họ không thể giải thích được chuyển động Brown. Lý thuyết hạt của vật chất được đưa ra lần đầu tiên vào năm 1870. Chỉ đến khi đó, các nhà khoa học mới có thể lý giải nguyên nhân gây ra chuyển động Brown.
+Mô phỏng sử dụng phương trình vi phân.
+Toán học.
+Trong toán học, quá trình Wiener là một quá trình ngẫu nhiên liên tục được đặt tên theo Norbert Wiener, nó là một trong những quá trình Lévy (quá trình ngẫu nhiên liên tục về bên phải, giới hạn về bên trái với lượng gia độc lập và không đổi - càdlàg stochastic processes with stationary independent increments - nổi tiếng nhất và thường được dùng trong toán học, kinh tế và vật lý.
+Quá trình Wiener formula_1 có ba đặc điểm:
+formula_7 biểu thị phân phối chuẩn với giá trị trung bình "μ" và phương sai "σ"2. Điều kiện quá trình có lượng gia độc lập có nghĩa là nếu formula_8 thì formula_9 và formula_10 là những biến ngẫu nhiên độc lập.
+Tham khảo.
+Sách giáo khoa Vật lí lớp 8. Thí nghiệm Brown đã được đưa vào chương trình để dạy học.
+Sách Khoa Học lớp 8 hệ Cambridge. Thí nghiệm Brown đã được đưa vào chương trình để dạy học.
+

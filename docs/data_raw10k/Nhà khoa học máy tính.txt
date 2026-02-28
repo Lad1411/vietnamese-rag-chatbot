@@ -1,0 +1,6 @@
+Nhà khoa học máy tính
+
+Nhà khoa học máy tính là một người có được kiến thức về khoa học máy tính, nghiên cứu về nền tảng lý thuyết của thông tin và tính toán và ứng dụng của họ.
+Các nhà khoa học máy tính thường làm việc trên khía cạnh lý thuyết của các hệ thống máy tính, trái ngược với khía cạnh phần cứng mà các kỹ sư máy tính chủ yếu tập trung (mặc dù có sự chồng chéo). Mặc dù các nhà khoa học máy tính cũng có thể tập trung công việc và nghiên cứu vào các lĩnh vực cụ thể (như thiết kế và phát triển cấu trúc dữ liệu và thuật toán, công nghệ phần mềm, lý thuyết thông tin, lý thuyết cơ sở dữ liệu, lý thuyết phức tạp tính toán, phân tích số, lý thuyết ngôn ngữ lập trình, đồ họa máy tính và thị giác máy tính), nền tảng của họ là nghiên cứu lý thuyết về điện toán mà từ đó các lĩnh vực khác có thể dựa vào đó để phát triển tiếp.
+Mục tiêu hàng đầu của các nhà khoa học máy tính là phát triển hoặc xác nhận các mô hình, thường là toán học, để mô tả các thuộc tính của các hệ thống dựa trên máy tính (bộ xử lý, chương trình, máy tính tương tác với con người, máy tính tương tác với các máy tính khác, v.v.) với mục tiêu tổng thể là khám phá thiết kế mang lại lợi ích hữu ích (nhanh hơn, nhỏ hơn, rẻ hơn, chính xác hơn, v.v.).
+

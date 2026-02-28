@@ -1,0 +1,23 @@
+Danh sách cây ăn quả
+
+Danh sách này bao gồm tên của các loại trái cây được coi là có thể ăn tươi hoặc trong một số món ăn. Từ "trái cây" được sử dụng theo nhiều cách khác nhau. Định nghĩa về trái cây cho danh sách này là "Bất kỳ bộ phận ngọt, ăn được nào của thực vật giống trái cây, ngay cả khi nó không phát triển từ nhụy hoa; cũng được sử dụng theo nghĩa không chính xác trên thực tế đối với một số loại rau quả ngọt hoặc nửa ngọt, một số có thể giống trái cây thật hoặc là được sử dụng trong nấu nướng như thể chúng là một loại trái cây, chẳng hạn như đại hoàng."
+Nhiều bộ phận thực vật ăn được là "trái" thực sự (nói về mặt thực vật học) nhưng không được coi là trái cây. Chúng được xếp vào loại rau ăn quả (ví dụ: cà chua, bí xanh, v.v.), và do đó chúng không xuất hiện trong danh sách này. Tương tự như vậy, một số loại trái cây được phân loại là các loại hạt (ví dụ như hạt Brazil), và cũng không xuất hiện ở đây. Bởi vì tất cả những điều này, danh sách này cũng không chính xác về mặt thực vật học với cách các loại trái cây được phân nhóm, thay vào đó, các loại trái cây được nhóm lại với nhau dựa trên những điểm tương đồng về mặt vật lý (ví dụ chuối về mặt thực vật học là một loại quả mọng, nhưng thường không được gọi là như vậy, và chúng không được xếp chung nhóm với các loại quả mọng khác).
+Pome.
+Pome bao gồm bất kỳ quả giả giòn nào bao quanh "lõi" không thể ăn được của quả và thường có các hạt được sắp xếp theo hình giống như hình sao. (Ở đây bao gồm trái cây cỡ quả mọng.)
+Quả hạch.
+Quả hạch đại diện cho bất kỳ loại trái cây nào (thậm chí cỡ quả mọng) chỉ có một hạt (hoặc "đá") hoặc một nang cứng có chứa hạt.
+Quả kiên.
+Quả kiên là loại quả khô, vỏ cứng, không có múi, không tách ra khi trưởng thành để giải phóng hạt
+Cam chanh.
+Các loài cam chanh đại diện cho loại trái cây là những quả mọng, phân múi, có vỏ dày và sần sùi. Những loại trái cây này thường có vị chua và có tính axit ở một mức độ nào đó và có mặt cắt giống như bánh xe chở hàng.
+Quả mọng.
+Các loại quả mọng đại diện cho bất kỳ trái cây đó là cỡ anh đào (nghĩa là bạn có thể giữ nhiều quả trong lòng bàn tay của bạn), ngoại trừ Pome hoặc quả hạch.
+Dưa.
+Dưa là loại quả có phần thịt mềm bên trong và được bao phủ bởi một lớp vỏ dày, cứng.
+Trái cây nhiệt đới và giống như nhiệt đới.
+Trái cây nhiệt đới và giống nhiệt đới là bất kỳ loại trái cây ăn được nào không phù hợp với bất kỳ loại nào khác.
+Xương rồng và các loại trái cây mọng nước khác.
+Xương rồng và các loại trái cây mọng nước khác là những loại trái cây có nguồn gốc từ xương rồng hoặc loài mọng nước.
+Thực vật có cấu trúc giống quả ăn được.
+Thực vật có cấu trúc giống như trái ăn được không phải là trái thực thụ, nhưng được sử dụng giống như vậy.
+

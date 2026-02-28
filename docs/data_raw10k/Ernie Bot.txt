@@ -1,0 +1,5 @@
+Ernie Bot
+
+Ernie Bot (, ) là E"nhanced Representation through Knowledge Integration", hay còn được gọi là ERKI, là một sản phẩm dịch vụ chatbot trí tuệ nhân tạo của Baidu, đang được phát triển từ năm 2019. ERKI được xây dựng trên một mô hình ngôn ngữ lớn có tên gọi là "Ernie 3.0-Titan". Sản phẩm này đã được ra mắt vào ngày 17 tháng 3 năm 2023.
+Vào ngày 20 tháng 3 năm 2023, Baidu đã thông báo trên WeChat chính thức của mình rằng dịch vụ đám mây Wenxin Yiyin sẽ được phát hành vào ngày 27 tháng 3, nhưng việc ra mắt đã bị trì hoãn đến một ngày không xác định. Baidu đã giới thiệu Wenxin Qianfan, một nền tảng dịch vụ mô hình ngôn ngữ lớn cấp cho doanh nghiệp. Wenxin Qianfan bao gồm không chỉ Wenxin Yiyin mà còn là một bộ công cụ phát triển đầy đủ của Baidu Wenxin Big Model và các công cụ phát triển tương ứng.
+

@@ -1,0 +1,10 @@
+Số nguyên tố Ramanujan
+
+Số nguyên tố Ramanujan là tên gọi các số nguyên tố thỏa mãn một kết quả do nhà toán học Ấn Độ Srinivasa Ramanujan tìm ra.
+Nguồn gốc và định nghĩa.
+Năm 1919, Ramanujan công bố một cách chứng minh định đề Bertrand. Về khúc cuối bài nghiên cứu này (chỉ hai trang), Ramanujan rút ra thêm một kết luận nữa, là:
+trong đó hàm formula_2"(x)" là số các số nguyên tố ≤ "x".
+Kết quả này, khi đọc ngược lại, trở thành định nghĩa của số nguyên tố Ramanujan, và các số 2, 11, 17, 29, 41 là những con số đầu trong các số nguyên tố Ramanujan. Nói cách khác:
+Hay nói cách khác nữa:
+Vì "Rn" là số nguyên nhỏ nhất thỏa mãn điều kiện trên, nên "Rn" phải là số nguyên tố: Mỗi khi hàm formula_1 tăng lên 1, đó là do có thêm một số nguyên tố nữa.
+

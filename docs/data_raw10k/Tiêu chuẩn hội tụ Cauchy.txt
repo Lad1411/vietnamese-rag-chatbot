@@ -1,0 +1,19 @@
+Tiêu chuẩn hội tụ Cauchy
+
+Tiêu chuẩn hội tụ Cauchy là một phương pháp kiểm tra sự hội tụ của một chuỗi vô hạn. Nó dựa vào tổng bị chặn của các số hạng trong dãy. Tiêu chuẩn hội tụ này được đặt tên theo Augustin-Louis Cauchy, người đã xuất bản nó trong cuốn sách Cours d'Analyse năm 1821.
+Phát biểu.
+Một chuỗi
+được thỏa mãn với mọi và mọi .
+Giải thích.
+Tiêu chuẩn này có hiệu lực là do không gian các số thực R và không gian các số phức C (với metric cho bởi giá trị tuyệt đối) đều là đầy đủ. Vì thế chuỗi hội tụ khi và chỉ khi dãy tổng riêng
+là một dãy Cauchy.
+Một dãy số thực hoặc phức formula_5 là một dãy Cauchy khi và chỉ khi formula_5 hội tụ (tới một điểm nào đó trong R hoặc C). Định nghĩa chính tắc khẳng định rằng với mỗi formula_2, tồn tại số tự nhiên "N", sao cho với mọi "n", "m" &gt; "N" ta có
+formula_8
+Ta giả thiết rằng "m" &gt; "n" và do đó đặt "p" = "m" − "n".
+Chứng tỏ rằng một dãy là một dãy Cauchy là hữu ích vì ta không cần tìm ra giới hạn của dãy đang xét. Tiêu chuẩn hội tụ Cauchy chỉ có thể được áp dụng trong các không gian metric đầy đủ (ví dụ R hay C), là các không gian mà mọi dãy Cauchy hội tụ. Ta chỉ cần cho thấy rằng các phần tử của dãy tiến gần nhau một cách tùy ý sau một vài bước hữu hạn của dãy. Có một số ứng dụng máy tính của dãy Cauchy, trong đó một quy trình lặp có thể được thiết lập để tạo ra các dãy như vậy.
+Chứng minh.
+Ta có thể sử dụng các kết quả ở trên về sự hội tụ của các dãy tổng riêng của một chuỗi vô hạn và áp dụng chúng với sự hội tụ của chính chuỗi vô hạn đó. Dấu hiệu tiêu chuẩn hội tụ Cauchy là một áp dụng như vậy. Với một dãy thực bất kỳ formula_10, các kết quả ở trên về sự hội tụ suy ra rằng chuỗi vô hạn
+hội tụ khi và chỉ khi với mỗi formula_2 tồn tại một số tự nhiên "N", sao cho
+"m" ≥ "n" ≥ "N" dẫn đến
+Có thể nói điều lý thú nhất của định lý này là điều kiện Cauchy dẫn đến sự tồn tại của giới hạn: điều này thật vậy liên quan đến sự đầy đủ của trục số thực. Tiêu chuẩn hội tụ Cauchy có thể được tổng quát hóa với nhiều trường hợp khác mà có thể tóm tắt là ở đó "điều kiện sự dần gần nhau tương đương với sự hội tụ".
+

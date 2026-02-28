@@ -1,0 +1,19 @@
+Chất khử
+
+Chất khử (hay tác nhân khử) là một nguyên tố hóa học hay một hợp chất trong các phản ứng oxy hóa khử có khả năng khử một chất khác. Để thực hiện điều đó nó trở thành chất bị oxy hóa, và vì thế nó là chất cho điện từ trong phản ứng oxy hóa khử. Chất khử đồng thời cũng là chất bị oxy hóa. Ví dụ, trong phản ứng dưới đây:
+Chất khử trong phản ứng này là magiê. Magiê cho hai điện tử hóa trị và trở thành một ion, điều này cho phép nó cũng như oxy trở nên bền vững.
+Các chất khử như vậy cần phải được bảo vệ tốt trong không khí do chúng phản ứng với oxy tương tự như phản ứng trên.
+Độ mạnh yếu.
+Một chất khử mạnh rất dễ dàng mất (hay cho) các điện tử. Hạt nhân của nguyên tử thu hút các điện tử quỹ đạo của nó. Đối với các nguyên tố mà nguyên tử của nó có bán kính nguyên tử tương đối lớn thì khoảng cách từ hạt nhân tới các điện tử là lớn hơn và lực thu hút (hấp dẫn) của nó là yếu hơn; do vậy, các nguyên tố này có xu hướng thể hiện tính khử cao hơn. Ngoài ra, các nguyên tố có độ âm điện thấp, thì khả năng của nguyên tử hay phân tử của nó trong việc thu hút các điện tử liên kết là yếu hơn và năng lượng ion hóa tương đối thấp của chúng cũng là lý do để chúng là các tác nhân khử mạnh hơn. Tiêu chuẩn đánh giá một chất trong việc dễ hay khó bị oxy hóa/mất điện tử được gọi là thế oxy hóa. Bảng dưới đây chỉ ra một số thế khử, có thể dễ dàng hoán chuyển thành thế oxy hóa bằng cách đơn giản là đổi dấu trong giá trị của nó. Các chất khử có thể dễ dàng xếp hạng theo sự tăng lên (giảm xuống) trong thế oxy hóa của chúng. Một chất khử là mạnh hơn khi nó có thế oxy hóa có trị số lớn hơn và sẽ là chất khử yếu khi nó có thế oxy hóa có trị số nhỏ hơn. Bảng dưới đây chỉ ra thế khử của một số chất khử ở điều kiện 25 °C. Ngoài ra cũng cần ghi nhớ là quá trình oxy hóa là mất đi điện tử còn quá trình khử là thu điện tử. 
+Ví dụ nếu một người liệt kê Cu, Cl-, Na và Cr theo trật tự giảm dần xuống của tính khử ở điều kiện như đề cập tại bảng trên thì người đó cần phải biết thế oxy hóa của nó, đổi dấu trị số nhận được để có thế khử và so sánh chúng với nhau. Kết quả nhận được sẽ là Na, Cr, Cu và Cl-; Na sẽ là chất khử mạnh nhất còn Cl- là chất khử yếu nhất trong số 4 chất này.
+Một số chất khử phổ biến bao gồm các kim loại kiềm và kiềm thổ như kali, calci, bari, natri hay magiê, cũng như các hợp chất chứa ion H-, những chất này bao gồm NaH, LiAlH4 hay CaH2.
+Cần lưu ý rằng, một số nguyên tố và hợp chất có thể là chất khử hay chất oxy hóa tùy theo điều kiện để chúng tham gia phản ứng. Ví dụ, hiđrô là chất khử khi phản ứng với các nguyên tố không là kim loại nhưng lại là chất oxy hóa khi phản ứng với một số kim loại. Ví dụ, trong phản ứng
+thì hiđrô đóng vai trò của chất oxy hóa do nó nhận điện tử do lithi cung cấp, và nó làm cho lithi bị oxy hóa.
+Các nửa của phản ứng 2Li(rắn)0 --&gt;2Li(s)+1 + 2e-::::: H20(khí) + 2e- --&gt; 2H−1(khí)
+Còn trong phản ứng này
+thì hiđrô đóng vai trò của chất khử do nó cho đi điện tử duy nhất của mình cho fluor, điều này có nghĩa là nó khử fluor.
+Các nửa của phản ứng H20(khí) --&gt; 2H+1(khí) + 2e-:::::
+F20(khí) + 2e- --&gt; 2F−1(khí)
+Tầm quan trọng.
+Các chất khử và các chất oxy hóa là các chất có tác dụng ăn mòn điện hóa, là "sự xuống cấp của các kim loại do kết quả của các hoạt động điện hóa". Quá trình này cần có 1 hay nhiều ion đảm nhận vai trò nhận điện tích (ion dương) và 1 hay nhiều ion đảm nhận vai trò cho điện tích (ion âm) để có thể xảy ra. Anôt là nguyên tố mất điện tử (chất khử), vì vậy quá trình oxy hóa diễn ra tại anôt, còn catôt là nguyên tố thu nhận điện tử (chất oxy hóa), vì thế quá trình khử luôn luôn diễn ra tại catôt. sự ăn mòn điện hóa diễn ra khi có sự chênh lệch về thế oxy hóa. Khi điều này xảy ra, anôt kim loại sẽ bắt đầu bị hư hỏng dần đi do ở đó có một mạch điện khép kín thông qua chất điện phân.
+

@@ -1,0 +1,14 @@
+Chuyển gen ngang
+
+Chuyển gen ngang là sự di chuyển của vật chất di truyền (DNA hoặc RNA) giữa các tế bào hoặc cơ thể sống cùng thế hệ, còn được gọi là truyền gen theo hàng ngang, để phân biệt với "chuyển gen theo hàng dọc" là quá trình kế thừa gen từ bố mẹ sang con cái thông qua sinh sản.
+Thuật ngữ này dịch từ tiếng Anh là horizontal gene transfer (chuyển gen theo chiều ngang, hoặc chuyển gen hàng bên) viết tắt là HGT. Chuyển gen ngang phổ biến trong các loài vi khuẩn, còn trong tiến hoá thì quá trình này đóng vai trò rất quan trọng giúp các bộ gen của các loài rất khác nhau có thể trao đổi vật chất di truyền cho nhau mà không cần thông qua giao phối và thụ tinh.
+Tổng quan.
+Ý tưởng ban đầu của phương pháp chuyển gen nhân tạo (gene delivery) trong kỹ thuật di truyền có thể được gợi mở từ hiện tượng HGT của vi khuẩn trong tự nhiên.
+Cơ chế.
+Cơ chế HGT rất phức tạp, diễn ra ở mỗi nhóm loài không như nhau. Sau đây là một số.
+HGT ở vi sinh vật.
+Virut.
+Ở nhóm virut, có một loại tên là "Mimivirus" lây nhiễm amip. Một loại vi rút khác, được gọi là "Sputnik" ("virut vệ tinh") cũng lây nhiễm amip, nhưng nó không thể sinh sôi nảy nở trừ khi "Mimivirus" đã nhiễm vào cùng một tế bào chủ. Bộ gen của "virut vệ tinh" cho thấy đặc điểm sinh học của nó: trong số 13 gen của nó ít giống với bất kỳ gen nào khác đã biết, có 3 gen có liên quan mật thiết với các gen ở "mimivirus", như là cần "cộng sinh" với chúng trong lịch sử tiến hóa, nên có tác giả gọi nó là "virophague" (virut kí sinh virut, như thể thực khuẩn). Điều này cho thấy rằng "virut vệ tinh" đã thực hiện chuyển gen theo chiều ngang giữa các virut, tương tự như phương thức các vi khuẩn chuyển gen ngang cho nhau.
+Vi khuẩn.
+Ở vi khuẩn, biến nạp tự nhiên là sự thích nghi của vi khuẩn để chuyển DNA theo kiểu HGT. Nói chung, biến nạp có cơ chế phức tạp, đòi hỏi nhiều năng lượng. Để vi khuẩn có thể liên kết, tiếp nhận và tái tổ hợp DNA "ngoại lai" vào nhiễm sắc thể của nó, nó phải ở trạng thái sinh lý đặc biệt. Chẳng hạn, ở "Bacillus subtilis" trạng thái này đòi hỏi sự biểu hiện của khoảng 40 gen.
+

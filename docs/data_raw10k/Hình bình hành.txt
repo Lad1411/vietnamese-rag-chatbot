@@ -1,0 +1,25 @@
+Hình bình hành
+
+ 
+Hình bình hành trong hình học Euclid là một hình tứ giác được tạo thành khi hai cặp đường thẳng song song cắt nhau. Nó là một dạng đặc biệt của hình thang gồm 4 góc và có những tính chất giống hình thang và hình chữ nhật
+Trong không gian 3 chiều, khối tương đương với hình bình hành là hình khối lục diện.
+Tính chất.
+Trong một hình bình hành có:
+Diện tích hình bình hành.
+-Diện tích hình bình hành bằng độ dài cạnh đáy nhân với độ dài chiều cao.
+Gọi B là độ dài cạnh đáy, H là độ dài chiều cao và S là diện tích.
+formula_1
+Ngoài ra, diện tích hình bình hành cũng được tính bằng tích độ dài 2 cạnh kề nhân với sin góc hợp bởi 2 cạnh
+Gọi A và B lần lượt là độ dài 2 cạnh và formula_2 là góc hợp bởi 2 cạnh
+formula_3
+Chu vi hình bình hành.
+-Chu vi của một hình bình hành bằng 2 lần tổng một cặp cạnh kề nhau bất kỳ:
+formula_4
+Tâm đối xứng.
+-Giao điểm hai đường chéo của hình bình hành là tâm đối xứng của hình bình hành đó.
+Tham khảo.
+- Cách tính chiều cao hình bình hành: chiều cao hình bình hành bằng diện tích chia cho cạnh đáy, trong đó S là diện tích, A là cạnh đáy và H là chiều cao. H = S: A
+- Cách tính cạnh đáy hình bình hành: cạnh đáy hình bình hành bằng diện tích chia cho chiều cao, trong đó S là diện tích, A là cạnh đáy và H là chiều cao. A = S: H
+Liên kết ngoài.
+Nhà xuất bản giáo dục - Bộ giáo dục đào tạo - Sách giáo khoa Toán lớp 8 tập 1
+

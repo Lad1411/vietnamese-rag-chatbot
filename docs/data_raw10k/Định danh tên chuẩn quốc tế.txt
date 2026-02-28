@@ -1,0 +1,12 @@
+Định danh tên chuẩn quốc tế
+
+Định danh tên chuẩn quốc tế, International Standard Name Identifier (ISNI) là một  mãsố nhận dạng để xác định duy nhất danh tính công cộng của những người đóng góp cho nội dung phương tiện truyền thông như sách, chương trình truyền hình và các bài báo. Một số nhận dạng như vậy bao gồm 16 chữ số. Nó có thể được hiển thị chia thành bốn khối.
+Nó được phát triển dưới sự bảo trợ của Tổ chức tiêu chuẩn hóa quốc tế (ISO) với mã số Draft International Standard 27729; tiêu chuẩn hợp lệ đã được công bố vào ngày 15 tháng 3 năm 2012. Ban kỹ thuật ISO 46, tiểu ban 9 (TC 46 / SC 9) chịu trách nhiệm xây dựng tiêu chuẩn này.
+ISNI có thể được sử dụng để phân biệt các tên tuổi có thể bị lẫn lộn, và liên kết dữ liệu về các tên được thu thập và sử dụng trong tất cả các lĩnh vực của ngành công nghiệp truyền thông.
+Đọc thêm.
+Smith-Yoshimura, Karen, Janifer Gatenby, Grace Agnew, Christopher Brown, Kate Byrne, Matt
+Carruthers, Peter Fletcher, Stephen Hearn, Xiaoli Li, Marina Muilwijk, Chew Chiat Naun, John Riemer,
+Roderick Sadler, Jing Wang, Glen Wiley, and Kayla Willey. 2016. Addressing the Challenges with
+Organizational Identifiers and ISNI. Dublin, Ohio: OCLC Research.
+http://www.oclc.org/content/dam/research/publications/2016/oclcresearch-organizational-identifiers-and-isni-2016.pdf.
+

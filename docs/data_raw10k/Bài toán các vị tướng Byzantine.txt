@@ -1,0 +1,13 @@
+Bài toán các vị tướng Byzantine
+
+Bài toán các vị tướng Byzantine (Byzantine Generals) là một bài toán trong khoa học máy tính về đường truyền tin cậy, bộ xử lý lỗi trong một hệ phân tán.
+Nội dung của bài toán này như sau:
+Có N tướng cầm các cánh quân khác nhau
+Có M tướng phản bội, cố gắng ngăn cản các tướng khác làm theo thỏa thuận:
+ – 4 tướng muốn tấn công
+ – 4 tướng muốn rút quân 
+ – 1 tướng phản bội nói với nhóm thứ nhất là muốn tấn công, nói với nhóm thứ 2 là muốn rút quân
+Các tướng trung thành làm thế nào để đạt được thỏa thuận?
+Một trong những cách giải quyết Byzantine Generals:
+Nếu có M tướng phản bội, phải có ít nhất 2M+1 tướng trung thành. Như vậy tổng cộng sẽ có M+1 vòng trao đổi thông điệp. Tổng cộng cần có O(MN2) thông điệp trao đổi, việc này rất tốn kém.
+

@@ -1,0 +1,11 @@
+Google Tez
+
+Google Tez (tiếng Hindustan: तेज़ · · tức là "nhanh") là một dịch vụ thanh toán di động bởi Google, nhắm vào đối tượng người dùng tại Ấn Độ. Nó hoạt động dựa trên nền tảng Unified Payments Interface ("Giao diện Thanh toán Thống nhất"), được phát triển bởi Hiệp hội Thanh toán Quốc gia Ấn Độ. Tez được chấp nhận tại bất cứ điểm giao dịch UPI nào. Tez có thể hoạt động trên đa số các điện thoại thông minh tại Ấn Độ (với các ứng dụng cho cả Android và iOS), ứng dụng trên Android hỗ trợ tiếng Anh, tiếng Hindi, tiếng Bengal, tiếng Gujarat, tiếng Kannada, tiếng Marathi, tiếng Tamil, và tiếng Telugu, cùng với nhiều ngôn ngữ khác sắp được triển khai. Ứng dụng được dự kiến ra mắt tại các thị trường mới nổi khác bao gồm Việt Nam, Indonesia và Thái Lan.
+Dịch vụ.
+Khả năng thanh toán.
+Tez hiện tại được chấp nhận bởi PVR Cinemas và redBus, và được dự kiến tham gia bởi một số các doanh nghiệp khác như DishTV, Jet Airways và Domino’s. Google cũng đang làm việc với các nhà quảng cáo và nền tảng thương mại điện tử trực tuyến như Shopify cùng với các nền tảng thanh toán khác như Billdesk và PayU. Google cũng dự định bổ sung thêm nhiều cách thanh toán hơn trên Tez (ví dụ như thẻ tín dụng và ví). Một số điện thoại từ các đối tác sản xuất là Lava, Micromax, Nokia Mobile, và Panasonic sẽ được cài đặt sẵn Google Tezd.
+Tương thích thiết bị.
+Dịch vụ tương thích với hầu hết đa số các thiết bị Android và iOS.
+Công nghệ.
+Ứng dụng không yêu cầu người dùng chia sẻ bất cứ thông tin cá nhân như số điện thoại hay tên người dùng như các ứng dụng thanh toán khác, thay vào đó sử dụng các mã QR âm thanh dựa trên sóng âm phát ra với tần số mà con người không thể nghe thấy từ thiết bị chuyển tiền tới thiết bị nhận. Công nghệ này không cần phải sử dụng NFC trên thiết bị, vì vậy có lợi thế rất lớn do nhiều mẫu điện thoại thông minh tại Ấn Độ và các thị trường đang phát triển khác không có chip NFC.
+

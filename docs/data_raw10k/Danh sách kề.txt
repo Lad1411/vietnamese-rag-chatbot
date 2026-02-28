@@ -1,0 +1,14 @@
+Danh sách kề
+
+Trong lý thuyết đồ thị, danh sách kề (tiếng Anh: "adjacency list") là danh sách biểu diễn tất cả các cạnh hoặc cung trong một đồ thị.
+Nếu đồ thị vô hướng, mỗi phần tử của danh sách là một cặp hai đỉnh là hai đầu của cạnh tương ứng. Nếu đồ thị có hướng, mỗi phần tử là một cặp có thứ tự gồm hai đỉnh là đỉnh đầu và đỉnh cuối của cung tương ứng.
+Ví dụ, danh sách {a,b},{a,c},{b,c} mô tả đồ thị vô hướng trong hình dưới đây, trong đó ba đỉnh a, b, c được nối với nhau.
+Thông thường, danh sách kề không coi trọng thứ tự giữa các cạnh.
+Trong Khoa học máy tính, danh sách kề là một cấu trúc dữ liệu gắn bó chặt chẽ với việc biểu diễn đồ thị. Trong một biểu diễn danh sách kề, với mỗi đỉnh trong đồ thị, ta lưu trữ tất cả các đỉnh khác có cạnh nối với đỉnh đó - danh sách kề của đỉnh. Ví dụ, đồ thị trong hình vẽ có biểu diễn danh sách kề như sau:
+Các thỏa hiệp.
+Đối thủ chính của danh sách kề là ma trận kề. Với một đồ thị có ma trận kề thưa, biểu diễn danh sách kề của nó chiếm ít không gian hơn, do nó không sử dụng phần không gian nào để lưu trữ các cạnh "không" tồn tại. Sử dụng cài đặt danh sách liên kết đơn giản trên một máy tính 32-bit, một danh sách kề cho một đồ thị vô hướng cần khoảng 16"e" byte, trong đó "e" là số cạnh của đồ thị.
+Mặt khác, do mỗi ô trong ma trận kề chỉ đòi hỏi một bit, chúng có thể được biểu diễn rất gọn, chỉ chiếm "n"2/8 byte không gian bộ nhớ liên tục, trong đó "n" là số đỉnh. Ngoài việc tiết kiệm bộ nhớ, lưu trữ gọn gàng này còn khuyến khích locality of reference ("tính địa phương của các truy nhập đến bộ nhớ").
+Lưu ý rằng một đồ thị có thể có nhiều nhất "n"2 cạnh (kể cả các khuyên). Giả sử "d" = "e"/"n"2 ký hiệu "mật độ" của đồ thị. 
+Ta có: 16"e" &gt; "n"2/8, có nghĩa là danh sách kề chiếm nhiều không gian hơn khi "d" &gt; 1/128. Do đó, chỉ nên dùng danh sách kề với đồ thị thưa.
+Bên cạnh thỏa hiệp về không gian bộ nhớ, các cấu trúc dữ liệu khác nhau còn tạo thuận lợi cho các thao tác dữ liệu khác nhau. Với một danh sách kề, ta dễ dàng tìm mọi đỉnh kề với một đỉnh cho trước; ta chỉ cần đọc danh sách kề của đỉnh đó. Với một ma trận kề, ta phải duyệt toàn bộ một hàng, việc đó cần thời gian O(n). Còn nếu ta lại muốn biết giữa hai đỉnh cho trước có cạnh nối hay không, điều này có thể được xác định ngay lập tức với một ma trận kề, trong khi đó với một danh sách kề, việc này đòi hỏi thời gian tỷ lệ thuận với bậc nhỏ nhất của các đỉnh trong đồ thị.
+

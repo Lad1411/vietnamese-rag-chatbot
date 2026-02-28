@@ -1,0 +1,19 @@
+Ma trận khả nghịch
+
+Trong đại số tuyến tính, một ma trận khả nghịch hay ma trận không suy biến là một ma trận vuông và có ma trận nghịch đảo trong phép nhân ma trận.
+Tìm ma trận nghịch đảo.
+Định thức con và phần bù đại số.
+Ví dụ: Cho ma trận 
+Công thức tính ma trận nghịch đảo.
+Nếu định thức của ma trận A là khả nghịch thì ma trận nghịch đảo của A được tính bằng công thức:
+Các bước tìm ma trận nghịch đảo.
+Ví dụ.
+Cho formula_11. Tính formula_6,
+Tìm ma trận nghịch đảo bằng phép khử Gauss-Jordan.
+Phép khử Gauss-Jordan là một phương pháp tìm ma trận nghịch đảo.
+formula_13
+formula_14suy ra tồn tại ma trận nghịch đảo formula_15, chuyển sang bước 2.
+formula_16
+formula_17
+formula_19
+

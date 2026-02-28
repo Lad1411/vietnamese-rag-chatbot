@@ -1,0 +1,42 @@
+Phân phối chuẩn nhiều chiều
+
+&lt;/math&gt;formula_1|
+ cdf =|
+ mean =formula_2|
+ median =formula_2|
+ mode =formula_2|
+ variance =formula_5 (ma trận hiệp phương sai)|
+ skewness =0|
+ kurtosis =0|
+ entropy =formula_6|
+ mgf =formula_7|
+ char =formula_8|
+Trong lý thuyết xác suất và thống kê, phân phối chuẩn nhiều chiều, đôi khi được gọi là phân phối Gauss nhiều chiều, là tổng quát hóa của phân phối chuẩn một chiều (còn gọi là "phân phối Gauss") cho không gian nhiều chiều hơn. Phân phối này còn có quan hệ gần gũi với phân phối chuẩn ma trận.
+Trường hợp tổng quát.
+Một véc tơ ngẫu nhiên formula_9 tuân theo một phân phối chuẩn nhiều chiều nếu nó thỏa mãn các điều kiện tương đương nhau sau đây:
+Nếu formula_17 là ma trận không suy biến, thì phân phối này có thể được mô tả bởi hàm mật độ xác suất sau:
+trong đó formula_21 là định thức của formula_17.
+Lưu ý rằng phương trình trên suy biến về phương trình của phân phối chuẩn một chiều nếu formula_17 là một giá trị vô hướng (nghĩa là một ma trận 1x1).
+Véc tơ μ trong các điều kiện trên là giá trị kỳ vọng của "X" và ma trận formula_24 là ma trận hiệp phương sai của thành phần "X""i".
+Cần lưu ý rằng ma trận hiệp phương sai có thể suy biến (và khi đó không được mô tả bởi các công thức sử dụng formula_25 ở trên).
+Trường hợp này thường xảy ra trong thống kê; ví dụ, trong phân phối của véc tơ dư trong các bài toán hồi quy tuyến tính thông thường. Cũng lưu ý rằng các "X""i" nói chung là "không" độc lập; chúng có thể được xem là kết quả của việc áp dụng biến đổi tuyến tính "A" cho tập hợp "Z" gồm các biến ngẫu nhiên Gauss độc lập.
+Việc phân phối của một véc tơ ngẫu nhiên "X" là một phân phối chuẩn nhiều chiều được ký hiệu bởi công thức sau:
+hoặc viết tường minh rằng "X" biến trong không gian "N"-chiều,
+Hàm phân phối tích lũy.
+Hàm phân phối tích lũy (cdf) formula_28 được định nghĩa là xác suất mà mỗi giá trị trong một véc tơ ngẫu nhiên formula_29 đều nhỏ hơn hay bằng giá trị tương ứng trong véc tơ formula_30. Tuy không có dạng đóng cho formula_28, có một số thuật toán ước tính giá trị của nó. Ví dụ, xem MVNDST tại
+ (dùng mã FORTRAN) hay
+ (dùng mã MATLAB).
+Một phản ví dụ.
+Điều kiện rằng hai biến ngẫu nhiên "X" và "Y" đều có phân phối chuẩn không kéo theo việc cặp ("X", "Y") có một phân phối chuẩn có điều kiện phụ thuộc ("joint normal distribution"). Một ví dụ đơn giản là: "Y" = "X" nếu |"X"| &gt; 1 và "Y" = −"X" nếu |"X"| &lt; 1. Điều này cũng đúng cho số biến ngẫu nhiên nhiều hơn 2.
+Độc lập và phân phối chuẩn.
+Nếu "X" và "Y" có phân phối chuẩn và độc lập thống kê, thì chúng có một phân phối chuẩn có điều kiện phụ thuộc, nghĩa là cặp ("X", "Y") phải có phân phối chuẩn 2 chiều. Tuy nhiên, một cặp biến ngẫu nhiên có phân phối chuẩn có điều kiện phụ thuộc không nhất thiết độc lập lẫn nhau.
+Trường hợp 2 chiều.
+Trong trường hợp 2 chiều không suy biến, hàm mật độ xác suất (với kì vọng (0,0)) là
+trong đó formula_33 là tương quan giữa formula_29 và formula_35. Khi đó,
+Biến đổi afin.
+Nếu formula_37 là một biến đổi afin của formula_26 trong đó formula_39 là một véc tơ formula_40 gồm các hằng số và formula_41 là ma trận formula_42, thì formula_43 có phân phối chuẩn nhiều chiều với giá trị kỳ vọng formula_44 và phương sai formula_45 nghĩa là, formula_46. Đặc biệt, tập con bất kỳ của formula_47 đều có một phân phối biên duyên là phân phối chuẩn nhiều chiều.
+Để minh họa, ta xét ví dụ sau: để tách tập con formula_48, sử dụng
+ma trận này trích lấy các phần tử mong muốn.
+Một hệ quả khác là phân phối của formula_50, trong đó formula_51 là một véc tơ có cùng số chiều với formula_29 và dấu chấm ký hiệu phép nhân véc tơ, là phân phối chuẩn một chiều với formula_53. Kết quả đó thu được bằng cách sử dụng
+và chỉ xét thành phần đầu tiên của tích (hàng đầu của formula_55 là véc tơ formula_51). Để ý tính chất xác định dương của formula_5 hàm ý rằng phương sai của tích vô hướng phải là số dương.
+

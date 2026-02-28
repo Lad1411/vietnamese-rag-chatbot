@@ -1,0 +1,8 @@
+IndieWebCamp
+
+IndieWebCamp là một dạng BarCamp công nghệ được thành lập ở Portland, Oregon và kể từ đó đều được tổ chức trên toàn thế giới, bao gồm tại các văn phòng của "New York Times" và ở Brighton, Anh. IndieWebCamp tự mô tả chính nó như một trại sáng tạo kéo dài 2 ngày, tập trung vào việc phát triển web độc lập và tạo ra phong trào IndieWeb.
+Sự kiện này do chính Tantek Çelik, Amber Case, Crystal Beasley và Aaron Parecki lập nên nhằm mục đích trao quyền cho mọi người đăng tải lên các trang web của riêng họ, trong khi vẫn tiếp cận được địa chỉ liên hệ của họ trên các trang "silo" như Twitter và Facebook.
+Trong khi những người tham dự các sự kiện ban đầu phần lớn là giới công nghệ; nhà báo, blogger và giới chuyên gia truyền thông đã bắt đầu tham dự nhằm giành cho bằng được quyền kiểm soát nhiều hơn đối với nội dung trực tuyến của chính họ.
+IndieWebCamp 2014.
+IndieWebCamp 2014 được tổ chức đồng thời tại Portland, OR, New York, NY, và Berlin, Đức. Những người tham dự nói chuyện với nhau qua kiểu trò chuyện video WebRTC, và cùng hợp tác trong các dự án hackathon.
+

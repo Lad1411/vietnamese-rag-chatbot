@@ -1,0 +1,36 @@
+Mailfence
+
+ Mailfence là một dịch vụ email được mã hóa cung cấp chữ ký điện tử và mã hóa kỹ thuật số dựa trên OpenPGP. Dịch vụ ra mắt vào tháng 11 năm 2013 bởi ContactOffice Group, công ty đã vận hành một bộ cộng tác trực tuyến cho các trường đại học và các tổ chức khác từ năm 1999.
+Lịch sử.
+Vào giữa năm 2013, dự án Mailfence được khởi động bởi những người sáng lập của ContactOffice. Vào tháng 3 năm 2016, công ty đã phát hành phiên bản BETA công khai mã end-to-end cuối và chữ ký điện tử của họ cho email.
+Tính năng.
+Mailfence cung cấp các tính năng bảo mật email, với các chức năng khác như Lịch, Danh bạ, Tài liệu và Cộng tác.
+Email.
+Dịch vụ này hỗ trợ POP3/ IMAP và Exchange ActiveSync cũng như các tên miền ảo với SPF, DKIM, DMARC và hỗ trợ tất cả các địa chỉ email khác. Người dùng có thể gửi cả email văn bản đơn giản và email văn bản được định dạng, sắp xếp thư vào trong thư mục và/hoặc phân loại chúng bằng thẻ, thiết đặt chữ ký điện tử mặc định, tạo bí danh và sử dụng dịa chỉ emall con để áp dụng bộ lọc cho tin nhắn gửi đến.
+Liên lạc.
+Hỗ trọ nhập (CSV, vCard, LDIF), xuất (vCard, PDF) danh bạ và có thể được truy cập bằng CardDAV. Người dùng có thể sắp xếp chúng bằng các thẻ và cũng có thể tạo danh sách liên lạc.
+Lịch.
+Lịch hỗ trợ nhập, xuất VCal/ICal và có thể được truy cập bằng cách sử dụng CalDAV. Người dùng có thể chia sẻ lịch của họ với các thành viên trong nhóm và cũng có thể tạo các cuộc thăm dò.
+Các tài liệu.
+Các tài liệu có thể được truy cập bằng WebDAV hoặc chỉnh sửa trực tuyến. Người dùng có thể kéo và thả tệp trong các thư mục và phân loại chúng bằng thẻ.
+Nhóm.
+Nhóm cho phép người dùng chia sẻ hộp thư, tài liệu, danh bạ, lịch và thực hiện trò chuyện trực tiếp với các thành viên trong nhóm một cách an toàn. Quản trị viên nhóm quản lý quyền truy cập của các thành viên nhóm và cũng có thể đặt thành viên nhóm khác làm đồng quản trị viên hoặc quản trị viên chính của nhóm.
+Web khách hàng.
+Giao diện web đi kèm với ứng dụng khách IMAP, POP3, CalDAV và WebDAV được nhúng. Người dùng có thể thêm tài khoản bên ngoài và quản lý chúng tập trung trong giao diện web.
+Quản lý người dùng.
+Chủ tài khoản có thể tạo và quản lý người dùng bằng cách sử dụng bảng điều khiển quản trị.
+Vị trí máy chủ.
+Các máy chủ của dịch vụ được đặt tại Bỉ, nên chúng nằm ngoài phạm vi quyền hạn pháp lý của Hoa Kỳ. Do đó, Mailfence không phải chịu bất kì lệnh GAG và NSL nào của Mỹ. Theo luật pháp Bỉ, tất cả các yêu cầu giám sát quốc gia và quốc tế phải thông qua một tòa án Bỉ.
+An ninh và sự riêng tư.
+Ngoài các tính năng bảo mật và quyền riêng tư thông thường bao gồm TFA, bảo vệ thư rác, danh sách đen và danh sách trắng địa chỉ người gửi, Mailfence cũng cung cấp các tính năng sau:
+Mã hóa đầu cuối.
+Dịch vụ này sử dụng triển khai OpenPGP (RFC 4880) nguồn mở. Khóa bảo mật riêng được tạo trong trình duyệt máy khách, được mã hóa (thông qua AES256) với cụm mật khẩu của người dùng, sau đó được lưu trữ trên máy chủ. Máy chủ không bao giờ thấy cụm mật khẩu của người dùng. Dịch vụ này cũng hỗ trợ mã hóa đầu cuối bằng mật khẩu với khả năng hết hạn tin nhắn.
+Chữ ký điện tử.
+Dịch vụ cho phép lựa chọn giữa "ký" hoặc "ký và mã hóa" một email có hoặc không có tệp đính kèm.
+Kho khóa tích hợp.
+Dịch vụ này cung cấp kho khóa tích hợp để quản lý khóa PGP, và không yêu cầu bất kỳ tiện ích bổ sung/mở rộng nào của bên thứ ba. OpenPGP keypairs có thể được tạo, nhập hoặc xuất. Khóa công khai của người dùng khác có thể được nhập qua tệp hoặc văn bản nội tuyến hoặc có thể được tải xuống trực tiếp từ máy chủ khóa công khai.
+Khả năng tương tác OpenPGP đầy đủ.
+Người dùng có thể giao tiếp với bất kỳ nhà cung cấp dịch vụ tương thích OpenPGP nào.
+Bảo hành Canary và báo cáo minh bạch.
+Dịch vụ này duy trì một báo cáo minh bạch cập nhật và bảo hành chống tiết lộ thông tin.
+

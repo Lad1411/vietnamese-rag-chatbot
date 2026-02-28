@@ -1,0 +1,21 @@
+Khối tròn xoay
+
+Trong toán học, kỹ thuật, và sản xuất chế tạo, khối tròn xoay là một hình khối thu được bằng cách quay một đường cong phẳng xung quanh một đường thẳng ("trục quay") nằm trên cùng mặt phẳng.
+Giả sử đường cong không cắt trục quay, khi đó thể tích của khối tròn xoay bằng độ dài của đường tròn vẽ bởi trọng tâm của khối nhân với diện tích mặt tròn xoay (hay còn gọi là định lý trọng tâm Pappus).
+Cách biểu diễn bằng đĩa là một nguyên tố thể tích (volume element) 3 chiều của khối tròn xoay. Nguyên tố được tạo bằng cách quay một đoạn thẳng (của độ dài ) quanh một trục (nằm cách xa đơn vị), do vậy thể tích của hình trụ bằng đơn vị nó chứa.
+Tìm thể tích.
+Có hai phương pháp phổ biến nhằm tìm thể tích khối tròn xoay là phương pháp đĩa và phương pháp tích phân phân vỏ. Để áp dụng các phương pháp này, cách dễ nhất là vẽ đồ thị xác định đường cong; tìm diện tích nó chứa mà sẽ được quay quanh trục; sau đó xác định thể tích bằng nhát cắt dạng đĩa của khối, với độ dày bằng , hoặc bằng vỏ trụ với bề rộng ; sau đó tìm giới hạn của tổng các nguyên tố thể tích này khi tiến tới 0, mà giá trị có thể tìm được bằng cách tính tích phân.
+Phương pháp đĩa.
+Phương pháp đĩa được sử dụng khi nhát cắt vẽ ra "vuông góc" với trục quay; nghĩa là khi thực hiện tích phân "song song" với trục quay.
+Thể tích của khối tròn xoay hình thành bằng cách quay miền diện tích giới hạn bởi các đường cong và và các đường thẳng và quanh trục xác định bằng
+Nếu (ví dụ xoay một đường cong quanh trục ), công thức thu gọn thành:
+Có thể hình dung phương pháp này bằng cách coi một hình chữ nhật nhỏ nằm ngang ở tọa độ giữa nằm trên và nằm ở dưới, và quay nó xung quanh trục ; khi đó nó tạo thành một vòng xuyến (hoặc đĩa trong trường hợp ), với bán kính ngoài bằng và bán kính trong bằng . Diện tích của vòng bằng , với là bán kính ngoài (trong trường hợp ), và là bán kính trong (trong trường hợp ). Thể tích của mỗi đĩa vô cùng bé do đó bằng . Giới hạn của tổng Riemann của thể tích các đĩa nằm giữa và trở thành tích phân (1).
+Phương pháp hình trụ.
+Phương pháp hình trụ được sử dụng khi các khối nhát cắt được vẽ "song song" với trục quay; tức là thực hiện tích phân "vuông góc" với trục quay.
+Thể tích khối tròn xoay nằm giữa các đường cong và và các đường thẳng và quay quanh trục cho bởi
+Nếu (ví dụ quay vùng diện tích giới hạn bởi đường cong và trục ), công thức trên trở thành:
+Phương pháp này có thể hình dung bằng một hình chữ nhật theo phương đứng ở tọa độ với chiều cao bằng , và quay xung quanh trục ; nó tạo thành cái vỏ hình trụ. Diện tích bề mặt của hình trụ bằng , với là bán kính (trong trường hợp ), và là chiều cao (trong trường hợp ). Cộng tổng diện tích của mặt dọc theo tích phân thu được tổng thể tích khối tròn xoay.
+Dạng tham số.
+Khi một đường cong được xác định bởi dạng phương trình tham số trên đoạn , thể tích của khối tròn xoay xác định bởi đường sinh quay quanh trục hoặc trục cho bởi:
+Trong một số trường hợp, diện tích mặt của khối tròn xoay tạo bởi đường sinh xung quanh trục hoặc trục cho bởi:
+

@@ -1,0 +1,8 @@
+Latinh hóa ALA-LC Hoa Kỳ
+
+Latin hóa ALA-LC là một tập hợp các tiêu chuẩn cho chuyển đổi sang chữ Latin các văn bản hay tên gọi từ các hệ chữ viết phi Latin. Bộ tiêu chuẩn này do Hiệp hội Thư viện Mỹ (ALA, American Library Association) và Thư viện Quốc hội Hoa Kỳ (LC, Library of Congress) lập ra .
+Áp dụng.
+Hệ thống này được sử dụng để thể hiện thông tin thư mục của thư viện Bắc Mỹ, Thư viện Anh (từ năm 1975), và trong các ấn phẩm trên toàn thế giới nói tiếng Anh .
+Quy tắc Biên mục Anh-Mỹ (AACR, Anglo-American Cataloguing Rules) đòi hỏi người biên mục Latin hóa điểm truy cập từ bản chính phi Latin . Tuy nhiên, khi MARC đã được mở rộng để cho phép các hồ sơ có chứa các ký tự Unicode, nhiều biên mục hiện nay bao gồm dữ liệu thư mục trong cả Latin và các văn tự gốc . Chuẩn "Mô tả Tài nguyên và Truy cập" (Resource Description and Access) mới xuất hiện, tiếp tục nhiều khuyến nghị của AACR nhưng đề cập đến quá trình này là "chuyển ngữ" hơn là "Latin hóa" .
+Hiện nay ALA-LC có 70 bảng Latin hóa, trong số đó có:
+

@@ -1,0 +1,13 @@
+Quang thông
+
+Trong ngành đo lường quang học, quang thông là đại lượng trắc quang cho biết công suất bức xạ của chùm ánh sáng phát ra từ một nguồn sáng, hoặc định nghĩa khác của quang thông là lượng ánh sáng phát ra từ một nguồn sáng theo mọi hướng trong một giây. 
+Đơn vị.
+Quang thông có ký hiệu là φ, hay formula_1.
+Đơn vị của quang thông trong các hệ đơn vị SI, CGS là lumen, ký hiệu lm.. 1 lumen được định nghĩa bằng quang thông tạo ra bởi một nguồn sáng mà phát ra cường độ sáng (luminous intensity) 1 candela trên một góc khối có giá trị bằng 1 steradian.
+Sử dụng.
+Quang thông được sử dụng để đo lượng sáng phát ra bởi một đèn điện, nó không tính theo một hướng phát sáng cụ thể nào và giá trị này thường được ghi trên các sản phẩm đèn chiếu sáng.
+Liên hệ với cường độ sáng.
+Quang thông (đơn vị lumen) là giá trị đo tổng lượng ánh sáng phát ra từ một đèn. Cường độ sáng (đơn vị candela) là giá trị đo độ sáng của đèn chiếu sáng (cũng như bộ phản xạ) theo một phương nhất định (biểu thị chùm tia sáng). Nếu một đèn có quang thông 1 lumen và bộ phản xạ của đèn (hay còn gọi chóa tản quang) tập trung ánh sáng đều đặn trong chùm có giá trị góc khối bằng 1 steradian, thì chùm tia sáng có cường độ sáng bằng 1 candela. Nếu thay đổi bộ phản xạ để tập trung chùm trong 1/2 steradian thì tia sáng có cường độ sáng bằng 2 candela. Chùm tia thu được hẹp hơn và sáng hơn, tuy nhiên quang thông vẫn có giá trị bằng 1 lumen.
+trong đó formula_3 (đơn vị lm.s) là tổng năng lượng sáng của một nguồn sáng.
+trong đó formula_5 là cường độ sáng, và formula_6 ký hiệu góc khối.
+

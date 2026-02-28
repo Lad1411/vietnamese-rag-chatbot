@@ -1,0 +1,11 @@
+Không gian xạ ảnh
+
+Trong tô pô, một không gian xạ ảnh là một cấu trúc cơ bản cho phép thuần nhất hóa một không gian vectơ, nói cách khác là quên đi các tỷ lệ để chỉ xem xét các hướng. Ví dụ: formula_1 là không gian thương của ℝ\{0} bởi quan hệ tương đương cộng tuyến.
+Tương tự, không gian xạ ảnh phức formula_2 là không gian thương của formula_3 bởi quan hệ cộng tuyến phức.
+Không gian xạ ảnh là một trường hợp đặc biệt của đa tạp Grassmann: formula_4.
+Định nghĩa.
+Cho một K-không gian véc-tơ "V", "không gian xạ ảnh" P("V") là tập hợp các lớp tương đương của "V" \{0} dưới quan hệ tương đương ~ xác định bởi "x" ~ "y" nếu tồn tại một phần tử khác không λ trong K sao cho "x" = "λy". Nếu V là một không gian véc-tơ tô pô, không gian thương P("V") là một không gian tô-pô, được trang bị tô pô thương (ví dụ K là trường các số thực hoặc trường các số phức với tô pô Euclid). Nếu V là một không gian hữu hạn chiều, chiều của P("V") bằng chiều của V trừ đi 1.
+Không gian xạ ảnh một chiều formula_5 cũng được gọi là đường thẳng xạ ảnh. Không gian xạ ảnh hai chiều formula_6 cũng được gọi là mặt phẳng xạ ảnh.
+Phân thớ lặp.
+Trên formula_20 có một phân thớ véc-tơ mà thớ tại mỗi điểm formula_21 là không gian véc-tơ một chiều formula_22. Đây được gọi là phân thớ lặp trên formula_10 ("tautologique-tautological").
+

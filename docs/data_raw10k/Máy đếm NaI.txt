@@ -1,0 +1,6 @@
+Máy đếm NaI
+
+Máy đếm(đo) NaI (NaI detector) bao gồm một tinh thể đơn Natri Iod được hoạt hóa với một lượng nhỏ chất phóng xạ đính kèm trong một vỏ nhôm, thiết bị khuếch quang (photomultiplier) và thiết bị tiền khuếch đại tích hợp(integrated Pre-Amplifier).
+Khi một tia bức xạ, chẳng hạn tia Gam ma được hấp thụ bởi tinh thể, tác động này làm cho một electron bị đẩy ra ngoài, thông qua hiệu ứng quang điện, sau đó tạo ra ánh sáng khi nó bị mất năng lượng cho tinh thể. Ánh sáng này rơi vào cự dương quang (photocathode) của máy khuếch quang, tạo ra electron.
+Những electron này sau đó được gia tốc về phía cực electron (Dynode). Khi va chạm với Dynode, những electron này tạo ra dòng electron thứ cấp. Kết quả là một lượng lớn xung electron được thu nhận tại máy khuếch quang. Độ lớn của xung phụ thuộc vào năng lượng của tia gamma gốc.
+

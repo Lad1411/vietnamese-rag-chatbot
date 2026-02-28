@@ -1,0 +1,12 @@
+Wargame đại chiến lược
+
+Wargame đại chiến lược (tiếng Anh: "Grand strategy wargame") là thể loại wargame chỉ tập trung vào phần đại chiến lược nghĩa là chiến lược quân sự ở cấp độ hoạt động và sử dụng toàn bộ nguồn tài nguyên của một quốc gia hoặc cả một đế chế.
+Đặc điểm.
+Wargame đại chiến lược thường tập trung vào một cuộc chiến tranh hoặc một loạt các cuộc chiến trong một khoảng thời gian dài. Các đơn vị cá nhân, thậm chí quân đội có thể không được đại diện, thay vào đó, sự chú ý được dành cho các hoạt động chiến tranh. Tất cả nguồn lực của các quốc gia tham gia có thể được huy động như là một phần của một cuộc chiến lâu dài. Sự mô phỏng thường liên quan đến cuộc xung đột chính trị và kinh tế cũng như quân sự. Cái kết xa nhất của việc này là phân nhánh của trò chơi chiến lược trong đó người chơi sẽ nắm lấy vai trò của chính quyền toàn bộ một quốc gia và không có khả năng tiến hành chiến tranh chẳng hạn như trong trò "".
+Ví dụ về các tựa game đại chiến lược nơi mà chiến thuật quân sự được trừu tượng hóa cao hoặc loại bỏ hoàn toàn bao gồm các board game như "Risk" và "Diplomacy". Một ví dụ khác trông thực tế hơn là "Axis &amp; Allies", mặc dù trong đó yếu tố quân sự vẫn còn rất trừu tượng. Những game như "Rise and Decline of the Third Reich", "Empires in Arms" và "Empires of the Middle Ages" đều là những wargame thực sự, mang ý nghĩa là các đơn vị quân đội đại diện đặc trưng và tham chiến trực tiếp dựa trên các thuộc tính quân sự cụ thể. Loạt game "Hearts of Iron" hoặc "Hegemony" là một ví dụ của những trò chơi trên máy tính thuộc loại này.
+Cách chơi và chức năng.
+Trò chơi sử dụng kỹ thuật và các tính năng khác nhau để mô phỏng các mặt chiến lược quân sự quốc gia. Một số game mô phỏng sản xuất công nghiệp tài nguyên và các đơn vị quân đội. Số khác có thể cho phép thực hiện các bước ngoại giao và liên minh khác nhau.
+Ví dụ tựa game "Axis &amp; Allies" sử dụng "giá" cho các đơn vị sản xuất, bao gồm một số lượng các đơn vị sản xuất được phân bổ mỗi lượt, và được dùng để "trả tiền" cho mỗi đơn vị được sản xuất. Một số game cho phép các quốc gia khác nhau sản xuất các đơn vị vào một mức tỷ lệ, tương ứng với lịch sử kinh tế và công nghiệp thế giới thực của họ.
+Lợi ích học thuật.
+Vì những game như vậy đã vượt ra ngoài giới hạn chiến tranh đơn giản chỉ xử lý về các vấn đề kinh tế, địa lý, lịch sử và chính trị đặc biệt mang tính hữu ích trong giáo dục và nghiên cứu các vấn đề quốc tế.
+

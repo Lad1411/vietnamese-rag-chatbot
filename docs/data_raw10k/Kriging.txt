@@ -1,0 +1,10 @@
+Kriging
+
+Kriging là một nhóm các kỹ thuật sử dụng trong địa thống kê để nội suy một giá trị của trường ngẫu nhiên (như độ cao "z" của địa hình) tại điểm không được đo đạc thực tế từ những điểm được đo đạc gần đó.
+Lý thuyết phía sau phép nội suy và ngoại suy sau bằng Kriging được nhà toán học người Pháp Georges Matheron phát triển dựa trên luận văn thạc sĩ của Daniel Gerhardus Krige, người tiên phong trong phương pháp tính "trung bình khoảng cách có trọng số" (distance-weighted average) về cấp độ vàng ở Witwatersrand, Nam Phi.
+Nội suy Kriging.
+Kriging thuộc nhóm thuật toán bình phương tối thiểu tuyến tính. Như minh họa trong hình 1, mục đích của phương pháp kriging là ước tính giá trị của một hàm số thực chưa biết, formula_1, tại một điểm, formula_2, cho ra các giá trị của hàm tại các điểm khác, formula_3. Cách tính theo kriging được gọi là "tuyến tính" vì giá trị phỏng đoán formula_4 là một tổ hợp tuyến tính được biểu diễn như sau:
+Các trọng số formula_6 là các đáp án của hệ các phương trình tuyến tính, được tạo ra bằng phương pháp cộng, mà formula_1 là sample-path của một "quá trình ngẫu nhiên" formula_8, và sai số
+được giảm đến mức tối thiểu trong một số trường hợp. Ví dụ, tính theo "simple kriging" có nghĩa là tính trung bình và hiệp phương sai của formula_8 đã biết và sau đó phương pháp suy đoán kriging là công cụ để tối thiểu hóa hiệp phương sai của sai số dự đoán.
+Từ quan điểm địa chất, phương pháp kriging dùng để tính tổng khoáng hóa trên diện liên tục từ tập hợp các giá trị đo đạc. Giả sử biết trước sự phân bố của khoáng vật trong không gian qua các phương pháp khảo sát địa chất và biểu diễn nó thành một hàm không gian, sau đó cho một tập hợp có thứ tự theo cấp đã đo đạc rồi dùng Kriging để nội suy hàm lượng khoáng vật tại những điểm chưa đo đạc.
+

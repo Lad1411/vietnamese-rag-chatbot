@@ -1,0 +1,5 @@
+XMind
+
+XMind là phần mềm lập bản đồ tư duy, được phát triển bởi XMind Ltd. Ngoài các yếu tố quản lý, phần mềm có thể được sử dụng để nắm bắt ý tưởng, làm rõ suy nghĩ, quản lý thông tin phức tạp và thúc đẩy hợp tác nhóm.
+Nó hỗ trợ sơ đồ tư duy, sơ đồ xương cá, sơ đồ cây, biểu đồ tổ chức, bảng tính, v.v. Thông thường, nó được sử dụng để quản lý kiến thức, biên bản cuộc họp, quản lý nhiệm vụ. Trong khi đó, XMind có thể đọc các tệp FreeMind và MindManager và lưu vào Evernote. Đối với XMind Pro/Zen, nó có thể xuất bản đồ tư duy vào các tài liệu Microsoft Word, PowerPoint, Excel, PDF, FreeMind và MindManager.
+

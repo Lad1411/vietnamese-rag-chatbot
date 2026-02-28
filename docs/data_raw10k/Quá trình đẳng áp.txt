@@ -1,0 +1,13 @@
+Quá trình đẳng áp
+
+Quá trình đẳng áp (tiếng Anh: "isobaric process") là 1 quá trình nhiệt động lực học trong đó áp suất là 1 hằng số (không đổi theo thời gian). Theo nguyên lý 1 nhiệt động lực học: 
+Theo định luật 1 về nhiệt động lực học, nếu thể tích của khí tăng lên thì công được sinh ra do sự dãn ra (tăng thể tích) của khí, cụ thể như sau:
+Trong chất khi lý tưởng:formula_3 trong đó n là số mol khí, R là hằng số khí lý tưởng formula_4
+nên formula_5
+Vậy ta có được biểu thức formula_6
+Liên hệ giữa nhiệt dung mol đẳng tích và đẳng áp.
+Dựa vào quá trình đẳng tích, giữa quá trình không có sự truyền nhiệt của các phản ứng hóa học, ta thu được sự liên hệ giữa độ thay đổi nội năng phụ thuộc vào nhiệt độ như sau:
+formula_7 với formula_8 là nhiệt dung mol khi thể tích không đổi formula_9 Với formula_10 là số bậc tự do của phân tử khí
+Khi áp suất không đổi, formula_11 với formula_12 là nhiệt dung mol khi áp suất không đổi.
+Từ định luật 1 nhiệt động lực học ta có: 
+

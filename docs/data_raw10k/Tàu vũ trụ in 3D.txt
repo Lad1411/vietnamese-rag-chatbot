@@ -1,0 +1,19 @@
+Tàu vũ trụ in 3D
+
+In 3D bắt đầu được sử dụng trong các phiên bản sản xuất phần cứng tàu du hành không gian vào đầu năm 2014, khi SpaceX lần đầu tiên bay với một hệ thống đẩy được lắp trên phi thuyền Falcon 9. Một số cụm tàu vũ trụ in 3D khác đã được thử nghiệm trên mặt đất, bao gồm buồng đốt động cơ tên lửa cao áp, nhiệt độ cao và toàn bộ khung không gian cơ khí và các thùng nhiên liệu không thể thiếu cho một vệ tinh nhỏ.
+Một động cơ tên lửa in 3D đã phóng thành công một tên lửa vào không gian vào năm 2017, và quay quanh quỹ đạo vào năm 2018.
+Lịch sử.
+In 3D bắt đầu được sử dụng trong các phiên bản sản xuất phần cứng tàu vũ trụ vào đầu năm 2014. Vào tháng 1 năm đó, SpaceX lần đầu tiên bay một "tên lửa Falcon 9 với thân van chất oxy hóa chính (MOV) in 3D ở một trong chín động cơ Merlin 1D ". Van được sử dụng để kiểm soát dòng chảy của oxy lỏng đông lạnh đến động cơ trong môi trường vật lý áp suất cao, nhiệt độ thấp, rung động cao.
+Trong năm 2015–2016, các cụm tàu vũ trụ in 3D khác đã được thử nghiệm trên mặt đất, bao gồm buồng đốt động cơ tên lửa cao áp, nhiệt độ cao và toàn bộ khung không gian cơ khí và thùng nhiên liệu cho một vệ tinh nhỏ vài trăm kilôgam.
+Vào tháng 6 năm 2014, Aerojet Rocketdyne (AJR) đã thông báo rằng họ đã "sản xuất và thử nghiệm thành công một động cơ đã được in 3D hoàn toàn". Động cơ Baby Banton là một động cơ đẩy   chạy bằng nhiên liệu LOX / kerosene. Đến tháng 3 năm 2015, AJR đã hoàn thành một loạt các thử nghiệm phóng cho các thành phần được sản xuất bổ sung cho động cơ tăng áp AR-1 kích thước thực của nó.
+Tên lửa đẩy Vulcan mới của United Launch Alliance - ra mắt lần đầu sau năm 2019 — đang xem xét in 3D cho hơn 150 bộ phận: 100 polymer và hơn 50 bộ phận kim loại.
+Đến năm 2017, một động cơ tên lửa in 3D đã phóng thành công một tên lửa vào không gian. vào ngày 25 tháng 5 năm 2017, một tên lửa Electron được phóng lên không gian từ New Zealand, là tên lửa đầu tiên được trang bị một tên lửa tầng chính "động cơ được chế tạo gần như hoàn toàn bằng cách in 3D." Lần phóng vào quỹ đạo thành công đầu tiên của Electron là  vào ngày 21 tháng 1 năm 2018.
+Các ứng dụng.
+Động cơ tên lửa.
+Động cơ SuperDraco cung cấp hệ thống tách khỏi tên lửa phóng và lực đẩy hạ cánh cho khoang trở về được  chứa hành khách Dragon V2 được in hoàn toàn và là động cơ tên lửa được in hoàn toàn đầu tiên. Đặc biệt, buồng đốt động cơ được in bằng Inconel, một hợp kim niken và sắt, sử dụng một quá trình thiêu kết laser kim loại trực tiếp, và hoạt động ở áp suất buồng kín   ở nhiệt độ rất cao. Các động cơ được chứa trong một vỏ bọc bảo vệ in để ngăn ngừa sự lan truyền lỗi trong trường hợp hỏng động cơ.
+Động cơ SuperDraco tạo ra lực đẩy đến  . Động cơ đã hoàn thành bài kiểm tra nghiệm thu đầy đủ vào tháng 5 năm 2014 và dự kiến sẽ thực hiện chuyến bay lên quỹ đạo đầu tiên vào năm 2018 hoặc 2019.
+Khả năng in 3D các bộ phận phức tạp là chìa khóa để đạt được mục tiêu khối lượng thấp của động cơ. Đó là một động cơ rất phức tạp, và rất khó để hình thành tất cả các kênh làm mát, đầu phun và cơ chế điều chỉnh... [Khả năng] "để in các hợp kim tiên tiến có độ bền rất cao... rất quan trọng để có thể tạo ra động cơ SuperDraco."
+Động cơ tên lửa cho tên lửa đẩy Electron được chế tạo gần như hoàn toàn bằng cách in 3D.
+Cấu trúc tàu vũ trụ.
+Đến năm 2014, in 3D đã bắt đầu được sử dụng để in toàn bộ cấu trúc cơ khí và các thùng nhiên liệu đẩy không thể thiếu của một tàu vũ trụ nhỏ.
+

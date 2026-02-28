@@ -1,0 +1,6 @@
+Danh sách quốc gia theo GDP (PPP) bình quân đầu người
+
+Bài viết này gồm một danh sách quốc gia trên thế giới được xếp hạng theo Tổng sản phẩm quốc nội (GDP) của họ quy đổi theo sức mua tương đương (PPP) bình quân đầu người (giá trị của tất cả hàng hóa và dịch vụ được tạo ra bên trong một quốc gia trong một năm cho trước được chia theo dân số trung bình của cùng năm đó).
+Danh sách.
+Tất cả các số liệu được tính bằng đô la quốc tế và được làm tròn đến số nguyên gần nhất.
+

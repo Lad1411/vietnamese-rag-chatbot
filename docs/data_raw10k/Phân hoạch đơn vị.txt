@@ -1,0 +1,17 @@
+Phân hoạch đơn vị
+
+Trong toán học, một phân hoạch đơn vị của một không gian tô pô "X" là một tập hợp "R" các hàm liên tục từ "X" vào đoạn thẳng đơn vị [0,1], sao cho tại mọi điểm formula_1, ta có:
+Phân hoạch đơn vị cho phép mở rộng các xây dựng địa phương ra toàn không gian. Nó có vai trò quan trọng trong nội suy dữ liệu, xử lý tín hiệu, và trong lý thuyết về các hàm đa thức từng đoạn ("spline functions").
+Sự tồn tại.
+Sự tồn tại của một phân hoạch đơn vị ứng với một phủ mở thường có hai dạng:
+(tức là ta thường chọn phân hoạch theo các phủ mở, hoặc là phân hoạch com pắc). Nếu không gian là com pắc, cả hai dạng phân hoạch này đều tồn tại (với mọi phủ mở).
+Ví dụ.
+Đồng nhất phần bủ formula_3 (của đường tròn formula_4 đối với một điểm formula_5) với formula_6 (chẳng hạn, qua phép chiếu với tâm là formula_7). Đặt gốc tọa độ của formula_6 là formula_9. Xét hàm bướu formula_10 trên formula_6 xác định bởiformula_12Thế thì cả formula_10 và formula_14 có thể được mở rộng thành một hàm nhẵn trên formula_4 bằng cách đặt formula_16. Ta có một phân hoạch đơn vị formula_17 trên đường tròn formula_4.
+Định nghĩa khác.
+Đôi khi một định nghĩa yếu hơn được sử dụng: tổng các hàm chỉ cần là số dương, không cần bằng 1. Tuy nhiên với một họ hàm formula_19 như thế, ta có thể xây dựng một phân hoạch đơn vị theo nghĩa ngặt bằng cách chia cho hàm tổng; xét formula_20 với formula_21.
+Một số tác giả bỏ cả điều kiện địa phương rằng chỉ có một số hữu hạn hàm khác 0, và chỉ yêu cầu formula_22 với mọi formula_23.
+Ứng dụng.
+Phân hoạch đơn vị có thể được sử dụng để định nghĩa tích phân của một hàm trên một đa tạp: đầu tiên ta định nghĩa tích phân của một hàm có giá nằm trong một hệ tọa độ địa phương; sau đó sử dụng phân hoạch đơn vị để định nghĩa tích phân của một hàm bất kì; cuối cùng ta chỉ ra định nghĩa này không phụ thuộc vào cách chọn phân hoạch đơn vị. Đây là ý tưởng chung để sử dụng phân hoạch đơn vị.
+Phân hoạch đơn vị được sử dụng để chỉ ra sự tồn tại của một metric Riemann trên một đa tạp bất kì.
+Phân hoạch đơn vị được dùng để thiết lập các xấp xỉ nhẵn toàn cục cho các hàm Sobolev trong các miền bị chặn.
+

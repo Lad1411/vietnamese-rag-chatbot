@@ -1,0 +1,8 @@
+Planet Hunters
+
+Planet Hunters (Thợ săn hành tinh) là một dự án khoa học công dân để tìm các hành tinh bằng cách sử dụng mắt người. Nó thực hiện điều này bằng cách người dùng phân tích dữ liệu từ kính viễn vọng không gian Kepler của NASA. Chương trình được một nhóm do Debra Fischer tại Đại học Yale, là một phần của dự án Zooniverse, phát động.
+Tìm kiếm hành tinh.
+Dự án Planet Hunters khai thác thực tế rằng con người nhận ra các mô hình thị giác tốt hơn máy tính. Trang web hiển thị hình ảnh dữ liệu được thu thập bởi Sứ mệnh không gian Kepler của NASA và yêu cầu người dùng (gọi là "Nhà khoa học công dân") xem xét dữ liệu và xem độ sáng của một ngôi sao thay đổi theo thời gian. Dữ liệu độ sáng này được biểu diễn dưới dạng biểu đồ và được gọi là "đường cong ánh sáng" của một ngôi sao. Những đường cong như vậy rất hữu ích trong việc khám phá các hành tinh ngoài hệ mặt trời do độ sáng của một ngôi sao giảm khi một hành tinh đi qua phía trước nó, khi nhìn từ Trái đất. thời gian giảm độ sáng có thể cung cấp bằng chứng về quá cảnh hành tinh, nhưng cũng có thể do lỗi ghi lại, chiếu hoặc các hiện tượng khác.
+Sắp xếp các đường cong ánh sáng.
+Người dùng được yêu cầu sắp xếp các đường cong ánh sáng dựa trên các mẫu. Các mẫu có sẵn là "yên tĩnh" và "biến". Khi đường cong ánh sáng yên tĩnh, đồ thị chủ yếu đi theo một đường thẳng. Khi đường cong ánh sáng thay đổi, có một số điều mà nó có thể làm. Nó có thể là "thường xuyên", "dao động" hoặc "không đều". Một đường cong ánh sáng thông thường có nghĩa là nó tăng lên một lần và xuống một lần, đạt đến đỉnh và giảm dần. Đường cong ánh sáng dao động có nghĩa là nó đi lên và xuống dọc theo trục y trên cơ sở khá dốc. Đường cong ánh sáng không đều có các điểm đi lên và xuống trên trục y theo mô hình không thể đoán trước.
+

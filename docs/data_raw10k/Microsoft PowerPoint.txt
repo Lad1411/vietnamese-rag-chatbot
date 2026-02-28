@@ -1,0 +1,15 @@
+Microsoft PowerPoint
+
+Microsoft PowerPoint (gọi tắt là PowerPoint) là một phần mềm trình chiếu do Microsoft phát triển. PowerPoint là một phần của gói ứng dụng văn phòng Microsoft Office. Nó có thể cài đặt và sử dụng được trên cả máy tính dùng hệ điều hành Windows lẫn Mac OS X. Bản dùng cho hệ điều hành Windows còn có thể dùng cho cả các máy tính với hệ điều hành Linux nhờ lớp tương thích Wine.
+Các phiên bản.
+Các phiên bản dành cho hệ điều hành Windows bao gồm:
+Không có PowerPoint các phiên bản 5.0 hoặc 6.0, vì Windows 95 ra đời cùng với Word 7.0. Tất cả các sản phẩm Office 95 đều có khả năng nhúng và liên kết đối tượng 2 — tức là tự động chuyển dữ liệu giữa các chương trình khác nhau — và PowerPoint 7.0 cùng thời với Word 7.0.
+Các phiên bản dành cho hệ điều hành Mac OS X bao gồm:
+Không có PowerPoint 5.0, 6.0 hoặc 7.0 cho Mac. Sở dĩ không có phiên bản 5.0 hoặc 6.0 là vì Windows 95 ra đời cùng với Word 7.0. Tất cả các sản phẩm Office 95 đều có khả năng nhúng và liên kết đối tượng 2 — tức là tự động chuyển dữ liệu giữa các chương trình khác nhau — và PowerPoint 7.0 cùng thời với Word 7.0. Sở dĩ không có phiên bản 7.0 cho Mac để tương ứng với 7.0 cho Windows hoặc PowerPoint 97".
+Các nền tảng khác.
+PowerPoint cho điện thoại di động.
+PowerPoint Mobile được đưa vào trong Windows Mobile 5.0. Đây là một chương trình trình chiếu có khả năng đọc và chỉnh sửa các bài thuyết trình Microsoft PowerPoint, mặc dù khả năng của nó bị hạn chế trong việc thêm ghi chú, chỉnh sửa văn bản và sắp xếp lại các trang trình chiếu. Nó cũng không thể tạo bản trình chiếu mới. Phiên bản Windows Phone 7 của PowerPoint Mobile cho phép bạn xem các bài thuyết trình trực tiếp được truyền từ Internet. Năm 2015, Microsoft đã phát hành PowerPoint Mobile cho Windows 10 dưới dạng một ứng dụng toàn cầu. Trong phiên bản PowerPoint này, người dùng có thể tạo và chỉnh sửa bản trình chiếu mới, trình chiếu và chia sẻ tài liệu PowerPoint của mình.
+PowerPoint cho Internet.
+PowerPoint cho Internet — là phiên bản đơn giản, miễn phí của Microsoft PowerPoint có sẵn như một phần của Office trên Internet, nó cũng bao gồm các phiên bản web của Microsoft Excel và Microsoft Word.
+PowerPoint trên Internet không hỗ trợ chèn hoặc chỉnh sửa biểu đồ, phương trình, tệp âm thanh hoặc video được lưu trữ trên máy tính của bạn, nhưng tất cả chúng đều xuất hiện trong bản trình chiếu nếu chúng được thêm bằng ứng dụng trên máy tính để bàn. Một số phần tử, chẳng hạn như hiệu ứng WordArt hoặc các hoạt ảnh và chuyển tiếp phức tạp hơn sẽ hoàn toàn không xuất hiện, mặc dù chúng vẫn còn trong tài liệu. PowerPoint cho web cũng thiếu các dạng xem Outline, Master, Slide Sorter và Presenter được tìm thấy trong ứng dụng máy tính để bàn, nó cũng hạn chế về khả năng in.
+

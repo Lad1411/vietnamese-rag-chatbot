@@ -1,0 +1,5 @@
+Ly sai chọn lọc
+
+Ly sai chọn lọc (Selection Differential) là sự chênh lệch giữa giá trị kiểu hình trung bình của các bố mẹ được chọn lọc so với giá trị kiểu hình trung bình của toàn bộ thế hệ bố mẹ; và phụ thuộc vào tỷ lệ chọn lọc (tỷ lệ giữa bố mẹ được chọn lọc so với tổng số bố mẹ) và độ lệch tiêu chuẩn kiểu hình của tính trạng chọn lọc.
+Ly sai chọn lọc của tính trạng phụ thuộc vào tỷ lệ các bố mẹ được chọn lọc so với tổng số bố mẹ và độ lệch tiêu chuẩn kiểu hình của tính trạng chọn lọc (ϭp).
+

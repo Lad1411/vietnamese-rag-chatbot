@@ -1,0 +1,13 @@
+Itanium
+
+Itanium ( ) là một vi xử lý thuộc họ vi xử lý của Intel 64 bit thực thi kiến trúc Intel Itanium (trước đây gọi là IA-64).
+Thị trường máy chủ cao cấp.
+Khi công bố lần đầu tiên năm 2001, nền tảng Itanium được so sánh với các thiết lập tốt hơn RISC và các vi xử lý CISC là đáng thất vọng.
+Sự cạnh tranh trong việc thực thi các ứng dụng x86 hiện có và các hệ điều hành là đặc biệt yếu, với một điểm sáng năm 2001 báo cáo rằng tốc độ của Itanium tương đương với một máy tính Pentium tốc độ 100 MHz (cao nhất là các máy có tốc độ 1,1 HGz Pentium trên thị trường tại thời điểm đó).
+Itanium không tạo ấn tượng lớn trước IA-32 hay RISC, và sau đó phải chịu lép vế từ sự giới thiệu thành công của các hệ thống nền x86-64 vào thị trường máy chủ, lý do là vì các hệ thống tương thích hơn với các ứng dụng x86 kiểu cũ. Nhà báo John C. Dvorak đã có bình luận năm 2009 về lịch sử của vi xử lý Itanium, đã nói "Điều này tiếp tục là một trong những thất bại lớn nhất trong 50 năm qua" trong một bài báo có tựa đề "Làm thế nào để Itanium hủy diệt nền công nghiệp máy tính". Chuyên mục công nghệ cao Ashlee Vance nhận xét sự chậm trễ và dưới mức chuẩn "biến Itanium thành một sản phẩm trò đùa trong ngành công nghiệp sản xuất chip." Trong cuộc phỏng vấn, Donald Knuth đã nói "Itanium đã đạt...được giả định tuyệt vời—cho đến khi nó chuyển thành lời ước cho các trình biên dịch khi về cơ bản nó không thể thực thi. "
+Red Hat và Microsoft thông báo các kế hoạch hủy bỏ sự hỗ trợ Itanium trong các hệ điều hành do sự thiếu quan tâm thị trường; mặc dù vậy, phiên bản phân phối Linux khác như Debian vẫn có sẵn dành cho Itanium. Vào ngày 22 tháng 3 năm 2011, Oracle thông báo ngừng sự phát triển Itanium, mặc dù các hỗ trợ kỹ thuật cho các sản phẩm hiện tại vẫn tiếp tục.
+Một cựu quan chức Intel cho rằng việc kinh doanh Itanium đã có lợi nhuận cho Intel vào cuối năm 2009. Năm 2009, các chip đã gần như hoàn toàn được triển khai trên các máy chủ HP, trong đó có hơn 95% thị phần máy chủ Itanium, tạo các hệ điều hành cho HP-UX. Vào ngày 22 tháng 3 năm 2011, Intel tái khẳng định cam kết của mình trong việc tạo ra Itanium với nhiều thế hệ chip trong việc phát triển và theo đúng tiến độ.
+Hệ thống.
+Kittson.
+Vi xử lý "Kittson" sẽ ra mắt sau vi xử lý Poulson vào năm 2014. Ít thông tin chi tiết được biết hơn là sự tồn tại của tên mã và tương thích socket và chế độ nhị phân giữa Poulson, Kittson và Tukwila.
+

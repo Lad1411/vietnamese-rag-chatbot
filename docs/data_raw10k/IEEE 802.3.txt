@@ -1,0 +1,10 @@
+IEEE 802.3
+
+IEEE 802.3 là một working group và là một bộ tiêu chuẩn Institute of Electrical and Electronics Engineers (IEEE) do working group này tạo ra nhằm định nghĩa tầng vật lý và media access control (MAC) của tầng liên kết dữ liệu của Ethernet có dây. Nói chung đây là một công nghệ mạng local area network (LAN) cùng một số ứng dụng wide area network (WAN). Các kết nối vật lý được lập nên giữa các nốt và/hoặc các thiết bị hạ tầng (các hub, switch, router) bằng nhiều loại cáp đồng hoặc cáp quang.
+802.3 là một công nghệ hỗ trợ hạ tầng mạng IEEE 802.1.
+802.3 cũng định nghĩa phương pháp truy cập LAN sử dụng CSMA/CD.
+Lịch sử.
+IEEE là tổ chức quy định các chuẩn trong tin học nói riêng và một số lĩnh vực khác nói chung.
+Với sự đòi hỏi nối mạng các máy tính, mạng LAN đã ra đời. Cùng với đó là các bộ giao thức cho phép kết nối LAN (FDDI, TokenRing...) tuy nhiên phát triển nhất vẫn là Ethernet. Và IEEE đã dùng số hiệu 802.3 để quy định cho mọi quy tắc, quy chuẩn, luật có liên quan đến Ethernet.
+Với sự phát triển mạnh mẽ của công nghệ, tốc độ kết nối trong Ethernet không ngừng được nâng lên. Vào năm 1995, Fast Ethernet ra đời. IEEE dùng 802.3u để quy chuẩn cho các tiêu chí có liên quan đến Fast Ethernet. Tiếp đến là 802.3z (10 Gbps qua cáp quang), 802.3ab (10 Gbps qua cáp UTP), 802.3 ae (10 Gbps)...
+

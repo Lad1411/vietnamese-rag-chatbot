@@ -1,0 +1,24 @@
+Sóng dài
+
+Trong vô tuyến, sóng dài là thuật ngữ chỉ những phần phổ vô tuyến có bước sóng tương đối dài. Thuật ngữ này mới xuất hiện vào đầu thế kỷ 20, khi phổ tần số được coi như gồm các bước sóng ngắn, trung bình và dài. Hầu hết các hệ thống và thiết bị vô tuyến hiện đại dùng các bước sóng sau này được gọi là "siêu ngắn".
+Thuật ngữ sóng dài không được định nghĩa chính xác và ý nghĩa của nó lại khác nhau ở mỗi vùng trên thế giới. Ở Mỹ, ví dụ, Câu lạc bộ sóng dài Mỹ quan tâm đến "tần số dưới băng phát thanh AM", tức là tất cả các tần số dưới 535 kHz (tần số thấp hơn ứng với bước sóng dài hơn).
+Ở châu Âu, châu Phi và phần lớn châu Á (Khu vực 1 ITU) thì dải tần số giữa 148,5 và 283,5 kHz được dùng cho phát thanh AM (thêm vào băng sóng trung), thuật ngữ sóng dài đề cập cụ thể tới băng tần phát thanh này.
+Băng tần phát thanh sóng dài Khu vực 1 rơi hoàn toàn trong băng tần số thấp của phổ vô tuyến (30–300 kHz), các nhà đài định nghĩa sóng dài có thể ở phần mở rộng bên dưới và/hoặc trên dải tần đó.
+Ứng dụng khác.
+Hải đăng vô tuyến đẳng hướng.
+Hải đăng đẳng hướng phát tín hiệu liên tục để dẫn đường cho hàng hải và hàng không, sử dụng tín hiệu mã Morse. Chúng có thể chiếm bất kỳ tần số trong dải tần 190–1750 kHz. Ở Bắc Mỹ, hải đăng đẳng hướng dùng tần số 190–535 kHz. Khu vực 1 ITU dùng tần số 280 kHz.
+Tín hiệu thời gian.
+Các trạm dùng tần số 40–80 kHz phát các tín hiệu thời gian tới thiết bị đồng hồ vô tuyến. Ví dụ:
+Đồng hồ vô tuyến thu tín hiệu thời gian hiệu chuẩn của chúng bằng các máy thu sóng dài. Chúng dùng sóng dài, chứ không phải sóng ngắn hay sóng trung, do tính chính xác của đồng hồ không bị ảnh hưởng bởi tín hiệu thời gian truyền đi từ máy phát phản xạ từ tầng điện ly tới máy thu; vì sóng dài truyền theo chế độ sóng đất chứ không phải sóng trời.
+Thông tin quân sự.
+Anh, Nga, Mỹ, Đức và Thụy Điển dùng tần số dưới 50 kHz để liên lạc với tàu ngầm.
+LowFER.
+Ở Bắc Mỹ trong thập niên 1970, các tần số 167, 179 và 191 kHz được ấn định cho Đài phát thanh công cộng khẩn cấp Hoa Kỳ. Hiện nay dải tần số 160–190 kHz được dùng ở Mỹ cho các đài thử nghiệm và nghiệp dư LowFER, tần số 190–435 kHz được dùng cho hải đăng vô tuyến dẫn đường.
+Phát thanh.
+Sóng dài chỉ được dùng ở Khu vực 1 ITU. Hầu hết các đài phát thanh sóng dài nằm ở châu Âu, cộng đồng các quốc gia độc lập (SNG) và Mông Cổ. Phần còn lại nằm ở Thổ Nhĩ Kỳ, Algérie, Maroc, và Libya.
+Thông thường, một khu vực rộng lớn có thể được bao phủ bởi một máy phát thanh sóng dài. Điều này là do truyền sóng theo chế độ sóng đất ít bị suy hao bởi hấp thụ mặt đất ở tần số thấp.
+Tần số sóng mang.
+Tần số sóng mang là bội số của 9 kHz nằm từ 153 tới 279 kHz, ngoại trừ 2 đài ở Đức làm việc ở tần số 177 kHz và 183 kHz.
+Cho đến những năm 1970, một số trạm sóng dài ở Liên Xô hoạt động trên tần số 400 kHz và thậm chí còn có 1 trạm hoạt động ở tần số 433 kHz tại Phần Lan.
+Một số trạm, ví dụ như Droitwich ở Anh, lấy tần số sóng mang từ đồng hồ nguyên tử của trạm. Do đó chúng có thể được dùng như chuẩn tần số. Droitwich cũng phát một kênh dữ liệu tốc độ bit thấp, dùng kiểu điều chế ma-níp dịch pha băng hẹp cho dịch vụ Radio Teleswitch.
+

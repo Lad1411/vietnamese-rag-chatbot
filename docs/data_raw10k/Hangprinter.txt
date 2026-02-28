@@ -1,0 +1,13 @@
+Hangprinter
+
+Hangprinter là một mô hình máy in 3D delta mô hình hóa lắng đọng nóng chảy mã nguồn mở nổi tiếng với thiết kế không khung độc đáo của nó, nó được tạo ra bởi Torbjörn Ludvigsen. Hangprinter sử dụng các chi tiết tương đối thấp và có thể được xây dựng với giá khoảng $ 250 USD. Máy in là một phần của dự án RepRap, nơi nhiều phần của máy in có thể được sản xuất trên chính máy in (tự sao chép một phần). Các tệp cho máy in có sẵn trên Github để tải xuống, sửa đổi và phân phối lại.
+Các phiên bản.
+Version 0.
+Hangprinter v0, còn được gọi là Slideprinter, là một máy vẽ 2D. Nó được thiết kế chỉ để thử nghiệm nếu một phiên bản 3D thực tế có thể được tạo ra.
+Version 1.
+Hangprinter v1 sử dụng đối trọng để nâng nó trên cao.
+Version 2.
+Tất cả các bộ phận của phiên bản Hangprinter 2 đều được chứa trong một thiết bị duy nhất sử dụng cáp để treo máy in trong phòng, cho phép nó tạo ra các vật thể cực lớn trên chiều cao 4 mét.
+Version 3.
+Phiên bản 3 của Hangprinter có động cơ và bánh răng gắn trên trần nhà, làm cho cơ cấu chuyển động nhẹ hơn.
+

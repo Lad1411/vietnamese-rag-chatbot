@@ -1,0 +1,23 @@
+Hàm số Ackermann
+
+Hàm số Ackermann là một hàm thực được mang tên nhà toán học người Đức Wilhelm Ackermann (1896–1962). Hàm Ackermann đôi khi còn được gọi là hàm Ackermann-Peter.
+Lịch sử.
+Hàm Ackermenn được trình bày lần đầu tiên trong một cuốn sách về logic (mà nhà toán học David Hilbert là đồng tác giả) tựa đề Đức ngữ là "Grundzuege der Theoretischen Logik" (dịch nghĩa: "Nền tảng của Lý thuyết Logic") xuất bản năm 1928.
+Nguyên thủy thì hàm này được miêu tả với 3 biến số A (x, y, z). Sau đó, Rosza Peter đã đơn giản hóa bớt sang chỉ còn là hàm hai biến với các điều kiện ban đầu. Dạng ngày nay (thường được trình bày trong các sách giáo khoa) của hàm Ackermann là sự đơn giản hóa của Raphael Robinson.
+Định nghĩa.
+Cho hàm A(x, y), với miền xác định formula_1 và miền giá trị là formula_2
+A (0, y) = 1, nếu y ≥ 0&lt;BR&gt;
+A (1, 0) = 2&lt;BR&gt;
+A (x, 0) = x + 2, nếu x ≥ 0&lt;BR&gt;
+A (x, y) = A (A (x - 1, y), y - 1), nếu x ≥ 1 và y ≥ 1
+Tính chất.
+formula_3
+formula_4
+formula_5
+Sự tăng nhanh của hàm này khiến cho formula_6 không thể dùng các ký hiệu toán thông thường để biểu thị được và nó sẽ không có hiệu quả trong các tính toán khả dĩ.
+Mã giả.
+ int Ackermann(m,n)
+ if(m==0) Ackermann = n+1;
+ else if(n==0) Ackermann=Ackermann(m-1,1);
+ else Ackermann = Ackermann(m-1,Ackermann(m,n-1));
+

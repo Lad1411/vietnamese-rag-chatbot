@@ -1,0 +1,4 @@
+Danh sách vật thể tròn nhờ lực hấp dẫn trong Hệ Mặt Trời
+
+Đây là danh sách các vật thể tròn nhờ lực hấp dẫn của Hệ Mặt Trời, là những vật thể có hình tròn, hình elip do lực hấp dẫn của chính chúng (cân bằng thủy tĩnh). Kích thước của chúng bao gồm từ các hành tinh lùn và mặt trăng đến các hành tinh và Mặt trời. Danh sách này không bao gồm bất kỳ thiên thể nhỏ nào trong Hệ Mặt Trời, nhưng nó bao gồm một mẫu các vật thể có khối lượng hành tinh có hình dạng vẫn chưa được xác định chính xác. Các đặc điểm quỹ đạo của Mặt trời được liệt kê liên quan đến Trung tâm Thiên hà, trong khi tất cả các vật thể khác được liệt kê theo thứ tự khoảng cách của chúng với Mặt Trời.
+

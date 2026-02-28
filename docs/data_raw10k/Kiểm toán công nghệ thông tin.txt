@@ -1,0 +1,9 @@
+Kiểm toán công nghệ thông tin
+
+Kiểm toán Công nghệ Thông tin (tiếng Anh: Information Technology Audit, viết tắt IT Audit) là việc kiểm soát các quản lý điều khiển bên trong các Công trình hạ tầng xã hội Công nghệ thông tin (IT). Việc thẩm định các bằng chứng thu nhằm xác định nếu hệ thống thông tin là các tài sản được bảo vệ an toàn, duy trì tính toàn vẹn dữ liệu, và hoạt động có hiệu quả nhằm đạt các mục tiêu, mục đích của tổ chức. Những đánh giá này có thể thực thi trong việc kết hợp Kiểm toán báo cáo tài chính, kiểm toán nội bộ, hoặc những hình thức tham gia xác nhận khác.
+Kiểm soát Công nghệ Thông tin còn được gọi là kiểm toán "xử lý dữ liệu tự động" (ADP) hay "kiểm toán máy tính". Trước đây, tiền thân của thuật ngữ IT Audit là "kiểm toán xử lý dữ liệu điện tử (EDP)".
+Mục đích.
+Kiểm toán Công nghệ Thông tin khác với Kiểm toán báo cáo tài chính. Trong khi mục đích kiểm toán tài chính là đánh giá một tổ chức có gắn với tiêu chuẩn thực hành kế toán, mục đích của kiểm toán Công nghệ Thông tin là đánh giá về các thiết kế hệ thống kiểm soát nội bộ và sự hiệu quả mang lại. Trong môi trường hệ thống thông tin (IS), kiểm toán là một sự kiểm soát hệ thống thông tin, đầu vào, đầu ra và các quá trình xử lý.
+Quy trình kiểm toán.
+Các bước sau là quy trình kiểm toán cơ bản trong Kiểm toán Công nghệ Thông tin: 
+

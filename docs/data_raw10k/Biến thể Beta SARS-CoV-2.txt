@@ -1,0 +1,48 @@
+Biến thể Beta SARS-CoV-2
+
+Biến thể Beta, còn gọi là dòng B.1.351, là một biến chủng của SARS-CoV-2, virus gây bệnh COVID-19. Là một trong số các biến thể của SARS-CoV-2 được cho là có mức độ quan trọng cao, chủng Beta được phát hiện lần đầu tại vùng đô thị Nelson Mandela Bay thuộc tỉnh Đông Cape của Nam Phi vào tháng 10 năm 2020, sau đó được Bộ Y tế nước này báo cáo vào ngày 18 tháng 12 năm 2020. Các phân tích cho thấy biến chủng này đã lây lan tại khu vực Nelson Mandela Bay từ tháng 7 hoặc tháng 8 năm 2020.
+Tổ chức Y tế Thế giới đặt tên cho biến thể này là Beta; tên gọi này không nhằm để thay thế tên khoa học mà dành cho việc sử dụng thông thường của công chúng. WHO coi đây là một biến thể đáng lo ngại.
+Đột biến.
+Có ba đột biến chính được quan tâm trong vùng gai của bộ gen dòng B.1.351:
+cùng với năm đột biến protein gai khác cũng được chú ý ít hơn:
+Ngoài các đột biến protein gai, chủng Beta còn có chứa các đột biến: K1655N, mất SGF 3675-3677, P71L, và T205I.
+Các nhà khoa học phát hiện chủng Beta có khả năng gắn vào các tế bào người một cách dễ dàng hơn nhờ ba đột biến trong miền liên kết thụ thể (RBD) ở glycoprotein gai của virus: N501Y (thay thế từ asparagine (N) thành tyrosine (Y) trong vị trí amino acid 501), K417N, và E484K. Trong số này có hai đột biến, E484K và N501Y, nằm trong motif liên kết thụ thể (RBM) của RBD.
+Đột biến N501Y cũng đã được phát hiện tại Anh Quốc. Có hai đột biến có trong chủng Beta, E484K và K417N, không được tìm thấy trong chủng Alpha. Ngoài ra, biến thể delta cũng không có đột biến 69-70del được tìm thấy ở các biến thể khác.
+Hiệu quả của vắc-xin.
+Vào ngày 4 tháng 1 năm 2021, trên tạp chí "The Telegraph" của Anh, nhà miễn dịch học John Bell thuộc đại học Oxford tin rằng hiện còn đang có "một dấu hỏi lớn" về khả năng kháng vắc-xin của biến chủng Nam Phi mới, dấy lên lo ngại rằng chủng virus mới có thể làm giảm hiệu quả của các vắc-xin. Cùng ngày, giáo sư chuyên ngành vắc-xin Shabir Madhi thuộc Đại học Witwatersrand bình luận với CBS News rằng "hiện chưa có sự chắc chắn" rằng biến thể Beta mới (biến thể 501.V2) có thể trốn tránh các loại vắc-xin, nhưng cũng nên thận trọng rằng chúng "có thể không đạt được hiệu quả tối đa". Các đột biến trong protein gai của chủng Beta được Simon Clarke, phó giáo sư ngành vi sinh vật học tế bào tại Đại học Reading, coi là một yếu tố đáng lo ngại, khi mà chúng "có thể khiến virus ít bị ảnh hưởng hơn từ các phản ứng miễn dịch được kích hoạt nhờ vắc-xin". Lawrence Young, một nhà virus học tại Đại học Warwick, cũng lưu ý rằng các đột biến ở protein gai của biến chủng Beta "có thể khiến chúng có khả năng tránh khỏi sự bảo vệ của hệ miễn dịch".
+Đột biến thay đổi amino acid E484K, một đột biến xảy ra trong miền liên kết thụ thể (RBD), được cho là "có liên hệ tới khả năng thoát khỏi các kháng thể trung hòa", điều có thể làm ảnh hưởng xấu tới mức độ hiệu quả của các loại vắc-xin COVID-19 dựa trên protein gai. Đột biến gai E484K được cho là nguyên nhân của một ca tái nhiễm biến thể Beta của SARS-CoV-2 tại Brazil; các nhà nghiên cứu tin rằng đây là ca tái nhiễm đầu tiên liên quan tới đột biến này. Khả năng thay đổi tính kháng nguyên trên được gọi là một "đột biến trốn thoát" khỏi các kháng thể đơn dòng có thể trung hòa các biến thể protein gai của SARS-CoV-2. Điều này cho thấy rằng các loại vắc-xin hiện hành có thể và nên được cập nhật để chống các chủng virus mới mà không cần phải trải qua lại các giai đoạn thử nghiệm.
+Johnson &amp; Johnson.
+Vào tháng 1, Johnson &amp; Johnson, công ty từng tiến hành các cuộc thử nghiệm loại vắc-xin Ad26.COV2.S tại Nam Phi, báo cáo mức độ bảo vệ người bệnh trước COVID-19 thể vừa và nặng tại Hoa Kỳ là 72%, còn tại Nam Phi chỉ còn 64%.
+Pfizer–BioNTech.
+Vào ngày 17 tháng 2 năm 2021, Pfizer đưa thông tin rằng biến thể Beta làm giảm hai phần ba khả năng trung hòa virus của hệ miễn dịch, nhưng cũng tránh đưa ra các bình luận về độ hiệu quả của vắc-xin do hãng sản xuất trong phòng bệnh do chủng virus này gây ra.
+Vào ngày 16 tháng 3 năm 2021, Cơ quan Quản lý Dược phẩm Nam Phi (SAHPRA) đã cấp phép sử dụng khẩn cấp loại vắc-xin của Pfizer-BioNTech (BNT162b2).
+Vào ngày 1 tháng 4 năm 2021, thông tin cập nhật về quá trình thử nghiệm vắc-xin tại Nam Phi cho biết mức độ hiệu quả tới thời điểm này là 100% (tức là không có ca lây nhiễm nào trong số tình nguyện viên đã được tiêm chủng); ngoài ra trong số 9 ca nhiễm ở nhóm sử dụng giả dược, có sáu ca là do biến chủng Beta (dòng B.1.351). Tuy nhiên, 9 ngày sau đó, một nghiên cứu tại Israel cho thấy biến chủng này có mặt ở cả những người đã tiêm hai mũi vắc-xin, với mức độ lưu hành ở nhóm người đã tiêm vắc-xin cao gấp tám lần so với chủng virus gốc.
+Vào ngày 5 tháng 5 năm 2021, một lá thư tóm tắt các kết quả từ Nhóm Nghiên cứu Tiêm chủng COVID-19 Quốc gia Qatar cho thấy mức độ hiệu quả đạt 75%, trong đó không có ca bệnh nào tiến triển nặng.
+Oxford–AstraZeneca.
+Vào ngày 6 tháng 2 năm 2021, "The Financial Times" đưa tin các dữ liệu thử nghiệm ban đầu từ một nghiên cứu do Đại học Witwatersrand (Nam Phi) và Đại học Oxford cùng thực hiện cho thấy mức độ hiệu quả của loại vắc-xin COVID-19 do Oxford–AstraZeneca sản xuất (AZD1222) bị suy giảm trước biến chủng Beta. Nghiên cứu phát hiện ra rằng trong số 2.000 người được nghiên cứu lấy mẫu, vắc-xin AZD1222 chỉ cung cấp sự "bảo vệ tối thiểu" giúp ngăn ngừa các triệu chứng của COVID-19 ở thể từ nhẹ đến vừa.
+Vào ngày 7 tháng 2 năm 2021, chính phủ Nam Phi đã tạm ngừng kế hoạch triển khai tiêm chủng khoảng 1 triệu liều vắc-xin AstraZeneca để xem xét các dữ liệu và chờ thêm ý kiến từ các nhà khoa học. Nam Phi sau đó đã quyết định ngừng sử dụng loại vắc-xin này, bán chúng cho các nước châu Phi khác, và chuyển chương trình tiêm chủng sang sử dụng loại vắc-xin của Johnson &amp; Johnson.
+BBIBP-CorV.
+Các nước châu Phi khác đã bắt đầu tiêm các liều vắc-xin BBIBP-CorV do Sinopharm sản xuất, trong đó Morocco, Ai Cập, Seychelles và Zimbabwe đang bắt đầu tiêm chủng diện rộng. Cho tới thời điểm hiện tại, loại vắc-xin này đã được chứng minh là có tác dụng với biến thể Beta, theo như tình hình thực tế tại Zimbabwe. Vào ngày 2 tháng 2 năm 2021, một báo cáo cho thấy tác dụng trung hòa của vắc-xin đối với chủng virus Beta bị giảm 1,6 lần.
+Moderna.
+Vào tháng 2, Moderna cho biết loại vắc-xin hiện tại của họ (mRNA-1273) chỉ sản xuất được lượng kháng thể với biến chủng Nam Phi bằng một phần sáu so với chủng virus gốc. Hãng đã bắt đầu thử nghiệm loại vắc-xin mới để chống biến thể Beta.
+Sputnik V.
+Cơ quan Quản lý Dược phẩm Nam Phi (SAHPRA) xác nhận đã nhận được tài liệu về loại vắc-xin do Viện Gamaleya của Nga phát triển.
+Sputnik V (Gam-COVID-Vac) là một trong ba loại vắc-xin COVID-19 trên toàn thế giới có độ hiệu quả ngăn ngừa các triệu chứng ở mức cao hơn 90%. Viện vẫn đang tiếp tục thử nghiệm về độ hiệu quả của vắc-xin đối với biến thể Beta.
+CoronaVac.
+CoronaVac hiện chưa được Cơ quan Quản lý Dược phẩm Nam Phi (SAHPRA) cấp phép sử dụng. Cho tới thời điểm này, Sinovac đã chào mời cung cấp cho Nam Phi 5 triệu liều vắc-xin.
+Covaxin.
+Bharat Biotech, nhà sản xuất của Covaxin (BBV152) cho biết hãng có thể điều chỉnh vắc-xin để chống biến thể virus corona tại Nam Phi trong vòng 15 ngày.
+CoviVac.
+Thông tin về vắc-xin CoviVac hiện chưa được chuyển tới chính phủ Nam Phi.
+EpiVacCorona.
+Thông tin về vắc-xin EpiVacCorona hiện chưa được chuyển tới chính phủ Nam Phi.
+ZF2001.
+Thông tin về vắc-xin ZF2001 hiện vẫn đang trong quá trình chuyển tới chính phủ Nam Phi.
+Novavax.
+Một nghiên cứu đối với loại vắc-xin NVX-CoV2373 của Novavax cho thấy độ hiệu quả 60% (trên các tình nguyện viên âm tính HIV) tại Nam Phi, so với mức 90% tại Anh Quốc.
+ImmunityBio.
+Viện BioVac, một hãng vắc-xin do chính phủ Nam Phi tài trợ, có kế hoạch dùng một thỏa thuận mà viện đã có trước đó để sản xuất vắc-xin COVID-19. Nhờ bản hợp đồng hợp tác với Tập đoàn ImmunityBio tại Mỹ, loại vắc-xin hAd5 do tập đoàn này sản xuất đang được tiến hành thử nghiệm giai đoạn 1 tại Hoa Kỳ và Nam Phi.
+ImmunityBio và BioVac dự định sẽ phân phối các liều vắc-xin trên khắp Nam Phi và châu Phi.
+Dịch tễ học.
+Các nhà nghiên cứu và nhà chức trách nhận thấy biến chủng Beta có độ phổ biến cao hơn ở những người trẻ không có bệnh lý nền, đồng thời có nhiều khả năng gây bệnh nặng hơn các biến chủng khác. Bộ Y tế Nam Phi cũng cho rằng chủng Beta có thể là nguyên nhân của làn sóng dịch COVID-19 thứ hai tại nước này, khi mà biến thể này có khả năng lây lan nhanh hơn các chủng virus trước đó.
+

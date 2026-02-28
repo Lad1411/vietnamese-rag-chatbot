@@ -1,0 +1,9 @@
+Thải ghép
+
+Từ chối cấy ghép hay thải ghép xảy ra khi mô cấy ghép bị hệ thống miễn dịch của người nhận từ chối, phá hủy mô cấy ghép. Từ chối cấy ghép có thể được giảm bớt bằng cách xác định độ tương tự phân tử giữa người cho và người nhận và bằng cách sử dụng thuốc ức chế miễn dịch sau khi cấy ghép.
+Phòng ngừa từ chối cấy ghép.
+Ca ghép tạng thành công đầu tiên, được thực hiện vào năm 1954 bởi Joseph Murray, liên quan đến cặp song sinh giống hệt nhau, và do đó không có sự từ chối nào được quan sát. Mặt khác, số lượng biến thể gen không khớp, cụ thể là các alen, mã hóa các phân tử bề mặt tế bào được gọi là phức hợp tương hợp mô học chính (MHC), lớp I và II, tương quan với sự nhanh chóng và mức độ nghiêm trọng của thải ghép. Ở người MHC còn được gọi là kháng nguyên bạch cầu người (HLA).
+Mặc dù xét nghiệm lai tế bào độc tế bào có thể dự đoán thải ghép qua trung gian miễn dịch tế bào, các xét nghiệm biểu hiện di truyền cụ thể đối với loại cơ quan được ghép, ví dụ Xét nghiệm biểu hiện phân tử AlloMap, có giá trị tiên đoán âm tính cao. Chỉ cấy ghép các mảnh ghép tương thích ABO (phù hợp với các nhóm máu giữa người cho và người nhận) giúp ngăn ngừa sự từ chối qua trung gian miễn dịch dịch thể.
+Cấy ghép không tương thích ABO.
+Bởi vì trẻ nhỏ (thường dưới 12 tháng, nhưng thường là 24 tháng) không có hệ thống miễn dịch phát triển đầy đủ, chúng có thể nhận nội tạng từ những người hiến tặng không tương thích. Điều này được gọi là cấy ghép không tương thích ABO (ABOi). Tỷ lệ sống sót của mảnh ghép và tỷ lệ tử vong của bệnh nhân xấp xỉ nhau giữa những người nhận tương thích ABOi và ABO (ABOc). Mặc dù tập trung vào ghép tim trẻ sơ sinh, các nguyên tắc thường áp dụng cho các hình thức ghép tạng rắn khác.
+

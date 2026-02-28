@@ -1,0 +1,5 @@
+Gói thầu
+
+Gói thầu là một phần của dự án, trong một số trường hợp đặc biệt gói thầu là toàn bộ dự án; gói thầu có thể gồm những nội dung mua sắm giống nhau thuộc nhiều dự án hoặc là khối lượng mua sắm một lần đối với mua sắm thường xuyên. Gói thầu EPC là gói thầu bao gồm toàn bộ các công việc thiết kế, cung cấp thiết bị, vật tư và xây lắp.
+Gắn vào hoạt động xây dựng thì: Gói thầu trong hoạt động xây dựng là một phần công việc tương đối độc lập của dự án như công trình, hạng mục công trình, công việc hoặc toàn bộ dự án. Gói thầu trong hoạt động xây dựng bao gồm gói thầu tư vấn xây dựng, gói thầu thi công xây dựng công trình (xây lắp) và gói thầu tổng thầu xây dựng.
+

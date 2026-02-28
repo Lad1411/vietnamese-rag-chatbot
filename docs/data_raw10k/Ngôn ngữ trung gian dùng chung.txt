@@ -1,0 +1,176 @@
+Ngôn ngữ trung gian dùng chung
+
+Ngôn ngữ trung gian chung hoặc Ngôn ngữ trung gian dùng chung (Common Intermediate Language - CLI), là ngôn ngữ lập trình có thể đọc được của con người ở mức thấp nhất được xác định bởi đặc tả Cơ sở chung hạ tầng ngôn ngữ (CLI) và được .NET Framework và Mono sử dụng. Ngôn ngữ nhắm mục tiêu một môi trường thời gian chạy tương thích với CLI biên dịch tới CIL, được lắp ráp thành một mã đối tượng có định dạng bytecode. CIL là một ngôn ngữ lắp ráp hướng đối tượng, và hoàn toàn dựa trên stack. Bytecode của nó được dịch sang mã gốc hoặc - thường được thực hiện bởi một máy ảo.
+CIL ban đầu được gọi là Ngôn ngữ trung gian dùng chung của Microsoft (MSIL) trong phiên bản beta của các ngôn ngữ.NET. Do tiêu chuẩn hoá C # và cơ sở ngôn ngữ dùng chung, bytecode được chính thức gọi là CIL.
+Thông tin tổng quan.
+Trong quá trình biên soạn ngôn ngữ lập trình CLI, mã nguồn được dịch sang mã CIL thay vì mã đối tượng trên nền tảng hoặc bộ xử lý cụ thể. CIL là một tập lệnh độc lập với nền tảng CPU và nền tảng có thể được thực hiện trong bất kỳ môi trường hỗ trợ Cơ sở ngôn ngữ dùng chung, chẳng hạn như .NET runtime trên Windows, hoặc nền tảng Mono. Về lý thuyết thì điều này giúp loại bỏ sự cần thiết của việc phân phối các tập tin thực thi khác nhau cho các nền tảng khác nhau và các loại CPU. Mã CIL được xác minh để đảm bảo an toàn trong suốt thời gian chạy, cung cấp sự bảo mật và độ tin cậy cao hơn so với các tệp thực thi truyền thống. 
+Quy trình thực hiện như sau:
+Các tập lệnh.
+Bytecode CIL có các tập lệnh cho các nhóm tác vụ sau:
+Mô hình tính toán.
+Ngôn ngữ trung gian chung là hướng đối tượng và dựa trên ngăn xếp (stack). Điều đó có nghĩa là dữ liệu được đẩy vào ngăn xếp thay vì lấy từ thanh ghi (register) như trong hầu hết các kiến trúc CPU.
+Trong x86 nó có thể trông như thế này:
+add eax, edx
+Khi đó, mã tương ứng ở CLI sẽ như thế này:
+Khái niệm hướng đối tượng.
+Điều này cũng mở rộng cho các khái niệm hướng đối tượng. Bạn có thể tạo các đối tượng, gọi phương thức, tương tác với các field... 
+CIL được thiết kế để định hướng cho đối tượng và mọi phương thức nếu cần (với một số ngoại lệ) vào trong một lớp. Phương thức static này cũng vậy:
+.class public Foo
+ .method public static int32 Add(int32, int32) cil managed
+ .maxstack 2
+ ldarg.0 // tải số đầu tiên;
+ ldarg.1 // tải số thứ hai;
+ add // cộng hai số;
+ ret // trả kết quả về;
+Phương thức này không yêu cầu bất kỳ instance nào của Foo được khai báo vì nó là static. Điều đó có nghĩa nó thuộc về lớp và sau đó nó có thể được sử dụng như thế này trong C #:
+int r = Foo.Add(2, 3); // 5
+Trong CIL:
+ldc.i4.2
+ldc.i4.3
+call int32 Foo::Add(int32, int32)
+stloc.0
+Các lớp instance.
+Một lớp instance chứa ít nhất một constructor và một số thành viên instance. Lớp này có một tập hợp các phương thức đại diện cho hành động của đối tượng Car.
+.class public Car
+ .method public specialname rtspecialname instance void.ctor(int32, int32) cil managed
+ /* Constructor */
+ .method public void Move(int32) cil managed
+ /* Bỏ qua việc hiện thực hóa */
+ .method public void TurnRight() cil managed
+ /* Bỏ qua việc hiện thực hóa */
+ .method public void TurnLeft() cil managed
+ /* Bỏ qua việc hiện thực hóa */
+ .method public void Brake() cil managed
+ /* Bỏ qua việc hiện thực hóa */
+Tạo đối tượng.
+Trong C#, các instance được tạo ra như thế này:
+Car myCar = new Car(1, 4); 
+Car yourCar = new Car(1, 3); 
+Trong CIL:
+ldc.i4.1
+ldc.i4.4
+newobj instance void Car::.ctor(int, int)
+stloc.0 // myCar = new Car(1, 4);
+ldc.i4.1
+ldc.i4.3
+newobj instance void Car::.ctor(int, int)
+stloc.1 // yourCar = new Car(1, 3);
+Gọi phương thức của instance:.
+Các phương thức của instance được gọi như sau:
+myCar.Move(3);
+Trong CIL:
+ldloc.0 // tải đối tượng "myCar" từ stack
+ldc.i4.3
+call instance void Car::Move(int32)
+Metadata.
+CLI ghi lại thông tin về các lớp được biên dịch dưới dạng metadata. Giống như thư viện kiểu trong Mô hình Đối tượng Thành phần, điều này cho phép các ứng dụng hỗ trợ và khám phá các interface, lớp, các kiểu dữ liệu, phương thức, và các trường trong assembly. Quá trình đọc siêu dữ liệu như vậy được gọi là sự phản chiếu.
+Metadata có thể là dữ liệu ở dạng "thuộc tính" ("attributes)". Thuộc tính có thể được tạo ra thủ công bằng cách mở rộng lớp codice_1. Đây là một tính năng rất mạnh, cho phép lập trình viên khi tạo các lớp có thể bổ sung các thông tin bổ sung mà người sử dụng lớp có thể sử dụng theo những cách khác nhau có tùy thuộc vào miền ứng dụng.
+Ví dụ.
+Dưới đây là chương trình Hello, World được viết trong CIL:
+.method static void Main()
+ .entrypoint
+ .maxstack 1
+ ldstr "Hello, world!"
+ call void [mscorlib]System.Console::WriteLine(string)
+ ret
+Chương trình sau sử dụng các dạng số phức tạp hơn của opcode
+"Đoạn mã này cũng có thể được so sánh với đoạn mã tương ứng trong bài viết về Java bytecode."
+static void Main(string[] args)
+ for (int i = 2; i &lt; 1000; i++)
+ for (int j = 2; j &lt; i; j++)
+ if (i % j == 0)
+ goto outer;
+ Console.WriteLine(i);
+ outer:;
+Trong CIL, chương trình trên trở thành:
+.method private hidebysig static void Main(string[] args) cil managed
+ .entrypoint
+ .maxstack 2
+ .locals init (int32 V_0,
+ int32 V_1)
+ ldc.i4.2
+ stloc.0
+ br.s IL_001f
+ IL_0004: ldc.i4.2
+ stloc.1
+ br.s IL_0011
+ IL_0008: ldloc.0
+ ldloc.1
+ rem
+ brfalse.s IL_001b
+ ldloc.1
+ ldc.i4.1
+ add
+ stloc.1
+ IL_0011: ldloc.1
+ ldloc.0
+ blt.s IL_0008
+ ldloc.0
+ call void [mscorlib]System.Console::WriteLine(int32)
+ IL_001b: ldloc.0
+ ldc.i4.1
+ add
+ stloc.0
+ IL_001f: ldloc.0
+ ldc.i4 0x3e8
+ blt.s IL_0004
+ ret
+Thực thi.
+Biên dịch kiểu just-in-time.
+Biên dịch kiểu just-in-time (JIT)  liên quan đến việc biến mã byte thành các đoạn mã có thể được thực thi ngay lập tức bởi CPU. Việc chuyển đổi được thực hiện dần dần trong quá trình thực thi của chương trình. Biên dịch JIT hỗ trợ tối ưu hóa môi trường cụ thể, an toàn kiểu, và xác minh assembly. Để thực hiện điều này, trình biên dịch JIT kiểm tra metadata của assembly đối với bất kỳ lượt truy cập bất hợp pháp nào, và xử lý các hành vi vi phạm một cách thích hợp.
+Biên dịch kiểu ahead-of-time.
+Các môi trường thực thi tương thích với CLI cũng đi kèm với tùy chọn biên dịch ahead-of-time (AOT) của một assembly để giúp nó chạy nhanh hơn bằng cách loại bỏ quá trình JIT khi chạy. 
+Trong .NET Framework có một công cụ đặc biệt được gọi là Native Image Generator (NGEN) thực hiện AOT. Trong Mono cũng có tùy chọn để thực hiện AOT. 
+Tập lệnh con trỏ - C++/CLI.
+Sự khác biệt rất lớn giữa CLI với bytecode của Java là CIL có các lệnh ldind, stind, ldloca, và nhiều lệnh khác để gọi và thao tác với con trỏ dữ liệu/chức năng.
+class A {
+void test_pointer_operations(int param) {
+int k = 0;
+int * ptr = &amp;k;
+ptr = &amp;param;
+A a;
+A * ptra = &amp;a;
+ptra-&gt;meth();
+Mã tương ứng trong CLI là:
+.method assembly static void modopt([mscorlib]System.Runtime.CompilerServices.CallConvCdecl) 
+ test_pointer_operations(int32 param) cil managed
+ .vtentry 1: 1
+ // Code size 44 (0x2c)
+ .maxstack 2
+ .locals ([0] int32* ptr,
+ [1] valuetype A* V_1,
+ [2] valuetype A* a,
+ [3] int32 k)
+// k = 0;
+ IL_0000: ldc.i4.0 
+ IL_0001: stloc.3
+// ptr = &amp;k;
+ IL_0002: ldloca.s k // tải địa chỉ tập lệnh địa phương
+ IL_0004: stloc.0
+// *ptr = 1;
+ IL_0005: ldloc.0
+ IL_0006: ldc.i4.1
+ IL_0007: stind.i4 // indirection instruction
+// ptr = &amp;param
+ IL_0008: ldarga.s param // tải tham số địa chỉ của tập lệnh
+ IL_000a: stloc.0
+// *ptr = 2
+ IL_000b: ldloc.0
+ IL_000c: ldc.i4.2
+ IL_000d: stind.i4
+// a = new A;
+ IL_000e: ldloca.s a
+ IL_0010: call valuetype A* modopt([mscorlib]System.Runtime.CompilerServices.CallConvThiscall) 'A.{ctor}'(valuetype A* modopt([mscorlib]System.Runtime.CompilerServices.IsConst) modopt([mscorlib]System.Runtime.CompilerServices.IsConst))
+ IL_0015: pop
+// ptra = &amp;a;
+ IL_0016: ldloca.s a
+ IL_0018: stloc.1
+// ptra-&gt;meth();
+ IL_0019: ldloc.1
+ IL_001a: dup
+ IL_001b: ldind.i4 // đọc VMT cho việc gọi hàm virtual
+ IL_001c: ldind.i4
+ IL_001d: calli unmanaged stdcall void modopt([mscorlib]System.Runtime.CompilerServices.CallConvStdcall)(native int)
+ IL_0022: ret
+} // kết thúc phương thức "Global Functions"::test_pointer_operations
+

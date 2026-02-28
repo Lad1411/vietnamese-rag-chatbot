@@ -1,0 +1,18 @@
+Zalo
+
+Zalo là một ứng dụng nhắn tin nhanh đa nền tảng được phát triển bởi công ty VNG ở Việt Nam. Ngoài Việt Nam, ứng dụng này còn được sử dụng tại các quốc gia như Hoa Kỳ, Nhật Bản, Đài Loan, Hàn Quốc, Úc, Đức, Myanmar và Singapore.
+Lịch sử phát triển.
+Tên gọi của Zalo được kết hợp từ Zing (trang tin điện tử được quản lý bởi VNG) và "alo" (cụm từ dùng để bắt cuộc gọi ở Việt Nam).
+Phiên bản thử nghiệm đầu tiên của Zalo được ra mắt vào tháng 8 năm 2012, mất 8 tháng kể từ khi bắt đầu phát triển vào cuối năm 2011. Đến tháng 9 cùng năm, Zalo mới phát hành phiên bản trên 3 nền tảng iOS, Android và Nokia S40. Tuy nhiên, Zalo không nhận được sự quan tâm do có nhiều cản trở khi tiếp cận người dùng, như dùng Zing ID để đăng nhập hay sử dụng nền tảng web cho ứng dụng trên điện thoại di động. 
+Tháng 12 năm 2012, phiên bản chính thức của Zalo mới được tung ra thị trường. Ngày 8 tháng 1 năm 2013, Zalo lần đầu tiên chiếm vị trí dẫn đầu trên bảng xếp hạng App Store ở Việt Nam, vượt qua đối thủ mạnh nhất lúc đó là WeChat của Trung Quốc.
+Ưu điểm của Zalo khi đó là nhắn tin ổn định trên mọi hạ tầng như 2G, 2,5G, 3G, 4G và wifi. Do đặt máy chủ tại Việt Nam nên tốc độ nhắn tin của Zalo cũng vượt trội, cũng như tiết kiệm pin hơn so với các phần mềm ngoại.
+Tranh cãi và bê bối.
+Hoạt động thiếu giấy phép.
+Vào tháng 7 năm 2019, Thanh tra Sở Thông tin và Truyền thông TP.HCM đã có văn bản đề nghị các bên đăng ký và quản lý tên miền tiến hành thu hồi hai tên miền của Zalo là "Zalo.vn" và "Zalo.me" của công ty cổ phần VNG do hoạt động mạng xã hội mà không xin phép. Trước đó, việc Zalo không đăng ký hoạt động mạng xã hội đã được phát hiện từ năm 2018 và đã bị xử phạt, nhưng Sở vẫn để tên miền này hoạt động để tạo điều kiện cho Zalo bổ sung các giấy tờ cấp phép.
+Bắt đầu từ ngày 11 tháng 11 năm 2019, tên miền "Zalo.vn" bị dừng hoạt động trong vòng 45 ngày để các cơ quan chức năng xử lí hành vi vi phạm, mặc dù VNG đã nộp hồ sơ. Theo một nguồn tin cho biết, hồ sơ của Zalo nộp lên chưa đủ điều kiện để được cấp phép nên bị tạm ngừng trong 45 ngày để Zalo khẩn trương hoàn thiện hồ sơ.
+Làm lộ thông tin người dùng.
+Để sử dụng chức năng "Tìm kiếm quanh đây", người sử dụng phải bật chế độ định vị, khi đó Zalo sẽ quét được toàn bộ người lạ ở xung quanh trong vòng bán kính đến vài km. Tuy nhiên, Zalo lại mặc định bật chế độ này trên ứng dụng di động khiến bất kỳ ai cũng có thể bị lộ vị trí cá nhân khi chức năng định vị được bật.
+Tháng 5 năm 2022, Zalo đã áp dụng phương thức mã hóa đầu cuối (E2EE) cho các cuộc trò chuyện cá nhân trên ứng dụng di động, Zalo PC hay phiên bản web nhằm tăng cường bảo mật thông tin người dùng.
+Zalo thu phí người dùng, hạn chế một số tính năng của người dùng phổ thông.
+Từ ngày 1 tháng 8 năm 2022, Zalo thu phí người dùng, đối với tài khoản miễn phí sẽ bị hạn chế một số tính năng nhất định. Ngay sau đó Zalo nhận về nhiều đánh giá 1 sao trên App Store và Google Play, bị nhiều người dùng tẩy chay, đe doạ xoá ứng dụng.
+

@@ -1,0 +1,15 @@
+Hiệu ứng Twomey
+
+Hiệu ứng Twomey mô tả sự tỷ lệ thuận của độ sâu quang học của mây với căn bậc ba của mật độ các hạt nước trong mây, ở điều kiện tổng lượng nước trong một đơn vị thể tích trong mây là không đổi. Theo hiệu ứng này, khi tổng lượng nước không đổi, nếu số hạt nước tăng lên, thì độ sâu quang học của mây cũng tăng theo, và do đó mây sẽ trở nên trắng hơn, phản xạ mạnh hơn bức xạ Mặt Trời. Trong điều kiện tổng lượng nước không đổi, nếu số hạt nước tăng lên, thì buộc kích thước các hạt nước phải nhỏ đi.
+Trong tự nhiên, lượng nước trong mây có thể không thay đổi, nhưng số hạt nước có thể tăng lên, và các hạt nước nhỏ hơn, khi xuất hiện thêm nhiều các hạt nhân ngưng tụ mây. Các hạt nhân ngưng tụ mây có thể có nguồn gốc từ hoạt động gây ô nhiễm của con người, hoặc các nguồn khói bụi tự nhiên, như hoạt động núi lửa, cháy rừng... Theo hiệu ứng Towmey, với các nguồn hạt nhân ngưng tụ bổ sung, mật độ các hạt nước ở mây có thể tăng lên, làm tăng độ trắng sáng của mây. Ví dụ, khói xả của tàu thủy trên đại dương, gây ra các vệt ngưng tụ tàu biển, là các vùng mây được làm tăng độ trắng sáng.
+Hiệu ứng Twomey là cơ sở để thực hiện kỹ thuật tăng sáng mây đại dương, có tiềm năng làm mát Trái Đất.
+Chứng minh.
+Giả thiết đám mây là một lớp không khí phẳng trải rộng, có độ dày "h", chứa các hạt nước hình cầu có bán kính trung bình formula_1, và mật độ các hạt nước là "N". Khi đó độ sâu quang học, formula_2, của mây được xác định theo công thức:
+với "h" độ dày của mây.
+Tổng khối lượng nước, "M", trong một đơn vị diện tích trải rộng của mây là:
+với formula_5 là khối lượng riêng của nước.
+Kết hợp hai phương trình trên, thu được sự phụ thuộc của độ sâu quang học vào bán kính trung bình của các hạt nước:
+Trong điều kiện lượng nước trong một đơn vị diện tích trải rộng của mây, "M", không đổi, từ phương trình (2) suy ra bán kính trung bình của các hạt nước tỷ lệ nghịch với căn bậc ba của mật độ các hạt nước.
+Từ phương trình (3) suy ra độ sâu quang học tỷ lệ thuận với căn bậc ba của mật độ các hạt nước, trong điều kiện lượng nước trong một đơn vị diện tích trải rộng của mây không đổi:
+Như vậy tăng mật độ hạt nước làm tăng độ sâu quang học.
+

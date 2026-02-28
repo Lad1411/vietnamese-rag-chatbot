@@ -1,0 +1,13 @@
+Tốc độ phản ứng
+
+Tốc độ phản ứng là độ thay đổi nồng độ của một trong các chất tham gia hoặc sản phẩm trong một đơn vị thời gian.
+Thực nghiệm cho thấy rằng có những phản ứng xảy ra gần như ngay tức khắc, như phản ứng nổ, nhưng cũng có những phản ứng xảy ra rất chậm, thường là phản ứng giữa các hợp chất cộng hóa trị, nhất là những hợp chất hữu cơ.
+Tốc độ phản ứng được xác định bằng độ biến thiên nồng độ của chất trong đơn vị thời gian, đơn vị là mol/ls hoặc mol/lh, mol/l.phút
+trong đó mol/l là đơn vị của nồng độ còn s, h, phút là đơn vị thời gian.
+Người ta phân biệt tốc độ trung bình với tốc độ tức thời của phản ứng hóa học. Nếu phản ứng có dạng tổng quát
+aA + bB = mM + nN
+thì tốc độ phản ứng có thể được xác định bằng độ giảm nồng độ hoặc của chất A hoặc của chất B hay bằng độ tăng nồng độ hoặc của chất M hoặc của chất N nhưng với quy ước lấy độ biến thiên nồng độ của chất chia cho hệ số của chất đó ở trong phương trình phản ứng.
+Tốc độ phản ứng phụ thuộc vào nhiều yếu tố như bản chất và nồng độ của các chất phản ứng, áp suất (nếu trong phản ứng có chất khí tham gia),nhiệt độ, bản chất của dung môi (nếu phản ứng được thực hiện trong dung dịch, sự có mặt của chất xúc tác...
+Các yếu tố ảnh hưởng tốc độ phản ứng:
++ Nồng độ: Khi tăng nồng độ chất phản ứng, tốc độ phản ứng tăng.
+

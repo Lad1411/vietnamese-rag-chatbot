@@ -1,0 +1,13 @@
+Nhảy sao
+
+Nhảy sao là một kỹ thuật mà các nhà thiên văn nghiệp dư thường sử dụng để định vị các vật thể thiên văn trên bầu trời đêm. Nó có thể được sử dụng thay thế hoặc ngoài việc thiết lập các vòng tròn hoặc chuyển sang hệ thống đẩy.
+Vấn đề.
+Nhiều thiên thể được quan tâm quá mờ nhạt để có thể nhìn thấy bằng mắt. Kính thiên văn hoặc ống nhòm thu thập nhiều ánh sáng hơn, làm cho các vật thể mờ có thể nhìn thấy, nhưng có trường nhìn nhỏ hơn, do đó làm phức tạp định hướng trên bầu trời.
+Phạm vi quan sát của ống nhòm hiếm khi hơn tám độ, trong khi đó của kính thiên văn nghiệp dư thông thường có thể nhỏ hơn một độ, tùy thuộc vào độ phóng đại được sử dụng. Nhiều đối tượng được quan sát tốt nhất bằng cách sử dụng độ phóng đại cao hơn, chắc chắn đi cùng với các trường nhìn hẹp.
+Kỹ thuật.
+Nhảy sao sử dụng các ngôi sao sáng như một hướng dẫn để tìm các vật thể mờ hơn. Một kiến thức về vị trí tương đối của các ngôi sao sáng và các vật thể mục tiêu là rất cần thiết. Sau khi lên kế hoạch cho nhảy sao với sự trợ giúp của một biểu đồ sao, người quan sát đầu tiên nằm một hoặc sáng hơn ngôi sao trong một finderscope, ngắm phản xạ, hoặc, ở một độ phóng đại thấp, với các công cụ được sử dụng để quan sát. Sau đó cụ được di chuyển bởi một hoặc nhiều gia, có thể sử dụng một mặt kẻ ô để xác định cụ thể khoảng cách góc cạnh, làm theo mẫu được xác định của các ngôi sao trên bầu trời, cho đến khi đối tượng mục tiêu là đạt.
+Sử dụng một kính viễn vọng trang bị với một liên kết đúng núi xích đạo, người quan sát cũng có thể làm theo các hệ tọa độ xích đạo trên bản đồ sao để "nhảy" hay "trượt" dọc theo dòng của xích kinh hoặc xích vĩ từ một đối tượng nổi tiếng để tìm một mục tiêu. Điều này có thể được hỗ trợ bằng cách sử dụng các vòng tròn thiết lập.
+Khi một thiết bị tập trung vào đối tượng mục tiêu, độ phóng đại cao hơn có thể được sử dụng để quan sát.
+Thí dụ.
+Một ví dụ đơn giản về nhảy sao sẽ tìm thấy Messier 13, cụm sao hình cầu trong chòm sao Vũ Tiên, quá mờ để có thể nhìn thấy bằng mắt trong hầu hết các điều kiện. Như thể hiện trên biểu đồ sao, M 13 nằm trên một đường nối giữa các ngôi sao ζ Herculis và η Herculis. Sử dụng các kỹ thuật nhảy sao, trước tiên, một người quan sát sẽ nhận dạng hai người này bằng mắt thường và sau đó chỉ một dụng cụ (ống nhòm hoặc kính viễn vọng) hai phần ba đường lên từ ζ, một phần ba từ η đến vị trí M 13. Một người quan sát sử dụng kính viễn vọng được trang bị với một đỉnh xích đạo sẽ giảm từ η xuống tới vị trí M 13.
+

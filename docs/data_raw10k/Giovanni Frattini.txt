@@ -1,0 +1,8 @@
+Giovanni Frattini
+
+Giovanni Frattini (Sinh ngày 8 tháng 1 năm 1852 – mất ngày 21 tháng 7 năm 1925) là nhà toán học Ý, được biết đến bởi các cống hiến cho lý thuyết nhóm.
+Tiểu sử.
+Frattini bắt đầu học tại đai học của Rome từ 1869, trong đó ông cùng học toán cùng với Giuseppe Battaglini, Eugenio Beltrami, và Luigi Cremona. Ông nhận bằng Laurea vào năm 1875.
+Trong 1885, ông xuất bản ra bài báo nghiên cứu một số nhóm con nhất định của nhóm hữu hạn. Nhóm con này, sau này được gọi là nhóm con Frattini , là nhóm con formula_1 được sinh bởi tất cả các phần tử không sinh của formula_2. Ông chứng minh rằng formula_1 là nhóm lũy linh, và trong chứng minh đó đã phát triển phương pháp lập luận mới nay người ta gọi là lý luận Frattini.
+Ngoài lý thuyết nhóm ra, ông còn nghiên cứu hình học vi phân và vô định bậc hai
+

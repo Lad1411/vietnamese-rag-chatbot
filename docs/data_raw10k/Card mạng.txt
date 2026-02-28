@@ -1,0 +1,17 @@
+Card mạng
+
+Card mạng ("network card"), hay card giao tiếp mạng ("Network Interface Card"), là một bản mạch cung cấp khả năng truyền thông mạng cho một máy tính. Nó còn được gọi là bộ thích nghi LAN ("LAN adapter"), được cắm trong một khe ("slot") của bản mạch chính và cung cấp một giao tiếp kết nối đến môi trường mạng. Chủng loại card mạng phải phù hợp với môi trường truyền và giao thức được sử dụng trên mạng cục bộ.
+Card mạng là thiết bị chịu trách nhiệm:
+Các thành phần trong card mạng.
+Ví dụ:
+Giao tiếp qua card mạng.
+Bộ thu phát ("transceiver") chuyển đổi dữ liệu song song sang dữ liệu tuần tự và ngược lại.
+Dữ liệu tuần tự có thể ở dạng: tín hiệu tương tự ("analog signal"), tín hiệu số ("digital signal") hoặc tín hiệu quang ("light signal").
+Card mạng giao tiếp với mạng qua một cầu nối nối tiếp và với máy tính qua một cầu nối song song. Card mạng dùng một IRQ, một địa chỉ I/O và một không gian địa chỉ để làm việc với hệ điều hành.
+Trình điều khiển card mạng.
+Trình điều khiển card mạng ("driver") là bộ phận phần mềm trung gian có nhiệm vụ giao tiếp giữa card mạng và máy tính. Khi một trình điều khiển card mạng được nạp, nó cần phải kết buộc với một chồng giao thức.
+Phần mềm trình điều khiển cung cấp các chức năng ở tầng LLC.
+Các bước cơ bản cài đặt card mạng.
+Khi chọn một card mạng, cần phải xem xét các yếu tố sau:
+Các bước cơ bản cài đặt card mạng
+

@@ -1,0 +1,22 @@
+Nguyên lý ngăn kéo Dirichlet
+
+Trong toán học, nguyên lý chuồng bồ câu, nguyên lý hộp hay nguyên lý ngăn kéo Dirichlet có nội dung là nếu như một số lượng "n" vật thể được đặt vào "m" chuồng bồ câu, với điều kiện "n" &gt; "m", thì ít nhất một chuồng bồ câu sẽ có nhiều hơn 1 vật thể. Định lý này được minh họa trong thực tế bằng một số câu nói như "trong 3 găng tay, có ít nhất hai găng tay phải hoặc hai găng tay trái." Đó là một ví dụ của một đối số đếm, và mặc dù trông có vẻ trực giác nhưng nó có thể được dùng để chứng minh về khả năng xảy ra những sự kiện "không thể ngờ tới", tỉ như 2 người có cùng một số lượng sợi tóc trên đầu, trong 1 đám đông lớn có một số người mặc kiểu quần áo giống nhau, hoặc bất thình lình trong hộp thư nhận được một số lượng cực lớn thư rác.
+Người đầu tiên đề xuất ra nguyên lý này được cho là nhà toán học Đức Johann Dirichlet khi ông đề cập tới nó với tên gọi "nguyên lý ngăn kéo" ("Schubfachprinzip"). Vì vậy, một tên gọi thông dụng khác của nguyên lý chuồng bồ câu chính là "nguyên lý ngăn kéo Dirichlet" hay đôi khi gọi gọn là "nguyên lý Dirichlet" (tên gọi gọn này có thể gây ra nhầm lẫn với nguyên lý Dirichlet về hàm điều hòa). Trong một số ngôn ngữ như tiếng Pháp, tiếng Ý và tiếng Đức, nguyên lý này cũng vẫn được gọi bằng tên "ngăn kéo" chứ không phải "chuồng bồ câu".
+Nguyên lý ngăn kéo Dirichlet được ứng dụng trực tiếp nhất cho các tập hợp hữu hạn (hộp, ngăn kéo, chuồng bồ câu), nhưng nó cũng có thể được áp dụng đối với các tập hợp vô hạn không thể được đặt vào song ánh. Cụ thể trong trường hợp này nguyên lý ngăn kéo có nội dung là: "không tồn tại một đơn ánh trên những tập hợp hữu hạn mà codomain của nó nhỏ hơn tập xác định của nó". Một số định lý của toán học như bổ đề Siegel được xây dựng trên nguyên lý này.
+Nguyên lý Dirichlet mở rộng.
+Mở rộng hơn nữa, ta có thể viết nguyên lý ngăn kéo Dirichlet như sau:
+Chú thích:
+Diễn đạt theo "ngôn ngữ" xác suất thống kê.
+với ("n")"m" là giai thừa giảm . Với "m" = 0 và "m" = 1 (và "n" &gt; 0), xác suất bằng không; nói cách khác, nếu chỉ có một con chim thì sẽ không có chuyện nhiều chim ở chung 1 chuồng. Với "m" &gt; "n" (số chim nhiều hơn số chuồng) thì chắc chắn sẽ có chuyện "chung đụng", trong trường hợp này nó trùng khớp với nguyên lý chuồng bồ câu nguyên bản. Nhưng mà ngay cả khi số chim không vượt quá số chuồng ("m" ≤ "n"), do tính ngẫu nhiên của việc xếp chim vào chuồng, vẫn có khả năng nhiều chim sẽ phải ở chung 1 chuồng với nhau. Ví dụ nếu 2 chim được xếp vào 4 chuồng thì vẫn có 25% khả năng 2 chim này ở chung chuồng, với 5 chim và 10 chuồng thì khả năng có nhiều chim trong 1 chuồng là 69.76%; và với 10 chim - 20 chuồng thì con số này là 93.45%. Nếu số chuồng chim không đổi, thì dĩ nhiên xác suất nhiều chim ở trong 1 chuồng sẽ càng tăng khi tổng số chim càng tăng. Vấn đề này được xem xét ở quy mô lớn hơn trong nghịch lý ngày sinh.
+Một dạng mở rộng khác của nguyên lý này theo ngôn ngữ xác suất thống kê:
+Điều này có nghĩa là, đặt "m" chim bồ câu vào "n" chuồng và gọi "X" là số chim trong 1 tổ được chọn ngẫu nhiên. Giá trị trung bình của "X" là "m"/"n", vì vậy nếu số chim nhiều hơn số chuồng thì giá trị trung bình của "X" sẽ lớn hơn 1. Vì vậy, tồn tại khả năng X có giá trị lớn hơn 2.
+Đối với tập hợp vô hạn.
+Nguyên lý ngăn kéo Dirichlet có thể được mở rộng để ứng dụng cho tập hợp vô hạn bằng cách diễn dạt lại theo thuật ngữ của cơ số:
+Tuy nhiên theo cách viết này, nguyên lý Dirichlet mang tính chất lặp thừa, bởi vì rõ ràng nếu số phần tử của tập A lớn hơn tập B thì đương nhiên không có phép nội xạ nào từ A sang B cả. Điều khiến cho trường hợp tập vô hạn trở nên thú vị là, nó cung cấp thêm ít nhất một yếu tố cho một tập hợp là đủ để đảm bảo rằng sự gia tăng lực lượng.
+Một số ví dụ.
+Đếm tóc.
+Theo các nghiên cứu, trung bình mỗi người chỉ có chừng 100.000 đến 150.000 sợi tóc. Như vậy, ví dụ, ở Singapore có dân số hơn 3 triệu người thì ít nhất sẽ có 61 người có số lượng sợi tóc giống hệt nhau.
+Nghịch lý ngày sinh.
+Nghịch lý ngày sinh hay luận đề ngày sinh đề cập đến khả năng về một số người có chung 1 ngày sinh trong 1 đám đông m người được chọn ngẫu nhiên. Theo nguyên lý ngăn kéo Dirichlet, ví dụ, nếu n=366 thì ít nhất sẽ có hai người có chung 1 ngày sinh (số ngày trong năm là 366 ngày, tính cả ngày 29 tháng 2 của năm nhuận).
+Nếu xét công thức formula_5 thì chỉ cần m = 57 là xác suất hai người có chung 1 ngày sinh đã lên tới 99%.
+

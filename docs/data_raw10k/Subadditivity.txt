@@ -1,0 +1,37 @@
+Subadditivity
+
+Trong toán học , độ nhạy con là một thuộc tính của một hàm nói rằng, một cách đại khái, việc đánh giá hàm cho tổng hai phần tử của miền luôn trả về giá trị nhỏ hơn hoặc bằng tổng các giá trị của hàm tại mỗi phần tử. Có rất nhiều ví dụ về các hàm phụ trong các lĩnh vực toán học khác nhau, đặc biệt là các định mức và căn bậc hai . Bản đồ phụ là trường hợp đặc biệt của các hàm phụ.
+Định nghĩa.
+Hàm phụ là một hàm , có tên miền "A" và tên miền "B được" sắp xếp đều được đóng theo cách bổ sung, với thuộc tính sau:
+Một ví dụ là hàm căn bậc hai , có các số thực không âm là miền và miền đồng, vìchúng ta có:
+Một chuỗi , được gọi là cấp số phụ nếu nó thỏa mãn bất đẳng thức
+với mọi "m" và "n" . Đây là một trường hợp đặc biệt của hàm phụ, nếu một dãy được hiểu là một hàm trên tập hợp các số tự nhiên.
+Thuộc tính.
+Chuỗi.
+Một kết quả hữu ích liên quan đến các chuỗi phụ là bổ đề sau do Michael Fekete . 
+Bổ đề phụ của Fekete  -  Với mọi dãy số phụ, giới hạn tồn tại và ngang bằng với infimum . (Giới hạn có thể là.)
+Tương tự của bổ đề Fekete cũng áp dụng cho các chuỗi siêu phân biệt, đó là:  (Giới hạn sau đó có thể là dương vô cùng: hãy xem xét chuỗi.)
+Có những phần mở rộng của bổ đề Fekete không yêu cầu bất đẳng thứcgiữ cho tất cả "m" và "n" , nhưng chỉ cho "m" và "n" sao choHơn nữa, điều kiệncó thể bị suy yếu như sau:miễn làlà một hàm tăng sao cho tích phânhội tụ (gần vô cực). 
+Cũng có những kết quả cho phép người ta suy ra tốc độ hội tụ đến giới hạn mà sự tồn tại của nó được phát biểu trong bổ đề Fekete nếu có một số loại cả siêu nhạy và siêu nhạy. 
+Bên cạnh đó, các phép tương tự của bổ đề Fekete đã được chứng minh cho các bản đồ thực phụ (với các giả thiết bổ sung) từ các tập con hữu hạn của một nhóm khả vi  ,  và hơn nữa, của một nhóm bán thuận tiện trái có thể hủy bỏ. 
+Chức năng.
+Định lý:   -  Với mọihàm phụ có thể đo đượcgiới hạntồn tại và bằng(Giới hạn có thể là)
+Nếu "f" là một hàm phụ và nếu 0 nằm trong miền của nó, thì "f" (0) ≥ 0. Để thấy điều này, hãy lấy bất đẳng thức ở trên cùng.. Kể từ đây
+Hàm lõm vớicũng là phụ. Để thấy điều này, trước tiên người ta quan sát rằng. Sau đó, nhìn vào tổng của ràng buộc này chovà, cuối cùng sẽ xác minh rằng "f" là phụ. 
+Âm của một hàm phụ là siêu dương .
+Ví dụ trong các miền khác nhau.
+Entropy.
+Entropy đóng một vai trò cơ bản trong lý thuyết thông tin và vật lý thống kê , cũng như trong cơ học lượng tử trong một công thức tổng quát do von Neumann . Entropy luôn xuất hiện như một đại lượng phụ trong tất cả các công thức của nó, có nghĩa là entropy của một hệ siêu hệ hoặc một tập hợp các biến ngẫu nhiên luôn nhỏ hơn hoặc bằng tổng entropi của các thành phần riêng lẻ của nó. Ngoài ra, entropy trong vật lý thỏa mãn một số bất đẳng thức nghiêm ngặt hơn như Độ nhạy phụ mạnh của Entropy trong cơ học thống kê cổ điển và tương tự lượng tử của nó .
+Kinh tế học.
+Độ nhạy thấp là một thuộc tính thiết yếu của một số hàm chi phí cụ thể . Nói chung, đây là điều kiện cần và đủ để xác minh độc quyền tự nhiên . Nó ngụ ý rằng việc sản xuất chỉ từ một công ty là ít tốn kém hơn về mặt xã hội (tính theo chi phí trung bình) so với việc sản xuất một phần nhỏ số lượng ban đầu bởi một số lượng bằng nhau.
+Quy mô kinh tế được biểu thị bằng hàm chi phí trung bình phụ .
+Ngoại trừ trường hợp hàng hóa bổ sung, giá cả hàng hóa (như một hàm số của lượng) phải là phụ. Ngược lại, nếu tổng chi phí của hai mặt hàng rẻ hơn chi phí của cả gói của hai mặt hàng đó cùng nhau, thì sẽ không có ai mua gói đó, khiến cho giá của gói đó "trở thành" tổng giá của hai mục riêng biệt. Như vậy chứng tỏ nó không phải là điều kiện đủ để có độc quyền tự nhiên; vì đơn vị trao đổi có thể không phải là chi phí thực tế của một mặt hàng. Tình trạng này quen thuộc với tất cả mọi người trong chính trường nơi một số thiểu số khẳng định rằng việc mất đi một số quyền tự do cụ thể ở một cấp chính quyền cụ thể nào đó có nghĩa là nhiều chính phủ tốt hơn; trong khi đa số khẳng định rằng có một số đơn vị chi phí chính xác khác. [ "cần trích dẫn"]
+Tài chính.
+Độ nhạy thấp là một trong những đặc tính mong muốn của các biện pháp rủi ro nhất quán trong quản lý rủi ro .  Trực giác kinh tế đằng sau độ nhạy cảm của thước đo rủi ro là mức độ rủi ro của danh mục đầu tư, tệ nhất, chỉ đơn giản bằng tổng mức độ rủi ro của các vị trí riêng lẻ tạo nên danh mục đầu tư. Trong bất kỳ trường hợp nào khác, tác động của đa dạng hóa sẽ dẫn đến mức rủi ro danh mục đầu tư thấp hơn tổng mức độ rủi ro riêng lẻ. Sự thiếu nhạy cảm là một trong những chỉ trích chính đối với các mô hình VaR không dựa trên giả định về tính chuẩn mựccủa các yếu tố rủi ro. Gaussian VaR đảm bảo độ nhạy phụ: ví dụ, Gaussian VaR của một danh mục đầu tư hai vị thế dài đơn nhấtở mức độ tin cậygiả sử rằng biến thiên giá trị danh mục đầu tư trung bình bằng 0 và VaR được định nghĩa là một khoản lỗ âm,
+ở đâulà nghịch đảo của hàm phân phối tích lũy chuẩn ở mức xác suất,là các phương sai trả về các vị trí riêng lẻ vàlà thước đo tương quan tuyến tính giữa lợi nhuận của hai vị trí riêng lẻ. Vì phương sai luôn dương,
+Do đó Gaussian VaR là phụ phụ đối với bất kỳ giá trị nào củavà đặc biệt, nó bằng tổng mức rủi ro riêng lẻ khiđó là trường hợp không có tác động đa dạng hóa đối với rủi ro danh mục đầu tư.
+Nhiệt động lực học.
+Độ nhạy phụ xảy ra trong các đặc tính nhiệt động lực học của các dung dịch và hỗn hợp không lý tưởng như thể tích mol dư thừa và nhiệt của quá trình trộn hoặc entanpi dư thừa.
+Tổ hợp các từ.
+Một ngôn ngữ giai thừa là một nơi nếu một từ ở trong, thì tất cả các yếu tố của từ đó cũng nằm trong. Trong các bài tổ hợp về từ, một vấn đề thường gặp là xác định sốchiều dài-từ trong ngôn ngữ giai thừa. Rõ ràng, vì thếlà phụ, và do đó bổ đề Fekete có thể được sử dụng để ước tính sự tăng trưởng của.
+

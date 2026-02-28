@@ -1,0 +1,30 @@
+Hệ sinh thái rừng
+
+ 
+Hệ sinh thái rừng ("Forest ecosystem") là một hệ sinh thái mà thành phần nghiên cứu chủ yếu là sinh vật rừng (các loài cây gỗ, cây bụi, thảm tươi, hệ động vật và vi sinh vật rừng) và môi trường vật lý của chúng (khí hậu, đất). Nội dung nghiên cứu hệ sinh thái rừng bao gồm cả cá thể, quần thể, quần xã và hệ sinh thái, về mối quan hệ ảnh hưởng lẫn nhau giữa các cây rừng và giữa chúng với các sinh vật khác trong quần xã đó, cũng như mối quan hệ lẫn nhau giữa những sinh vật này với hoàn cảnh xung quanh tại nơi mọc của chúng (E.P. Odum 1986, G. Stephan 1980).
+Thành phần hệ sinh thái.
+Thành phần của hệ sinh thái rừng cũng giống như thành phần của một hệ sinh thái điển hình song đối với rừng, thành phần thực vật mà đặc biệt là cây gỗ được quan tâm hơn cả, đây chính là thành phần lập quần. Sau đây chúng ta sẽ nghiên cứu thành phần cơ bản, quan trọng của hệ sinh thái rừng: 
+Thành phần thực vật rừng.
+Dựa vào thành phần và tỷ lệ giữa các loài mà người ta chia ra thành rừng thuần loài và rừng hỗn loài. Về nguyên tắc, rừng thuần loài là rừng chỉ có một loài. Tuy nhiên trên thực tế, rừng có một số loài khác nhưng số lượng các loài khác này không vượt quá 10% thì vẫn được coi là rừng thuần loài (rừng thuần loài tương đối). Với rừng hỗn loài, để biểu thị mức độ tham gia của các loài người ta dùng công thức tổ thành.
+Thành phần cây gỗ là bộ phận chính và chủ yếu tạo nên độ khép tán (được biểu diễn thông qua độ tán che), độ đầy và trữ lượng lâm phần.
+Lớp cây tái sinh: Đây là thuật ngữ dùng để nói về lớp cây thế hệ non của tầng cây gỗ, chúng sống và phát triển dưới tán rừng, chúng sẽ là đối tượng thay thế tầng cây gỗ phía trên khi tầng cây này được khai thác. Tùy vào từng giai đoạn sinh trưởng khác nhau người ta chia lớp cây tái sinh thành các giai đoạn: cây mầm, cây mạ và cây con (hay cây non). Việc phân chia này có ý nghĩa quan trọng trong việc xác định các nhân tố ảnh hưởng và xác định các biện pháp kĩ thuật trong chăm sóc, bảo vệ.
+Theo W.Richard (1956), đây là giai đoạn nguy hiểm nhất của cây tái sinh, cây tái sinh có thể chết hàng loạt do môi trường thiếu nước hoặc nhiệt độ quá cao do ánh sáng trực xạ. Cũng theo W. Richard, một nguyên nhân khác nguy hiểm đối với cây mầm là các loài động vật rừng.
+Dòng năng lượng.
+Theo quan điểm của sinh thái học hiện đại, năng lượng đi qua hệ sinh thái cũng tuân theo các quy luật nhiệt động học của vật lý:
+Nguốn gốc nguồn năng lượng.
+Tỷ lệ giữa phần năng lượng mà bậc sau kế tiếp nhận được so với phần năng lượng trước khi truyền của bậc trước nó được gọi là hệ số truyền năng lượng. Hệ số truyền năng lượng ở hệ sinh thái trên cạn luôn nhỏ hơn so với hệ số truyền năng lượng của hệ sinh thái dưới nước.
+Nếu sắp xếp số lượng cá thể (hay sinh khối hoặc năng lượng) theo các bậc dinh dưỡng từ thấp đến cao thì bao giờ chúng cũng sắp xếp theo dạng hình tháp. Người ta gọi chúng là những hình tháp sinh thái học. Tùy vào đơn vị tính mà chúng ta có hình tháp sinh khối, hình tháp khối lượng hay hình tháp số lượng.
+Chu trình sinh địa hóa.
+Thuật ngữ chu trình hay sự tuần hoàn biểu thị sự lặp đi lặp lại nhiều lần và có tính chu kỳ khép kín. Trong hệ sinh thái, người ta phân thành 3 kiểu chu trình vật chất: Chu trình địa hóa; Chu trình sinh địa hóa và chu trình sinh hóa (chu trình bên trong sinh vật)
+Chu trình địa hóa.
+Là chu trình vận động của các nguyên tố hóa học giữa các hệ sinh thái. Ví dụ: Các chất khoáng theo nước mưa đi từ hệ sinh thái rừng trên núi cao xuống hệ sinh thái nông nghiệp thấp hơn.
+Chu trình sinh địa hóa.
+Là chu trình vận động của các chất xảy ra giữa các sinh vật và môi trường bên trong phạm vi của một hệ sinh thái. Ví dụ: Đạm (N) được rễ cây hút lên từ đất thông qua các việc phân hủy các cành nhánh, lá rơi rụng tích lũy vào các bộ phận (tham gia hình thành các bộ phận) khi các bộ phận này chết, rơi rụng nó lại mang theo Đạm trở về trong đất.
+Các chất vô cơ trong tự nhiên vận động theo hai chu trình: Chu trình đại tuần hoàn nước và không khí của sinh quyển và chu trình tuần hoàn vật chất sinh vật trong hệ sinh thái.
+Chu trình sinh hóa.
+Là chu trình các chất xảy ra bên trong các bộ phận của sinh vật. bao gồm các quá trình như đồng hóa, dị hóa, trao đổi chất trong bản thân sinh vật.
+Quần lạc sinh địa rừng.
+Quần lạc sinh địa rừng là một khoảnh đất bất kỳ có sự đồng nhất về thành phần, cấu trúc và các đặc điểm của các thành phần tạo nên nó và về mối quan hệ giữa chúng với nhau, có nghĩa là đồng nhất về thực vật che phủ, về thế giới động vật và vi sinh vật cư trú tại đó, về các điều kiện tiểu khí hậu, thủy văn và đất đai, về các kiểu trao đổi vật chất và năng lượng giữa các thành phần của nó với các hiện tượng tự nhiên khác (V.N. Sucasep 1964)
+Quần lạc sinh địa rừng khác biệt hoàn toàn với các quần lạc sinh địa khác như: Quần lạc sinh địa sa mạc, quần lạc sinh địa thảo nguyên...Định nghĩa quần lạc sinh địa rừng là rất quan trọng khi xét tới các quần lạc thực vật, quần lạc động vật...và các yếu tố vô sinh liên quan khác tồn tại trong rừng. Quần lạc sinh địa rừng giúp chúng ta hiểu rõ hơn những tác động và mối quan hệ mật thiết giữa rừng với hoàn cảnh sống xung quanh.
+Ngày nay có một số quan điểm đã coi rằng từ "quần lạc sinh địa rừng đồng nghĩa với hệ sinh thái rừng" và nó "là một cấu trúc sống".
+

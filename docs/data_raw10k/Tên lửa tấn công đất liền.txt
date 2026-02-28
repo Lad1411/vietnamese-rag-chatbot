@@ -1,0 +1,8 @@
+Tên lửa tấn công đất liền
+
+Tên lửa tấn công đất liền là một loại tên lửa đất đối đất của hải quân có hiệu quả trong việc tấn công vào bờ biển. Loại tên lửa này khác với tên lửa chống tàu, loại được dùng chủ yếu để tấn công các tàu trên biển. Một số loại tên lửa nhiều mục đích có thể phù hợp cho cả hai nhiệm vụ.
+Giống như tên lửa chống tàu tầm dài, tên lửa tấn công đất liền thường sử dụng động cơ tuabin hoặc động cơ cánh quạt để đẩy tên lửa hành trình. Để ngăn chặn sự phát hiện ra và các phương pháp chống lại chúng, các tên lửa này thường bay gần mặt đất ở tọa độ rất thấp, sử dụng rada hoặc các hệ thống định vị chính xác như Hệ thống định vị toàn cầu (GPS), kết hợp với các bản đồ tích trữ của vật thể chướng ngại và các dữ liệu về mặt đất.
+Tên lửa tấn công đất liền thường được cài đặt sẵn chương trình trước khi phóng để bám sát theo đường này đến mục tiêu. Sự dẫn hướng của tên lửa khi đến gần mục tiêu ở giai đoạn cuối cùng của hành trình có thể bằng rada chủ động, ra da bị động, ESM, hồng ngoại IR hoặc quang học.
+Một vài tên lửa cho phép cập nhật dữ liệu sau khi đã được phóng, một vài loại còn có thể truyền thông tin phản hồi về bệ phóng hay về các thiết bị khác.
+Một vài dạng điển hình:
+

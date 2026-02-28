@@ -1,0 +1,22 @@
+Chủ nghĩa tiền tệ
+
+ 
+Chủ nghĩa tiền tệ là hệ thống các học thuyết và lý luận kinh tế vĩ mô liên quan đến tiền tệ, một biến số kinh tế quan trọng. Những người theo chủ nghĩa tiền tệ không ủng hộ việc lạm dụng chính sách tiền tệ để ổn định chu kỳ kinh tế. Họ đề nghị để "tiền tệ trung lập" hoặc chỉ nên giữ cho tốc độ tăng cung tiền chậm, ổn định và vừa đúng bằng tốc độ tăng sản lượng thực tế.
+Bối cảnh hình thành.
+Có thể xem cái mốc hình thành chủ nghĩa tiền tệ là công trình của Milton Friedman công bố năm 1956 liên quan đến thuyết số lương tiền tệ . Trong tác phẩm này, Friedman cho rằng cung tiền mà vượt quá cầu tiền thì người ta sẽ tiêu số tiền dư thừa, khiến cho tổng cầu tăng lên. Điều này rõ ràng trái với lý luận của Keynes rằng tổng cầu không liên quan gì đến tiền tệ .
+Tuy nhiên, phải đến giữa thập niên 1960, trường phái này mới trở nên được biết đến nhiều vì thách thức các học thuyết Keynes sau tác phẩm "Lịch sử Tiền tệ Mỹ, 1867-1960" do Friedman viết chung với Schwartz trong đó các tác giả cho rằng nguyên nhân của cuộc Đại Khủng hoảng (1929-1933) là sự thu hẹp cung tiền quá mức trong lúc thị trường đói tín dụng chứ không phải là thiếu đầu tư (dẫn tới tổng cầu thiếu hụt so với tổng cung) như Keynes đã nghĩ. Các tác giả còn cho rằng nguyên nhân của hiện tượng lạm phát ở Mỹ là do cung tiền được mở rộng quá mức.
+Năm 1968, Karl Bruner đã dùng cụm từ "monetarism - chủ nghĩa tiền tệ" để chỉ các chủ trương và lý luận của Friedman. Cuối thập niên 1970 và đầu thập niên 1980, các lý luận của chủ nghĩa tiền tệ bắt đầu được áp dụng vào chính sách kinh tế. Alan Greenspan và Ben Bernanke, lần lượt là các chủ tịch Cục Dự trữ Liên bang Mỹ (Fed) đều được xem là những người theo chủ nghĩa tiền tệ.
+kji
+Các lý luận chính.
+Hàm cầu tiền của Friedman.
+Năm 1956, Friedman đã giới thiệu lý luận của mình về cầu tiền, theo đó lượng cầu về tiền của nền kinh tế phụ thuộc vào một vài biến số kinh tế lớn như các thu nhập thường xuyên, lãi suất dự tính của trái phiếu, chứng khoán, tỷ lệ lạm phát dự tính và lợi tức từ tiền. Friedman còn giả định rằng, người ta sẽ chuyển tài sản của mình từ dạng tiền sang hàng hóa nếu phát hiện tỷ lệ lạm phát dự tính tăng lên. Như vậy, chính là cung tiền tăng làm tăng tiêu dùng và do đó làm tăng tổng cầu, gây ra biến động kinh tế.
+Thuyết số lượng tiền tệ.
+Irving Fisher là người đã đưa ra thuyết số lượng tiền tệ vào năm 1911 với "đẳng thức trao đổi" theo đó lượng cung tiền nhân với tốc độ lưu thông sẽ vừa đúng bằng sản lượng thực tế nhân với mức giá chung. Friedman đã diễn giải lại đẳng thức này ở dạng động học với những giả thiết mới gồm (1) sản lượng thực tế cố định vì ở mức toàn dụng nhân lực, (2) tốc độ lưu thông tiền tệ không thay đổi, (3) cung tiền là biến ngoại sinh vì ngân hàng trung ương là cơ quan quyết định nó. Kết quả là tốc độ tăng cung tiền sẽ bằng tỷ lệ lạm phát. Từ đó kết luận, chính là ngân hàng trung ương gây ra lạm phát khi tăng cung tiền. Lạm phát bao giờ cũng là một hiện tượng tiền tệ.
+Quan hệ giữa lạm phát và mất giá tiền tệ.
+Hễ người ta dự tính lạm phát sẽ cao, thì lãi suất trên thị trường mở sẽ được nâng lên khiến cho nội tệ mất giá so với các ngoại tệ ổn định.
+Tỷ lệ thất nghiệp tự nhiên.
+Tỷ lệ thất nghiệp tự nhiên là khái niệm được Friedman giới thiệu vào năm 1968 nhằm mục đích bác bỏ Đường cong Phillips của trường phái tổng hợp. Không thể làm giảm được tỷ lệ thất nghiệp này bằng cách tăng tổng cầu bởi vì điều này chỉ đem lại hậu quả là lạm phát tăng tốc. Sau này, kinh tế học vĩ mô cổ điển mới phát triển khái niệm này thành tỷ lệ thất nghiệp không làm gia tốc lạm phát.
+Chú thích và tham khảo.
+Monetarism 
+Case, Karl and Fair, Ray (2002), Principles of Economics, Prentice Hall Business Publishing
+

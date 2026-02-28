@@ -1,0 +1,12 @@
+Hình vuông đơn vị
+
+Trong toán học, một hình vuông đơn vị là một hình vuông mà các cạnh có độ dài bằng 1. Thông thường, "cái" hình vuông đơn vị mô tả cụ thể thành hình vuông trong Tọa độ Đề-cát với tọa độ 4 điểm (0, 0), (1, 0), (0, 1), và (1, 1).
+Tọa độ Descartes.
+Trong một hệ tọa độ Đề-cát với tọa độ  thì hình vuông đơn vị được định nghĩa là hình vuông bao gồm những điểm mà cả x và y nằm trong một khoảng đơn vị quy ước từ  đến .
+Khi đó, hình vuông đơn vị là Tích Đề-cát , trong đó I biểu thị cho khoảng đơn vị quy ước.
+Các hệ tọa độ phức.
+Các hình vuông đơn vị cũng có thể được coi như là một tập hợp con của mặt phẳng phức, không gian topo hình thành bởi các các số phức.
+Theo quan điểm này, bốn góc của hình vuông đơn vị là bốn số phức 0, 1, "i", và 1 +" i"
+Vấn đề khoảng cách hữu tỉ.
+Người ta không chắc liệu có bất kỳ điểm nào trong mặt phẳng có một khoảng cách hữu tỉ đến tất cả bốn đỉnh của hình vuông đơn vị. Tuy nhiên, không có điểm nào khác nằm trên một cạnh của hình vuông này.
+

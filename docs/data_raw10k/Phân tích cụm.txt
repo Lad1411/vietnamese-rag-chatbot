@@ -1,0 +1,5 @@
+Phân tích cụm
+
+Phân tích cụm (hay phân nhóm, gom cụm, tiếng Anh: cluster analysis) là một tác vụ gom nhóm một tập các đối tượng theo cách các đối tượng cùng nhóm (gọi là "cụm", "cluster") sẽ có tính giống nhau (theo các đặc tính nào đó) hơn so với các đối tượng ngoài nhóm hoặc thuộc các nhóm khác. Phân tích cụm là một tác vụ chính của khai phá dữ liệu, và là một kỹ thuật phổ biến trong thống kê phân tích dữ liệu, được dùng trong nhiều lĩnh vực, bao gồm nhận dạng mẫu, phân tích ảnh, truy hồi thông tin, tin sinh học, nén dữ liệu, đồ họa máy tính và học máy.
+Phân tích cụm có nguồn gốc ở lĩnh vực nhân chủng học do Driver và Kroeber đề xuất năm 1932 và giới thiệu trong tâm lý học bởi Joseph Zubin năm 1938 và Robert Tryon năm 1939 cũng như được dùng khá nổi tiếng bởi Raymond Cattell bắt đầu từ năm 1943 để phân loại lý thuyết tính trạng trong lĩnh vực tâm lý học nhân cách.
+

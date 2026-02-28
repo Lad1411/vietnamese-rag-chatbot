@@ -1,0 +1,6 @@
+Thunar
+
+Thunar là trình quản lý file tự do chạy trên môi trường màn hình Xfce. Thunar là chương trình mặc định dùng trong hệ điều hành Xubuntu.
+Thunar được thiết kế theo hướng gọn nhẹ và tốc độ nhanh. Giao diện của chương trình đơn giản. Tuy vậy, ngoài các tính năng cơ bản của một trình quản lý file, Thunar còn hỗ trợ đổi tên file hàng loạt ("bulk rename") và đổi tên file âm thanh căn cứ vào thẻ ("tag") của nó.
+Thunar có thể được mở rộng tính năng thông qua "Thunar Extensions Framework". Phiên bản mới nhất của Thunar chạy được trên môi trường Xfce 4.6.0.
+

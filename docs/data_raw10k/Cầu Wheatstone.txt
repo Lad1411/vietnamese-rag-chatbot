@@ -1,0 +1,23 @@
+Cầu Wheatstone
+
+Cầu Wheatstone là một mạch điện được sử dụng để đo một điện trở chưa biết bằng cách cân bằng hai chân của một mạch cầu, một chân trong đó bao gồm thành phần chưa biết đó. Ưu điểm chính của mạch này là cung cấp các phép đo cực kỳ chính xác (trái ngược với bộ chia điện áp đơn giản). Hoạt động của nó tương tự như bộ chiết áp nguyên thủy.
+Cầu Wheatstone được phát minh bởi Samuel Hunter Christie vào năm 1833 và được cải tiến và phổ biến bởi NgàiCharles Wheatstone vào năm 1843. Một trong những ứng dụng ban đầu của cầu Wheatstone là phân tích và so sánh mẫu đất.
+Nguyên lý làm việc.
+Trong hình, formula_1 là điện trở chưa biết cần được đo; formula_2 formula_3 và formula_4 là các điện trở đã biết và điện trở của formula_5 có thể điều chỉnh được. Điện trở formula_5 được điều chỉnh cho đến khi cầu được "cân bằng" và không có dòng điện nào chạy qua điện kế formula_7. Tại thời điểm này, điện áp giữa hai điểm giữa (B và D) sẽ bằng không. Do đó tỷ số của hai điện trở trong chân đã biết formula_8 bằng với tỷ số của hai điện trở trong chân chưa biết formula_9. Nếu cầu không cân bằng, hướng của dòng hiện tại cho biết formula_5 là quá cao hay quá thấp.
+Tại thời điểm cân bằng,
+Phát hiện dòng zero với một điện kế có thể được thực hiện với độ chính xác cực cao. Do đó, nếu formula_2 formula_3 và formula_4 đã biết là có độ chính xác cao, thì formula_1 có thể được đo với chính xác cao. Những thay đổi rất nhỏ trong formula_1 làm gián đoạn sự cân bằng và dễ dàng được phát hiện.
+Ngoài ra, nếu formula_2 formula_3 và formula_4 đã biết, nhưng formula_5 không thể điều chỉnh được, chênh lệch điện áp hoặc dòng điện qua đồng hồ có thể được sử dụng để tính giá trị của formula_21 sử dụng các định luật Kirchhoff. Thiết lập này thường được sử dụng trong đồng hồ độ biến dạng và đo nhiệt kế điện trở, vì thường để đọc một mức điện áp của đồng hồ thì nhanh hơn là để điều chỉnh điện trở về điện áp zero.
+Nguồn gốc.
+Đầu tiên, định luật Kirchhoff thứ nhất được sử dụng để tìm các dòng điện trong các nút B và D:
+Sau đó, định luật Kirchhoff thứ hai được sử dụng để tìm điện áp trong các vòng ABD và BCD:
+Khi cầu được cân bằng, thì, hệ phương trình thứ hai có thể được viết lại như sau:
+Sau đó, các phương trình được phân tách và sắp xếp lại, được:
+Từ định luật thứ nhất, và . Giá trị mong muốn của giờ đây được biết là:
+Nếu tất cả bốn giá trị điện trở và điện áp cung cấp () đã biết, và điện trở của điện kế đủ cao đểlà không đáng kể, điện áp trên cầu () có thể tìm được bằng cách giải điện áp từ mỗi bộ phân áp và trừ đi một từ dải khác. Phương trình biểu diễn cho điều này sẽ là:
+trong đó là điện áp của nút D so với nút B.
+Ý nghĩa.
+Cầu Wheatstone minh họa khái niệm về đo lường độ sai lệch, mà có thể cực kỳ chính xác. Các biến thể của cầu Wheatstone có thể được sử dụng để đo điện dung, độ tự cảm, trở kháng và các đại lượng khác, chẳng hạn như lượng khí dễ cháy trong một mẫu, với một thiết bị đo độ nổ. Cầu Kelvin được điều chỉnh đặc biệt từ cầu Wheatstone để đo các điện trở có giá trị rất thấp. Trong nhiều trường hợp, tầm quan trọng của việc đo điện trở chưa biết có liên quan đến việc đo lường tác động của một số hiện tượng vật lý (như lực, nhiệt độ, áp suất, vv), do đó cho phép sử dụng cầu Wheatstone để đo các yếu tố gián tiếp.
+Khái niệm này đã được mở rộng để thay thế các phép đo dòng điện của James Clerk Maxwell vào năm 1865 và được Alan Blumlein cải tiến thêm vào khoảng năm 1926.
+Các sửa đổi của cầu cơ bản.
+Cầu Wheatstone là cầu cơ bản, nhưng có những sửa đổi khác có thể được thực hiện để đo lường các loại điện trở khác nhau khi cầu Wheatstone cơ bản không phù hợp. Một số sửa đổi đó là:
+

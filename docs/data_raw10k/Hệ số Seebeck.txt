@@ -1,0 +1,7 @@
+Hệ số Seebeck
+
+Hệ số Seebeck, còn gọi là độ nhạy nhiệt điện, của một chất là mức độ cường độ điện áp nhiệt gây ra do phản ứng với sự khác biệt về nhiệt độ giữa vật liệu đó, như được gây ra bởi hiệu ứng Seebeck . 
+Trong hệ đơn vị SI hệ số Seebeck là V/°K (volts/độ Kelvin), song phần lớn vật chất có ở mức microvolt mỗi độ Kelvin (μV/K) .
+Việc sử dụng các vật liệu có hệ số Seebeck cao là một trong nhiều yếu tố quan trọng cho hoạt động hiệu quả của máy tạo nhiệt điện và bộ làm mát bằng nhiệt điện. Thông tin thêm về vật liệu nhiệt điện hiệu năng cao có thể tìm thấy trong bài báo về vật liệu nhiệt điện. Trong các cặp nhiệt điện, hiệu ứng Seebeck được sử dụng để đo nhiệt độ, và để đạt chính xác cao cần sử dụng các vật liệu có hệ số Seebeck ổn định theo thời gian .
+Về mặt vật lý độ lớn và dấu của hệ số Seebeck có thể được hiểu là được cho bởi entropy trên một đơn vị tích điện chạy bằng dòng điện trong vật liệu. Nó có thể là dương hoặc âm. Trong các chất dẫn điện có thể hiểu được về các vận chuyển điện tử độc lập, các hạt tải điện gần như tự do, hệ số Seebeck là âm đối với các tải điện mang điện tích âm (như điện tử), và là dương đối với các tải điện mang điện tích dương (như các lỗ trống). 
+

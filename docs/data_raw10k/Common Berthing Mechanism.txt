@@ -1,0 +1,11 @@
+Common Berthing Mechanism
+
+ 
+Đây là một cơ cấu giúp kết nối 1 module điều áp với một module khác trên tất cả các phần không thuộc Nga của trạm không gian quốc tế. Có khoảng 25 CBM trên trạm, trong đó Node 1, Node 2 và Node 3 có 6 CBM mỗi module.
+Cấu trúc.
+Cơ cấu này gồm 2 phần: một phần chủ động và một phần thụ động. Phần chủ động nằm trên một module của trạm còn phần thụ động nằm trên module được lắp ghép vào. Phần chủ động nặng 265 kg gồm một đai kết cấu đường kính 203 cm, 4 chốt giữ, 8 thanh dẫn, 4 bulông cơ giới và cơ cấu truyền động, 4 dụng cụ báo sẵn sàng chốt, 4 bảng điều khiển và một tấm ‘’striker’’. Chỉ có phần chủ động được kết nối năng lượng và dữ liệu. Đầu thụ động nặng 163 kg gồm một đai kết cấu, 4 chốt giữ, 8 thanh dẫn, 16 lỗ bulông cơ giới và 4 dụng cụ báo sẵn sàng chốt.
+Hoạt động.
+Trong quá trình lắp đặt, cánh tay robot của tàu con thoi đưa module với đầu thụ động vào phần giữ của đầu chủ động. Quá trình chốt giữ bắt đầu khi phần CBM chủ động khi phần CBM chủ động đưa 4 chốt giữ của nó ra để bắt lấy phần CBM thụ động. 16 bulông cơ giới sau đó bung ra từ phần CBM chủ động để tra vào lỗ bulông thụ động, hoàn thành việc kết nối.
+Tham khảo.
+STS-108
+

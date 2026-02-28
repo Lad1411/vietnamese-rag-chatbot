@@ -1,0 +1,7 @@
+Tấn công từ điển
+
+Trong phân tích mật mã và bảo mật máy tính, tấn công từ điển là một kỹ thuật phá mã hoặc vượt qua một cơ chế xác thực bằng cách thử các khóa mã hay mật khẩu trong một miền tiềm năng.
+Kỹ thuật tấn công từ điển tấn công mục tiêu bằng cách thử tất cả các từ trong một danh sách dài gọi là từ điển (được chuẩn bị trước). Khác với kiểu tấn công vét cạn, phần lớn không gian khóa được tìm kiếm một cách hệ thống, "tấn công từ điển" thử trong vùng có nhiều khả năng thành công nhất, thường xuất phát từ một danh sách các từ ví dụ như một từ điển (vì vậy mà có thuật ngữ "tấn công từ điển") hoặc một kinh thánh... Nói chung, thành công của tấn công từ điển chủ yếu do nhiều người dùng có xu hướng chọn mật khẩu ngắn (7 ký tự hoặc ít hơn), những từ đơn tìm thấy trong từ điển, những từ đơn giản, dễ dự đoán các biến thể trên từ (như viết hoa một chữ, hay thêm vào một chữ số).
+Công cụ tấn công từ điển.
+Dưới đây là vài phần mềm sử dụng kỹ thuật tấn công từ điển:
+

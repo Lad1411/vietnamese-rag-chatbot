@@ -1,0 +1,4 @@
+Tần số âm cơ bản
+
+Tần số cơ bản là tốc độ rung của dây thanh, gọi là F0. Người nói có thể điều khiển mức độ căng của hai dây thanh để khoảng giữa hai dây thanh đó đóng lại hoàn toàn, tạo thành khe hẹp hay mở rộng ra. Khoảng không ở giữa này được gọi là thanh môn. Khi thanh môn hẹp, không khí đi qua nó sẽ tạo ra một âm thanh điều hòa. Thuật ngữ cao độ (pitch) dùng để chỉ tần số cơ bản mà người nghe có thể nhận thức được. Nói chung, F0 và pitch có thể coi là một. Bằng cách thay đổi độ căng của dây thanh, người nói có thể điều chỉnh tần số cơ bản. Bình thường, tần số cơ bản của giọng nam thay đổi từ 80 Hz đến 250 Hz, trong khi đó giọng nữ là 120 Hz đến 400 Hz.
+

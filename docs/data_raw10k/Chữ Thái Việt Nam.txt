@@ -1,0 +1,26 @@
+Chữ Thái Việt Nam
+
+Chữ Thái Việt Nam (tiếng Thái Đen: , phát âm là "Xư Tay") (; ; , đọc là "ặc-xỏn Thay-đằm") là chữ viết thuộc hệ thống chữ Brahmic được người Thái Đen và nhiều dân tộc Thái khác ở Việt Nam và Thái Lan sử dụng.
+Lịch sử.
+Theo các tác giả người Thái, hệ thống chữ viết này có lẽ có nguồn gốc từ chữ viết Thái cổ của vương quốc Sukhotai. Có ý kiến ​​cho rằng chữ viết Fakkham là nguồn gốc của hệ thống chữ viết Thái Trắng, Thái Đỏ và Thái Đen được tìm thấy ở huyện Kim Bình (Trung Quốc), bắc Lào và Việt Nam.
+Sự khác biệt về âm vị học của các ngôn ngữ Thái địa phương khác nhau, sự biệt lập của các cộng đồng và thực tế là ngôn ngữ viết theo truyền thống được truyền từ cha sang con đã dẫn đến nhiều biến thể địa phương. Trong nỗ lực đảo ngược cách phát triển này và thiết lập một hệ thống tiêu chuẩn hóa, nhiều dân tộc Thái khác nhau tại Việt Nam ở Khu tự trị Tây Bắc cũ đã được tiếp cận với một đề xuất rằng họ nên thống nhất một tiêu chuẩn chung. Cùng với các nhà nghiên cứu Việt Nam, đề xuất đầu tiên có tên là "Thống Nhất" (hay Bảng chữ cái thống nhất) đã được xây dựng, được xuất bản vào năm 1961 và được sửa đổi vào năm 1966. Một phiên bản chữ viết thống nhất và tiêu chuẩn hóa đã được phát triển tại một hội thảo do UNESCO tài trợ vào năm 2006, có tên là "chữ Thái Việt Nam". Phiên bản tiêu chuẩn hóa này sau đó đã được chấp thuận để đưa vào Unicode.
+Từ tháng 5 năm 2008, chữ viết từ chữ Quốc ngữ được biến đổi được đưa vào sử dụng chính thức.
+Mô tả.
+Chữ viết này bao gồm 31 phụ âm và 14 nguyên âm. Không giống như hầu hết các chữ viết abugida hoặc brahmic khác, các phụ âm không có một nguyên âm cố hữu và mỗi nguyên âm phải kèm theo một dấu nguyên âm. Các nguyên âm được đánh dấu bằng các dấu phụ âm có thể xuất hiện ở trên, bên dưới hoặc bên trái và/hoặc bên phải của phụ âm. Một số nguyên âm mang phụ âm cuối cố hữu, chẳng hạn như -aj/, /-am/, /-an/ và /-əw/.
+Chữ viết này sử dụng dấu câu chữ Latinh và cũng bao gồm năm ký tự đặc biệt, một để chỉ một người, một để chỉ số "một", một để lặp lại từ trước đó, một để đánh dấu phần đầu của văn bản và một để đánh dấu phần cuối của văn bản.
+Theo truyền thống, chữ viết này không có khoảng cách giữa các từ vì chúng được viết liên tục, nhưng khoảng cách đã trở nên phổ biến từ những năm 1980.
+Bảng chữ cái chi tiết phụ âm.
+! rowspan="2" |Ký tự
+! colspan="3" |Tên gọi
+! colspan="2" |Chuyển tự tiếng Thái
+! colspan="2" |Bảng mẫu tự ngữ âm 
+! rowspan="2" |Lớp
+! rowspan="2" |Ghi chú 
+!Tiếng Thái
+!Chuyển tự tiếng Thái sang phiên âm 
+!Ý nghĩa
+!Phụ âm đầu
+!Phụ âm cuối
+!Phụ âm đầu
+!Phụ âm cuối
+

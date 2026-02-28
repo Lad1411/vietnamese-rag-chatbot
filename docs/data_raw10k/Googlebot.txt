@@ -1,0 +1,9 @@
+Googlebot
+
+Googlebot là trình thu thập web được Google sử dụng để thu thập tài liệu từ web để xây dựng một chỉ mục có thể tìm kiếm cho công cụ tìm kiếm Google. Googlebot là tên gọi chung cho hai loại trình thu thập dữ liệu khác nhau: Trình thu thập dữ liệu trên máy tính (Googlebot Desktop) – mô phỏng người dùng trên máy tính, và trình thu thập trên thiết bị di động (Googlebot Smartphone) – mô phỏng người dùng trên thiết bị di động.
+Googlebot sử dụng các thuật toán và vào các website, thực hiện quá trình thu thập và tiếp nhận dữ liệu web. Nhờ vậy mà người dùng tìm kiếm được thông tin từ hàng tỷ website trên thế giới.
+Quá trình thực hiện.
+Googlebot bắt đầu với danh sách URL của web tạo ra từ quá trình thu thập trước đó và bổ sung sitemap dữ liệu được cung cấp bởi quản trị web.
+Khi Googlebot ghé thăm mỗi người trong số các trang web này và phát hiện liên kết (SRC và HREF) trên mỗi trang và thêm chúng vào danh sách của các trang để thu thập dữ liệu. Các trang web mới, sự thay đổi của các trang web đang hoạt động, các liên kết chết được ghi nhận và được sử dụng để cập nhật chỉ mục trên Google.
+Googlebot thu thập dữ liệu qua HTTP/1.1. Tuy nhiên, bắt đầu từ tháng 11 năm 2020, nếu cho rằng một trang web có thể thu được nhiều lợi ích từ việc thu thập dữ liệu qua HTTP/2 thì Google sẽ có thể thu thập dữ liệu trang đó qua HTTP/2 nếu trang hỗ trợ giao thức này. Việc này có thể giúp tiết kiệm tài nguyên điện toán (ví dụ như CPU, RAM) cho trang web và Googlebot, nhưng không ảnh hưởng đến việc lập chỉ mục hoặc xếp hạng trang web trên Google.
+

@@ -1,0 +1,14 @@
+Tướng biến chất
+
+"Một tướng biến chất" là một bộ gồm "nhiều" "tổ hợp cộng sinh" khoáng vật biến chất, chúng xuất hiện "có tính quy luật" trong không gian và thời gian, trở thành tiêu chí để nhận biết về mối quan hệ giữa thành phần khoáng vật và thành phần nguyên thủy của đá bị biến chất
+Pentti Eskola (1915) cho rằng các đá thuộc các tướng khác nhau thì được thành tạo ở những điều kiện P – T khác nhau.
+Tổ hợp cộng sinh khoáng vật: là một tổ hợp bao gồm các khoáng vật được thành tạo trong cùng điều kiện và thời gian nhất định.
+Tướng zeolit: Là tướng biến chất nhiệt độ thấp và áp suất thấp, thường liên quan đến quá trình biến chất chôn vùi ở đáy các bồn trầm tích có quy mô khu vực. Khoáng vật điển hình zeolit.
+Tướng prenit - pumpelit: là tướng biến chất nhiệt độ thấp - áp suất trung bình. Tổ hợp khoáng vật cộng sinh điển hình là prenit và pumpelit.
+Tướng phiến xanh: là tướng biến chất nhiệt độ trung bình thấp - áp suất cao thường xuất hiện trong các đới hút chìm. Tổ hợp khoáng vật cộng sinh đặc trưng là jadeit, glaucophan, lausonit 
+Tướng phiến lục: là tướng biến chất nhiệt độ - áp suất trung bình thấp, thường xảy ra ở các đai tạo núi. Tổ hợp khoáng vật cộng sinh đặc trưng là clorit, albit, epidot (hoặc zoizit), actinolit.
+Tướng đá sừng: biến chất ở nhiệt độ từ thấp đến cao, áp suất thấp. Khoáng vật cộng sinh đặc trưng gồm coordierit, storolit, mica, thạch anh
+Tướng amphibolit: là tướng biến chất nhiệt độ - áp suất trung bình cao, cũng thường xuất hiện trong các đai tạo núi. Tổ hợp khoáng vật cộng sinh điển hình là plagioclas (oligoclas - andesin), hornblend, granat.
+Tướng granulit: là tướng biến chất nhiệt độ cao, áp suất từ thấp đến cao, xuất hiện trong các đai tạo núi. Tổ hợp khoáng vật cộng sinh điển hình là pyroxen thoi (pyroxen một nghiêng, plagioclas, hornblend, granat).
+Tướng eclogit: là tướng biến chất áp suất cao và nhiệt độ từ trung bình thấp đến cao, thường xuất hiện trong đới hút chìm. Tổ hợp khoáng vật cộng sinh đặc trưng là pyroxen omphacit, granat.
+

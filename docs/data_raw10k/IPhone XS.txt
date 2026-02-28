@@ -1,0 +1,16 @@
+IPhone XS
+
+iPhone XS và iPhone XS Max (cách điệu: iPhone và iPhone Max; Số La Mã "X", được đọc là "mười") là các mẫu smartphone do công ty Apple Inc. thiết kế, phát triển và kinh doanh trên thị trường. Đây là thế hệ thứ 12 trong các dòng flagship iPhone. Bộ đôi này được ra mắt vào 10h ngày 12 tháng 9 năm 2018 (0h ngày 13/09/2018 theo giờ Việt Nam) tại Nhà hát Steve Jobs trong công viên Apple Park bởi CEO Tim Cook. Apple cho đặt trước iPhone Xs, Xs Max từ ngày 14 tháng 9 năm 2018 và chính thức phát hành vào ngày 21 tháng 9 năm 2018 cùng với iPhone XR. iPhone Xs Max là chiếc điện thoại có màn hình lớn nhất và giá thành cao nhất của Apple tính đến thời điểm nó ra mắt.
+Thiết kế.
+Thiết kế của iPhone Xs tương tự như thế hệ tiền nhiệm iPhone X (ra mắt cuối năm 2017), 2 mặt kính cường lực kết hợp khung thép không gỉ. Điểm khác biệt nằm ở phần bố trí thêm 2 dải ăng-ten, số lượng lỗ loa dưới đáy máy, cụm camera kép đặt lệch một chút so với iPhone X và màu sắc mới (thêm màu Gold thay vì chỉ 2 màu như iPhone X). iPhone Xs Max là phiên bản phóng to với màn hình lớn hơn và thời lượng pin mạnh mẽ.
+Các vấn đề.
+Vấn đề về sạc pin.
+iPhone XS và XS Max được người dùng báo cáo rằng họ gặp vấn đề khi sạc pin qua cổng Lightning. Khi thiết bị để lâu, màn hình tắt thì sẽ không thể sạc pin được và chỉ có thể sạc lại khi bật sáng màn hình. Vấn đề này là lỗi từ chức năng "Vô hiệu hóa thiết bị USB khi khóa" trong phần Cài Đặt, nhằm để tránh những thiết bị không rõ nguồn gốc truy cập vào dữ liệu người dùng trên iPhone. Lỗi này được gọi là "Charge gate". Vấn đề này đã được Apple khắc phục trong bản cập nhật iOS 12.0.1.
+Làm mịn da quá mức khi chụp selfie.
+Các thiết bị iPhone từ trước đến nay vốn cho ảnh chụp selfie chân thực với đầy đủ các khiếm khuyết của người dùng. Tuy nhiên với bộ đôi XS/XS Max, người dùng cũng đã báo cáo về việc làm mịn da một cách bất bình thường khi chụp selfie, và cảm thấy không quen với điều này. Nhiều người cho rằng đó là do tính năng mới Smart HDR được tích hợp vào iPhone XS và XS Max, nhưng có một số người cho rằng đó là do một tính năng ẩn nào đó được gọi là "beauty mode" và được đặt tên là "beauty gate". Có nhiều cuộc tranh cãi xảy ra rằng nếu camera thực sự làm đẹp khuôn mặt hay chỉ là vấn đề của những chiếc camera chất lượng cao.
+Apple sau đó nói rằng vấn đề là do thuật toán Smart HDR chọn khung hình phơi sáng mờ hơn thay vì chọn phơi sáng nét nhất. Vấn đề này đã được sửa trong phiên bản iOS 12.1.
+Vấn đề về bắt sóng và kết nối.
+Nhiều người dùng iPhone XS gặp vấn đề khi bắt sóng LTE, Wi-Fi và kết nối Bluetooth. Một số chuyên gia cho rằng đó là lỗi từ 2 dải ăng-ten mới. Apple đã liên lạc những người dùng bị ảnh hưởng để tiến hành điều tra. Phiên bản iOS 12.0.1 gây ra vấn đề khiến cho Bluetooth không thể hoạt động. Apple khuyến khích người dùng cập nhật lên phiên bản iOS mới hơn.
+Doanh số.
+Doanh số của bộ đôi XS/XS Max không được cao như kỳ vọng. Kết thúc năm 2019, iPhone XR (mẫu máy ra mắt cùng XS) bùng nổ về doanh số và trở thành chiếc smartphone bán chạy nhất năm trên toàn thế giới.
+

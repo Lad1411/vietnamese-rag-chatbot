@@ -1,0 +1,22 @@
+Trung tuyến
+
+Đường trung tuyến của đoạn thẳng là đường thẳng đi qua trung điểm của đoạn thẳng đó.
+Trong hình học,đường trung tuyến của một tam giác là một đoạn thẳng nối từ đỉnh của tam giác tới trung điểm của cạnh đối diện. Mỗi tam giác đều có ba trung tuyến.
+Đối với tam giác cân và tam giác đều, mỗi trung tuyến của tam giác chia đôi các góc ở đỉnh với hai cạnh kề có chiều dài bằng nhau.
+Trong hình học không gian, khái niệm tương tự là mặt trung tuyến trong tứ diện.
+Tính chất đường trung tuyến.
+Đồng quy tại 1 điểm.
+3 đường trung tuyến của tam giác đồng quy tại 1 điểm. Điểm đó được gọi là trọng tâm của tam giác. Khoảng cách từ trọng tâm của tam giác đến đỉnh bằng 2/3 độ dài đường trung tuyến ứng với đỉnh đó.
+Chia ra diện tích của các tam giác bằng nhau.
+Mỗi trung tuyến chia diện tích của tam giác thành hai phần bằng nhau. Ba trung tuyến chia tam giác thành sáu tam giác nhỏ với diện tích bằng nhau.
+Chứng minh.
+Xem xét tam giác "ABC" (hình bên), cho "D" là trung điểm của formula_1, "E" là trung điểm của formula_2, "F" là trung điểm của formula_3, và "O" là trọng tâm.
+Theo định nghĩa, formula_4. Do đó formula_5 và formula_6, trong đó formula_7 là diện tích của formula_8; điều này đúng bởi trong mỗi trường hợp hai tam giác có chiều dài đáy bằng nhau, và có cùng đường cao từ đáy (mở rộng), và diện tích của tam giác thì bằng một phần hai đáy nhân đường cao.
+Chúng ta có:
+Do đó, formula_11 và formula_12
+Do formula_13, do đó, formula_14. Sử dụng cùng phương pháp này, ta có thể chứng minh formula_15.
+Công thức liên quan tới độ dài của trung tuyến.
+Độ dài của trung tuyến có tính được bằng định lý Apollonius như sau:
+trong đó "a", "b" và "c" là các cạnh của tam giác với các trung tuyến tương ứng "m""a", "m""b", và "m""c" từ trung điểm
+Do vậy chúng ta cũng có các mối quan hệ:
+

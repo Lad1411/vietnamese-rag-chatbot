@@ -1,0 +1,16 @@
+Giao tiếp liên tiến trình
+
+Trong khoa học máy tính, giao tiếp liên tiến trình hoặc giao tiếp liên quá trình, tiếng Anh: inter-process communication hoặc interprocess communication (viết tắt: IPC), đề cập cụ thể đến cơ chế một hệ điều hành cung cấp để cho phép các tiến trình ("process") quản lý dữ liệu được chia sẻ. Thông thường, các ứng dụng có thể sử dụng IPC, được phân loại là máy khách và máy chủ, trong đó máy khách ("client") yêu cầu dữ liệu và máy chủ ("server") đáp ứng yêu cầu của máy khách. Nhiều ứng dụng là cả máy khách và máy chủ, như thường thấy trong điện toán phân tán. Các phương pháp để thực hiện IPC được chia thành các loại khác nhau dựa trên các yêu cầu phần mềm, chẳng hạn như yêu cầu về hiệu suất và mô đun, và hoàn cảnh hệ thống, chẳng hạn như băng thông mạng và độ trễ.
+IPC rất quan trọng đối với quá trình thiết kế cho các microkernel và nanokernel. Microkernel làm giảm số lượng các chức năng được cung cấp bởi nhân ("kernel"). Những chức năng đó sau đó có được bằng cách giao tiếp với các máy chủ thông qua IPC, làm tăng đáng kể số lượng IPC so với một nhân nguyên khối thông thường.
+Đồng bộ hóa.
+Tùy thuộc vào giải pháp, cơ chế IPC có thể cung cấp đồng bộ hóa hoặc để lại cho các quy trình và luồng để giao tiếp với nhau (ví dụ: thông qua bộ nhớ dùng chung).
+Mặc dù đồng bộ hóa sẽ bao gồm một số thông tin (ví dụ: có bật khóa hay không, một số lượng quá trình đang chờ, v.v.) nó không phải chủ yếu là một cơ chế truyền thông truyền thông tin "mỗi lần".
+Ví dụ về các nguyên thủy đồng bộ hóa là:
+Các ứng dụng.
+Platform communication stack.
+Sau đây là các hệ thống nhắn tin và thông tin sử dụng các cơ chế IPC, nhưng không tự hiện thực IPC: 
+Operating system communication stack.
+Sau đây là các API dành riêng cho nền tảng hoặc ngôn ngữ lập trình: 
+Mô hình đối tượng phân tán.
+Sau đây là các API cụ thể về ngôn ngữ lập trình hoặc nền tảng sử dụng IPC, nhưng bản thân chúng không hiện thực nó: 
+

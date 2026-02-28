@@ -1,0 +1,8 @@
+Toán học rời rạc
+
+Toán học rời rạc (tiếng Anh: "discrete mathematics") là tên chung của nhiều ngành toán học có đối tượng nghiên cứu là các tập hợp rời rạc, các ngành này được tập hợp lại từ khi xuất hiện khoa học máy tính làm thành cơ sở toán học của khoa học máy tính. Nó còn được gọi là toán học dành cho máy tính. Người ta thường kể đến trong toán học rời rạc lý thuyết tổ hợp, lý thuyết đồ thị, lý thuyết độ phức tạp, đại số Boole.
+Một quan điểm rộng rãi hơn, gộp tất cả các ngành toán học làm việc với các tập hữu hạn hoặc đếm được vào toán học rời rạc như số học modulo m, lý thuyết nhóm hữu hạn, lý thuyết mật mã...
+Tham khảo.
+Tiếng Việt:
+Tiếng Anh:
+

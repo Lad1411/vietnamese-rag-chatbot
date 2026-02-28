@@ -1,0 +1,10 @@
+GZ Velorum
+
+GZ Velorum là tên của một ngôi sao đơn lẻ, có ánh sáng màu cam nằm trong một chòm sao phương nam tên là Thuyền Phàm. Với cấp sao biểu kiến là 4,58, ta nhìn thấy ngôi sao này là một ngôi sao mờ nhạt. Để có thể nhìn thấy nó rõ ràng nhất, ta cần có một vị trí cách xa thành thị (do sự ô nhiễm ánh sáng đã làm hạn chế tầm nhìn) và điều kiện thời tiết tốt. Khoảng cách của nó là 1300 năm ánh sáng được ước tính dựa trên giá trị thị sai là 2,4 mas. Hiện tại, ngôi sao này đang di chuyển ra xa khỏi chúng ta với vận tốc 13 km/s.
+Nó là một ngôi sao khổng lồ sáng với quang phổ loại K2,5 II. Nó thay đổi ánh sáng rất chậm, không theo một quy luật nào nên nó là một sao biến quang bất thường loại LC với tần số 0,16585 trên ngày. Trong dãy ánh sáng đỏ của phép đo sáng, cấp sao của nó thay đổi từ 3,43 đến 3,81. Giá trị đường kính góc được xác định thông qua hiệu chỉnh do hiệu ứng quầng tối mờ là 3,17 ± 0.04 mas. Và kết hợp với khoảng cách xấp xỉ của nó, bán kính của ngôi sao này gấp 140 lần bán kính của mặt trời.
+GZ Vel nặng gấp 9 lần khối lượng mặt trời và có tuổi đời là 30 triệu năm. Nó phát ra ánh sáng hay có thể nói là tỏa ra năng lượng gấp 9241 lần mặt trời với nhiệt độ hiệu dụng là 4140 Kelvin.
+Dữ liệu hiện tại.
+Theo như quan sát, đây là ngôi sao nằm trong chòm sao Thuyền Phàm và dưới đây là một số dữ liệu khác:
+Tham khảo.
+\end{align}&lt;/math&gt;&lt;/ref&gt;
+

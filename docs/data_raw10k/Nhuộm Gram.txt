@@ -1,0 +1,17 @@
+Nhuộm Gram
+
+Nhuộm Gram là một phương pháp thực nghiệm nhằm phân biệt các loài vi khuẩn thành 2 nhóm ("Gram dương" và "Gram âm") dựa trên các đặc tính hoá lý của thành tế bào.
+Phương pháp này được đặt tên theo người phát minh ra nó, nhà khoa học người Đan Mạch Hans Christian Gram (1853-1938). Ông phát triển kỹ thuật này vào năm 1884 để phân biệt các "Pneumococcus" với "Klebsiella pneumoniae".
+Sử dụng.
+Nhuộm Gram được thực hiện trên dịch cơ thể hoặc mẫu sinh thiết bị nghi ngờ nhiễm khuẩn. Nó cho kết quả nhanh hơn cấy, và có ý nghĩa đặc biệt quan trọng giúp phân biệt bệnh do nhiễm khuẩn với các trường hợp không do nhiễm khuẩn vì điều trị và tiên lượng sẽ khác nhau.
+Cơ chế.
+Vi khuẩn Gram dương có thành tế bào dày, dạng lưới cấu tạo bởi peptidoglycan, chất này có khả năng giữ phức hợp tím tinh thể-iod. Trong khi đó, lớp thành tế bào peptidoglycan của các vi khuẩn Gram âm thì mỏng hơn và thường có thêm lớp màng lipopolysaccharide (LPS) bên ngoài.
+Sau khi nhuộm với phức hợp tím tinh thể-iod, mẫu được xử lý tiếp với hỗn hợp khử màu, làm mất nước của các lớp peptidoglycan trong thành tế bào Gram dương, từ đó làm giảm khoảng trống giữa các phân tử và khiến thành tế bào bắt giữ phức hợp tím tinh thể-iod bên trong tế bào.
+Đối với vi khuẩn Gram âm, hỗn hợp khử màu đóng vai trò là chất hoà tan lipid và làm tan màng ngoài của thành tế bào. Lớp peptidoglycan mỏng không thể giữ lại phức hợp tím tinh thể-iod và tế bào Gram âm bị khử màu. Khử màu là bước quan trọng và cần kĩ năng nhất định vì khả năng bắt màu Gram dương không phải là "tất cả hoặc không."
+Theo kinh nghiệm (và có ngoại lệ), bệnh do vi khuẩn Gram âm thường nguy hiểm hơn vì màng ngoài của chúng được bọc bởi một nang, và nang này che các kháng nguyên làm cơ thể phát hiện tác nhân xâm lấn khó khăn hơn. Ngoài ra, màng ngoài vi khuẩn Gram âm có chứa lipopolysaccharide, đóng vai trò là nội độc tố, giải phòng ra khi tế bào vi khuẩn bị tan vỡ và làm tăng độ nặng của phản ứng viêm, có thể gây hội chứng đáp ứng viêm hệ thống (SIRS), sốc nhiễm khuẩn, suy đa tạng. Nhiễm vi khuẩn Gram dương thường ít nguy hiểm hơn vì cơ thể người không có peptidoglycan, và có khả năng sản xuất lysozyme tấn công lớp peptidoglycan nằm ở bên ngoài của vi khuẩn.
+Quy trình.
+Kết quả.
+Quan sát lam kính dưới kính hiển vi
+Vi khuẩn không phân biệt được với phương pháp này được gọi là "Gram biến đổi". 
+kính hiển vi
+

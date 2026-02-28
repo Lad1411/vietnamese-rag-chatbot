@@ -10,7 +10,7 @@ os.environ["TRANSFORMERS_OFFLINE"] = "1"
 
 print("Load the evaluate dataset")
 eval_dataset = load_dataset("sailor2/Vietnamese_RAG", "BKAI_RAG")["train"]
-sub_eval = eval_dataset.select(range(200))
+sub_eval = eval_dataset.select(range(5))
 
 
 # 1. Run Ingestion (Load DB and Retriever)
@@ -29,20 +29,20 @@ rag_pip = RAG_pipeline(
 print('Initialize retriever successfully')
 
 # Create generation evaluation dataset
-# answers = []
-#
-# for idx, row_dict in enumerate(sub_eval):
-#     answer = rag_pip.generate(query=row_dict["question"], context_text= row_dict["context"])
-#     answers.append(answer)
-#     print("Processed: {}/200".format(idx+1))
-#
-# gen_eval_df = sub_eval.to_pandas()
-# gen_eval_df.rename(columns={"answer": "ground_truth"}, inplace=True)
-# gen_eval_df.drop(labels="context", axis=1, inplace=True)
-# gen_eval_df["answer"] = answers
-#
-# gen_eval_df.to_csv("Generation_eval_dataset.csv")
-# print("Save to Generation_eval_dataset.csv")
+answers = []
+
+for idx, row_dict in enumerate(sub_eval):
+    answer = rag_pip.generate(query=row_dict["question"], context_text= row_dict["context"])
+    answers.append(answer)
+    print("Processed: {}/5".format(idx+1))
+
+gen_eval_df = sub_eval.to_pandas()
+gen_eval_df.rename(columns={"answer": "ground_truth"}, inplace=True)
+gen_eval_df.drop(labels="context", axis=1, inplace=True)
+gen_eval_df["answer"] = answers
+
+gen_eval_df.to_csv("mini_generation_eval_dataset.csv")
+print("Save to mini_generation_eval_dataset.csv")
 
 # Create retrieval evaluation and end-to-end dataset
 retrieved_contexts = []
@@ -51,7 +51,7 @@ for idx, row_dict in enumerate(sub_eval):
     answer, context = rag_pip.generate(query=row_dict["question"], evaluation=True)
     retrieved_contexts.append(context)
     responses.append(answer)
-    print("Processed: {}/200".format(idx+1))
+    print("Processed: {}/5".format(idx+1))
 
 eval_df = sub_eval.to_pandas()
 eval_df.rename(columns={"answer": "ground_truth"}, inplace=True)
@@ -59,8 +59,8 @@ eval_df.drop(labels="context", axis=1, inplace=True)
 eval_df["contexts"] = retrieved_contexts
 eval_df["answer"] = responses
 
-eval_df.to_csv("Evaluate_dataset.csv")
-print("Save to Evaluate_dataset.csv")
+eval_df.to_csv("mini_evaluate_dataset.csv")
+print("Save to mini_evaluate_dataset.csv")
 
 
 

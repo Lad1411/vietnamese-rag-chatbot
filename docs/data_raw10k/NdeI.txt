@@ -1,0 +1,15 @@
+NdeI
+
+"Nde"I là một enzyme thuộc dạng endonucleaza, được tách chiết từ vi khuẩn "Neisseria denitrificans".
+Trong sinh học phân tử, enyzme này thường được dùng làm enzyme cắt giới hạn.
+Đoạn DNA nhận diện.
+Enzyme "Nde"I nhận biết đoạn DNA sau:
+ 5'CATATG
+ 3'GTATAC
+Và cắt chúng thành
+ 5'---CA TATG---3'
+ 3'---GTAT AC---5'
+Ứng dụng trong sinh học phân tử.
+"Nde"I là enzyme cắt giới hạn đặc hiệu loại II, trái với enzyme dạng exonucleaza, "Nde"I chỉ chuyên cắt các đoạn DNA nhất định. Enzyme này được sử dụng trong dòng hóa gien, nó cắt các đoạn đọc mở trong plasmid của các vi khuẩn như E. coli để chèn một đoạn gien khác vào (ví dụ như gene gfpuv mã hóa cho tính chất phát huỳnh quang của sứa "Aequorea victoria".
+"Nde"I hữu dụng trong công tác xây dựng các đoạn DNA dị tương đồng vì chúng bao hàm bộ ba khởi đầu ATG. Vì vậy chúng có thể được dùng trong các vector biểu hiện ví dụ như một số thành viên trong nhóm vector pET, để nối đoạn mở đầu của một gien khi xây dựng một vector biểu hiện. Tuy nhiên "Nde"I chỉ tạo ra các đoạn lồi 2 base và vì vậy nó có nhiệt độ nóng chảy thấp hơn so với các enzyme cắt giới hạn tạo ra các mấu lồi 4 base. Nó có hiệu suất nối thấp hơn bởi vì khả năng nối các đoạn DNA chịu ảnh hưởng của khả năng ghép các mối nối và mối nối lồi 2 base có nhiệt độ nóng chảy thấp hơn so với 4 base. Vì vậy khi nối các mối này cần nhiều thời gian hơn, nồng độ enzyme ligaza cao hơn, thực hiện tại nhiệt độ phòng hoặc 14-16°C hay 4°C.
+

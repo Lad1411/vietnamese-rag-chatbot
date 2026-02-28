@@ -1,0 +1,12 @@
+VY2
+
+VY2 là một giọng Vocaloid nam Nhật Bản được phát triển bởi Yamaha Corporation và phân phối bởi Bplats, Inc. như là một giọng hát "Tiêu chuẩn" cho Vocaloid. Cậu có tên mã "Yuma". Cậu ban đầu được phát hành cho các động cơ Vocaloid 2.
+Phát triển.
+"VY2" là chữ viết tắt của "VOCALOID YAMAHA 2". Như VY1 trước đó, cậu không có hình ảnh cá nhân (avatar), mặc dù các nhạc sĩ sử dụng phần mềm đã có nhiều cách diễn giải khác nhau theo thời gian. Cậu cũng đã được xác định là một giọng nam trẻ. VY2 được phát hành vào ngày 25 tháng 4 năm 2011. Theo các chi tiết của VOCALOID, VOCALOID là một nỗ lực để khiến giọng hát trở nên thật và ổn định hơn. Nó là mẫu giọng vocalists trẻ nhất vào thời điểm thu âm và quá trình phát triển của những giọng nam Vocaloid 2 như Camui Gackpo, Hiyama Kiyoteru và Utatane Piko được so sánh trong quá trình sản xuất để giúp phát triển VY2.
+Phần mềm bổ sung.
+Mặc dù được tạo ra để đứng đầu các sản phẩm của Yamaha như VY1, VY2 lại có ít bản cập nhật hơn.
+Trong tháng 10 cậu đã được cập nhật cho iVocaloid iOS app. VY2 đã ra mắt trên VocaloWitter vào mùa hè năm 2011 và phiên bản của VY2 sẽ có những điều chỉnh với VY1 để có sự tương thích và hiệu suất cao hơn. Tuy nhiên, nó đã không bao giờ được phát hành.
+Bản cập nhật lớn đầu tiên đã được phát hành vào 19 tháng 10 năm 2012 cho động cơ Vocaloid 3. Bản cập nhật chứa hai giọng hát "Normal" - bản cập nhật của giọng hát cũ và "Falsetto". Khi được cập nhật cho Vocaloid 4, giọng hát đã có thể sử dụng cho cross-synthesis feature ("XSY"). Do sự phổ biến của bản cập nhật thứ 2, giọng hát đã được phát hành lại với cái tên "VY2v3 SE". Trong năm 2013, bản bổ sung "VY2v3 Neo" cũng đã được phát hành như phiên bản Mac của phần mềm.
+Cà 2 giọng VY2v3 đều sẽ được phát hành cho Mobile Vocaloid Editor, như là mua hàng riêng biệt.
+VY2v3 và V3 Gackpoid cũng là trọng tâm cho vol.4 của loạt dữ liệu VOCALOID-P.
+

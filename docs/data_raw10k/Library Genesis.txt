@@ -1,0 +1,11 @@
+Library Genesis
+
+Library Genesis hay Libgen là một trang web chia sẻ tập tin ("file-sharing") kiểu thư viện ngầm ("shadow library"). Trang web này cho phép người dùng truy cập một kho lưu trữ đồ sộ các ấn phẩm học thuật, sách báo nhiều thể loại, audiobook, truyện tranh và tạp chí, đáng lý ra là bị chặn bởi tường phí (paywall) hoặc chưa được số hóa trên mạng.
+Hiện có nhiều tranh cãi xung quanh tính pháp lý của trang web này. Một số nhà xuất bản như Elsevier từng cáo buộc Libgen tội vi phạm bản quyền trực tuyến; số khác thì lập luận cho rằng, phần lớn các tác phẩm học thuật dùng tiền của chính phủ, được viết bởi các nhà nghiên cứu ăn tiền của chính phủ, nhiều trong số đó tới từ các trường đại học công, vậy nên công chúng hoàn toàn có quyền truy cập các nghiên cứu ấy miễn phí.
+Lịch sử.
+Library Genesis có lẽ bắt nguồn từ phong trào "samizdat" ở Liên Xô khi trước. Theo sau công cuộc đổi mới của Mikhail Gorbachev vào những năm 80, việc phân phối ấn phẩm cấm đã được nới lỏng một phần.
+Vấn đề pháp lý.
+Kiện cáo.
+Năm 2015, Library Genesis bị Elsevier kiện ra tòa vì hành vi xâm phạm quyền tác giả và ban phát quyền truy cập miến phí đối với nhiều sách báo đáng lý phải trả tiền. Đáp lại, các quản trị viên của trang web cho rằng, Elsevier đang hưởng phần lớn lợi nhuận từ các sách báo học thuật do chính phủ tài trợ, tức là thuế của người dân, vì vậy công chúng hoàn toàn có quyền truy cập chúng miễn phí.
+Cuối tháng 10 năm 2015, Tòa án Quận Nam New York đã ép Libgen phải ngừng ngay hoạt động và treo tên miền libgen.org, song các tên miền khác vẫn tiếp tục hoạt động bình thường.
+

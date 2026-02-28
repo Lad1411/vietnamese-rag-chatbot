@@ -1,0 +1,13 @@
+Matroska
+
+Matroska Multimedia Container là một chuẩn mở miễn phí định dạng container. Được công bố vào ngày 06 tháng 12 năm 2002, Matroska là một định dạng tập tin có thể chứa đựng một số lượng không giới hạn video, âm thanh, hình ảnh hoặc phụ đề trong một tập tin duy nhất. Định dạng này được thiết kế để với dụng ý trở thành một trong những định dạng phổ thông nhằm lưu trữ nội dung đa phương tiện, như phim hoặc các chương trình TV. Matroska tương tự như các file theo chuẩn AVI, MP4 hay ASF, nhưng có khả năng mở rộng hơn nhiều do chúng thuộc mã nguồn mở. So với AVI hay MP4 thì Matroska hỗ trợ nhiều định dạng hình ảnh và âm thanh hơn với cả các phần phụ đề có thể được thêm hoặc bớt.
+Phần mở rộng tệp Matroska có đuôi là.MKV cho video (có thể bao gồm hoặc không bao gồm phụ đề và âm thanh).MK3D cho video định dạng 3D.MKA cho các tệp chỉ có âm thanh và.MKS chỉ cho phụ đề.
+Tổng quan.
+Matroska là một từ tiếng Anh từ nguồn gốc từ Nga từ matryoshka (tiếng Nga: матрёшка, IPA: [mɐtr ʲ oʂkə]), có nghĩa là con búp bê làm tổ (một loại búp bê truyền thống của Nga, chứa đựng bên trong nó búp bê nhỏ hơn có hình dáng y hệt)
+Video Matroska có đuôi là.mkv phổ biến trong vài năm trở lại đây nhờ sự thông dụng của việc nén và lưu hành phim nén. Định dạng Matroska được các nhóm nén phim ưa thích và các bộ phim HD thường được nén dưới dạng.mkv.
+Bắt đầu từ năm 2009 Samsung hỗ trợ Matroska với các đầu đọc Blu-ray và HDTV.
+Giấy phép.
+Matroska là một dự án tiêu chuẩn mở. Điều này có nghĩa để sử dụng với danh nghĩa cá nhân chúng hoàn toàn miễn phí. Các thông số kỹ thuật mô tả các bitstream được mở cho tất cả mọi người, ngay cả cho các công ty muốn hỗ trợ nó trong các sản phẩm của họ. Mã nguồn của các thư viện phát triển bởi Nhóm phát triển Matroska và được cấp phép theo L-GNU GPL. Bên cạnh đó, cũng có phân tích cú pháp và các thư viện miễn phí phát hành theo giấy phép BSD, cho phần mềm thương mại và thông qua phần cứng.
+Tham khảo.
+http://www.matroska.org/
+

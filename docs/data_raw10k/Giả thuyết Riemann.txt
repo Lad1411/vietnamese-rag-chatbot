@@ -1,0 +1,21 @@
+Giả thuyết Riemann
+
+Trong toán học, giả thuyết Riemann, nêu bởi Bernhard Riemann (), là một phỏng đoán về các không điểm phi tầm thường của hàm zeta Riemann tất cả đều có phần thực bằng 1/2. Tên gọi này đôi khi cũng có nghĩa tương tự cho một số giả thuyết khác như giả thuyết Riemann cho các đường cong trên trường hữu hạn.
+Giả thuyết Riemann hàm ý kết quả về sự phân bố các số nguyên tố. Cùng với những dạng tổng quát hóa phù hợp, các nhà toán học coi nó là một trong những bài toán quan trọng nhất chưa được giải trong toán học thuần túy . Giả thuyết Riemann, cùng với giả thuyết Goldbach thuộc về bài toán thứ tám của Hilbert trong danh sách 23 bài toán chưa giải được của David Hilbert; nó cũng là một trong bảy bài toán của Giải thưởng Bài toán Thiên niên kỷ do Viện Toán học Clay khởi xướng.
+Hàm zeta Riemann ζ("s") là hàm với đối số "s" là một số phức bất kỳ khác 1, và giá trị của hàm cũng là giá trị phức. Các không điểm của hàm (nghiệm) bao gồm tại các số nguyên âm chẵn; tức là ζ("s") = 0 khi "s" nhận các giá trị −2, −4, −6, ... Chúng được gọi là các không điểm tầm thường. Tuy nhiên, các số nguyên âm chẵn không phải là các nghiệm duy nhất của hàm zeta; và những nghiệm này gọi là không điểm phi tầm thường hay "không điểm không tầm thường". Giả thuyết Riemann đề cập đến vị trí của các không điểm phi tầm thường này, và phát biểu rằng:
+Do vậy các không điểm phi tầm thường sẽ nằm trên đường giới hạn chứa các số phức với "t" là số thực và "i" là đơn vị ảo.
+Có một vài sách phổ biến về giả thuyết Riemann, như của , , ,
+. Các sách như , và đưa ra nội dung toán học của nó, trong khi
+, và trình bày ở mức khó hơn.
+Đặc điểm.
+Đây là một trong những bài toán thiên niên kỷ, tập hợp của những vấn đề mở quan trọng nhất trong toán học. Giải quyết được bất kỳ vấn đề nào trong đó đều được giải thưởng lên tới một triệu USD.
+Giả thuyết Riemann (theo tên của nhà toán học người Đức ở thế kỷ 19, Bernhard Riemann) cung cấp một sự ước đoán chính xác hơn rất nhiều về số lượng số nguyên tố nhỏ hơn một số cho trước. Tuy nhiên, cũng giống như các giả thuyết trên, dù đã được chứng minh là đúng với hàng tỷ trường hợp, nó vẫn chưa được chứng minh tổng quát.
+Hàm zeta Riemann.
+Hàm zeta Riemann xác định đối với số phức "s" với phần thực lớn hơn 1 bởi chuỗi vô hạn hội tụ tuyệt đối
+Leonhard Euler chứng minh được rằng chuỗi này bằng tích Euler
+với tích vô hạn mở rộng trên mọi số nguyên tố "p", và chuỗi này hội tụ đối với các số phức "s" với phần thực lớn hơn 1. Sự hội tụ của tích Euler chứng tỏ rằng hàm ζ("s") không có một không điểm nào trong miền này, do không có một giá trị s nào làm cho hàm bằng 0.
+Giả thuyết Riemann đề cập đến các không điểm nằm ngoài miền hội tụ của chuỗi này, do vậy nó cần phải liên tục giải tích đối với mọi số phức số phức "s". Điều này có thể chứng minh khi biểu diễn nó theo hàm eta Dirichlet như sau. Nếu phần thực của "s" lớn hơn 1, thì hàm zeta thỏa mãn
+Tuy nhiên, chuỗi bên vế phải hội tụ không những khi "s" lớn hơn 1, mà còn trong trường hợp "s" có phần thực dương. Do vậy, chuỗi thay thế này mở rộng hàm zeta từ miền sang miền lớn hơn , ngoại trừ tại các không điểm formula_4 của formula_5 (xem hàm eta Dirichlet). Hàm zeta cũng có thể mở rộng tới những giá trị này bằng cách lấy giới hạn, sẽ thu được giá trị hữu hạn cho mọi giá trị của "s" với phần thực dương ngoại trừ một trường hợp khi "s" = 1.
+Trong miền hàm zeta thỏa mãn phương trình hàm
+Có thể định nghĩa ζ("s") cho mọi số phức "s" khác 0 còn lại bằng cách giả sử rằng phương trình này thỏa mãn cả bên ngoài miền xác định, và đặt ζ("s") bằng vế phải của phương trình khi "s" có phần thực không dương. Nếu "s" là một số nguyên âm chẵn thì ζ("s") = 0 bởi vì nhân tử sin(π"s"/2) bằng 0; đây là các không điểm tầm thường của hàm zeta. (Lập luận này không đúng nếu "s" là một số nguyên dương chẵn bởi vì giá trị 0 của sin bị triệt tiêu tại các cực của hàm gamma khi nó nhận các tham số nguyên âm.) Giá trị tại ζ(0) = −1/2 là không xác định bởi phương trình hàm, nhưng nó là giới hạn của ζ("s") khi "s" tiến đến 0. Phương trình hàm cũng hàm ý rằng hàm zeta không có các không điểm với phần thực âm ngoại trừ các không điểm tầm thường nêu ở trên; do đó mọi không điểm phi tầm thường nằm trong miền giới hạn với "s" có phần thực nằm giữa 0 và 1.
+

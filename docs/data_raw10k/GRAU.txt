@@ -1,0 +1,18 @@
+GRAU
+
+Tổng cục Tên lửa và Pháo binh thuộc Bộ quốc phòng Liên bang Nga (GRAU) ( - ГРАУ, "Glavnoye raketno-artilleriyskoye upravleniye MO RF (GRAU)") là một cơ quan cấp tổng cục trục thuộc Bộ Quốc phòng Nga. Đứng đầu cơ quan này là một thứ trưởng, trưởng ngành vũ khí và đạn dược thuộc Lực lượng Vũ trang Liên bang Nga.
+Đặc biệt, GRAU chịu trách nhiệm về gán chỉ số GRAU (hay định danh GRAU) cho các trang thiết bị và đạn dược của quân đội Nga.
+Các kho do GRAU quản lý theo Kommersant-Vlast năm 2005 bao gồm, kho số 60 tại Kaluga, số 55 tại Rzhev, số 75 tại nam Serpukhov thuộc Moskva, (tất cả ba kho trên đều thuộc Quân khu Moscow) và kho số 80 tại Gagarskiy, số 116 tại Krasno-Oktyabrskiy và số 5, 3 kho còn lại đều thuộc Quân khu Volga-Urals.
+Cục trưởng hiện tại của GRAU (từ 2014) là Trung tướng Nikolay Parshin.
+Lược sử.
+Tiền thân của cơ quan này là Tổng cục Pháo binh ("Главное артиллерийское управление" - ГАУ, GAU) thuộc Bộ Chiến tranh của Đế quốc Nga. Năm 1960, cơ quan này được đổi tên thành Tổng cục Pháo binh và Tên lửa có dạng như ngày nay.
+Chỉ số GRAU.
+Chỉ số GRAU có dạng "{số} {chữ cái} {số}", với hậu tốc tùy ý "{chữ cái} {số}". Tên mã gán đặc biệt có thể theo sau chỉ số.
+Ví dụ như: «2 S 19  "Msta-S"», đây là chỉ số GRAU của pháo tự hành 2S19 Msta.
+Quan niệm sai.
+Một số hiểu nhầm phổ biến xung quanh phạm vi và nguồn gốc của các chỉ số. Tên gọi GRAU không phải là một tên công nghiệp, cũng không phải là tên do phòng thiết kế đặt. Ngoài tên GRAU của bản thân vũ khí, vũ khí cũng có thể có tên thiết kế, tên công nghiệp và tên biên chế.
+Ví dụ, một số tên lửa đất đối không thuộc tổ hợp phòng không S-25 Berkut có ít nhất 4 tên gọi trong nước:
+Rắc rối cũng phát sinh từ thực tế là một số loại bom khoan của Liên Xô có cùng tên tìm kiếm giống nhau. Ví dụ, bom FAB-250sch được trang bị năm 1944 với bản vẽ thiết kế số "3-01301" và có tên gọi là "7-F-334".
+Hệ thống tên.
+Phần đầu tiên của chỉ số GRAU là số chỉ, số chỉ này cho biết thiết bị thuộc về hạng mục chính nào. Phần thứ hai, một ký tự Cyrillic cho biết tiểu hạng mục. Phần thứ ba là một số, cho biết kiểu cụ thể. Hậu tố tùy chọn có thể được sử dụng để phân biệt các biến thể của cùng một kiểu thiết bị.
+

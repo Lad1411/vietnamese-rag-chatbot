@@ -1,0 +1,6 @@
+Sàng Atkin
+
+Trong toán học, sàng nguyên tố Atkin là một thuật toán nhanh và hiện đại để tìm tất cả các số nguyên tố nhỏ hơn một số nguyên xác định. Đó là một thuật toán tối ưu từ sàng nguyên tố Eratosthenes: sàng Atkin chuẩn bị trước một số việc rồi sau đó đánh dấu các bội số của bình phương các số nguyên tố, chứ không phải là bội của các số nguyên tố. Thuật toán này được xây dựng bở A. O. L. Atkin và Daniel J. Bernstein.
+Pseudocode.
+Pseudocode sau đây mô tả thuật toán này:
+

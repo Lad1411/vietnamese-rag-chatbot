@@ -1,0 +1,5 @@
+Trang web
+
+Trang web (tiếng Anh là webpage) là một tập hợp các văn bản, hình ảnh, tệp tin tài liệu thích hợp với World Wide Web và được thực thi ở trình duyệt web. Một trình duyệt hiển thị một trang web trên màn hình máy tính hay các thiết bị di động. Trang web, thường được xem là một tập tin, viết bằng mã HTML hay các ngôn ngữ đánh dấu tương tự. Các trình duyệt web chứa nhiều các phần tử tài nguyên web như: CSS, kịch bản phía máy khách, và hình ảnh, nhằm thể hiện cho một trang web.
+Trang web thường được hiểu nhầm với website, nhưng trên thực tế, Webpage chỉ là một phần nào đó của website.
+

@@ -1,0 +1,12 @@
+SAX
+
+ 
+SAX là các API phân tách truy xuất tuần tự đến tài liệu XML. Sax cung cấp một cơ chế cho việc đọc dữ liệu từ một tài liệu XML. Nó là một thay thế tốt và hay dùng thay cho DOM. Tên của nó là viết tắt của "Simple API for XML" (tiếng Anh, tức là "API đơn giản cho XML").
+Bộ phân tách mà hiện thực SAX (ví dụ, "bộ phân tách SAX Parser") xử lý thông tin XML dưới dạng một dòng dữ liệu ("single stream of data"). Dòng dữ liệu này là đơn hướng, nghĩa là dữ liệu đã đọc rồi thì không thể đọc lại ngoại trừ phân tách lại từ đầu.
+Hầu hết những ai sử dụng XML tin rằng kết quả của mẫu hình SAX là xử lý nhanh hơn DOM. Điều này là vì "SAX stream" dùng ít bộ nhớ hơn thay vì phải lưu tất cả trong bộ nhớ như với cây DOM.
+Bộ phân tách SAX được hiện thực theo mô hình hướng sự kiện ("event-driven") mà trong đó nhà lập trình cung cấp các phương thức "callback" được triệu gọi bởi bộ phân tách như là một phần của quá trình duyệt qua tài liệu XML.
+SAX được phát triển bởi sự hợp tác qua việc trao đổi trong danh sách địa chỉ thư điện tử "xml-dev", mà không có hội đồng c...
+Msdxhính thức nào cả, nhưng sau đó nhanh chóng được hiện thực bởi các công ty lớn. Người phát triển và bảo trì đứng đầu là David Megginson.
+Liên kết ngoài.
+Interfaces for...
+

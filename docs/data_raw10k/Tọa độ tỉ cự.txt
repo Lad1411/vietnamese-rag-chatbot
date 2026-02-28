@@ -1,0 +1,39 @@
+Tọa độ tỉ cự
+
+Trong hình học, hệ tọa độ Barycentric (Còn gọi là Hệ tọa độ tỉ cự) là một hệ tọa độ trong đó vị trí của một điểm trong một đa diện, được xác định là một trọng tâm hay tâm tỉ cự. Tọa độ cũng được mở rộng bên ngoài đa diện, nơi có một hoặc nhiều tọa độ có giá trị âm. Khái niệm này được giới thiệu bởi (1827).
+Định nghĩa.
+Cho formula_1 là một hệ điểm trên một đa diện của không gian afin A . Nếu một điểm "p" thuộc A, 
+và có ít nhất một trong formula_4 không bị triệt tiêu nên ta nói rằng dãy các hệ số formula_5 là một tọa độ Barycentric của p có mối quan hệ với dãy formula_6 Bản thân các đỉnh của chúng có tọa độ formula_7 Các tọa barycentric không phải là duy nhất: với mọi "b" khác 0, formula_8 cũng là tọa độ barycentric của "p". Nếu tọa độ không âm, "p" nằm trong bao lồi của formula_1, vậy trong một đa diện, điểm của nó được xem như là một đỉnh.
+Theo định nghĩa, tọa độ barycentric được biểu diễn dưới dạng tọa độ đồng nhất. Đôi khi giá trị của tọa độ bị hạn chế bởi một điều kiện
+làm cho các tọa độ đó là duy nhất, cho nên chúng là tọa độ afin ().
+Tọa độ barycentric trên một tam giác.
+Trong tam giác, tọa độ barycentric có thể được nói với tên gọi khác là tọa độ của một bề mặt, vì tọa độ của "P" liên hệ đến các tam giác "PBC", "PCA" và "PAB" trong tam giác lớn nhất "ABC". Tọa độ barycentric là một công cụ rất quan trọng trong các ứng dụng kỹ thuật liên quan đến tam giác bao gồm miền con của tam giác. Nó cho thấy việc phân tích và tính toán một bài toán trở nên dễ dàng và được trình bày trong đó có các tọa độ barycentric. Xét một tam giác formula_11 cấu thành bởi 3 đỉnh "r"1, "r"2 và "r"3. Với mỗi điểm đó ta có thể viết một tổ hợp lồi của 3 điểm. Nói cách khác, với mỗi điểm "r" ta có thứ tự duy nhất các số formula_12 vậy nên formula_13 và
+3 số formula_15 chỉ ra rằng tọa độ của điểm "r" liên hệ với tam giác. Nó có thể được ký hiệu dưới dạng formula_16 Chú ý rằng mặc dù nó có 3 tọa độ nhưng nó chỉ có 2 "mức độ tự do", vì formula_17 
+Chuyển đổi giữa tọa độ barycentric và tọa độ Cartesian.
+Với mỗi điểm "r" trong một tam giác có thể tìm được tọa độ barycentric formula_15 từ tọa độ Cartesian formula_19 và ngược lại.
+Ta có thể viết tọa độ Cartesian của điểm "r" bằng các thành phần Cartesian của một hệ điểm tam giác formula_20 với formula_21, về tọa độ "r" thì ta có
+Để đổi ngược lại, từ tọa độ Cartesian vào tọa độ barycentric, đầu tiên thế formula_24 vào hai biểu thức trên để ta có được
+Chuyển vế đổi dấu ta được
+Biến đổi tuyến tính có thể viết gọn là
+với formula_30 là vector có tọa độ barycentric, "r" là vector có tọa độ Cartesian và formula_31 là ma trận được cho bởi
+formula_31 khả nghịch khi formula_34 và formula_35 độc lập tuyến tính (nếu đây không phải là trường hợp, formula_36 có thể là song tuyến tính và không cấu thành tam giác). Thật vậy, ta có thể thế số trên vào phương trình để
+Quá trình đi tìm tọa barycentric không khác gì đi tìm ma trận khả nghịch của formula_38 khá dễ dàng trong trường hợp ma trận 2×2.
+Rõ ràng ta thấy các công thức tính tọa độ barycentric của điểm "r" về tọa độ Cartesian của chúng ("x","y") và về tọa độ Cartesian của hệ điểm trong tam giác sẽ có là
+với
+formula_40
+Một cách khác để chuyển đổi từ tọa độ Cartesian sang tọa độ barycentric để viết lại biểu thức dưới dạng ma trận
+với
+formula_44 và 
+Và điều kiện formula_13 ghi chú formula_47 và tọa độ barycentric có thể được giải quyết như các giải pháp của các hệ tuyến tính
+Chuyển đổi giữa tọa độ barycentric và tọa độ tam tuyến tính.
+Một điểm có tọa độ tam tuyến tính "x":"y":"z" có tọa độ barycentric "ax":"by":"cz" với "a", "b" và "c" là các "độ dài phụ" của tam giác nào đó. Nhưng ngược lại, một điểm có tọa độ barycentric "α":"β":"γ" sẽ có tọa độ tam tuyến tính "α"/"a":"β"/"b":"γ"/"c".
+Ví dụ.
+Đường tròn ngoại tiếp của một tam giác "ABC" có tọa độ barycentric
+với "a", "b" và "c" lần lượt là độ dài các cạnh "BC", "CA", "AB" của một tam giác.
+Trực tâm của tam giác cũng tương tự
+Incenter cũng có
+Tâm cửu-điểm cũng có
+Tọa độ trên một tứ diện.
+Ở đây biểu thức lại được biểu diễn dưới dạng biến đổi tuyến tính (nhưng khác ở chỗ là chúng ta đang xét trên một tứ diện trong formula_55 nên nó có 4 điểm - thì sẽ có 4 thành phần số trong tọa độ
+trong đó formula_31 là một ma trận cấp 3×3:
+

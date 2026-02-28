@@ -1,0 +1,14 @@
+Nikon D800
+
+ Nikon D800 là máy ảnh phản xạ ống kính đơn kỹ thuật số full-frame chuyên nghiệp có độ phân giải 36,3 megapixel do Tập đoàn Nikon sản xuất. Nó đã được trang web chuyên về máy ảnh kỹ thuật số nổi tiếng DPReview trao Giải Vàng.
+D800 được chính thức công bố vào ngày 7 tháng 2 năm 2012 và được bán vào cuối tháng 3 năm 2012 với giá bán lẻ đề xuất là 2999,95 đô la ở Mỹ, 2399 bảng ở Anh và 2892 euro ở châu Âu. Ngay sau khi máy ảnh được bán, công ty con ở Anh của Nikon đã tăng giá D800 tại thị trường đó thêm 200 bảng lên 2599 bảng, nói rằng giá ban đầu là do "lỗi hệ thống nội bộ". Tuy nhiên, Nikon vẫn giữ giá gốc cho tất cả các đơn đặt hàng được đặt trước ngày 24 tháng 3 và nói thêm rằng sẽ không có thay đổi giá nào được thực hiện ở các thị trường khác.
+Chiếc máy kế nhiệm D800 là D810 - được công bố ngày 26 tháng 6 năm 2014.
+Chất lượng hình ảnh.
+Tại thời điểm phát hành, Nikon D800 là chiếc máy ảnh dẫn đầu về cảm biến hình ảnh theo trang Dxomark, thay thế cho Nikon D4 ở vị trí đầu bảng.
+D800E.
+D800E là phiên bản chuyên dụng sử dụng bộ lọc khử răng cưa quang học mới, không có hiệu ứng bộ lọc thông thấp (không làm mờ) để thu được hình ảnh sắc nét nhất có thể. Nikon tuyên bố rằng các hiệu ứng răng cưa có thể có (moiré) có thể được giảm bớt bằng cách xử lý phần mềm trong máy ảnh hoặc các chương trình bên ngoài như Capture NX2 của Nikon.
+Các nhà đánh giá đã chỉ ra rằng mặc dù moiré tăng lên rất khó để loại bỏ trong quá trình hậu kỳ, nhưng nó tương đối dễ dàng khi chụp (chẳng hạn như bằng cách thay đổi góc, khẩu độ hoặc vị trí). Hơn nữa, moire hiếm khi được tìm thấy trong các bức ảnh (trừ trường hợp các mẫu nhân tạo, lặp đi lặp lại như trong nhiếp ảnh kiến trúc). Việc bỏ bộ lọc low-pass trên D800E mang lại một chút cải thiện về độ phân giải quang học, đặc biệt là trong các bức chân dung chụp với khẩu độ lớn, khi đó việc nhiễu xạ không còn là vấn đề. Ngay cả nhiễu xạ tối thiểu, cũng phủ nhận lợi thế của 800E 
+Lừa đảo D800E bằng D800.
+Nikon đã thông báo rằng có những chiếc Nikon D800E được dán nhãn sai thực ra là kiểu D800 với nắp trước được thay thế để trông giống như D800E. Một chiếc D800 được sửa đổi để có vẻ ngoài giống với D800E sẽ không được bảo hành bởi Nikon. Nikon khuyên người dùng "vui lòng thực hiện tất cả các biện pháp phòng ngừa cần thiết để đảm bảo tính xác thực của máy ảnh trước khi mua".
+Để phát hiện máy giả, người dùng phải hiển thị hình ảnh được chụp bằng máy ảnh lên màn hình của máy ảnh. Tên của máy ảnh được sử dụng để chụp tấm ảnh đó sẽ được hiển thị ở góc trên cùng bên phải của màn hình, khi tùy chọn hiển thị "tổng quan" được bật ở chế độ phát lại toàn khung hình. Nếu số kiểu máy chính xác được hiển thị, nó được coi là hàng thật, nếu không nó là hàng giả.
+

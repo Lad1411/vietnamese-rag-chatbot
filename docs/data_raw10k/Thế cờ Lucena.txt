@@ -1,0 +1,56 @@
+Thế cờ Lucena
+
+Thế cờ Lucena () hay Thế trận Lucena là một trong những thế cờ nổi tiếng và quan trọng nhất trong lý thuyết tàn cuộc cờ vua, với một bên có một Xe và một Tốt và bên phòng thủ (bên yếu hơn, trong hình là bên Đen) có một Xe. Đây là hình thế căn bản của Xe và Tốt chống Xe, một dạng tàn cuộc. Nếu bên hơn Tốt có thể đạt tới thế trận này, bên đó sẽ chiến thắng (nếu chơi đúng). Hầu hết dạng tàn cuộc Xe và Tốt chống Xe đều sẽ đạt tới thế cờ Lucena hoặc thế cờ Philidor nếu cả hai bên chơi chính xác . Bên hơn Tốt sẽ cố gắng đạt tới thế cờ Lucena để giành chiến thắng; còn bên yếu hơn sẽ nỗ lực đạt tới thế cờ Philidor để thủ hòa.
+Thế cờ này được đặt theo tên của kỳ thủ người Tây Ban Nha Luis Ramirez de Lucena, mặc dù ông không phân tích hay công bố tài liệu nào về nó.
+Giới thiệu.
+Thế cờ Lucena được đặt theo tên của kỳ thủ người Tây Ban Nha Luis Ramírez de Lucena, dù vậy có đôi chút gì đó nhầm lẫn, bởi vì thế cờ này trên thực tế không có mặt trong quyển sách về cờ vua "Repetición de Amores e Arte de Axedrez" (1497) của ông. Nó có xuất hiện, tuy nhiên là trong cuốn "Il Puttino" (1634) của Alessandro Salvio . Dù vậy "Il Puttino" (đứa trẻ nhỏ) là cái tên được biết đến nhiều hơn như là biệt danh của kỳ thủ Leonardo da Cutri. Salvio cho nó là của Scipione Genovino Có khả năng đó là lỗi phát sinh từ ấn bản thứ sáu của cuốn "Handbuch des Schachspiels", trong đó biên tập viên Constantin Schwede đã soạn tên không chính xác thế cờ thành "Lucena 96", đó có thể là kết quả của sự nhầm lẫn từ tài liệu tham khảo trong tác phẩm "Das Schachspiel des XVI. Jahrhunderts" của Antonius van der Linde năm 1874.
+Thế cờ được trình bày ở trên và ở dưới (có thể tiếp tục từ hình thế đầy đủ như đã nêu hoặc vị trí quân Tốt có thể ở bất kỳ đâu từ cột b đến cột g). Mục tiêu của Trắng là phong cấp Tốt hoặc là buộc Đen phải hi sinh Xe để ngăn chặn điều đó xảy ra - cả hai diễn biến đều dẫn tới kết quả là Trắng có ưu thế vượt trội về chất và hướng thẳng tới chiến thắng. Trắng sẽ bảo vệ và đẩy Tốt đến hàng ngang thứ 7, nhưng việc phong Hậu bị ngăn cản bởi Vua Trắng nằm trên đường tiến của Tốt. Trắng muốn di chuyển Vua của mình rồi sau đó phong cấp Tốt, tuy nhiên Vua Trắng không thể di chuyển sang cột a hay cột c vì sự kiểm soát của Xe và Vua Đen,
+Những đặc điểm cơ bản của thế trận này là:
+Một cách thức tiếp cận hiển nhiên cho Trắng (trong thế cờ như hình trên) là:
+giờ, Đen có thể đơn giản quấy nhiễu Vua Trắng với các nước chiếu, và Trắng không tiến bộ hơn được gì:
+Phương pháp chiến thắng: dựng lên một cây cầu.
+Trong thế cờ Lucena, bên hơn Tốt có một phương pháp để chiến thắng, phương pháp này có tác dụng với bất kỳ Tốt nào trừ Tốt biên (Tốt ở cột a và h). Dù vậy, trong một vài hoàn cảnh nhất định, nó cũng phát huy tác dụng đối với Tốt biên.
+Với thế trận này, Trắng có thể thắng bằng cách
+Giờ, nếu Đen chơi một nước chờ đợi, ví dụ như
+mong chờ quấy nhiễu Vua Trắng với các nước chiếu như diễn biến ở trên, Trắng sẽ tiếp tục với
+Xe Đen không thể tiếp tục chiếu Vua Trắng lâu hơn được nữa và Đen cũng không thể ngăn cản Tốt phong Hậu . Trắng che chắn Vua và Tốt của mình bằng Xe trên cùng một đường (một cột), điều này được kỳ thủ Aron Nimzowitsch mô tả như là "dựng lên một cây cầu" .
+Điều quan trọng là Xe Trắng đã di chuyển lên hàng thứ 4 từ ban đầu để ngăn chặn việc Đen sử dụng phương án phòng ngự tích cực nhất: chiếu liên tục Vua Trắng. Nếu Đen từ bỏ phương án này, Xe Trắng có thể xây cầu trên hàng ngang thứ 5. Trong diễn biến ở trên, sau khi 
+nếu Đen chơi
+đây là một cái bẫy dành cho Trắng: nếu 6.Xd5?? (để xây cầu trên hàng ngang 5) thì sẽ 6...Xxb7! và hòa. Tuy nhiên, nếu
+(6.Xe4+ tiếp theo là 7.Xe8 hoặc (nếu 7...Vf7) 8.Xe5 cũng ổn) 
+và Trắng có thể xây cầu trên hàng ngang 5 bằng cách đưa xe đến b5, Vua ở b6, và sau đó Tốt sẽ phong cấp :
+và Trắng thắng.
+Nếu Xe bên yếu (bên phòng thủ) nằm trên hàng ngang (4) mà sẽ ngăn cản Xe bên mạnh tiến tới hàng ngang quan trọng (tức là ngăn cản 2.Xd4), xem Xe và Tốt chống Xe (tàn cuộc cờ vua)#Xe bên yếu ngăn cản việc xây cầu.
+Đen đi trước.
+Nếu Đen đi trước trong thế cờ đã trình bày ban đầu, họ có thể ngăn chặn việc Xe Trắng tiến đến hàng ngang thứ 4, nhưng sau đó Trắng vẫn sẽ thắng:
+(Xe Đen không có khoảng cách đủ xa với Vua Trắng để có thể duy trì nước chiếu: nếu 5...Xa4+ Trắng sẽ 6.Vb5 và thắng.) Giờ Trắng thắng bằng cách chặn nước chiếu của Đen với 
+tiếp theo là
+Cây cầu trên hàng ngang thứ 5.
+Một cây cầu cũng có thể được dựng lên trên hàng ngang thứ 5 (nhưng trên hàng ngang 4 sẽ mạnh hơn). Diễn biến chính như sau:
+Đe dọa phong cấp Tốt, Đen chỉ có thể ngăn chặn bằng cách chiếu.
+và Tốt sẽ phong cấp. Hoặc
+Tốt hơn là 2.Xf8 Vg7 3.Xf4!, quay trở lại cây cầu trên hàng ngang 4.
+và Trắng sẽ thắng (nhưng khó hơn) với dạng tàn cuộc Hậu chống Xe (xem Tàn cuộc không Tốt (cờ vua)) .
+Các phương án thay thế cho bên phòng thủ.
+Các phương án thay thế không giúp gì được cho Đen. Sau khi 1.Xd1+ Ve7 2.Xd4 như trên, tiếp đến
+Trắng vẫn có thể tiến hành kế hoạch như ở trên, hoặc có thể thắng đơn giản với
+đuổi vua Đen ra xa cho phép Tốt phong cấp (hoặc, 5.b8=H+ Xxb8 6.Xc4+ và Trắng sẽ hơn Xe.)
+Tốt biên.
+Phương pháp Lucena cũng sẽ phát huy tác dụng với Tốt biên nếu Xe Trắng ở sẵn từ đầu trên hàng ngang 4, Xe Đen không nằm kề cột với Tốt, và Trắng là người đi trước. Nếu không thì, Vua Đen cần phải bị ngăn cách 4 cột với Tốt, như hình bên. Đây không còn là thế cờ Lucena chuẩn kể từ khi Vua Đen bị ngăn cách nhiều hơn một cột. Trắng thắng như sau:
+Và Trắng sẽ thắng trong tàn cuộc Hậu chống Xe - lúc này thắng dễ hơn là khi Xe và Vua Đen ở gần nhau .
+Những thế cờ tương tự có thể dẫn đến kết quả hòa.
+Không phải thế cờ tương tự nào bên mạnh cũng sẽ thắng. Trong thế cờ như ở bên, Đen sẽ có được kết quả hòa vì họ có thể chiếu một cách an toàn từ bên cánh. Điều kiện cho bên yếu có thể thủ hòa thành công đó là khoảng cách giữa Xe bên yếu và Vua bên mạnh phải là ít nhất 3 cột, và Vua bên yếu phải ở một vị trí mà sao cho không ngăn cản đường chiếu; vị trí đó là nằm trong "cánh ngắn" (cánh nhỏ) của Tốt (cột chứa Tốt phân làm hai cánh, "cánh ngắn" là cánh chứa ít cột hơn . (Xem "phòng thủ cánh ngắn" tại Xe và Tốt chống Xe (tàn cuộc cờ vua) để biết thêm thông tin.)
+Ví dụ từ thực tiễn.
+Trong ván đấu giữa Rice và Ian Snape diễn ra năm 2000, Đen (Ian Snape) áp dụng quy trình như trên:
+Đến đây Trắng chơi khác ở trên
+Trắng đầu hàng, nhưng có thể thay thế bằng:
+và Đen thắng .
+Trong thế cờ được lấy từ một ván đấu diễn ra vào năm 1999 giữa Ulf Andersson và Ralf Åkesson, Trắng đổi Tốt nhằm đạt được thế cờ Lucena.
+và Đen đầu hàng. Trắng sẽ đạt tới thế cờ Lucena: 81...Xg1+ 82.Vf7 Xf1 83.f6 Xf2 84.Vg7 Xg2+ 85.Vf8 Xf2 86.f7 Xg2 (một thế cờ Lucena) 87.Xd4+ Vc7 (nếu 87...Ve6 sẽ 88.Ve8 và Trắng thắng) 88.Ve7 Xe2+ 89. Vf6 Xf2+ 90.Ve6 Xe2+ 91.Vf5 Xf2+ 92.Xf4, Trắng thắng. .
+Kết luận.
+Tàn cuộc Xe và Tốt xảy ra khá thường xuyên trong cờ vua, khoảng 8 đến 10% tổng số ván đấu dẫn về dạng cờ tàn này, . Thế cờ này rất quan trọng vì nó giúp đơn giản hóa cờ tàn. Và vì nó là một chiến thắng đã được biết đến cho bên mạnh (bên có Tốt), nên đôi khi tàn cuộc là cuộc chiến xoay quanh việc bên hơn Tốt cố gắng nhằm đạt tới thế cờ Lucena và bên yếu hơn nỗ lực để ngăn cản điều đó.
+Có một phương pháp thay thế để giành chiến thắng trong kiểu thế trận này mà chỉ có tác dụng với Tốt nằm từ cột c đến cột f (xem Xe và Tốt chống Xe (tàn cuộc cờ vua)).
+Tham khảo.
+Chú thích
+Tài liệu tham khảo
+

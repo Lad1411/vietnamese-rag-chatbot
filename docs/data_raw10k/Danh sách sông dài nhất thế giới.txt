@@ -1,0 +1,6 @@
+Danh sách sông dài nhất thế giới
+
+Đây là Danh sách các con sông dài hơn 1000 km trên Trái Đất. Nó bao gồm cả hệ thống các sông.
+Cách tính chiều dài sông.
+Trong thực tế tồn tại rất nhiều yếu tố ảnh hưởng tới cách tính toàn chiều dài của một dòng sông, ví dụ như xác định nơi khởi nguồn, xác định vị trí cửa sông, cũng như quy mô của các phương tiện đo đạc chiều dài từ nguồn tới cửa sông. Do đó chiều dài của rất nhiều dòng sông chỉ là chiều dài xấp xỉ. Đặc biệt, hiện nay tồn tại rất nhiều những tranh luận về việc sông Nin hay sông Amazon mới là dòng sông dài nhất thế giới. Từ trước tới nay sông Nin vẫn được xem là dòng sông dài nhất thế giới, nhưng vài năm gần đây các học giả Brasil và Peru đã đưa ra giả thuyết rằng sông Amazon mới là dòng sông dài nhất.
+

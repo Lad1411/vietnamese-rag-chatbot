@@ -1,0 +1,12 @@
+Bơm nhiệt điện
+
+Phần tử bơm nhiệt điện hay "bơm nhiệt Peltier", "Peltier cooler" là một loại linh kiện bán dẫn hoạt động theo theo "hiệu ứng Peltier", dùng dòng điện để tạo ra dòng nhiệt cưỡng bức ở "mối nối" của hai loại vật liệu khác nhau.
+"Bơm nhiệt điện" hoạt động ở trạng thái rắn tiêu thụ năng lượng điện để cưỡng bức truyền nhiệt từ phía này sang phía kia. Nó hoạt động thuận nghịch, nên có thể sử dụng như một bộ "điều khiển nhiệt độ", hoặc làm nóng hoặc làm mát. Trong thực tế việc áp dụng chính là sắp xếp để sử dụng tính năng nào, và thường là làm mát bằng cách thải nhiệt ở phần nóng lên ra môi trường khác.
+"Hiệu ứng Peltier" là một phần của hiện tượng vật lý trong chất bán dẫn là "hiệu ứng nhiệt điện".
+Nguyên lý hoạt động.
+Năm 1821, Thomas Johann Seebeck phát hiện ra rằng hai dây dẫn khác loại nối với nhau và đặt ở hai nhiệt độ khác nhau (tức là có gradient nhiệt) thì tạo ra một điện áp. Sự chênh nhiệt dẫn đến dòng nhiệt truyền, làm khuếch tán các hạt mang điện. Dòng chảy của các hạt mang điện giữa các vùng nóng và lạnh lại tạo ra một điện áp khác nhau.
+Năm 1834, Jean Charles Athanase Peltier phát hiện ra hiệu ứng ngược lại, rằng một dòng điện chạy qua mối nối nhau của hai dây dẫn khác loại nhau, thì tùy thuộc vào chiều dòng điện, làm cho nó hoạt động như một phần tử "làm nóng" hoặc "làm mát".
+Hiệu ứng được gọi là hiệu ứng Peltier và "Bơm nhiệt Peltier" hoạt động theo hiệu ứng này.
+Ứng dụng.
+Tản nhiệt cpu
+

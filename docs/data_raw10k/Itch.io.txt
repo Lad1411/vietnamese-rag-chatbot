@@ -1,0 +1,11 @@
+Itch.io
+
+ itch.io là một trang web để người dùng lưu trữ, bán và tải xuống các video game độc lập. Được phát hành vào tháng 3 năm 2013 bởi Leaf Corcoran, dịch vụ này lưu trữ gần 100.000 trò chơi và vật phẩm tính đến tháng 2 năm 2018.
+itch.io cũng cho phép người dùng tổ chức game jam, trong đó người tham gia có khoảng thời gian giới hạn (thường là 1–3 ngày) để tạo ra một trò chơi. Một số jam nhận được nhiều sự chú ý được tổ chức trên itch.io bao gồm "Game Off" và "Game Maker's Toolkit" Game Jam.
+Lịch sử.
+Vào ngày 3 tháng 3 năm 2013, Leaf Corcoran đã đăng một bài blog lên trang web "leafo.net" giới thiệu chi tiết về trang web, với mô hình trả tiền cho những gì bạn muốn. Trong một cuộc phỏng vấn với "Rock, Paper, Shotgun", Corcoran cho biết ý tưởng ban đầu không phải là một cửa hàng mà thay vào đó là một nơi để "tạo một trang chủ trò chơi tùy chỉnh". Tên của nó xuất phát từ một tên miền dự phòng mà Corcoran đã mua một vài năm trước đó.
+Tính đến tháng 6 năm 2015, dịch vụ đã lưu trữ hơn 15.000 trò chơi và chương trình.
+Vào tháng 12 năm 2015, dịch vụ thông báo họ sẽ phát hành một ứng dụng máy tính để cài đặt các trò chơi và các nội dung khác, cũng như giữ cho các trò chơi và nội dung hiện có được cập nhật tự động. Nó được phát hành và hỗ trợ bởi cả Windows, macOS và Linux. Ngày nay, ứng dụng Itch được khuyến nghị là "cách tốt nhất để chơi các trò chơi itch.io của bạn".
+Lợi nhuận.
+Nhà phát triển có thể tính tiền cho các trò chơi mà họ phát hành trên nền tảng vào tháng 5 năm 2015, itch.io đã trả cho các nhà phát triển . Theo mặc định, trang web sẽ lấy 10% ở mỗi giao dịch, nhưng nhà phát triển có thể chọn số tiền mà trang web sẽ nhận được cho mỗi lần mua. Nhà phát triển có thể đặt giá thấp nhất cho trò chơi (bao gồm 'miễn phí') và khách hàng có thể trả cao hơn số tiền tối thiểu đó nếu họ thích trò chơi họ đang mua. Ngoài ra, kể từ tháng 8 năm 2015, người dùng đã có thể mua trò chơi bằng tiền mã hóa Bitcoin.
+

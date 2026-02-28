@@ -1,0 +1,15 @@
+Bài toán thứ mười bảy của Hilbert
+
+Bài toán thứ mười bảy của Hilbert là một trong 23 bài toán của Hilbert trong danh sách nổi tiếng của David Hilbert xuất bản năm 1900. Nó xem xét việc biểu diễn các hàm hữu tỉ xác định không âm dưới dạng thương của hai tổng của các bình phương. Câu hỏi ban đầu của Hilbert là như sau:
+Cho một đa thức nhiều biến luôn nhận giá trị không âm trên trường số thực, liệu nó có thể được biểu diễn dưới dạng tổng các bình phương của các hàm hữu tỉ?
+Lời giải khẳng định đã được chứng minh năm 1927 bởi Emil Artin.
+Sau đó Charles Delzell đã tìm ra một thuật toán cho bài toán này.
+Một tổng quát hóa lên trường hợp ma trận (mọi ma trận với các phần tử là các hàm hữu tỉ sao cho ma trận luôn xác định không âm đều có thể biểu diễn được dưới dạng tổng của các bình phương đối xứng) được chứng minh bởi Gondard, Ribenboim và Procesi, Schacher . Nó cũng có một chứng minh sử dụng kiến thức cơ sở bởi Hillar và Nie .
+Việc xây dựng câu hỏi đã xét đến các đa thức, chẳng hạn như
+luôn nhận giá trị không âm khi các biến nhận giá trị thực bất kì nhưng không thể được viết dưới dạng tổng các bình phương của các đa thức.
+Người ta đã tìm ra điều kiện đủ để đa thức f có thể biểu diễn được dưới dạng tổng các bình phương của các đa thức.
+ Ngoài ra, mọi đa thức f thực không âm đều có thể được xấp xỉ với độ chính xác tùy ý (theo chuẩn formula_2 của vectơ hệ số) bằng một dãy các đa thức formula_3 biểu diễn được dưới dạng tổng các bình phương 
+Một bài toán mở là giá trị nhỏ nhất của
+sao cho mọi đa thức không âm bậc d gồm n biến luôn có thể biểu diễn được dưới dạng tổng của formula_4 bình phương của các hàm hữu tỉ thực.
+Kết quả tốt nhất là
+

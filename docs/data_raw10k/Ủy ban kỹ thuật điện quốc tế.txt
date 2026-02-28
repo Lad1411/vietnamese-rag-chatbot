@@ -1,0 +1,14 @@
+Ủy ban kỹ thuật điện quốc tế
+
+Uỷ ban Kỹ thuật Điện Quốc tế hay IEC (viết tắt của tiếng Anh: "International Electrotechnical Commission") được thành lập năm 1906. Mục tiêu của IEC là thúc đẩy sự hợp tác quốc tế về tiêu chuẩn hoá trong lĩnh vực điện - điện tử và các vấn đề có liên quan như: chứng nhận sự phù hợp tiêu chuẩn điện và hỗ trợ cho thông hiểu quốc tế.
+IEC có mối quan hệ hợp tác chặt chẽ với nhiều tổ chức tiêu chuẩn hoá và chuyên môn quốc tế như: ISO, Liên đoàn Viễn thông quốc tế - ITU; Ban Tiêu chuẩn hoá Kỹ thuật điện châu Âu - CENELEC. Đặc biệt, giữa IEC và ISO đã thiết lập một thoả thuận về phạm vi hoạt động của mỗi tổ chức. Theo thoả thuận này, phạm vi hoạt động của IEC bao gồm tiêu chuẩn hoá trong lĩnh vực điện - điện tử. ISO và IEC đã phối hợp thành lập một ban kỹ thuật hỗn hợp về công nghệ thông tin được đặt trong cơ cấu các cơ quan kỹ thuật của ISO (ISO/IEC/JTC1).
+Trụ sở ban đầu của tổ chức này đóng ở Luân Đôn, nay chuyển trụ sở sang đóng tại Genève từ năm 1948.
+Bộ tiêu chuẩn điện kỹ thuật (chuẩn hoá quốc tế IEC) bao gồm trên 6500 tiêu chuẩn về thiết kế, lắp đặt hệ thống điện.
+Những tiêu chuẩn của IEC được sắp xếp theo dãy số từ 60000 đến 79999. Ví dụ IEC 60432.
+Bộ tiêu chuẩn cũ của IEC đưa ra trước năm 1997 được đánh số lại bằng cách cộng số cũ với 60000. Ví dụ tiêu chuẩn cũ số IEC 237 đặt lại là IEC 60237.
+Các tiêu chuẩn.
+Các tiêu chuẩn IEC 364 do các chuyên gia y tế và kỹ thuật các nước trên thế giới xây dựng thông qua việc so sánh cá kinh nghiệm thực tế ở phạm vi quốc tế. Hiện nay các nguyện tắc về an toàn của IEC 364 và 479-1 la nền tảng của hầu hết các tiêu chuẩn trên thế giới.
+Tại Việt Nam.
+Khi Việt Nam gia nhập WTO, Bộ Khoa học Công nghệ đã ban hành một số tiêu chuẩn TCVN chấp nhận IEC để chuyển dịch thành tiêu chuẩn Việt Nam (TCVN).
+Cột số tiêu chuẩn điện kỹ thuật của Việt Nam hiện nay phù hợp với IEC có:
+

@@ -1,0 +1,16 @@
+Số nguyên tố Fibonacci
+
+Một số nguyên tố Fibonacci là một số Fibonacci đồng thời là số nguyên tố.
+Sau đây là một vài số nguyên tố Fibonacci
+Trừ trường hợp "n" = 4, nếu F"n" là số nguyên tố thì "n" là số nguyên tố. Tuy nhiên mệnh đề đảo không đúng.
+Khảo sát tính nguyên tố của 25 số Fibonacci đầu tiên.
+F"p" là số nguyên tố với 8 số trong 10 số nguyên tố đầu tiên; trừ F2 = 1 và F19 = 4181 = 37 x 113. Tuy nhiên, các số nguyên tố Fibonacci là khá hiếm khi chỉ số tăng - F"p" là số nguyên tố chỉ 25 số trong số 1.229 số nguyên tố "p" dưới 10.000.
+Hiện tại, số nguyên tố Fibonacci lớn nhất được biết là F81839, với 17103 chữ số; số lớn nhất có khả năng là nguyên tố Fibonacci là F604711, với 126377 chữ số. Chưa biết chắc rằng có thể có vô hạn số nguyên tố Fibonacci không.
+Tính chia hết của các số Fibonacci với chỉ số nguyên tố.
+Các số Fibonacci có chỉ số "p" nguyên tố không có ước chung lớn hơn 1 với các số 
+Fibonacci khác, đó là vì
+Nếu ta biết rằng "m", là một số nguyên tố "p" thì từ đẳng thức trên, 
+và "n" là nhỏ hơn "p", rõ ràng rằng Fp, không thể có ước chung khác với bất kỳ số Fibonacci nào.
+ƯCLN(Fp, Fn) = FƯCLN(p,n) = F1 = 1
+Định lý Carmichael khẳng định rằng mọi số Fibonacci với chỉ số lớn hơn 12 có ít nhất một ước nguyên tố không là ước của các số Fibonacci nào đứng trước nó.
+

@@ -1,0 +1,15 @@
+Anonymous-OS
+
+Anonymous-OS là một bản phân phối Linux dựa trên Ubuntu. Hệ điều hành đã ra mắt tháng 3 năm 2012. Anonymous-OS sử dụng MATE như môi trường máy tính để bàn, và có chứa nhiều phần mềm thiết yếu cho hacker, chẳng hạn như trình duyệt Tor, Hash Identifier, XChat, SQL Poison, tìm máy chủ IP, ParolaPass Password Generator, và HOIC. Tương tự như Backtrack, Anonymous-OS đã được suy đoán rằng nó có chứa trojan và các phần mềm độc hại. Hệ điều hành này không một phát hành bởi Anonymous. Sau khi tải về và chạy Anonymous-OS, ông Rik Ferguson, giám đốc nghiên cứu an ninh mạng Trend Micro khu vực châu Âu, cho biết đó là "một hệ điều hành chức năng với một loạt công cụ được cài đặt sẵn có thể sử dụng cho các mục đích như tìm kiếm lỗ hổng hoặc phá mật khẩu".
+Nó cũng chứa các công cụ như Tor có thể che giấu các hoạt động trực tuyến của người dùng. Nói tóm lại, ông Ferguson nói đó là một phiên bản bắt chước Back Track (theo dõi) có cài sẵn nhiều công cụ bảo mật được cài đặt trước.
+Ông Ferguson cho hay ông đã bắt đầu tìm kiếm xem liệu có virus nào hoặc cái bẫy nào được ẩn trong mã nguồn hay không.
+Còn ông Graham Cluley, nhà nghiên cứu cao cấp ở hãng bảo mật Sophos thắc mắc ai là người sẽ cố thử dùng hệ điều hành này.
+"Ai là người muốn đặt niềm tin của mình vào một mẩu phần mềm không rõ nguồn gốc do một người (nhóm người) nặc danh viết, và có tải về trên một trang web nào đó mà họ không biết là an toàn hay không?"
+Ông Cluley cảnh báo mọi người phải rất thận trọng, nói thêm rằng một số hacker nóng lòng ủng hộ Anonymous hồi đầu năm nay đã bị lừa cài đặt công cụ bẫy tấn công.
+Hệ điều hành này có sẵn trên trang web Source Forge để tải về. Source Forge được coi là kho lưu trữ cho rất nhiều dự án mã nguồn tùy chỉnh. Theo BBC, hơn 26.000 người đã tải về hệ điều hành mà các thành viên nhóm tin tặc Anonymous tuyên bố là do họ tạo ra.
+Phần mềm này dựa trên một phiên bản hệ điều hành mã nguồn mở Linux và có trang bị kèm nhiều công cụ bảo mật và do thám website.
+Anonymous-OS có dung lượng là 1.5GB, được dựa trên Ubuntu – một trong những phiên bản phổ biến nhất của hệ điều hành Linux. Những người tạo ra phần mềm này cho biết họ đã đóng gói nó kèm với "các mục đích giáo dục về kiểm tra an ninh của các trang web".
+Nó đề nghị mọi người không sử dụng để hủy hoại các trang web.
+Tuy nhiên, ngay sau khi hệ điều hành sẵn có để tải về, tài khoản AnonOps trên Twitter đăng một thông điệp nói hệ điều hành này là giả và nó "chứa đầy trojan". Còn những người tạo ra Anonymous-OS phủ nhận nó bị nhiễm virus và bổ sung rằng "không có virus trong thế giới phần mềm mã nguồn mở".
+Mặc dù vậy, sau một thời gian ngắn, SourceForge đã xóa hệ điều hành này khỏi website vì cho rằng nó không minh bạch và cố tình kiếm tiền từ cái tên Anonymous.
+

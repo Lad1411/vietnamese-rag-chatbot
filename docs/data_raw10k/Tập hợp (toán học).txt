@@ -1,0 +1,79 @@
+Tập hợp (toán học)
+
+Trong toán học, một tập hợp là một bộ các phần tử. Các phần tử tạo nên một tập hợp có thể là bất kỳ loại đối tượng toán học nào: số, ký hiệu, điểm trong không gian, đường thẳng, các hình dạng hình học khác, các biến hoặc thậm chí các tập hợp khác. Tập hợp không có phần tử nào là tập hợp rỗng; một tập hợp với một phần tử duy nhất là một đơn điểm. Một tập hợp có thể có một số phần tử hữu hạn hoặc là một tập hợp vô hạn. Hai tập hợp bằng nhau khi và chỉ khi chúng có chính xác các phần tử giống nhau.
+Tập hợp có mặt khắp nơi trong toán học hiện đại. Thật vậy, lý thuyết tập hợp, cụ thể hơn là lý thuyết tập hợp Zermelo-Fraenkel, đã là phương pháp tiêu chuẩn để cung cấp nền tảng chặt chẽ cho tất cả các phân nhánh của toán học kể từ nửa đầu thế kỷ 20.
+Nguồn gốc.
+Khái niệm tập hợp xuất hiện trong toán học vào cuối thế kỷ 19. Từ tập hợp trong tiếng Đức, "Menge", được Bernard Bolzano đặt ra trong tác phẩm "Paradoxes of the Infinite".
+Georg Cantor, một trong những người sáng lập ra lý thuyết tập hợp, đã đưa ra định nghĩa sau đây ở đầu cuốn sách "Beiträge zur Begründung der transfiniten Mengenlehre":
+Bertrand Russell gọi một tập hợp là một "lớp": "Khi các nhà toán học xử lý những gì họ gọi là đa tạp, tổng hợp, "Menge", "tổ" "hợp" hoặc một số tên tương đương, thì điều đó là phổ biến, đặc biệt là khi số lượng các thuật ngữ liên quan là hữu hạn, coi đối tượng được đề cập. (thực tế là một lớp) được xác định bằng cách liệt kê các thuật ngữ của nó, và có thể bao gồm một thuật ngữ duy nhất, trong trường hợp đó "là" lớp."
+Lý thuyết tập hợp ngây thơ.
+Thuộc tính quan trọng nhất của một tập hợp là nó có thể có các phần tử. Hai tập hợp bằng nhau khi chúng có các phần tử giống nhau. Chính xác hơn, tập "A" và "B" là bằng nhau nếu mọi phần tử của "A" là phần tử của "B", và mọi phần tử của "B" là một phần tử của "A" ; thuộc tính này được gọi là tính "mở rộng của các tập hợp".
+Khái niệm đơn giản về một tập hợp đã tỏ ra vô cùng hữu ích trong toán học, nhưng nghịch lý lại nảy sinh nếu không có giới hạn nào được đặt ra về cách các tập hợp có thể được xây dựng:
+Lý thuyết tập hợp ngây thơ định nghĩa một tập hợp là bất kỳ "tập hợp được xác định rõ ràng" của các phần tử riêng biệt, nhưng các vấn đề nảy sinh từ sự mơ hồ của thuật ngữ "được xác định rõ ràng".
+Lý thuyết tập hợp tiên đề.
+Trong những nỗ lực tiếp theo để giải quyết những nghịch lý này kể từ thời điểm hình thành lý thuyết tập hợp sơ khai ban đầu, các tính chất của tập hợp đã được xác định bởi các tiên đề. Thuyết tập hợp tiên đề lấy khái niệm tập hợp làm khái niệm sơ khai. Mục đích của tiên đề là cung cấp một khuôn khổ cơ bản để từ đó suy ra tính đúng hay sai của các mệnh đề toán học cụ thể (phát biểu) về tập hợp, sử dụng logic bậc nhất. Tuy nhiên, theo các định lý về tính không đầy đủ của Gödel, không thể sử dụng logic bậc nhất để chứng minh bất kỳ lý thuyết tập tiên đề cụ thể nào mà không có nghịch lý.
+Cách các tập hợp được xác định và thiết lập ký hiệu.
+Các sách báo toán học thường biểu thị tập hợp bằng chữ in hoa in nghiêng, chẳng hạn như , , Một tập hợp cũng có thể được gọi là "tập hợp" hoặc "họ", đặc biệt là khi bản thân các phần tử của nó lại là các tập hợp.
+Ký hiệu danh sách.
+Kí hiệu danh sách hoặc bảng liệt kê xác định một tập hợp bằng cách liệt kê các phần tử của nó giữa các dấu ngoặc nhọn, được phân tách bằng dấu phẩy:
+Trong một tập hợp, tất cả những gì quan trọng là liệu mỗi phần tử có nằm trong đó hay không, vì vậy thứ tự của các phần tử trong ký hiệu danh sách là không liên quan (ngược lại, trong một chuỗi, một bộ hoặc một hoán vị của một tập hợp, thứ tự của các phần tử là quan trọng).
+Đối với những tập hợp có nhiều phần tử, đặc biệt là những tập hợp theo một mẫu không tường minh, danh sách các phần tử có thể được viết tắt bằng cách sử dụng dấu chấm lửng ". Ví dụ: tập hợp 1000 số nguyên dương đầu tiên có thể được chỉ định trong bảng liệt kê như
+Tập hợp vô hạn trong ký hiệu danh sách.
+Tập hợp vô hạn là tập hợp có danh sách vô tận các phần tử. Để mô tả một tập hợp vô hạn trong ký hiệu danh sách, một dấu chấm lửng được đặt ở cuối danh sách hoặc ở cả hai đầu, để chỉ ra rằng danh sách tiếp tục mãi mãi. Ví dụ: tập hợp các số nguyên không âm là
+và tập hợp tất cả các số nguyên là
+Định nghĩa ngữ nghĩa.
+Một cách khác để xác định một tập hợp là sử dụng quy tắc để xác định các phần tử là gì:
+Định nghĩa như vậy được gọi là "mô tả ngữ nghĩa".
+Ký hiệu cách tạo tập hợp.
+Ký hiệu cách tạo tập hợp chỉ định một tập hợp là một lựa chọn từ một tập hợp lớn hơn, được xác định bởi một điều kiện trên các phần tử. Ví dụ, một tập có thể được định nghĩa như sau:
+formula_1
+Trong ký hiệu này, thanh dọc "|" có nghĩa là "sao cho", và mô tả có thể được hiểu là " là tập hợp tất cả các số sao cho là một số nguyên trong phạm vi từ 0 đến 19". Một số tác giả sử dụng dấu hai chấm ":" thay cho thanh dọc.
+Tập hợp có thể xác định bằng đệ quy. Chẳng hạn tập các số tự nhiên lẻ "L" có thể cho như sau:
+Tập hợp rỗng.
+Tập hợp "rỗng" là tập hợp duy nhất không có phần tử nào. Nó được ký hiệu là hoặc formula_5 hoặc hoặc (hoặc ).
+Tập hợp đơn điểm.
+Tập hợp "đơn điểm" là tập hợp có chính xác một phần tử; một tập hợp như vậy cũng có thể được gọi là một "tập hợp đơn vị". Bất kỳ tập hợp nào như vậy có thể được viết dưới dạng , trong đó "x" là phần tử. Tập hợp và phần tử "x" có nghĩa khác nhau; Halmos chỉ ra một phép tương tự rằng một chiếc hộp đựng một chiếc mũ không giống với chiếc mũ.
+Tập hợp con.
+Nếu mọi phần tử của tập "A" cũng có mặt trong "B", thì "A" được mô tả là một "tập con của B", hoặc "được chứa trong B", được viết "A" ⊆ "B", hoặc "B" ⊇ "A." Kí hiệu thứ hai có thể được đọc là "B chứa A", hoặc "B bao gồm A." Các mối quan hệ giữa các tập hợp lập ra bởi ⊆ được gọi "bao gồm" hay "chứa đựng." Hai tập hợp bằng nhau nếu chúng chứa nhau: "A" ⊆ "B" và "B" ⊆ "A" tương đương với "A" = "B."
+Nếu "A" là tập con của "B" mà "A" không bằng "B" thì "A" được gọi là "tập con thực sự" của "B." Điều này có thể được viết "A" ⊊ "B." Tương tự như vậy, "B" ⊋ "A" có nghĩa là "B là một tập hợp chứa thực sự của A", tức là "B" chứa "A", và không bằng "A."
+Cặp toán tử thứ ba ⊂ và ⊃ được các tác giả khác nhau sử dụng khác nhau: một số tác giả sử dụng "A" ⊂ "B" và "B" ⊃ "A" có nghĩa là "A" là bất kỳ tập con nào của "B" (và không nhất thiết phải là tập hợp con thực sự), trong khi những người khác chỉ viết "A" ⊂ "B" và "B" ⊃ "A" khi mà "A" là một tập hợp con thực sự của "B."
+Sơ đồ Euler và sơ đồ Venn.
+Sơ đồ Euler là một biểu diễn đồ họa của một tập hợp các tập hợp; mỗi tập hợp được mô tả như một vùng phẳng được một vòng tròn bao quanh, với các phần tử của nó bên trong. Nếu là một tập con của , thì vùng đại diện cho nằm hoàn toàn bên trong vùng đại diện cho . Nếu hai tập hợp không có phần tử nào chung thì các vùng không giao nhau.
+Ngược lại, một sơ đồ Venn là một biểu diễn đồ họa của tập hợp, trong đó vòng chia mặt phẳng thành vùng sao cho mỗi cách chọn một số trong tập hợp (có thể là tất cả hoặc không), có một vùng cho các phần tử thuộc về tất cả các tập hợp đã chọn và không thuộc về các tập hợp khác. Ví dụ, nếu các tập hợp là , và , thì phải có một vùng cho các phần tử bên trong và và bên ngoài (ngay cả khi các phần tử đó không tồn tại).
+Các tập hợp số đặc biệt.
+Có những tập hợp có tầm quan trọng toán học, mà các nhà toán học đề cập đến thường xuyên, đến nỗi chúng có được những cái tên đặc biệt và các quy ước ký hiệu để xác định chúng.
+Nhiều tập hợp quan trọng này được biểu diễn trong các văn bản toán học sử dụng chữ in đậm (ví dụ: formula_6) hoặc chữ viền đậm (ví dụ: formula_7). Chúng bao gồm
+Mỗi tập hợp số trên có vô số phần tử. Mỗi tập hợp là một tập hợp con của các tập hợp được liệt kê bên dưới nó.
+Tập hợp các số dương hoặc âm đôi khi được biểu thị bằng dấu cộng và dấu trừ tương ứng. Ví dụ, formula_23 biểu thị tập hợp các số hữu tỉ dương.
+Hàm số.
+Một "hàm số" (hoặc "ánh xạ") từ tập hợp đến tập hợp là một quy tắc gán cho mỗi phần tử "đầu vào" của một "đầu ra" là phần tử của ; chính thức hơn, một hàm là một loại quan hệ đặc biệt, một quan hệ liên quan mỗi phần tử của với "chính xác một" phần tử của . Một hàm được gọi là
+Các phép toán cơ bản.
+Các tính chất cơ bản.
+Các phép toán trên tập hợp có các tính chất sau:
+Phát biểu: giao hoặc hợp của một tập hợp với chính nó cho kết quả là chính nó. Mặt khác, hợp của một tập với phần bù của nó cũng là chính nó nhưng giao của một tập với phần bù của nó lại là một tập rỗng.
+Tích Descartes.
+Một tập hợp mới có thể được xây dựng bằng cách liên kết mọi phần tử của một tập hợp với mọi phần tử của một tập hợp khác. "Tích Descartes" của hai tập "A" và "B", ký hiệu là "A" × "B," là tập hợp của tất cả các cặp có thứ tự ("a", "b") sao cho "a" là phần tử của "A" và "b" là phần tử của "B."
+Ví dụ:
+Một số tính chất cơ bản của tích Descartes:
+Cho "A" và "B" là các tập hữu hạn; thì lực lượng của tích Descartes là tích của các lực lượng:
+Lực lượng.
+Khái quát hoá khái niệm số lượng phần tử của các tập hợp hữu hạn là khái niệm lực lượng của tập hợp (").
+Hai tập hợp được gọi là có cùng lực lượng nếu có một song ánh giữa chúng. Các tập hợp hữu hạn có cùng lực lượng khi và chỉ khi chúng có cùng số phần tử theo nghĩa thông thường.
+Khác biệt cơ bản của các tập hữu hạn với các tập vô hạn là mọi tập hữu hạn không có cùng lực lượng với một tập con thực sự của nó. Đối với các tập hợp vô hạn thì không phải như vậy. Sau đây là một vài ví dụ đơn giản:
+Nghĩa là chúng có cùng lực lượng.
+Georg Cantor đã chứng minh rằng không thể có một song ánh giữa tập các số tự nhiên và tập hợp các số thực, vì thế lực lượng của tập hợp số tự nhiên là "nhỏ hơn"" lực lượng của tập số thực. Các tập có cùng lực lượng với tập số tự nhiên được gọi là các tập đếm được, các tập hợp có cùng lực lượng với tập số thực được gọi là tập có lực lượng continuum.
+Phân hoạch.
+B(E) là tập các bộ phận của tập E. 
+Khi đó, P gọi là 1 phân hoạch của E ( "Une Partition d'ensemble E" ) nếu:
+Ví dụ: E = {a,b,c}.
+P= là 1 phân hoạch của E. Vì: 
+Ứng dụng.
+Tập hợp có mặt khắp nơi trong toán học hiện đại. Ví dụ, các cấu trúc trong đại số trừu tượng, chẳng hạn như nhóm, trường và vòng, là các tập hợp được đóng dưới một hoặc nhiều phép toán.
+Một trong những ứng dụng chính của lý thuyết tập hợp ngây thơ là trong việc xây dựng các quan hệ. Một mối quan hệ từ một tập xác định đến một tập hợp đích là một tập hợp con của tích Descartes . Ví dụ, xem xét tập hợp của các hình trong trò chơi oẳn tù tì, quan hệ “thắng” từ đến là tập hợp ; do đó thắng trong trò chơi oẳn tù tì nếu cặp là phần tử của . Một ví dụ khác là tập của tất cả các cặp , trong đó là số thực. Quan hệ này là một tập con của , bởi vì tập hợp tất cả các bình phương là tập hợp con của tập hợp tất cả các số thực. Vì với mọi trong , một và chỉ một cặp được tìm thấy trong , nó được gọi là một hàm số. Trong ký hiệu hàm số, quan hệ này có thể được viết dưới dạng .
+Giả thuyết Continuum.
+Ta đã thấy là lực lượng đếm được nhỏ hơn lực lượng Continuum. Tuy nhiên, có hay không một tập hợp có lực lượng lớn hơn lực lượng đếm được và nhỏ hơn lực lượng continuum lại là một vấn đề khác, Cantor giả thiết rằng không có điều đó (giả thiết continuum - tiếng Anh: "continuum hypothesis").
+Điều này tương đương với:
+Cantor phát biểu giả thuyết Continuum năm 1878, và năm 1900 nó là bài toán đầu tiên trong 23 bài toán Hilbert đưa ra. Kết luận cuối cùng là giả thuyết này độc lập với ZFC, tức là ta có thể khẳng định hay phủ định giả thuyết Continuum, và thêm nó vào như một tiên đề độc lập với ZFC, theo nghĩa nếu ZFC nhất quán thì lý thuyết mới cũng nhất quán. Sự độc lập này được chứng minh năm 1963 bởi Paul Cohen, dựa trên những công trình năm 1940 của Kurt Gödel. Cohen được trao giải thưởng Fields năm 1966 cho chứng minh này.
+Sau đó, giả thuyết Continuum vẫn tiếp tục được nghiên cứu trên những khía cạnh khác.
+Tiên đề chọn, định lý bất toàn Godel và giả thuyết Continuum là vài trong số những khẳng định đầu tiên được chứng minh là độc lập với ZF. Sau này, nhiều khẳng định khác trong giải tích, tô-pô và lý thuyết độ đo cũng được chứng minh là độc lập với ZF.
+

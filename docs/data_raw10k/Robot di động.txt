@@ -1,0 +1,5 @@
+Robot di động
+
+Robot di động là robot có khả năng tự di chuyển .
+Robot di chuyển trong môi trường của chúng, không cố định vào một vị trí thực. Robot di động có thể là "tự trị" (robot di động tự động) có nghĩa là chúng có khả năng điều hướng một môi trường không kiểm soát được mà không cần các thiết bị hướng dẫn vật lý hoặc cơ điện. Ngoài ra, robot di động có thể dựa vào các thiết bị hướng dẫn cho phép nó di chuyển tuyến đường định hướng được xác định trước trong không gian tương đối được kiểm soát (robot tự điều khiển). Nó khác với robot công nghiệp thường đặt gần cố định và hoạt động bằng các cánh tay.
+

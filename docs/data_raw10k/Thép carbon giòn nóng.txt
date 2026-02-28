@@ -1,0 +1,14 @@
+Thép carbon giòn nóng
+
+Thép carbon giòn nóng hay thép carbon giòn đỏ là sự hóa giòn và tạo ra các vết nứt hay vết rách của thép carbon khi gia công áp lực (cán, rèn, dập) ở các mức nhiệt độ mà thép ở trạng thái nóng đỏ hay nóng vàng (850-1150 °C).
+Sự giòn nóng này có thể là do hàm lượng lưu huỳnh hoặc đồng cao trong thép. Trong trường hợp giòn do hàm lượng lưu huỳnh cao gây ra thì người ta gọi nó là giòn lưu huỳnh hay giòn sulfur.
+Nguyên nhân.
+Màu của bất kỳ vật thể nào khi bị nung nóng đều có thể được dự đoán là sẽ thay đổi (xem bức xạ vật đen) từ đỏ thâm qua da cam, vàng tới trắng và nó là một chỉ số hữu ích về nhiệt độ của vật thể.
+Sắt hay thép khi nung nóng tới nhiệt độ trên 460 °C (900 °F) sẽ phát ra ánh sáng màu đỏ. Sắt hay thép chất lượng cao từ mức nhiệt độ này trở lên trở thành dẻo hơn và dễ uốn hơn. Ngược lại, sắt hay thép chứa quá nhiều lưu huỳnh hay đồng sẽ trở thành giòn và dễ vỡ. Giòn nóng chủ yếu là do sự phân bố của các tạp chất như lưu huỳnh hay đồng tại các ranh giới hạt.
+Lưu huỳnh.
+Lưu huỳnh tạo thành hỗn hợp sắt sulfide/sắt tại các ranh giới hạt của khối kim loại. Hỗn hợp này có điểm nóng chảy thấp hơn của thép.
+Khi thép được nung nóng và rèn, năng lượng cơ học được bổ sung cho phôi gia công làm tăng nhiệt độ của nó. Ở các mức áp suất thông thường, hỗn hợp eutecti của sắt sulfide (FeS)/sắt pha gamma (γ-Fe) với 44%S tính theo số nguyên tử (hay 31%S tính theo trọng lượng) có điểm nóng chảy 988 °C (1810 °F), thấp hơn so với FeS (1194 °C, 2181 °F) và Fe (1538 °C, 2800 °F) riêng lẻ sẽ nóng chảy khi nhiệt độ đạt tới mức 988 °C và thép bắt đầu chia tách tại các ranh giới hạt, làm suy yếu sự liên kết giữa các tinh thể và khi chịu biến dạng thì tạo ra các vết nứt theo ranh giới các tinh thể. Độ hòa tan của lưu huỳnh trong sắt rắn pha gamma tăng lên từ 0,005% ở 913 °C (1675 °F) tới 0,05% ở 1365 °C (2489 °F). Phản ứng gần như không thay đổi ở 1365 °C là do cân bằng 3 pha giữa gamma ferrit, delta ferrit và dung dịch nóng chảy.
+Các nhà nấu luyện thép bổ sung mangan (Mn) vào thép để tạo ra mangan sulfide (MnS) với điểm nóng chảy cao hơn (1610 °C, 2930 °F) và không tập trung tại các ranh giới hạt để sau này khi thép được nung nóng và gia công thì sự nóng chảy tại các ranh giới hạt không xảy ra. Ngoài ra, các nguyên tố tạo hợp kim khác như nhôm, titan, zirconi cũng có thể được thêm vào để tạo ra các sulfide khó nóng chảy hơn và làm giảm tác hại hay triệt tiêu tính giòn nóng của thép.
+Đồng.
+Khi hàm lượng đồng trong thép từ mức 0,4-0,5% trở lên thì trong điều kiện nhiệt độ cao đôi khi tạo ra sự tích tụ cục bộ của đồng tự do về cấu trúc trong lớp bề mặt của thép khi gia công ở 1094 °C trở lên. Khi đó do sự biến dạng của khối kim loại được gia công có thể xuất hiện các vết rách hay vết nứt bề mặt. Các nguyên tố tạo hợp kim như niken, molypden hay bo có thể được thêm vào để ngăn chặn một phần sự tích tụ của đồng tại các ranh giới hạt.
+

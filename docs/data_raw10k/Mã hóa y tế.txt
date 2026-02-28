@@ -1,0 +1,13 @@
+Mã hóa y tế
+
+Phân loại y tế, hoặc mã hóa y tế, là quá trình chuyển đổi mô tả về chẩn đoán và thủ tục y tế vào mã số y tế phổ quát. Việc chẩn đoán và thủ tục thường được lấy từ nhiều nguồn khác nhau trong các hồ sơ chăm sóc sức khỏe, chẳng hạn như sao chép các ghi chú của bác sĩ, kết quả xét nghiệm, kết quả X quang, và các nguồn khác.
+Mã số chẩn đoán được sử dụng để theo dõi bệnh và tình trạng sức khỏe khác, bao gồm các bệnh mãn tính như tiểu đường và bệnh tim, và các bệnh truyền nhiễm như norovirus, bệnh cúm, và bàn chân của vận động viên. Các mã chẩn đoán và thủ tục được sử dụng bởi các chương trình của chính phủ y tế, các công ty bảo hiểm y tế tư nhân, các hãng tàu bồi thường lao động và những người khác để tiến hành bồi thường.
+Hệ thống phân loại y tế được sử dụng cho một loạt các ứng dụng trong y học, y tế công cộng và tin học y tế, bao gồm:
+Có những tiêu chuẩn quốc gia cụ thể và hệ thống phân loại quốc tế.
+Các loại phân loại.
+Nhiều phân loại bệnh khác nhau tồn tại, mặc dù chúng xảy ra thành hai nhóm chính: "phân loại thống kê" và "danh pháp".
+Một phân loại thống kê, tập hợp các khái niệm lâm sàng tương tự và nhóm chúng thành các loại. Số lượng các loại bị hạn chế do đó việc phân loại không trở nên quá lớn. Một ví dụ về điều này được sử dụng bởi các thống kê phân loại quốc tế về bệnh và các vấn đề sức khỏe liên quan (gọi là ICD). Nhóm ICD bệnh của hệ thống tuần hoàn vào một "chương", được gọi là Chương IX, bao gồm mã số I00-I99. Một trong các mã trong chương này (I47.1) có tiêu đề mã (chữ đỏ) nhịp tim nhanh trên thất. Tuy nhiên, có một số khái niệm lâm sàng khác cũng được phân loại ở đây. Trong số đó là nhịp nhanh kịch phát nhĩ, nhịp nhanh kịch phát junctional, nhịp nhanh nhĩ và nhịp tim nhanh nút.
+Một tính năng của phân loại thống kê là việc cung cấp các loại còn lại cho điều kiện "không xác định" "khác" và rằng không có một danh mục cụ thể trong việc phân loại cụ thể.
+Trong một danh mục có một danh sách riêng biệt và mã cho mỗi khái niệm lâm sàng. Vì vậy, trong ví dụ trước, mỗi nhịp tim nhanh niêm yết sẽ có mã số riêng của mình. Điều này làm cho danh pháp khó sử dụng để biên soạn thống kê y tế.
+Các loại hệ thống cụ thể để chăm sóc sức khỏe mã hóa bao gồm:
+

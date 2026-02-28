@@ -1,0 +1,15 @@
+56 Pegasi
+
+56 Pegasi là tên của một hệ sao đôi nằm trong một chòm sao phương bắc tên là Phi Mã. Với cấp sao biểu kiến kết hợp của 2 ngôi sao này là 4,74, ta có thể nhìn thấy ngôi sao này bằng mắt thường. Để có thể nhìn thấy nó rõ ràng nhất, ta cần có một vị trí cách xa thành thị (do sự ô nhiễm ánh sáng làm hạn chế tầm nhìn) và điều kiện thời tiết tốt. Khoảng cách của hệ sao này với chúng ta là khoảng xấp xỉ 590 năm ánh sáng dựa trên giá trị thị sai. Nhưng hiện tại, nó đang di chuyển về phía chúng ta với tốc độ là 28 km/s. Nó được liệt kê là một thành viên của nhóm di chuyển Wolf 630.
+Sự biến đổi vận tốc xuyên tâm của nó được công bố bởi nhà thiên văn học người Mĩ William Wallace Campbell vào năm 1911. Nó là một hệ sao đôi quang học với chu kì quỹ đạo của nó là 111,1 ngày. Giá trị "a" sin "i" của nó là 0.01511 ± 0.00040 đơn vị thiên văn, với "a" là trục lớn quỹ đạo, "i" là độ nghiêng quỹ đạo chưa biết.
+Ngôi sao chính của nó là một ngôi sao khổng lồ dị thường vờipha6n loại quang phổ là K0,5 II: Ba1 CN-2 CH-0.5. Tức là nó là ngôi sao khổng lồ loại K, có nhiều Bari và thiếu đi gốc Cyano và gốc Methylidyne. Nó là một ngôi sao hoạt động tích cực với tuổi được ước tính trên dữ liệu thô là 100 triệu năm tuổi. Nó có khối lượng gấp 5,4 lần khối lượng mặt trời, bán kính gấp 40 lần và độ sáng gấp 680 lần mặt trời với nhiệt độ hiệu dụng nơi quang cầu là 4416 Kelvin.
+Dữ liệu hiện tại.
+Theo như quan sát, đây là hệ sao nằm trong chòm sao Phi Mã và dưới đây là một số dữ liệu khác:
+Xích kinh 
+Xích vĩ 
+Cấp sao biểu kiến 4.74
+Cấp sao tuyệt đối −1.32
+Vận tốc xuyên tâm 27.55 km/s
+Loại quang phổ K0.5II:Ba1CN-2CH-0.5 + sdO
+Giá trị thị sai 5,51 +/- 0,23 mas
+

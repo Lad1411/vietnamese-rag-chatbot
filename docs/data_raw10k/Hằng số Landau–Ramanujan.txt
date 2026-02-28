@@ -1,0 +1,11 @@
+Hằng số Landau–Ramanujan
+
+Trong toán học và lĩnh vực lý thuyết số, hằng số Landau–Ramanujan là con số xuất hiện trong định lý phát biểu rằng với số "x" lớn, số số nguyên dương nhỏ hơn "x" và là tổng của hai số chính phương tỉ lệ với
+Hằng số này được đặt tên theo người phát hiện ra nó, Srinivasa Ramanujan.
+Định nghĩa.
+Theo định lý về tổng hai số chính phương, những số có thể biểu diễn thành tổng của hai số chính phương là những số có ước nguyên tố đồng dư với 3 mod 4 xuất hiện với lũy thừa chẵn trong phân tích của số đó. Ví dụ, 45 = 9 + 36 là một tổng của hai số chính phương; trong phân tích ra thừa số nguyên tố của nó, 32 × 5, số nguyên tố 3 có được nâng lên lũy thừa chẵn, còn số nguyên tố 5 chia 4 dư 1.
+Nếu "N"("x") là số số nguyên dương bé hơn "x" có thể biểu diễn thành tổng của hai số chính phương thì
+Con số xuất hiện ở vế phải của công thức này chính là hằng số Landau-Ramanujan.
+Lịch sử.
+Hằng số này được phát hiện độc lập bởi Srinivasa Ramanujan và Edmund Landau. Landau phát biểu nó dưới dạng giới hạn như trên; Ramanujan thì xấp xỉ "N"("x") dưới dạng một tích phân với hằng số tỉ lệ và một sai số tăng dần.
+

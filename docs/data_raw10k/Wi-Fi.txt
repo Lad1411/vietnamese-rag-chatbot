@@ -1,0 +1,18 @@
+Wi-Fi
+
+Wi-Fi (phiên âm: ; goai-phai) là một họ các giao thức mạng không dây, dựa trên các tiêu chuẩn của họ IEEE 802.11, được sử dụng rộng rãi trong cho việc kết nối không dây của thiết bị trong mạng nội bộ và việc kết nối Internet, cho phép các thiết bị điện tử trong phạm vi ngắn chia sẻ dữ liệu thông qua sóng vô tuyến. Ngày nay, WiFi được sử dụng phổ biến trong các hệ thống mạng máy tính trên thế giới, như trong các hộ gia đình, văn phòng làm việc cho việc kết nối các máy tính bàn, laptop, tablet, điện thoại thông minh, máy in... mà không cần đến cáp mạng, cũng như việc kết nối Internet cho các thiết bị này. Các địa điểm công cộng như như sân bay, quán café, thư viện hoặc khách sạn cũng được bố trí WiFi để phục vụ nhu cầu kết nối Internet cho các thiết bị di động, khi các thiết bị đó nằm trong khu vực có sóng của những hệ thống WiFi này.
+Tên gọi "Wi‑Fi" là một nhãn hiệu của Wi-Fi Alliance (tạm dịch: Hiệp hội WiFi), một tổ chức phi thương mại đã giới hạn việc sử dụng thuật ngữ Wi-Fi Certified (tạm dịch: chứng chỉ Wi-Fi) cho những sản phẩm hoàn tất việc kiểm tra chứng nhận khả năng tương tác.
+Tên gọi 802.11 bắt nguồn từ viện IEEE (Institute of Electrical and Electronics Engineers). Viện này tạo ra nhiều chuẩn cho nhiều giao thức kỹ thuật khác nhau, và nó sử dụng một hệ thống số nhằm phân loại chúng; 6 chuẩn thông dụng của WiFi hiện nay là 802.11a/b/g/n/ac/ax.
+Hoạt động.
+Truyền thông qua mạng không dây là truyền thông vô tuyến hai chiều. Cụ thể:
+Quy trình này vẫn hoạt động với chiều ngược lại, router nhận thông tin từ Internet, chuyển chúng thành tín hiệu vô tuyến và gửi đến adapter không dây của máy tính.
+Sóng Wi-Fi.
+Các sóng vô tuyến sử dụng cho WiFi gần giống với các sóng vô tuyến sử dụng cho thiết bị cầm tay, điện thoại di động và các thiết bị khác. Nó có thể chuyển và nhận sóng vô tuyến, chuyển đổi các mã nhị phân 1 và 0 sang sóng vô tuyến và ngược lại.
+Tuy nhiên, sóng WiFi có một số khác biệt so với các sóng vô tuyến khác ở chỗ:
+Adapter.
+Các máy tính nằm trong vùng phủ sóng WiFi cần có các bộ thu không dây, adapter, để có thể kết nối vào mạng. Các bộ này có thể được tích hợp vào các máy tính xách tay hay để bàn hiện đại. Hoặc được thiết kế ở dạng để cắm vào khe PC card hoặc cổng USB, hay khe PCI.
+Khi đã được cài đặt adapter không dây và phần mềm điều khiển (driver), máy tính có thể tự động nhận diện và hiển thị các mạng không dây đang tồn tại trong khu vực./.
+Router.
+Nguồn phát sóng WiFi là máy tính với:
+Hầu hết các router có độ phủ sóng trong khoảng bán kính 30,5 m về mọi hướng.
+

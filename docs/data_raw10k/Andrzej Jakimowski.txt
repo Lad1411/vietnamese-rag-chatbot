@@ -1,0 +1,23 @@
+Andrzej Jakimowski
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;66466095&lt;/parentid&gt;
+ &lt;timestamp&gt;2021-12-14T09:41:20Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;Keo010122Bot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;/* Tham khảo */Di chuyển thể loại theo &lt;/comment&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Andrzej Jakimowski (sinh ngày 17 tháng 8 năm 1963) là một đạo diễn điện ảnh, nhà văn và nhà sản xuất phim người Ba Lan. Ông nổi tiếng với việc đạo diễn các bộ phim "Squint Your Eyes" () và "Tricks" (). Ông là một cựu sinh viên của Trường Điện ảnh Krzysztof Kieślowski ở Katowice.
+Thành tích nghệ thuật.
+"Squint Your Eyes".
+"Squint Your Eyes" (2002) kể về một cô bé mười tuổi tên là Mała. Mała trốn khỏi ngôi nhà giàu có của cha mẹ để đến trang trại bỏ không của giáo viên cũ Jasiek. Tác phẩm này gợi suy ngẫm về những mưu mẹo của trẻ nhỏ và phản ứng của người lớn đối với chúng.
+"Tricks".
+"Tricks" (2007) được Andrzej Jakimowski viết kịch bản, đạo diễn kiêm sản xuất. Tác phẩm này kể về Stefek, 6 tuổi. Cậu bé tin rằng chuỗi sự kiện mình sắp đặt sẽ giúp cậu được gần gũi hơn với người cha đã bỏ rơi mẹ mình.
+"Imagine".
+Andrzej Jakimowski đạo diễn phim "Imagine" vào năm 2012.
+"Once Upon a Time in November".
+"Once Upon a Time in November" (2017) đề cập đến sự kiện “Cuộc diễu hành độc lập” do các tổ chức cực đoan cực hữu của Ba Lan là All-Polish Youth và National Radical Camp tổ chức vào năm 2013. Phim được công chiếu lần đầu tại Liên hoan phim Warsaw lần thứ 33. Trong phim có nhiều bức sảnh tư liệu về cuộc biểu tình.
+

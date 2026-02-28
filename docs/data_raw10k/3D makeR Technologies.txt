@@ -1,0 +1,5 @@
+3D makeR Technologies
+
+3D makeR Technologies (makeR) là nhà sản xuất máy in 3D. Dòng sản phẩm của họ bao gồm dòng máy in 3D, PEGASUS. Công ty bắt đầu như một công ty máy in mã nguồn mở. Công ty được thành lập ở khu vực giữa Barcelona và Santa Marta bởi Carlos Camargo, hiện đang là Giám đốc điều hành của công ty. Dựa theo mô hình RepRap truyền thống, các sản phẩm đầu tiên của makeR là bộ công cụ DIY với phiên bản thay thế dựa trên máy in 3D FDM mã nguồn mở Prusa i3, được gọi là Prusa Tairona. Máy in 3D makeR hiện tại được thiết kế với khung kín và kích thước tự chọn.
+Máy in 3D makeR tương thích với axit polylactic (PLA), acrylonitrile butadien styren (ABS), nhựa nhiệt dẻo polyurethane (TPU), polystyrene tác động cao (HIPS), rượu polyvinyl (PVA) và một số vật liệu đặc biệt cho nhu cầu công nghiệp, chẳng hạn như PLA sợi filament được trộn lẫn với các hạt kim loại thông qua các bộ phận in bằng nhựa chà nhám cung cấp ngoại hình tương tự như kim loại (thép, đồng và nhôm). Ngoài ra, máy in makeR còn có thể in bằng nylon và sợi carbon.
+

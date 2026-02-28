@@ -1,0 +1,25 @@
+Tiếng Đài Sơn
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;69046649&lt;/parentid&gt;
+ &lt;timestamp&gt;2022-12-17T21:25:13Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;InternetArchiveBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;comment&gt;Đã cứu 1 nguồn và đánh dấu 0 nguồn là hỏng.) #IABot (v2.0.9.2&lt;/comment&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Tiếng Đài Sơn, (; tiếng Đài Sơn:), là một phương ngữ của tiếng Quảng Đông. Phương ngữ này có liên quan đến tiếng Quảng Châu. Tiếng Đài Sơn được nói ở khu vực phía nam của tỉnh Quảng Đông, Trung Quốc, đặc biệt là khu vực huyện Đài Sơn nằm ở rìa phía tây của châu thổ sông Châu Giang. Vào cuối thế kỷ 19 và đầu thế kỷ 20, có nhiều người Hán đã di cư đến Bắc Mỹ có nguồn gốc từ Tứ Ấp, khu vực này tiếng Tứ Ấp (nghĩa đen là 'bốn huyện') được sử dụng rộng rãi; làm cho Đài Sơn thoại trở thành một ngôn ngữ tiếng Hán có ưu thế được nói ở các khu phố Tàu ở Canada và Hoa Kỳ. Trước đây, nó là lingua franca của Hoa kiều cư trú tại Hoa Kỳ.
+Tên gọi.
+Các nghiên cứu ngôn ngữ sớm nhất đề cập đến phương ngữ Tân Ninh (). Tân Ninh được đổi tên thành Đài Sơn vào năm 1914, và văn liệu ngôn ngữ học kể từ đó thường gọi là phương ngữ Đài Sơn (Taishanese, Taishan là một tên gọi của Đài Sơn trong tiếng Anh, dựa trên bính âm của cách phát âm Hán ngữ tiêu chuẩn). Tên thay thế cũng đã được sử dụng. Thuật ngữ Toishan là một quy ước được sử dụng bởi Dịch vụ Bưu chính Hoa Kỳ, Viện Ngôn ngữ Quốc phòng và Điều tra dân số Hoa Kỳ năm 2000. Các thuật ngữ "Toishan", "Toisan" và "Toisaan" đều dựa trên cách phát âm tiếng Quảng Châu và cũng thường được tìm thấy trong văn liệu ngôn ngữ học lẫn phi ngôn ngữ học. Hoisan là một thuật ngữ dựa trên cách phát âm địa phương, mặc dù nó thường không được sử dụng trong các tài liệu xuất bản.
+Những thuật ngữ này được ghép thêm hậu tố "-ese": Taishanese, Toishanese và Toisanese. Trong ba thuật ngữ trên, "Taishanese" được sử dụng phổ biến nhất trong văn học hàn lâm, với mức độ tương đương với thuật ngữ "Taishan". Các thuật ngữ Hoisanese và Hoisan-wa xuất hiện trong tài liệu in, mặc dù chúng được sử dụng trên internet nhiều hơn.
+Một thuật ngữ khác được sử dụng là Tứ Ấp (Sìyì, "Sze Yup)" hoặc "Seiyap". Sìyì hay Sze Yup là gọi theo phân chia hành chính trước đây ở châu thổ Châu Giang bao gồm bốn huyện Đài Sơn, Khai Bình, Ân Bình và Tân Hội. Năm 1983, huyện thứ năm (Hạc Sơn) được thêm vào thành phố địa cấp thị Giang Môn; vì vậy, trong khi thuật ngữ Sìyì đã trở thành lỗi thời, thì thuật ngữ cũ Sze Yup vẫn đang được sử dụng trong các cộng đồng người Hoa kiều có quê hương ở đây. Thuật ngữ "Wuyi" (五邑, Ngũ Ấp) nghĩa là "năm huyện", nói đến phân chia hành chính hiện tại, nhưng thuật ngữ này không được dùng để chỉ ngôn ngữ Đài Sơn.
+Nguồn gốc.
+Tiếng Đài Sơn có nguồn gốc từ vùng Đài Sơn. Tiếng Đài Sơn cũng có thể được coi là một nhóm các phương ngữ có quan hệ mật thiết với nhau, có thể hiểu lẫn nhau được nói ở các thị trấn và làng mạc khác nhau ở khu vực Tứ Ấp. 
+Mối quan hệ với tiếng Quảng Đông.
+Tiếng Đài Sơn là một phương ngữ của nhánh tiếng Quảng Đông (bao gồm tiếng Quảng Châu) của nhóm tiếng Hán. Tuy nhiên, do sự mơ hồ trong định nghĩa "tiếng Quảng Châu" trong tiếng Anh, vì tên gọi Quảng Châu có thể đề cập đến cả nhóm tiếng Quảng Đông lớn hơn hoặc dạng chuẩn uy tín của nó (tiếng Quảng Đông tiêu chuẩn), "Tiếng Đài Sơn" và "tiếng Quảng Châu" thường được sử dụng trong bối cảnh loại trừ nhau, tức là trong trường hợp cần phân biệt hai phương ngữ này là riêng biệt. Mặc dù hai phương ngữ có quan hệ mật thiết với nhau, chúng không hoàn toàn thông hiểu lẫn nhau.
+Âm vị của tiếng Đài Sơn rất giống với tiếng Quảng Châu, vì cả hai đều cùng là phương ngữ tiếng Quảng Đông. Giống như các phương ngữ Quảng Đông khác, chẳng hạn như phương ngữ Câu Lậu, cách phát âm và từ vựng của tiếng Đài Sơn đôi khi có thể khác rất nhiều so với tiếng Quảng Châu (mặc dù thực tế Đài Sơn chỉ cách thành phố Quảng Châu chừng 60 dặm (100 km)).
+Hệ thống chữ viết.
+Chữ viết sử dụng chữ Hán và từ vựng và ngữ pháp Quan thoại, với nhiều từ phổ biến trong tiếng Đài Sơn không có chữ Hán tương ứng.
+

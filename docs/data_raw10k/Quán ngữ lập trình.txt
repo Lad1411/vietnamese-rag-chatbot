@@ -1,0 +1,19 @@
+Quán ngữ lập trình
+
+Quán ngữ lập trình (tiếng Anh: programming idiom) hay quán ngữ code (tiếng Anh: code idiom) là chiết đoạn cú pháp thường xuyên xuất hiện đi xuất hiện lại khắp các dự án phầm mềm và có vai ngữ nghĩa cố định.
+Ví dụ về các quán ngữ đơn giản.
+In ra Hello World.
+Đây là một trong những điểm xuất phát thông dụng nhất để người ta học lập trình hoặc để nhận thấy sự khác biệt về cú pháp giữa ngôn ngữ đã biết và ngôn ngữ mới.
+Mỗi ngôn ngữ có cách thực hiện khác nhau, đây là cách làm bằng C++:
+std::cout « "Hello World\n";
+Hoặc bằng Java :
+System.out.println("Hello World");
+Chèn phần tử vào mảng.
+Quán ngữ này giúp phát triển viên hiểu cách thao tác lên tập hợp trong ngôn ngữ nhất định, cụ thể ở đây là chèn phần tử x vào vị trí i trong danh sách s rồi dịch chuyển các phần tử cũ kể từ vị trí i sang bên phải phần tử x.
+Bằng Python:
+s.insert(i, x)
+Bằng JavaScript:
+s.splice(i, 0, x);
+Bằng Perl :
+splice(@s, $i, 0, $x)
+

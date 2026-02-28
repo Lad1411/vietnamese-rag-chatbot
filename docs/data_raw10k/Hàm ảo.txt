@@ -1,0 +1,24 @@
+Hàm ảo
+
+Trong lập trình hướng đối tượng, trong các ngôn ngữ như C++, hàm ảo ("virtual function") hay phương thức ảo ("virtual method") là một hàm hay phương thức có thể thừa kế và ghi đè được để tạo điều kiện cho điều phối động. Khái niệm này là một phần quan trọng của phần đa hình (thời gian chạy) của lập trình hướng đối tượng (OOP).
+Mục đích.
+Khái niệm hàm ảo giúp giải quyết các vấn đề sau:
+Trong lập trình hướng đối tượng, khi một lớp kế thừa từ lớp cơ sở, một đối tượng của lớp thừa kế đó có thể được tham chiếu đến thông qua một con trỏ hay tham chiếu của kiểu lớp cha thay vì kiểu của lớp thừa kế đó. Nếu có phương thức nào của lớp cơ sở bị ghi đè bởi lớp thừa kế, phương thức thực sự được gọi bằng một tham chiếu hay con trỏ có thể được liên kết 'sớm' (bởi trình biên dịch) theo như kiểu định nghĩa của con trỏ hay tham chiếu, hay 'trễ' (ví dụ như bởi hệ thống thời gian chạy của ngôn ngữ) theo như kiểu thực sự của đối tượng được tham chiếu tới.
+Hàm ảo giải quyết trường hợp 'trễ'. Nếu hàm được gọi là 'ảo' trong lớp cơ sở, sự hiện thực của hàm trong lớp thừa kế nhiều nhất được gọi tùy theo kiểu thực sự mà đối tượng đó tham chiếu tới, bất kể kiểu khai báo của con trỏ hay tham chiếu. Nếu đó không phải là 'ảo', phương thức sẽ được giải quyết 'sớm' và hàm gọi được chọn tùy theo kiểu khai báo của con trỏ hay tham chiếu.
+Hàm ảo cho phép chương trình gọi tới những phương thức không nhất thiết phải tồn tại vào thời điểm biên dịch mã.
+Trong C++, "phương thức ảo" được khai báo bằng cách thêm từ khóa vào khai báo của hàm trong lớp cơ sở. Chỉ định này được kế thừa bởi tất cả các hiện thực của phương thức đó trong các lớp thừa kế, nghĩa là chúng có thể tiếp tục ghi đè lên nhau và liên kết trễ (late-bound). Và ngay cả khi phương thức của lớp cơ sở gọi tới phương thức ảo, chúng sẽ gọi các phương thức thừa kế.
+Ví dụ.
+Ví dụ, một lớp nền codice_1 có một hàm ảo codice_2. Lớp con codice_3 sẽ hiện thực codice_4 khác với lớp con codice_5, nhưng chúng ta có thể gọi codice_4 trên bất cứ thực thể nào của lớp Animal, và có được hành vi codice_4 của lớp con cụ thể.
+class Animal {
+public:
+ void /*non-virtual*/ move(void) { 
+ std::cout « "This animal moves in some way" « std::endl; 
+ virtual void eat(void) = 0;
+// The class "Animal" may possess a definition for eat() if desired.
+class Llama: public Animal {
+public:
+ // The non virtual function move() is inherited but not overridden
+ void eat(void) override { 
+ std::cout « "Llamas eat grass!" « std::endl; 
+};
+

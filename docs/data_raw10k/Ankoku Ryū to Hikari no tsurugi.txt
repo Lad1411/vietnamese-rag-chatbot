@@ -1,0 +1,33 @@
+Ankoku Ryū to Hikari no tsurugi
+
+ 
+Fire Emblem Ankoku Ryū to Hikari no tsurugi (ファイアーエムブレム 暗黒竜と光の剣) là một game RPG Simulation và tác phẩm thứ nhất trong series Fire Emblem do Intelligent System phát triển, được hãng Nintendō phát hành vào ngày 20 tháng 04 năm 1990 trên hệ máy Famicom.
+Từ ngày 20 tháng 10 năm 2009, người chơi có thể chơi được game này thông qua Wii Virtual Console với 500 điểm.
+Trong bài này sẽ sử dụng từ viết tắt Ankoku Ryū và Shin Ankoku Ryū mà không có cụm từ Fire Emblem ở đầu.
+Khái yếu.
+Đây là tác phẩm đầu tiên trong series Fire Emblem và là phiên bản xây dựng nên nền tảng cho các phiên bản sau này. Trước thời điểm của Ankoku Ryū to Hikari no tsurugi thì các nhân vật (Unit) trong những game mô phỏng chiến thuật khác chỉ giống như một quân cờ vô hồn. Nhưng khi Ankoku Ryū ra đời thì nó đã thổi sức sống vào những quân cờ này. Bằng việc cho các nhân vật phe người chơi và một phần phe địch hình khuôn mặt (avatar), Ankoku Ryū đã thành công trong việc khiến người chơi cảm nhận được sự sống của các Unit trong quá trình chơi. Khi nhân vật tử trận, nhân vật đó vĩnh viễn mất đi và không thể tham chiến nữa. Điều này khiến người chơi cảm nhận được sức sống của nhân vật và gia tăng tình cảm giữa họ.
+Trước thời điểm phát hành thì tại Nhật, giá bán game giảm mạnh, nhưng sau khi Ankoku Ryū được phát hành nửa năm thì nó đã chiếm được tình cảm của một số nhà báo, và trong giới gamer cũng có nhiều sự tuyên truyền miệng với nhau.
+Đương thời, Ankoku Ryū được quảng bá trên truyền hình nhưng không có một hình ảnh nào về game mà chỉ là một nhóm diễn viên phục trang theo lối kỵ sĩ Châu Âu thời trung cổ, cùng hát bài ca chủ đề của series FE.
+Thiết kế game là Kaga Shōzō, người được xem là cha đẻ của Fire Emblem, đạo diễn là Terasaki Keisukei, âm nhạc do Banba Yuka, Tanaka Hirokazu phụ trách và giám đốc sản xuất là Yokoi Gumpei.
+Tham khảo thêm bản remake Monshō no Nazo, Shin Akoku Ryū to Hikari no ken.
+Tên gọi.
+Tham khảo thêm mục tên gọi trong bài Fire Emblem.
+Ankoku Ryū to Hikari no tsurugi thường được dịch sang Anh ngữ là Shadow Dragon and the Blade of Light, dịch sang Việt ngữ là "Hắc ám long và thanh kiếm ánh sáng" (bản dịch Như Thị Ngã Văn, Monshō no Nazo) và "Hắc ám long và quang kiếm" (bản dịch Asm65816, Monshō no Nazo).
+Tên chính thức của phiên bản này được viết trong tiếng Nhật là 暗黒竜と光の剣, từ剣 có hai cách đọc. Nếu đọc theo âm Hán-Nhật thì sẽ là "ken", nhưng nếu đọc theo âm thuần Nhật sẽ là "tsurugi" (giống như "kiếm" là Hán-Việt còn "gươm" là thuần Việt). Chính vì vậy nên cả hai cách đọc "Ankoku Ryū to Hikari no ken" và "Ankoku Ryū to Hikari no tsurugi" đều đúng. Nhưng ở phiên bản này, vì hạn chế ở mặt phần cứng nên toàn bộ chữ và lời thoại trong game chỉ dùng chữ kana mà không dùng Hán tự. Dựa theo lời thoại của một nhân vật trong game thì剣 được đọc là "tsurugi". Vì vậy có thể nói tên gọi chính thức của phiên bản này là Ankoku Ryū to Hikari no tsurugi.
+Nhưng dựa theo lời đọc trong đoạn quảng cáo trên truyền hình của bản remake, 新・暗黒竜と光の剣 được đọc là "Ankoku Ryū to Hikari no ken". 
+Sau này cũng gặp một trường hợp tương tự. Phiên bản 封印の剣 được đọc là "Fūin no tsurugi" nhưng bản 烈火の剣 lại được đọc là "Rekka no ken" dù cả hai đều có cùng chữ Hán cuối cùng.
+Nội dung.
+100 năm sau kể từ cuộc chiến giữa Hắc ám địa long vương Medius và dũng giả Anri, Medius lại hồi sinh và gây chiến loạn khắp đại lục Akania. Vương quốc Aritia do Anri gây dựng đã bị tiêu diệt bởi Đế quốc Dorua do Medius cầm đầu và liên quốc quân. Vương tử Marusu được người chị Elith cứu thoát, lưu lạc đến đảo quốc Taris và ở đó, chàng bắt đầu chiêu mộ binh sĩ chống lại Dorua, giành lại tổ quốc.
+Thế giới quan.
+Kỵ binh Grunia được xem là tinh nhụê nhất đại lục, nhưng đất nước này vốn có ác cảm với Akania, quốc vương Grunia lại hèn yếu nên vội bắt tay ngay với Dorua để xâm chiếm Akania. Điều này dẫn đến bi kịch của hắc kỵ sĩ Camyu và vương nữ Nina vốn có tình cảm với nhau. Phân vân giữa lòng yêu nước và tình cảm cá nhân, cuối cùng Camyu đã đặt quốc gia lên đầu khiến Nina đau khổ. Đây là nguyên nhân chính dẫn đến bi kịch của Nina và Hardin và là nội dung chủ yếu của phiên bản remake Fire Emblem Monshō no Nazo. Grunia còn nổi danh với đội chiến xa "mộc mã đội".
+Vào thời điểm câu chuyện, vương tử Michel bắt tay với Đế quốc Dorua, xâm chiếm các nước. Nhưng em gái là Minerva phản đối chính sách xâm lược của Michel và bỏ theo quân Aritia.
+Game Play.
+Đây là phiên bản đầu tiên trong series và định hình cho các phiên bản sau. Dưới đây là những yếu tố không có trong các bản sau.
+Điều này không được người chơi chấp nhận nên đã được sửa chữa ở bản Monshō no Nazo, khi level up thì nhân vật vẫn có khả năng gia tăng chỉ số Mdf nhưng cơ hội rất thấp.
+Ngoài ra, Ankoku Ryū to Hikari no tsurugi còn nhiều điểm dị biệt về thiết kế nhân vật, ngôn từ sử dụng,… so với Monshō no Nazo.
+Thương phẩm liên quan.
+Ankoku Ryū được nhiều họa sĩ Manga chọn làm đề tài sáng tác, trong đó có nhiều họa sĩ nữ. Trong số này có tác phẩm của họa sĩ Shinoda Maki gồm 12 cuốn gốc từng được xuất bản tại Việt Nam với cái tên"Bãi biển thần linh".
+Chi tiết mục này xin tham khảo bản Wikipedia tiếng Nhật.
+Ngoài ra Ankoku Ryū to Hikari no tsurugi còn có nhiều CD Soundtrack, Drama CD liên quan.
+Chi tiết phần này xin tham khảo bản Wikipedia tiếng Nhật.
+

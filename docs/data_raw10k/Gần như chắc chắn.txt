@@ -1,0 +1,8 @@
+Gần như chắc chắn
+
+Trong lý thuyết xác suất, một biến cố xảy ra gần như chắc chắn nếu nó xảy ra với xác suất bằng 1.
+Định nghĩa.
+Cho ("Ω", "F", "P") là một không gian xác suất. Chúng ta nói một biến cố "E" trong "F" xảy ra gần như chắc chắn nếu "P"("E") = 1. 
+Tương tự, chúng ta có thể nói "E" xảy ra gần như chắc chắn nếu xác suất "E" không xảy ra bằng 0.
+Một cách định nghĩa khác sử dụng lý thuyết độ đo là (bởi vì "P" là một độ đo của không gian mẫu "Ω") "E" xảy ra gần như chắc chắn nếu "E" = "Ω" gần như mọi nơi.
+

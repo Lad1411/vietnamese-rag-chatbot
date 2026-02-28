@@ -1,0 +1,10 @@
+Danh sách quốc gia theo diện tích
+
+Đây là danh sách quốc gia và lãnh thổ phụ thuộc theo diện tích đất liền, diện tích biển, và tổng diện tích.
+Các mục trong danh sách này bao gồm, nhưng không giới hạn trong, những vùng trong tiêu chuẩn ISO 3166-1, bao gồm quốc gia có chủ quyền và lãnh thổ phụ thuộc. Toàn bộ 193 quốc gia thành viên Liên Hợp Quốc và hai nước quan sát viên được xếp hạng. Danh sách cũng xếp hạng những quốc gia ít được công nhận không có trong ISO 3166-1. Diện tích của những nước ít được công nhận này thường được tính trong diện tích của những nước được công nhận rộng rãi tranh chấp chủ quyền vùng đó; xem cột "Ghi chú" của mỗi nước cho thông tin chi tiết.
+Không có trong danh sách này là những tuyên bố chủ quyền lãnh thổ với những vùng trên lục địa Nam Cực hoặc những tổ chức không coi nó như một quốc gia có chủ quyền hay lãnh thổ phụ thuộc, ví dụ như Liên minh châu Âu
+Danh sách này liệt kê ba số đo diện tích:
+Tất cả số liệu được lấy từ Cục Thống kê Liên Hợp Quốc trừ khi được ghi chú khác.
+Danh sách.
+Ghi chú: Các vùng lãnh thổ được liệt kê và xếp hạng là một phần của một nước có chủ quyền có thể được liệt kê một cách sơ sài; chúng được để trong các dấu ngoặc và in nghiêng.
+

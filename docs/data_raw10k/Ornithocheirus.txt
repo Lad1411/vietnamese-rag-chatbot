@@ -1,0 +1,16 @@
+Ornithocheirus
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;55271759&lt;/parentid&gt;
+ &lt;timestamp&gt;2021-12-07T23:16:11Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;SongVĩ.Bot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;: Làm đẹp bản mẫu&lt;/comment&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Ornithocheirus (từ tiếng Hy Lạp cổ đại "ὄρνις", có nghĩa là con chim, và "χεῖρ", có nghĩa là tay) là một chi thằn lằn bay được biết đến từ hóa thạch rời rạc không bị che phủ từ trầm tích ở Anh.
+Một số loài đã được giới thiệu đến các chi, hầu hết các doanh nghiệp được coi là loài đáng ngờ, hoặc các thành viên thuộc các chi khác nhau, và các chi hiện nay thường được coi là chỉ bao gồm các loài loại, "Ornithocheirus simus". Loài đã được gọi "Ornithocheirus" từ thời trung Cretaceous của cả châu Âu và Nam Mỹ, nhưng "O. simus" chỉ được biết đến từ Vương quốc Anh. Bởi vì "O. simus" ban đầu tên là dựa trên vật liệu hóa thạch được bảo quản kém, chi "Ornithocheirus" đã phải chịu đựng bền bỉ vấn đề của danh mục động vật.
+

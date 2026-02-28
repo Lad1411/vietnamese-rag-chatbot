@@ -1,0 +1,8 @@
+Danh sách tích phân với hàm lượng giác
+
+Đây là danh sách tích phân (nguyên hàm) của các hàm lượng giác. Đối với tích phân của chứa hàm lượng giác và hàm mũ, xem Danh sách tích phân với hàm mũ. Đối với danh sách đầy đủ các tích phân, xem Danh sách tích phân. Đối với danh sách các tích phân đặc biệt của các hàm lượng giác, xem Tích phân lượng giác.
+Nhìn chung, với formula_1 là đạo hàm của hàm số formula_2, ta có
+Trong mọi công thức dưới đây, là một hằng số khác không và ký hiệu cho hằng số tích phân.
+Tích phân chứa hàm sin và cos.
+Tích phân một hàm hữu tỉ (phân thức) của và có thể được tính bằng quy tắc Bioche.
+

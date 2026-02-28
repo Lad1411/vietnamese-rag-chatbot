@@ -1,0 +1,12 @@
+Đa đồ thị
+
+Trong toán học, đa đồ thị ("multigraph" hay "pseudograph") là một đồ thị được phép có nhiều cạnh (còn gọi là cạnh song song), nghĩa là các cạnh có cùng một nút kết thúc. Do đó hai đỉnh có thể được kết nối bởi nhiều cạnh.
+Đa đồ thị vô hướng.
+Ta có một đa đồ thị "G":=("V", "E") với:
+Đa đồ thị có thể được dùng trong mô hình các chuyến bay bởi các hãng hàng không. Trong trường hợp này đa đồ thị sẽ là một đồ thị có hướng với những cặp cạnh có hướng song song nhau nối các thành phố để cho biết có thể bay từ vị trí này đến vị trí kia.
+Một số tác giả cũng cho phép đa đồ thị có khuyên, nghĩa là có một cạnh nối một đỉnh với chính nó, trong khi những người khác gọi là "pseudographs" và cho rằng đa đồ thị ("multigraph") là không có khuyên.
+Đa đồ thị có hướng.
+Một đa đồ thị có hướng ("multidigraph") mà độ thị được phép có nhiều cung ("arc"),cung có cùng một đỉnh đầu và cuối. Một đa đồ thị có hướng "G":=("V","A") với
+Một "đa đồ thị hỗn hợp" "G":=("V","E", "A") cũng có thể được định nghĩa như "đồ thị hỗn hợp".
+Ngoài ra ta có một đa đồ thị có hướng "G":=("V", "A", "s", "t") với
+

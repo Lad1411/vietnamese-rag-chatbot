@@ -1,0 +1,31 @@
+Máy tính lượng tử bẫy ion
+
+Một trong những kiến ​​trúc máy tính lượng tử có triển vọng nhất là máy tính lượng tử bẫy ion. Thiết kế này đã được đề xuất lý thuyết vào năm 1995 bởi Cirac và Zoller .
+Ion, hay các hạt nguyên tử tích điện, có thể được giới hạn và lơ lửng trong không gian tự do sử dụng điện từ trường. Qubit được lưu trữ trong các trạng thái điện tử ổn định của mỗi ion, và thông tin lượng tử có thể được chuyển qua các chuyển động lượng tử chung của các ion trong một bẫy được chia sẻ (tương tác thông qua các lực Coulomb). Laser được áp dụng để tạo ra các khớp nối giữa các trạng thái qubit (cho các hoạt động qubit đơn) hoặc ghép giữa các trạng thái qubit bên trong và các trạng thái bên ngoài (cho sự vướng víu giữa qubit).
+Các hoạt động cơ bản của một máy tính lượng tử đã được chứng minh bằng thực nghiệm với độ chính xác cao nhất hiện nay trong hệ thống ion bị bẫy.
+Lịch sử của bẫy Paul.
+Các bẫy ion đang được sử dụng trong máy tính lượng tử bẫy ion đã được phát minh vào năm 1950 bởi Wolfgang Paul (người nhận giải Nobel vào năm 1989 cho chính phát minh này của ông). Hạt mang điện không thể bị bẫy trong không gian ba chiều chỉ bởi lực tĩnh điện theo định lý của Earnshaw.
+Thay vào đó, một dao động điện trường ở tần số vô tuyến (RF) được áp dụng,hình thành một thế năng với hình dạng yên ngựa xoay tròn tại tần số RF.
+Nếu trường RF có các thông số đúng (tần số dao động và cường độ trường), các hạt tích điện trở nên hiệu quả bị bẫy tại các điểm yên ngựa của một lực phục hồi, với các chuyển động được mô tả bởi một tập hợp các phương trình Mathieu.
+Lịch sử của máy tính lượng tử bẫy ion.
+Cổng lượng tử CNOT đã được đề xuất lần đầu tiên bởi Ignacio Cirac và Peter Zoller vào năm 1995, đặc biệt cho hệ thống bẫy ion. Cùng năm đó, một bước tiến quan trong cổng C-NOT đã được thực hiện thí điểm tại NIST Ion Storage Group, và nghiên cứu máy tính lượng tử bắt đầu khởi sướng trên toàn thế giới.
+Nhiều nhóm nghiên cứu bẫy ion truyền thống đã chuyển sang làm nghiên cứu tính toán lượng tử. Sự tiến bộ lớn trong lĩnh vực này đã được thực hiện trong nhiều thập kỷ qua và các ion bị bẫy vẫn là một tiêu điểm hàng đầu cho tính toán lượng tử.
+Thành phần của máy tính lượng tử.
+Các yêu cầu đầy đủ cho chức năng của một máy tính lượng tử không hoàn toàn được biết đến, nhưng có rất nhiều yêu cầu thường được chấp nhận.
+Qubit.
+Bất kỳ hệ thống lượng tử hai cấp có thể hình thành một qubit, và có hai cách để tạo thành một qubit sử dụng các trạng thái điện tử của một ion:
+Khởi tạo.
+Trạng thái qubit ion có thể được chuẩn bị trong một trạng thái qubit cụ thể bằng quá trình gọi là bơm quang học. Trong quá trình này, một cặp laser ion đạt đến một số trạng thái kích thích mà cuối cùng phân rã thành một trạng thái mà không cùng cặp với laser đó. Một khi các ion đạt đến trạng thái đó, nó không có mức độ kích thích, do đó, nó vẫn còn trong trạng thái đó. Nếu ion phân rã đến một trong những trạng thái khác, tia laser sẽ tiếp tục kích thích các ion cho đến khi nó phân rã đến trạng thái mà không tương tác với các laser. Quá trình khởi tạo này là tiêu chuẩn trong nhiều thí nghiệm vật lý và có thể được thực hiện với độ chính xác rất cao (&gt; 99,9%).
+Đo lường.
+Việc đo lường trạng thái của qubit được lưu trữ trong một ion là khá đơn giản. Thông thường, một laser được áp dụng cho các ion mà cặp chỉ có một trạng thái qubit. Khi các ion sập vào trạng thái này trong quá trình đo lường, tia laser sẽ kích thích nó, dẫn đến một photon được phóng khi các ion phân rã từ trạng thái kích thích. Sau khi phân rã, các ion liên tục bị kích thích bởi laser và liên tục phát ra các photon.
+Các photon có thể được thu thập bởi một ống nhân quang (PMT) hoặc một thiết bị camera tích điện kép(CCD). Nếu ion sập vào trạng thái qubit khác, sau đó nó không tương tác với laser và không có photon được phát ra. Bằng cách đếm số lượng photon thu thập được, các trạng thái của các ion có thể được xác định với độ chính xác rất cao (&gt; 99,9%).
+Tính toán.
+Vì các phép tính lượng tử đều có thể thực hiện, đến độ chính xác tùy ý, bằng tổ hợp các phép tính thuộc bộ đầy đủ {H, formula_1, CNOT} nên chỉ cần có cơ chế thực hiện các phép tính này trên các ion là có thể hoàn tất máy tính lượng tử thực hiện mọi phép tính lượng tử trên các ion. Cổng quay pha và Hadamard có thể thực hiện bằng chuyển đổi tứ cực điện tử trên qubit quang học.
+Cụ thể, trong chuyển đổi tứ cực điện tử, nếu chiếu vào ion các photon có:
+thì tương đương với việc xoay trạng thái của ion trên mặt cầu Bloch quanh trục "X" theo góc formula_5 rồi xoay tiếp quanh trục "Z" một góc formula_4.
+Như vậy, cổng Hadamard được thực hiện bằng cách xoay trạng thái của ion trên mặt cầu Bloch quanh trục "X" theo góc formula_7, tức chiếu vào ion các photon có:
+Như vậy, cổng formula_1 được thực hiện bằng cách xoay trạng thái của ion trên mặt cầu Bloch quanh trục "X" theo góc formula_10 rồi xoay tiếp quanh trục "Z" một góc formula_4, tức chiếu vào ion các photon có:
+Đối với cổng CNOT, thực hiện trên qubit điều khiển là ion thứ "m" trong chuỗi và qubit bị điều khiển là ion thứ "n" trong chuỗi, thì lần lượt làm:
+Cổng vướng víu 2 qubit.
+Bên cạnh các cổng C-NOT đề xuất bởi Cirac và Zoller vào năm 1995, nhiều ý tưởng tương đương, nhưng mạnh mẽ hơn đã được đề xuất. Nghiên cứu lý thuyết gần đây của Garcia-Ripoll, Cirac, và Zoller đã chỉ ra rằng không có những hạn chế cơ bản với tốc độ của các cổng vướng víu, nhưng các cổng lượng tử trong chế độ xung nhanh hơn 1 micro giây vẫn chưa được chứng minh bằng thực nghiệm, với độ tin cậy trên 99%.
+

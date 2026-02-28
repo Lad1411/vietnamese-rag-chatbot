@@ -1,0 +1,17 @@
+Tên miền tiếng Việt
+
+Tên miền Tiếng Việt là dịch vụ được quản lý bởi Trung tâm Internet Việt Nam (VNNIC) và triển khai cấp phát tự do, miễn phí theo các quy định về lệ phí tên miền theo Thông tư số 189/TT-BTC ngày 24/11/2010 của Bộ Tài chính.
+Giai đoạn triển khai.
+Dịch vụ cung cấp tên miền tiếng Việt được chia làm hai giai đoạn chính như sau:
+Giải pháp kỹ thuật đối với tên miền Tiếng Việt.
+Tên miền tiếng Việt thuộc hệ thống tên miền quốc gia Việt Nam ".vn". Tên miền tiếng Việt có các ký tự được quy định theo chuẩn .
+VNNIC dùng giải pháp can thiệp vào các ứng dụng (IDNA Internationalizing Domain Names in Applications) để xử lý tên miền tiếng Việt. Các tiêu chuẩn RFC về xử lý miền đa ngữ dùng cho tên miền tiếng Việt như sau:
+Bảng mã các ký tự dùng cho tên miền tiếng Việt.
+VNNIC cũng đưa ra bảng mã để xử lý tên miền tiếng Việt như sau:
+Các trình duyệt hỗ trợ tên miền tiếng Việt.
+Một số trình duyệt cho phép dùng tên miền tiếng Việt như sau:
+Một số dư luận.
+Theo ông Trần Minh Tân, Phó giám đốc VNNIC trả lời phóng viên ICTNews vào buổi sáng ngày 28/04/2011 cho biết: "Sự cố nghẽn mạng đã cho thấy sự quan tâm của cộng đồng với tên miền tiếng Việt rất lớn và vượt ngoài dự đoán của VNNIC". Kèm theo tên miền tiếng Việt trở thành mảnh đất "màu mỡ" cho nạn đầu cơ tên miền.
+Việc mở cửa tự do cho việc đăng ký tên miền tiếng Việt đã mang hậu quả tiêu cực đó là xuất hiện danh sách gần 900 tên miền được cho là "danh sách đen" do VNNIC xác định vào ngày 29/05/2011. Trong số tên miền bị cấm này, có rất nhiều tên miền có nội dung giải trí không lành mạnh, không có ý nghĩa cụ thể và mang tính chính trị.
+Theo một số chuyên gia, tên miền tiếng Việt mặc dù đang gây sốt xuất phát từ tính hiếu kỳ của cộng đồng nhưng thực tế thì rất khó dùng trong việc kinh doanh. Theo ông Nguyễn Minh Đức, Giám đốc Bkis Security chia sẻ, tên miền tiếng Việt rất khó dùng làm tên để doanh nghiệp quảng bá quốc tế. Vì vậy, với xu hướng quốc tế hóa toàn cầu bằng thương mại điện tử, không ít doanh nghiệp đã thờ ơ với dịch vụ này.
+

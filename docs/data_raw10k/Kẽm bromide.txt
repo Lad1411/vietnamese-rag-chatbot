@@ -1,0 +1,19 @@
+Kẽm bromide
+
+Kẽm bromide là một hợp chất vô cơ có công thức hóa học là ZnBr2. Nó là một muối không màu có nhiều đặc tính giống kẽm chloride (ZnCl2), cụ thể là khả năng hòa tan cao trong nước tạo thành các dung dịch acid và khả năng hòa tan trong dung môi hữu cơ. Nó hút ẩm và tạo thành dạng đihydrat ZnBr2·2H2O.
+Sản xuất.
+ZnBr2·2H2O được điều chế bằng cách xử lý kẽm oxide hoặc kim loại kẽm với acid bromhydric:
+Muối khan có thể được tạo ra bằng cách khử đihydrat bằng CO2 nóng hoặc bằng phản ứng của kim loại kẽm và brom.
+Cấu trúc.
+Tinh thể ZnBr2 có cấu trúc tương tự như ZnI2: bốn tâm Zn tứ diện chia sẻ ba đỉnh để tạo thành "siêu tứ diện" có dạng {Zn4Br10}2−, được liên kết bởi các đỉnh của chúng để tạo thành cấu trúc ba chiều. Đihydrat ZnBr2·2H2O cũng có cấu trúc thông thường và được mô tả là Zn(H2O)6Zn2Br6, trong đó ion Zn2Br62− có cầu brom liên kết hai nguyên tử kẽm. Một cấu trúc tương tự được tìm thấy ở dạng đime của nhôm bromide (Al2Br6).
+ZnBr2 ở dạng khí là tuyến tính phù hợp với lý thuyết VSEPR với độ dài liên kết Zn–Br là 221 pm.
+Sử dụng.
+Kẽm bromide được sử dụng trong:
+An toàn.
+Các cân nhắc về tính an toàn cũng tương tự như đối với kẽm chloride, và liều gây độc cho người là 3–5 g.
+Hợp chất khác.
+ZnBr2 còn tạo một số hợp chất với NH3, như ZnBr2·2NH3 là tinh thể bát diện không màu.
+ZnBr2 còn tạo một số hợp chất với N2H4, như ZnBr2·2N2H4·2H2O là tinh thể hình thoi màu vàng, tan trong acid khoáng nồng độ 2 N, không tan trong benzen và aceton, D20 ℃ = 3,1452 g/cm³.
+ZnBr2 còn tạo một số hợp chất với CS(NH2)2, như ZnBr2·2CS(NH2)2 là tinh thể không màu.
+ZnBr2 còn tạo một số hợp chất với CSN3H5, như ZnBr2·2CSN3H5 là tinh thể vàng nhạt, nóng chảy ở .
+

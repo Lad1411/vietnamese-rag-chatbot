@@ -1,0 +1,204 @@
+Ngữ pháp tiếng Việt
+
+Ngữ pháp tiếng Việt là những đặc điểm của tiếng Việt theo các cách tiếp cận ngữ pháp khác nhau: tiếp cận ngữ pháp cấu trúc hay tiếp cận ngữ pháp chức năng. Phần dưới đây chủ yếu trình bày các yếu tố thuộc lý thuyết ngữ pháp chức năng
+Từ loại.
+Cho đến ngày nay, chủ yếu có 2 phương pháp để phân loại từ loại: phân chia từ vựng của một ngôn ngữ thành hai lớp khái quát là thực từ và hư từ; hoặc phân chia từ vựng thành nhiều lớp cụ thể hơn với các đặc trưng xác định hơn. Đây là các cách phân chia của ngữ pháp truyền thống châu Âu. Lịch sử nghiên cứu ngữ pháp tiếng Việt có hai xu hướng: một xu hướng cho rằng từ vựng tiếng Việt không được định loại vì chúng không có một dấu hiệu hình thức nào cả, nói cách khác là không tồn tại từ loại trong tiếng Việt. Tuy nhiên số đông các nhà nghiên cứu tiếng Việt vẫn cho rằng tiếng Việt vẫn có từ loại và tồn tại những dấu hiệu khách quan để định loại. Và việc phân loại cũng theo hai cách: phân biệt thực từ và hư từ; phân biệt thành những lớp ngữ pháp cụ thể. Hiện nay, trong tiếng Việt có thể phối hợp 2 cách phân loại này.
+Việc phân định từ loại tiếng Việt theo cách thứ 2 thành những lớp từ cụ thể chủ yếu căn cứ vào ba tiêu chuẩn:
+Động từ.
+Động từ là những từ dùng để chỉ hành động, trạng thái của sự vật
+Thường làm vị ngữ trong câu
+Ví dụ: ăn, đi, ngủ, bơi, tắm, uống...
+Tôi đang "đi bộ".
+Động từ tình thái.
+Là những động từ đòi hỏi động từ khác đi kèm phía sau.
+Ví dụ: đành, bị, được, dám, toan, định, có...
+Động từ chỉ hoạt động, trạng thái.
+Là những động từ không đòi hỏi động từ khác đi kèm.
+Ví dụ: ăn, làm, chạy, nhảy, múa. ca, hát
+Danh từ.
+Là những từ chỉ người, vật, hiện tượng, khái niệm...
+Ví dụ: trâu, mưa, mây, giáo viên, kỹ sư, con, thúng...
+Danh từ chỉ sự vật.
+Danh từ chỉ sự vật nêu tên từng loại hoặc từng cá thể người, vật, hiện tượng, khái niệm...
+Ví dụ: giáo viên, bút, cuộc biểu tình, mưa, nắng, tác phẩm...
+Danh từ chung.
+Danh từ chung là tên gọi của một loại sự vật.
+Ví dụ: thành phố, học sinh, cá, tôm, thôn, xóm, làng, xe, thầy cô...
+Danh từ riêng.
+Danh từ riêng là tên riêng của từng người, từng vật, từng địa phương...
+Ví dụ: Hà Nội, Hải Phòng, Đà Nẵng, Lý Quang Diệu, Hồ Chí Minh, Võ Nguyên Giáp, Bộ Giáo dục và Đào tạo...
+Danh từ chỉ đơn vị.
+Danh từ chỉ đơn vị nêu tên đơn vị dùng để tính đếm, đo lường sự vật.
+Ví dụ: nắm, mét, mớ, lít, bầy, g, km, cm...
+Danh từ chỉ đơn vị chính xác:dùng các chỉ số do các nhà khoa học phát minh để thể hiện sự vật
+Ví dụ: mét, lít, gam, giây, giờ,phút...
+Danh từ chỉ đơn vị tự nhiên: con, cái, quyển
+Danh từ chỉ đơn vị ước chừng.
+Thể hiện một số lượng không đếm được có tính tương đối
+Ví dụ: nắm, mớ, bầy, đàn, thúng...
+Tính từ.
+Tính từ là những từ chỉ đặc điểm, tính chất của sự vật, trạng thái.
+Ví dụ: xinh, vàng, thơm, to, nhỏ, giỏi...
+Tính từ chỉ đặc điểm tuyệt đối.
+Là những tính từ không thể kết hợp với từ chỉ mức độ.
+Ví dụ: vàng hoe, vàng lịm, xanh lè, trắng xóa, buồn bã...
+Tính từ chỉ đặc điểm tương đối.
+Là những tính từ có thể kết hợp với từ chỉ mức độ.
+Ví dụ: tốt, xấu, ác, giỏi...
+Đại từ.
+Đại từ là một từ dùng để trỏ người, sự vật, hoạt động, tính chất... được nói đến trong một ngữ cảnh nhất định của lời nói hoặc dùng để hỏi.
+Ví dụ: tôi, anh, chị, em, ông, bác, ấy, chúng em, chúng ta, chúng tôi, họ... v.v.
+Đại từ xưng hô: là đại từ dùng để xưng hô.
+Ví dụ: tôi, hắn, nó...
+Đại từ thay thế: là đại từ dùng để thay thế cho các danh từ trước đó.
+Ví dụ: ấy, vậy, thế...
+Đại từ chỉ lượng: là đại từ chỉ về số lượng.
+Ví dụ: bao nhiêu, bấy nhiêu...
+Đại từ nghi vấn: là đại từ để hỏi.
+Ví dụ: ai, gì, nào, sao...
+Đại từ phiếm chỉ: là đại từ chỉ chung, không chỉ cụ thể sự vật nào.
+Ví dụ: "Ai" làm cũng được. Mình đi "đâu" cũng được.
+Số từ.
+Số từ là những từ chỉ số lượng và thứ tự
+Ví dụ: một, hai, ba, bốn, mười, một trăm
+Lượng từ.
+Lượng từ là những từ chỉ lượng nhiều hay ít của sự vật một cách khái quát.
+Ví dụ: những, cả mấy, các...
+Chỉ từ.
+Chỉ từ là những từ dùng để trỏ vào sự vật, nhằm xác định vị trí của sự vật trong không gian hay thời gian
+Chỉ từ thường làm phụ ngữ trong cụm danh từ. Ngoài ra còn có thể làm chủ ngữ hoặc trạng ngữ trong câu.
+Ví dụ: ấy, đây, đấy, kia, này, nọ...
+Trợ từ.
+Trợ từ là những từ chuyên đi kèm với một từ ngữ trong câu để nhấn mạnh hoặc biểu thị thái độ đánh giá sự vật,sự việc được nói đến ở từ ngữ đó.
+Ví dụ: những, có, chính, đích, ngay, chỉ, cái...
+Thán từ.
+Thán từ là những từ dùng để bộc lộ cảm xúc,tình cảm của người nói hoặc dùng để gọi đáp
+Ví dụ: à, á, ơ, ô hay, này, ơi...
+Tình thái từ.
+Tình thái từ là những từ được thêm vào câu để cấu tạo câu nghi vấn, câu cầu khiến, câu cảm thán và để biểu thị các sắc thái tình cảm của người nói
+Ví dụ: à, hử, đi, thay, sao, nha, nhé...
+Giới từ.
+Giới từ là từ dùng để thể hiện sự liên quan giữa các từ loại trong câu
+Ví dụ: của (quyển sách của tôi), ở (quyển sách để ở trong cặp)...
+Quan hệ từ.
+Quan hệ từ là những từ dùng để biểu thị các ý nghĩa quan hệ giữa các bộ phận của câu hay giữa câu trong đoạn văn nhằm tăng sức gợi hình, gợi cảm cho sự diễn đạt.
+Ví dụ: và, với, hay, hoặc, nhưng, mà, thì, của, ở, tại, bằng, như, để, về...
+Quan hệ từ bao gồm giới từ (chỉ quan hệ chính phụ), liên từ (chỉ quan hệ đẳng lập).
+Cặp quan hệ từ.
+Cặp quan hệ là những quan hệ từ dùng để nối các vế câu trong một câu với nhau, ví dụ:
+Tuy Lan học giỏi nhưng bạn ấy không hề kiêu căng. (cặp quan hệ từ tuy... nhưng)
+Nếu trời mưa thì Kiên sẽ nghỉ học (cặp quan hệ từ nếu... thì)
+Có bốn loại cặp quan hệ từ thường gặp là:
+Cặp từ hô ứng.
+Cặp từ hô ứng là những cặp phó từ, chỉ từ, hay đại từ thường đi đôi với nhau, và hay dùng để nối vế trong các câu ghép.
+Ví dụ: Vừa...đã...; đâu... đấy...; sao... vậy.
+Nối vế trong câu ghép: Trời vừa hửng sáng, Lan đã chuẩn bị đi học.
+Phó từ.
+Phó từ là những từ chuyên đi kèm trạng từ, động từ, tính từ để bổ sung ý nghĩa cho trạng từ, động từ và tính từ.
+Ví dụ: đã, rất, cũng, không còn, lắm, đừng, qua, được...
+Phó từ đứng trước động từ, tính từ.
+Những phó từ này thường bổ sung một số ý nghĩa liên quan đến hành động, trạng thái, đặc điểm, tính chất nêu ở động từ hoặc tính từ như: quan hệ thời gian, mức độ, sự tiếp diễn tương tự, sự phủ định, sự cầu khiến.
+Ví dụ: đã, rất, cũng, chưa, đừng...
+Phó từ đứng sau động từ, tính từ.
+Những phó từ này thường bổ sung một số ý nghĩa liên quan đến hành động, trạng thái, đặc điểm, tính chất nêu ở động từ hoặc tính từ như: mức độ, khả năng, kết quả và hướng.
+Ví dụ: lắm, được, qua...
+Những phó từ thường gặp: đã, đang, cũng, sẽ, vẫn, còn, đều, được, rất, thật, lắm, quá...
+Cụm từ.
+Cụm danh từ.
+Cụm danh từ là loại tổ hợp từ do danh từ và một số từ ngữ phụ thuộc nó tạo thành. Nó có ý nghĩa đầy đủ hơn và có cấu tạo phức tạp hơn một danh từ, nhưng hoạt động trong câu nó giống như một danh từ.
+Ví dụ: Ba thúng gạo nếp,ba con trâu đực...
+Cụm động từ.
+Cụm động từ là loại tổ hợp từ do động từ và một số từ ngữ phụ thuộc nó tạo thành. Nhiều động từ phải có phụ ngữ đi kèm, tạo thành cụm động từ
+Ví dụ: Đùa nghịch ở sau nhà...
+Cụm tính từ.
+Cụm tính từ là tổ hợp từ do tính từ và các từ khác đi kèm tạo thành
+Ví dụ: xinh dã man, đẹp tuyệt vời, buồn thối ruột...
+Cấu tạo từ.
+Từ đơn.
+Là từ chỉ gồm có một tiếng, có nghĩa, có thể đứng độc lập một mình.
+Ví dụ: Ăn, ngủ, cấy, truyện, kể, viết, đẹp...
+Từ phức.
+Là từ gồm hai hay nhiều tiếng, có nghĩa.
+Ví dụ: Ăn uống, ăn nói, nhỏ nhẹ, con cháu, cha mẹ, anh chị, học sinh, giai cấp...
+Từ láy.
+Là từ phức được tạo ra bằng cách ghép các tiếng có quan hệ láy âm giữa các tiếng lại với nhau.
+Ví dụ: Lom khom, ồm ồm, tan tác, luộm thuộm
+Từ láy toàn bộ.
+Là từ láy có các tiếng lặp lại nhau hoàn toàn (cũng có một số trường hợp tiếng đứng trước biến đổi thanh điệu hoặc phụ âm cuối).
+Ví dụ: Đăm đăm, lâng lâng, xinh xinh, xa xa...
+Từ láy khuyết phụ âm đầu
+Ví dụ: Êm ả, êm ái...
+Từ láy bộ phận.
+Là từ láy mà giữa các tiếng có sự giống nhau về phụ âm đầu hoặc phần vần.
+Ví dụ: Nức nở, tức tưởi, lặng lẽ, nhảy nhót...
+Từ ghép.
+Là từ phức được tạo ra bằng cách ghép các tiếng có quan hệ về nghĩa với nhau.
+Ví dụ: Ăn học, ăn nói, ăn mặc, ăn xổi...
+Từ ghép chính phụ.
+Là từ ghép có tiếng chính và tiếng phụ bổ sung nghĩa cho tiếng chính. Tiếng chính đứng trước, tiếng phụ đứng sau.
+Ví dụ: Xanh ngắt, nụ cười, nhà ăn, bà ngoại, bút chì...
+Từ ghép đẳng lập.
+Là từ ghép không phân ra tiếng chính, tiếng phụ. Giữa các tiếng có sự bình đẳng về mặt ngữ pháp.
+Ví dụ: Suy nghĩ, chài lưới, cây cỏ, ẩm ướt, bàn ghế...
+=Câu=
+Câu là một tập hợp từ, ngữ kết hợp với nhau theo những quan hệ cú pháp xác định, được tạo ra trong quá trình tư duy, giao tiếp, có giá trị thông báo, gắn liền với mục đích giao tiếp nhất định.
+Câu đơn.
+Là câu chỉ có một vế câu. Cần phân biệt câu đơn với câu ghép và câu mở rộng thành phần. Câu đơn thường có một chủ ngữ, một vị ngữ và có thể có một hoặc nhiều trạng ngữ nhưng có một số trường hợp câu đơn không xác định được chủ ngữ vị ngữ. Đó là trường hợp của câu đơn đặc biệt. 
+VD: Câu đơn: "Trời mưa". (C-V)
+Câu ghép.
+Câu ghép là câu do nhiều vế câu ghép lại (thường là hai vế), mỗi vế câu thường có cấu tạo giống câu đơn (có đủ cụm Chủ - Vị) và thể hiện một ý có quan hệ chặt chẽ với ý của những câu khác. Các câu ghép bắt buộc phải có hai cụm chủ - vị trở lên Hai vế của câu ghép được nối với nhau bằng nhiều cách. Nhưng cách cơ bản nhất là nối trực tiếp, nối bằng quan hệ từ và cặp từ hô ứng. VD:" Mưa càng to, gió càng thổi mạnh.",
+Câu ghép đẳng lập.
+Là câu ghép được nối với nhau bằng cách sử dụng cách nối trực tiếp mà trong đó ta có thể tách các mệnh đề thành các câu riêng mà không ảnh hưởng đến nội dung câu.
+Ví dụ: Chó chạy thong thả, khỉ buông thõng hai tay, ngồi ngúc nga ngúc ngắc.
+Câu ghép chính - phụ.
+Là câu ghép được nối với nhau bằng cách sử dụng quan hệ từ hoặc cặp từ hô ứng.
+Ví dụ: Nếu em học giỏi thì ba mẹ em sẽ rất mừng.
+Câu đặc biệt.
+Câu đặc biệt là câu không có C-V.(thường có!)
+Ví dụ: Ôi trời! Căn phòng hôm nay sạch thế!
+Câu rút gọn.
+Câu rút gọn là khi nói hoặc viết, có thể lược bỏ một số thành phần của câu, tạo thành câu rút gọn. Các thành phần có thể lược bỏ như chủ ngữ, vị ngữ, hoặc cả chủ ngữ và vị ngữ,… Tuỳ theo hoàn cảnh, mục đích nói của câu mà ta có thể lược bỏ những thành phần phù hợp.
+VD:A nói với B: – Sáng mai đi chơi nhé.
+Câu "Sáng mai đi chơi nhé" là câu rút gọn. Thành phần bị rút gọn là chủ ngữ.
+Câu đầy đủ là: Sáng mai tớ với cậu đi chơi nhé.
+Liên kết câu.
+Ngoài sự liên kết về nội dung, giữa các câu trong đoạn phải được liên kết bằng những dấu hiệu hình thức nhất định. Về hình thức, người ta thường liên kết các câu bằng các phép liên kết như phép lặp (lặp từ ngữ), phép thế (thay thế từ ngữ), phép nối (dùng từ ngữ để nối), phép liên tưởng...
+Câu chủ động.
+Câu chủ động là câu có chủ ngữ chỉ người, vật thực thực hiện một hoạt động hướng vào người, vật khác (chỉ chủ thể của hoạt động).
+Câu chủ động và câu bị động là hai hình thức câu chủ yếu của mọi ngôn ngữ trong văn nói cũng như văn viết.
+Câu chủ động có một chất giọng chủ động thường được sử dụng nhiều trong văn nói hay giao tiếp. Câu chủ động cũng xuất hiện trong các loại văn bản, tiểu thuyết, truyện ngắn, ký... nhưng sẽ không hay bằng câu bị động. Có thể sử dụng loại câu này tùy ý trong văn nói hay văn viết.
+Câu bị động.
+Câu bị động là câu có chủ ngữ chỉ người, vật được hoạt động của người, vật khác hướng vào (chỉ đối tượng của hoạt động).
+Ngược lại với câu chủ động,câu bị động là câu có một chất giọng thụ động được sử dụng trong văn viết nhiều hơn trong văn nói bình thường và được dùng để viết trong các loại văn bản nhiều hơn các loại câu khác. Câu bị động có mặt hầu hết trong các báo chí (tạp chí) hơn là trong các loại câu truyện như tiểu thuyết (truyện ngắn, một số loại ký...) nhưng hầu hết các nhà báo và nhà văn tiểu thuyết sử dụng những câu này rất hay và rất linh hoạt (dùng các phép ẩn dụ, biền ngẫu...). Tuy nhiên, một số loại câu bị động lại được dùng trong văn để viết các bài viết về khoa học và công nghệ. Những bài bào viết về thông tin khoa học thường có chứa nhiều thể loại câu bị động hơn các loại câu khác.
+Không nên sử dụng câu bị động trong văn nói trừ khi có một lý do chính đáng và hợp lý.
+Cách chuyển đổi câu chủ động thành câu bị động.
+Việc chuyển đổi câu chủ động thành câu bị động (và ngược lai) ở mỗi đoạn văn đều nhằm liên kết các câu trong đoạn văn thành một mạch văn thống nhất.
+Cách chuyển đổi câu chủ động thành câu bị động:
+Chuyển từ (hoặc cụm từ) chỉ đối tượng của hoạt động lên đầu câu và thêm các từ bị, hay được vào sau từ (cụm từ) ấy.
+Chuyển từ (cụm từ) chỉ đối tượng của hoạt động lên đầu câu, đồng thời lược bỏ hoặc biến từ (cụm từ) chỉ chủ thể của hoạt động thành một bộ phận không bắt buộc trong câu.
+Một số ví dụ ở các câu chủ động và bị động:
+Câu bị động thường được sử dụng khi các chủ thể hoạt động chưa rõ ràng, chưa biết, hay không cần thiết.
+Ví dụ:
+Tất cả cánh cửa chùa được làm bằng gỗ lim.
+Chiếc xe đạp ấy được sản xuất tại Việt Nam.
+Câu bị động thường được sử dụng khi chủ ngữ được biết, nhưng người nói/người viết không muốn nói đến nó.
+Ví dụ:
+Cô ấy đã được khuyên một lời khuyên xấu.
+Một sai lầm đã được thực hiện.
+Câu bị động thường được sử dụng khi người nói/người viết muốn nhấn mạnh một kết quả:
+Ví dụ:
+Hàng nghìn người đã bị giết bởi trận động đất.
+Câu bị động thường được sử dụng khi người nói/người viết muốn giữ cùng một chủ ngữ cho hai hoặc nhiều động từ nhưng trường hợp này sẽ không thực hiện được nếu cả hai động từ cùng ở một thể (chủ động hay bị động).
+Ví dụ, người nói sẽ sử dụng câu b chứ không phải là câu a để điền vào chỗ ba chấm trong đoạn văn trong trường hợp dưới đây (cả hai câu đều chính xác:.
+Một tiếng "ồ" nổi lên kinh ngạc. Cả lớp sững sờ. Em tôi là chi đội trưởng, là "vua toán" của lớp từ mấy năm nay..., tin này chắc làm cho bạn bè xao xuyến. (Trích sách giáo khoa Ngữ văn 7, tập hai, trang 57).
+a. Mọi người yêu mến em.
+b. Em được mọi người yêu mến.
+Hầu hết các câu bị động đều không có chủ thể hoạt động; tất cả các câu chủ động đều có chứa chủ thể hoạt động
+Chủ thể hoạt động là một chủ ngữ của động từ chủ động. Trong các ví dụ ở câu trên, các chủ thể hoạt động đều có mặt trong tất cả các câu chủ động, còn các câu thụ động thì không có chứa một chủ thể hoạt động.
+Khi một câu có chứa một chủ thể hoạt động, nó nằm sau động từ. Ví dụ:
+Tiếng Anh được nói bởi họ.
+Trong những câu sau đây, các danh từ "Những giáo viên" là các chủ thể hoạt động trong cả hai câu. "Những giáo viên" cũng là chủ ngữ của câu chủ động. Nhưng "kỳ thi" là chủ ngữ của câu bị động.
+Chủ động: Những giáo viên chuẩn bị cho kỳ thi.
+Bị động: Kỳ thi được chuẩn bị bởi những giáo viên.
+Từ đồng nghĩa:
+

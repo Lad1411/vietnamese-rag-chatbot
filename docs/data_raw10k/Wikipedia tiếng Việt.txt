@@ -1,0 +1,28 @@
+Wikipedia tiếng Việt
+
+Wikipedia tiếng Việt là phiên bản tiếng Việt của Wikipedia. Website lần đầu kích hoạt vào tháng 11 năm 2002 và chỉ có bài viết đầu tiên của dự án là bài Internet Society. Wikipedia tiếng Việt không có thêm bài viết nào cho đến tháng 10 năm 2003 khi Trang Chính ra mắt. Tiếp theo đó là bài Alexandre De Rhodes, sau đó là các bài Hà Nội, Thành phố Hồ Chí Minh và Nha Trang...
+Vào tháng 7 năm 2003 đã có thành viên Wikipedia tiếng Việt yêu cầu về hỗ trợ Unicode cho tiếng Việt. Website này đã nâng cấp qua phần mềm wiki Phase III sau đó là MediaWiki vào ngày 12 tháng 11 năm 2003. Phiên bản MediaWiki nào đó có hỗ trợ Unicode hỗ trợ viết tiếng Việt.
+Phiên bản này không hỗ trợ gõ chữ Việt trực tiếp trong trang web mà cần thông qua bộ gõ từ bên ngoài. Vào tháng 9 năm 2005, để giải quyết vấn đề này, có những thành viên đã cộng tác để cài đặt bộ gõ JavaScript (nay là AVIM) vào website. Tại Wikipedia tiếng Việt từng xuất hiện việc đặt quy tắc về , tên gọi các quốc gia, dùng thay vì phiên âm, cách viết ngày tháng, cách viết hoa.
+Thống kê.
+Wikipedia tiếng Việt có và phương tiện. Từ khi dự án bắt đầu đi vào hoạt động lại tại 1 thời điểm vào năm 2003 cho đến tháng 2 năm 2005, có thống kê cho thấy Wikipedia tiếng Việt phát triển chậm hơn là từ tháng 3 năm 2005.
+Năm 2008, lần nữa dự án có bước nhảy về tốc độ: có thêm bài viết khi có những thành viên tập trung vào viết 1 số lượng bài về các địa danh còn thiếu. Wikipedia tiếng Việt vượt từ vị trí thứ 43 về số lượng bài viết trong số các phiên bản của Wikipedia vào tháng 1 năm 2008 đạt vị thứ 11 vào tháng 5 năm 2014. Đa số bài viết của Wikipedia tiếng Việt xuất bản bằng cách dịch (thủ công hoặc tự động) bài viết của các dự án Wikipedia ngôn ngữ khác trong đó dịch từ Wikipedia tiếng Anh nhiều nhất.
+Đồng thời, Wikipedia tiếng Việt nằm trong 50 wiki "lớn nhất" toàn cầu sử dụng phần mềm MediaWiki. Đầu tháng 2 năm 2013, Wikipedia tiếng Việt đã có hơn 10.000.000 sửa đổi và đạt hơn 750.000 bài viết trong đó vào khoảng nửa là do tạo ra.
+Vào ngày 15 tháng 6 năm 2014, Wikipedia tiếng Việt đạt mốc 1 triệu bài viết.
+Lịch sử.
+Cùng với sự thay đổi của Wikipedia tiếng Việt, cộng đồng những thành viên đóng góp cho dự án dần thay hình. Trong thời gian từ một thời điểm năm 2003 đến một thời điểm năm 2005, xây dựng cho phiên bản ngôn ngữ này của Wikipedia này có thể đa phần là những người Việt sống ở nước ngoài và người nước ngoài sống ở Việt Nam (thành viên Joakim Löfkvist), các thảo luận thời kỳ này đa phần là bằng tiếng Anh.
+Có thể chưa có ai sử dụng khái niệm Bách khoa toàn thư mở để định nghĩa về Wikipedia tiếng Việt. Lúc đó, cộng đồng có thể mới chỉ dùng khái niệm Bách khoa tự do. Các quy tắc và hướng dẫn đầu tiên của cộng đồng cũng như việc bầu các đầu tiên diễn ra vào thời gian này (, và đắc cử quyền bảo quản viên từ cuối năm 2003). Đến tháng 2 năm 2005, Nguyễn Xuân Minh nhận được tín nhiệm để trở thành đầu tiên của dự án (khi đó Minh chưa đầy 18 tuổi và vẫn là học sinh phổ thông trung học).
+Báo chí Việt Nam cũng có bài viết giới thiệu Wikipedia tiếng Việt. Điều này có thể tăng thêm lượng người sử dụng tiếng Việt biết đến dự án. Từ đó đến nay cộng đồng đã phát triển góp phần giúp Wikipedia góp mặt trong 30 trang web có số lượng truy cập nhiều nhất tại Việt Nam theo bảng xếp hạng của Alexa. Báo chí còn đăng và truyền bá giúp Wikipedia quyên tiền để Wikipedia và các dự án con của nó có thể tiếp tục thay đổi để phục vụ cộng đồng miễn phí, không cần phải kiếm tiền từ quảng cáo.
+Họp mặt giữa các thành viên ngoài đời thật ghi nhận từng diễn ra vào tháng 7 năm 2006 tại Hà Nội.
+Ngày 23 tháng 6 năm 2014, đã có đồng thuận chấp nhận việc tạo bài hàng loạt bằng tài khoản .
+Phá hoại nội dung.
+Vì tính mở cho tất cả mọi người đều có thể chỉnh sửa nội dung, Wikipedia có thể có nhiều hơn một số trang không có tính mở như vậy.
+Có trang báo đưa tin về việc Wikipedia tiếng Việt chịu phá hoại nội dung chủ yếu là các bài về ca sĩ, diễn viên hay các nhân vật.
+Phá hoại từng nhắm đến Hồ Ngọc Hà, Bảo Thy, Nguyễn Cao Kỳ Duyên và hoa hậu trùng tên Kỳ Duyên hay Isaac Newton và những chủ đề khác. Hoa hậu Đỗ Mỹ Linh cũng có trong vòng xoáy trùng tên tương tự sự kiện trùng tên Kỳ Duyên năm 2014.
+Tác động.
+Đối tượng nghiên cứu.
+Wikipedia tiếng Việt là một đối tượng nghiên cứu khoa học, trong đó có các chuyên ngành như web ngữ nghĩa và xử lý ngôn ngữ tự nhiên.
+Nguồn tham khảo.
+Wikipedia tiếng Việt là nguồn tham khảo không chính thức, đôi khi chính quyền còn sử dụng nó làm tư liệu để "xây dựng hoạch định chính sách".
+Quảng cáo.
+Có những trang web chuyên về SEO cũng xem Wikipedia tiếng Việt là đối tượng để quảng cáo, chèn link có thể nhằm thăng hạng website của khách hàng, đối tác hay cá nhân. Vì lý do Google ưu tiên các đề mục bài viết của Wikipedia đứng ở các vị trí đầu trong các kết quả tìm kiếm (chỉ đối với các bài viết có chất lượng nhất định), có ý kiến cho rằng chèn link ở các bài viết Wikipedia có thể thăng thứ hạng website.
+

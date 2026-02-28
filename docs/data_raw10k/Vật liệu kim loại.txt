@@ -1,0 +1,27 @@
+Vật liệu kim loại
+
+Vật liệu kim loại hiện được phân làm hai loại: Vật liệu kim loại đen và vật liệu kim loại màu.
+Vật liệu kim loại đen.
+Vật liệu kim loại đen bao gồm gang,thép và các hợp kim của chúng(chứa đa phần là sắt). Đây là những hợp kim trên cơ sở sắt và cacbon.
+Thành phần cacbon được đánh giá bằng phần trăm khối lượng. Nếu trong 100 kg thép có 1 kg cacbon 
+thì thành phần cacbon là 1%. Khi hàm lượng cacbon nhiều hơn 2,14% ta có gang, nếu nhỏ hơn 2,14% 
+ta có thép.
+Thép.
+Thép gồm có "thép cacbon" và "thép hợp kim". Trên thực tế thép cacbon không có nghĩa là trong thành phần chỉ hoàn toàn là sắt và cacbon. Trong nền kim loại sắt, ngoài cacbon (&lt;2,14%) còn có các tạp chất thông thường như Mn, Si, S, P và các tạp chất ngẫu nhiên như Cr, Ni, Cu, W, Ti, Mo... Khi hàm lượng các chất trên cao hơn một giá trị nào đó thì thép sẽ được coi là thép hợp kim.
+Thép cacbon.
+"Xem bài chính: Thép carbon"
+Trong thép cacbon, ngoài sắt ra người ta quan tâm chỉnh sửa thành phần của những nguyên tố sau đây: C (&lt;2%), Mn (0,5-0,8%), Si (0,3-0,6%), P (0,05-0,06%), S (0,05-0,06%)
+Ngoài các nguyên tố trên, các tạp chất ngẫu nhiên khác nếu có thì càng tốt vì làm tăng cơ tính của thép nên không cần loại bỏ.
+Phosphor và lưu huỳnh là 2 kẻ thù của mọi loại thép. Chất lượng của thép cao hay thấp đôi khi được đánh giá qua hàm lượng phosphor và lưu huỳnh còn lại trong thành phần. Thép có chất lượng cao là thép không chứa quá 0,025% mỗi nguyên tố trên. Phosphor có mặt trong thép từ quặng hay từ than có mặt trong thép ở dạng hòa tan trong ferit hoặc liên kết với sắt dạng Fe3P làm dòn thép khi nguội, gọi là hiện tượng dòn nguội, hay bở nguội. Lưu huỳnh có mặt trong thép cũng từ quặng hay trong than.
+Hỗn hợp cùng tinh (FeS + Fe) có nhiệt độ nóng chảy thấp hơn gang thép và nằm ở biên giới các hạt, khi nung nóng để gia công áp lực, pha cùng tinh này bị chảy ra, làm thép bị đứt ở biên hạt, có cảm giác như bị giòn, hiện tượng này gọi là giòn nóng, hay bở nóng.
+Mn và Si được cho vào khử ôxi còn trong kim loại lỏng khi nấu, trong đó tác dụng khử ôxi của silic mạnh hơn. Hai nguyên tố này khi có mặt trong sắt còn làm tăng độ bền, độ cứng nhưng tác dụng làm giảm độ dẻo độ dai rất mạnh nên người ta chỉ sử dụng chúng có hạn chế.
+Thép dùng làm các kết cấu thông thường trong ngành xây dựng (tấm, thanh, dây, ống, thép hình chữ U, chữ I...) là thép cacbon chất lượng thấp, phosphor và lưu huỳnh dưới 0,06%.
+Thép kết cấu (thép dùng làm các chi tiết máy thông thường) có chất lượng cao hơn, S &lt; 0,04%, P &lt; 0,035%. Thép này luôn được khử ôxi bằng cả mangan lẫn silic. Độ bền của thép tăng khi hàm lượng cacbon tăng, tuy nhiên không sử dụng lượng cacbon cao hơn 0,85% vì độ bền từ điểm đó trở đi sẽ không tăng nữa mà sẽ giảm. Thép kết cấu có hàm lượng cacbon là 0,85% chịu được độ bền kéo là 1150 MPa, nghĩa là nếu một dây thép bằng thép trên tiết diện 1 mm² có thể treo được 1 vật nặng 115 kg.
+Thép đường ray là thép 0,5-0,8% cacbon; 0,6-1% mangan; phosphor, lưu huỳnh &lt; 0,04%, thường có nhà máy chế tạo riêng. Dây thép có độ bền kéo phụ thuộc vào cả lượng cacbon lẫn mức độ bị biến dạng khi kéo (khi sản xuất), thông thường lượng carbon không cao hơn 1,2%, giới hạn bền kéo có thể đạt rất cao, chẳng hạn sản xuất từ thép 1,2% cacbon, kéo nguội đến mức độ biến dạng là 90% thì dây có giới hạn bền là 4000 MPa nghĩa là 1 dây tiết diện 1 mm² treo được 400 kg.
+Thép hợp kim.
+Thép hợp kim là thép (với thành phần chính là sắt và cacbon) được nấu pha trộn với các nguyên tố hoá học khác (đồng, mangan, niken...) với tổng lượng nguyên tố thêm vào nằm khoảng từ 1,0% đến 50% tổng khối lượng hỗn hợp để cải thiện chất lượng thép thành phẩm. Tuỳ theo số lượng khác nhau của các nguyên tố và tỷ lệ của chúng trong thép mà thay đổi độ cứng, độ đàn hồi, tính dễ uốn, sức bền và khả năng chống oxy hóa của thép thành phẩm.
+Tại Nga, Trung Quốc và một số nước phương đông, thép hợp kim được chia làm 3 nhóm: thép hợp kim thấp, thép hợp kim trung bình và thép hợp kim cao. Ở phương Tây chỉ phân biệt hai loại thấp và cao. Sự khác nhau giữa hai loại này không có sự ranh giới rõ ràng.[1][2] Theo tiêu chuẩn của Nga, thép hợp kim thấp có tổng lượng hợp kim nhỏ hơn 2,5%, ở thép hợp kim cao tỉ lệ này lớn hơn 10%. Thông thường, cụm từ "thép hợp kim" dùng để đề cập đến thép hợp kim thấp.
+- Ngoài kim loại đen (thép,gắng) các kim loại còn lại chủ yếu là kim loại màu. Kim loại màu thường được sử dụng dưới dạng hợp kim.
+- Kim loại màu dễ kéo dài, dễ dát mỏng, có tính chống mài mòn, tính chống ăn mòn cao, đa số có tính dẫn nhiệt và dẫn điện tốt. Các kim loại màu ít bị oxi hoá trong môi trường. Kim loại màu chủ yếu là đồng (Cu), nhôm (Al) và hợp kim của chúng. 
+- Đồng, nhôm và hợp kim của chúng được dùng nhiều trong công nghiệp như: sản xuất đồ dùng gia đình, chế tại chi tiết máy, làm vật liệu dẫn điện...
+

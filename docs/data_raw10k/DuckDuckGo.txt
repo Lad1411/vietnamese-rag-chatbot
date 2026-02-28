@@ -1,0 +1,8 @@
+DuckDuckGo
+
+DuckDuckGo là một công cụ truy vấn dữ liệu Internet đặt trọng tâm vào việc bảo vệ sự riêng tư người tìm kiếm và không cung cấp thông tin người dùng. DuckDuckGo cũng phân biệt nó với các công cụ tìm kiếm khác bằng cách không lập hồ sơ kết quả tìm kiếm. DuckDuckGo nhấn mạnh lấy thông tin từ các nguồn tốt nhất chứ không phải từ đa số các nguồn, tạo ra kết quả tìm kiếm của mình từ chính các trang web được quần chúng đóng góp như Wikipedia và từ quan hệ đối tác với các công cụ tìm kiếm khác như Yandex, Yahoo, Bing, và Yummly.
+DuckDuckGo cũng tuyên bố cấm các trang web spam - những trang dường như hiển thị kết quả hữu ích trong danh sách tìm kiếm nhưng chứa đầy các mẩu quảng cáo. Kể từ phiên bản iOS 8, Apple đã tích hợp thêm DuckDuckGo vào hệ điều hành, vì các công cụ như Google Chrome, Microsoft Bing và Yahoo bị cáo buộc là theo dõi người dùng.
+Lịch sử.
+DuckDuckGo được thành lập bởi Gabriel Weinberg, là một doanh nhân, mà công ty trước đó The Names Database, đã được mua lại bởi United Online trong năm 2006 với giá $ 10 triệu, nhưng Database này đã quá cố từ năm 2013. Ban đầu được tự tài trợ bởi Weinberg, DuckDuckGo chấp nhận quảng cáo nhưng người dùng có thể tắt được. Các công cụ tìm kiếm được viết bằng Perl và chạy trên nginx, FreeBSD và Linux.
+DuckDuckGo được xây dựng chủ yếu từ các API tìm kiếm từ các nhà cung cấp khác nhau. Bởi vì điều này, TechCrunch mô tả các dịch vụ như một công cụ tìm kiếm "lai" (không nguyên gốc). Tuy nhiên, nó tạo ra các trang có nội dung riêng của nó, và do đó tương tự như Mahalo, Kosmix và Searchme. 
+

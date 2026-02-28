@@ -1,0 +1,6 @@
+Trạng thái dừng
+
+Trạng thái dừng là trạng thái lượng tử thuần nhất của hệ với tất cả các quan sát là độc lập với thời gian. Nó là một vectơ riêng của hàm Hamilton. Điều này tương ứng với một trạng thái có năng lượng xác định duy nhất (thay vì một chồng chất lượng tử các năng lượng khác nhau). Nó cũng được gọi là vector riêng năng lượng, trạng thái riêng năng lượng, hàm riêng năng lượng, hoặc eigenket năng lượng. Nó rất giống với khái niệm quỹ đạo nguyên tử và quỹ đạo phân tử trong hóa học, với một số khác biệt nhỏ giải thích dưới đây.
+Phân rã tự phát.
+là quá trình phóng xạ của một hạt nhân không bền, kèm theo sự tạo ra các hạt và có thể kèm theo sự phát ra các bức xạ điện từ.
+

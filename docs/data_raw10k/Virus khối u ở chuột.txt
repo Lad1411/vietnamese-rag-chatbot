@@ -1,0 +1,12 @@
+Virus khối u ở chuột
+
+Virus khối u ở chuột (MMTV) là một retrovirus lây truyền qua sữa, có tính chất như virus HTL, virus HIV và BLV. Virus thuộc chi "Betaretrovirus". Năm 1936 John Joseph Bittner trong khi đang làm việc tại Phòng thí nghiệm Jackson tại Bar Harbor, Maine là người đề cập đến khái niệm "nhân tố trong sữa". Bittner đã đưa ra giả thuyết rằng một tác nhân gây ung thư, hay "nhân tố trong sữa", có thể được truyền từ những chuột cái bị ung thư vú sang chuột non chính là một loại virus trong sữa mẹ. Phần lớn các khối u ở vú chuột là do virus khối u ở chuột gây ra.
+Lây nhiễm và vòng đời.
+Một số chủng chuột mang virus nội sinh, nhưng nó cũng được truyền thẳng qua sữa từ mẹ sang con. Nó chứa dưới đoạn DNA của provirus được tích hợp trong DNA của tế bào lympho tuyến sữa. Các virus này được vận chuyển qua đường tiêu hóa đến các bản vá Peyer, nơi chúng lây nhiễm các đại thực bào của vật chủ mới và sau đó là các tế bào lympho.
+Virus khối u ở chuột (MMTV) trước đây được phân loại là một retrovirus đơn giản; tuy nhiên, gần đây đã được chứng minh là retrovirus phức tạp. MMTV mã hóa một protein tạo ra mRNA tự điều chỉnh bổ sung, điều hòa, tương tự như protein điều hòa của HIV, hội chứng suy giảm miễn dịch mắc phải ở người.
+MMTV có thể được chuyển qua một con đường ngoại sinh hoặc nội sinh. Nếu virus được truyền ngoại sinh, nó sẽ được truyền từ chuột mẹ sang chuột con thông qua sữa.
+Ngoài ra, chuột con có thể bị truyền dọc thông qua nhiễm trùng nội sinh, di truyền gen của virus trực tiếp từ cá thể mẹ trong dòng mầm. Những con chuột bị nhiễm bệnh theo cách này có tỷ lệ xuất hiện khối u cao hơn. Một retrovirus được coi là nội sinh với vật chủ sau khi DNA provirus được đưa vào DNA nhiễm sắc thể. Do đó, những con chuột có MMTV nội sinh có DNA của virus trong mọi tế bào của cơ thể, trên cơ sở virus có trong DNA của tinh trùng hoặc tế bào trứng được thụ tinh.  
+Phản ứng nội tiết DNA tích hợp của MMTV.
+MMTV nội sinh phản ứng với toàn bộ các loại hormone điều chỉnh sự phát triển và tiết sữa bình thường, phản ứng đã được chứng minh với các hormone steroid (androgen, glucocorticoids và progestin), cũng như prolactin.
+Khi chuột đến tuổi dậy thì, virus bắt đầu biểu hiện qua mRNA của nó trong các mô nhạy cảm với estrogen. Kết quả là, sau khi dậy thì, tất cả các tế bào động vật có vú sẽ chứa retrovirus hoạt động và bắt đầu sao chép trong bộ gen và biểu hiện RNA thông tin virus trong tất cả các tế bào mô vú mới.
+

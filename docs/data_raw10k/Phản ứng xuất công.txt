@@ -1,0 +1,7 @@
+Phản ứng xuất công
+
+Trong nhiệt động hóa học, một phản ứng xuất công (exergonic reaction) là một phản ứng hóa học trong đó biến thiên năng lượng tự do là âm (có một sự giải phóng năng lượng tự do tổng thể). Điều này cho thấy một phản ứng tự phát nếu hệ là kín và các nhiệt độ đầu và cuối là bằng nhau. Đối với các quá trình xảy ra trong một hệ kín ở áp suất và nhiệt độ không đổi, năng lượng tự do Gibbs được sử dụng, trong khi năng lượng tự do Helmholtz là phù hợp cho các quá trình xảy ra ở thể tích và nhiệt độ không đổi. Bất kỳ phản ứng nào xảy ra ở nhiệt độ không đổi mà không cần năng lượng điện hay photon đầu vào là phản ứng xuất công, theo định luật thứ hai của nhiệt động lực học. Một ví dụ là sự hô hấp tế bào.
+Sự giải phóng năng lượng tự do, "G", trong một phản ứng xuất công (tại áp suất và nhiệt độ không đổi) được ký hiệu bởi
+Mặc dù các phản ứng xuất công được nói là xảy ra "tự phát", điều này không có nghĩa là phản ứng sẽ xảy ra ở một tốc độ quan sát được. Chẳng hạn, sự tự oxy hóa-khử của hydro peroxide giải phóng năng lượng tự do nhưng rất chậm nếu không có một chất xúc tác phù hợp.
+Một cách tổng quát, các thuật ngữ xuất công và thu công chỉ đến sự thay đổi năng lượng tự do trong bất kỳ quá trình nào, không chỉ có phản ứng hóa học. Trong khi đó, các thuật ngữ tỏa nhiệt và thu nhiệt chỉ đến sự thay đổi entanpi trong một hệ kín trong một quá trình, thường gắn với sự trao đổi nhiệt lượng.
+

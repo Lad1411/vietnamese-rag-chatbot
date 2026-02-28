@@ -1,0 +1,19 @@
+Akismet
+
+Akismet (viết tắt của Automatic kismet) là một dịch vụ xử lý và lọc thư rác cho website và trình cắm WordPress từ các nội dung bình luận, theo dõi lại và tin nhắn trên các biểu mẫu liên hệ gửi đến. Hệ thống hoạt động bằng cách kết hợp thông tin về spam được ghi lại trên tất cả các trang web do người sử dụng Akismet tham gia, sau đó ứng dụng sử dụng các quy tắc để chặn spam từ khách truy cập trong tương lai.
+"Akismet" sẽ kiểm tra tra các bình luận đăng tải thông qua biểu mẫu liên hệ (contact form) trên website của người sở hữu và đối chiếu với cơ sở dữ liệu toàn cầu nhằm bảo vệ website của họ khỏi các nội dung độc hại, thư rác hay các thông tin vô nghĩa. Ngoài ra, người sử dụng dịch vụ Akismet có thể xem trước được các nội dung gây phiền toái mà Akismet nắm rõ tại trang “Bình luận” trong giao diện quản trị của họ.
+Tính năng cho người sử dụng.
+Akismet sở hữu một số tính năng chính gồm:
+Riêng đối với khách truy cập, hệ thống sẽ phản hồi tới một thông báo "Đang chờ kiểm duyệt".
+Lịch sử hình thành.
+Người sáng lập Công ty Automattic, là Matt Mullenweg, anh đã quyết định tạo ra "Akismet" dựa trên ý tưởng để mẹ anh có thể viết blog trực tuyến một cách an toàn.
+Năm 2005, các cuộc thảo luận về cách đối phó chống spam bình luận và một số plug-in đã có sẵn. Nỗ lực đầu tiên của Mullenweg là một trình cắm JavaScript đã sửa đổi biểu mẫu nhận xét và ẩn các trường cú pháp, nhưng trong vài giờ sau khi ra mắt hệ thống, những kẻ gửi thư rác đã tải xuống, tìm hiểu cách hoạt động.
+Vào cuối năm 2005, Mullenweg đã ra mắt plugin Akismet hỗ trợ cho WordPress.
+Kích hoạt.
+Để sử dụng ứng dụng, người dùng cần phải có khóa API. Khóa này là cần thiết để một trang web giao tiếp với các máy chủ Akismet.
+Giấy phép công cộng.
+Phần mềm Akismet được phát hành theo giấy phép GNU-GPL. Tuy nhiên, cả mã nguồn và thuật toán cơ bản của Akismet đều không được công bố rộng rãi dịch vụ miễn phí cho mục đích sử dụng cá nhân và phi thương mại, trong khi gói đăng ký hàng tháng được cung cấp trong các trường hợp khác.
+Chỉ trích.
+Trong quá khứ trước đó, những người sử dụng ứng dụng bộ lọc thư này đã chỉ trích Akismet vì hệ thống đã đưa ra các kết quả sai xác thực. Những kết quả sai lại là những nhận xét hợp pháp lại bị Akismet đánh dấu là spam. Điều này có thể xảy ra vì nhiều lý do.
+Một trong những lý do phổ biến nhất là nếu lời bình luận của khách truy cập bị một số trang web đánh dấu là spam, thì Akismet sẽ học thuật toán cách đánh dấu tất cả nhận xét của người truy cập đó.
+

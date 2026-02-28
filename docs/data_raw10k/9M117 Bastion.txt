@@ -1,0 +1,15 @@
+9M117 Bastion
+
+ 
+9M117 Bastion là tổ hợp tên lửa chống tăng bám chùm laser do Nga chế tạo. Nó là một trong số những tổ hợp vũ khí riêng biệt bao gồm tổ hợp tên lửa 9K116-1 Bastion (AT-10 Stabber), 9K118 Sheksna (AT-12 Swinger), Kastet và 3UBK12 trang bị cho BMP-3. Đạn 100 mm trang bị nằm 1983. AT-10 Stabber là tên ký hiệu NATO của tổ hợp này.
+Phát triển.
+AT-8 Songster là tổ hợp tên lửa chống tăng phóng từ ống đầu tiên của Liên Xô được đưa vào trang bị, tuy nhiên nó chỉ được trang bị hạn chế cho một số đơn vị tiền tuyến. Việc phát triển bắt đầu vào cuối thập niên 1970 đối với thế hệ thứ ba của đạn dẫn hướng điều khiển, loại đạn này sử dụng dẫn hướng laser thay vì dẫn hướng radio. Hệ dẫn hướng được phát triển bởi Igor Aristarkhov, và đạn tên lửa được phát triển bởi Petr Komonov.
+9M117 Bastion được phát triển với mục đích nâng cáo hỏa lực tầm xa của xe tăng T-55 và T-62. Thêm nữa, một chương trình đã được bắt đầu để phát triển thế hệ tiếp theo của AT-8 Songster cho các xe tăng đời mới trang bị pháo 125 mm. Cả đạn thường và đạn tên lửa đều sử dụng dẫn hướng laser. Một hình nón chia thành các vùng được chiếu từ đèn laser của xe tăng, mỗi vùng có tần số hay điều chế khác nhau. Đạn tên lửa có một cửa sổ nhỏ ở phía sau gắn một cảm biến để phát hiện sự điều chế ánh sáng. Sử dụng sự điều chế này, đạn tên lửa tự lái, duy trì vị trí của nó trong hình nón.
+Miêu tả.
+Đạn 100 mm tương tự như đạn chống tăng 100 mm bình thường, và nó được nạp và phóng trong cùng một kiểu. Loại đạn này sử dụng một thuốc phóng đã giảm chất nổ để phóng đạn ra khỏi nòng pháo với tốc độ 400–500 m/s. Sau khi rời nòng pháo, một vỏ nhỏ sẽ rơi từ cửa sổ xuống phía sau của đạn tên lửa. Động cơ tên lửa được khởi động 1.5 giây sau khi bắn tên lửa, và nó cháy trong 6 giây.
+Tên lửa có thời gian bay đến mục tiêu cách 4000 mét là khoảng 12 giây, và xác suất trúng mục tiêu có kích cỡ xe tăng là khoảng 80%. Sau 26 đến 41 giây, tên lửa sẽ tự hủy.
+Các biến thể.
+Đạn của tổ hợp 9M117 "Bastion"; xuyên giáp trung bình 600 mm RHA sau giáp ERA
+Đạn của tổ hợp 9M117M "Kan" trang bị đầu nổ nối tiếp HEAT; xuyên giáp trung bình 650 mm RHAe sau giáp ERA
+Đạn của tổ hợp 9M117M1 "Arkan" trang bị đầu nổ nối tiếp HEAT với tầm bắn 100–6.000 m; xuyên giáp trung bình 750 mm RHAe sau giáp ERA
+

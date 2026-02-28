@@ -1,0 +1,7 @@
+AC0
+
+AC0 là một lớp độ phức tạp trong độ phức tạp mạch. Nó là lớp nhỏ nhất trong cấp bậc AC, bao gồm tất cả các mạch có chiều sâu O(1) và kích thước đa thức, với cổng AND và cổng OR có fan-in (số dữ liệu vào) không giới hạn. (cổng NOT chỉ được sử dụng cho dữ liệu vào). Nó bao hàm lớp NC0 (chỉ cho phép cổng AND và OR với fan-in là hằng số).
+Năm 1984, Furst, Saxe, và Sipser chứng minh rằng không thể kiểm tra tính chẵn lẻ của dữ liệu vào bằng bất kì mạch AC0 nào.
+Do đó, AC0 không bằng NC1, do tồn tại một gia đình các mạch trong NC1 kiểm tra được tính chẵn lẻ.
+Năm 2008, Mark Braverman đã chứng minh các mạch trong AC0 không thể phân biệt được phân bố với độ độc lập đa thức của lôgarit của kích thước với phân bố ngẫu nhiên thực sự.
+

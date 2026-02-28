@@ -1,0 +1,45 @@
+Ma sát
+
+Trong vật lý học, ma sát là một loại lực cản xuất hiện giữa các bề mặt vật chất, chống lại xu hướng thay đổi vị trí tương đối giữa hai bề mặt. (Nói đơn giản là các lực cản trở chuyển động của một vật, tạo ra bởi những vật tiếp xúc với nó, được gọi là lực ma sát.)
+Lực ma sát làm chuyển hóa động năng của chuyển động tương đối giữa các bề mặt thành năng lượng ở dạng khác. Việc chuyển hóa năng lượng thường là do va chạm giữa phân tử của hai bề mặt gây ra chuyển động nhiệt hoặc thế năng dự trữ trong biến dạng của bề mặt hay chuyển động của các electron, được tích lũy một phần thành điện năng hay quang năng. Trong đa số trường hợp trong thực tế, động năng của các bề mặt được chuyển hóa chủ yếu thành nhiệt năng.
+Về bản chất vật lý, lực ma sát xuất hiện giữa các vật thể trong cuộc sống là lực điện từ, một trong các lực cơ bản của tự nhiên, giữa các phân tử, nguyên tử.
+Có thể xấp xỉ lực ma sát tỷ lệ với lực ép hai bề mặt lên nhau, áp lực "F"0 vuông góc với hai bề mặt, và hệ số ma sát, "k", giữa các vật liệu:
+Phân loại.
+Có ba loại lực ma sát: ma sát trượt, ma sát nghỉ, ma sát lăn.
+Ma sát nghỉ.
+"Ma sát nghỉ" (hay còn được gọi là ma sát tĩnh) là lực xuất hiện giữa hai vật tiếp xúc mà vật này có xu hướng chuyển động so với vật còn lại nhưng vị trí tương đối của chúng chưa thay đổi. Ví dụ như, lực ma sát nghỉ ngăn cản một vật định trượt (chuẩn bị trượt nhưng vị trí tương đối vẫn chưa thay đổi nhiều - thay đổi ít) trên bề mặt nghiêng. Hệ số của ma sát nghỉ, thường được ký hiệu là "μ"t, thường lớn hơn so với hệ số của ma sát động. Lực ban đầu làm cho vật chuyển động thường bị cản trở bởi ma sát nghỉ
+Một ví dụ khác về lực ma sát nghỉ là: lực ma sát nghỉ ngăn cản khiến cho bánh xe khi mới khởi động lăn không được nhanh như khi nó đang chạy. Mặc dù vậy khi bánh xe đang chuyển động, bánh xe vẫn chịu tác dụng của lực ma sát động. Cho nên lực ma sát nghỉ lớn hơn lực ma sát động.
+Lực ma sát nghỉ giúp cho vật không bị tác dụng bởi lực khác.
+Giá trị lớn nhất của lực ma sát nghỉ, khi vật bắt đầu chuyển động, hay ma sát nghỉ cực đại, được tính bằng công thức:
+với:
+Ma sát động.
+"Ma sát động" xuất hiện khi một vật chuyển động so với vật còn lại và có sự cọ xát giữa chúng. Hệ số của ma sát động thường nhỏ hơn hệ số ma sát nghỉ. Mỗi loại ma sát động lại có một ký hiệu khác nhau:
+Các loại ma sát động:
+Ma sát trượt.
+"Lực ma sát" là lực cản trở chuyển động của vật này so với vật khác. "Lực ma sát" xuất hiện giữa bề mặt tiếp xúc của hai vật và phụ thuộc vào bề mặt tiếp xúc, độ lớn của áp lực, không phụ thuộc vào diện tích tiếp xúc và tốc độ của vật.
+Biểu thức: formula_2
+Trong đó:
+formula_3: độ lớn của lực ma sát trượt (N)
+formula_4: hệ số ma sát trượt
+N: Độ lớn áp lực (phản lực) (N)
+Hệ số ma sát.
+Hệ số ma sát không phải là một đại lượng có đơn vị, nó biểu thị tỉ số của lực ma sát nằm giữa hai vật trên lực tác dụng đồng thời lên chúng. Hệ số ma sát phụ thuộc vào chất liệu làm nên vật; ví dụ như, nước đá trên thép có hệ số ma sát thấp (hai vật liệu có thể trượt dễ dàng trên bề mặt của nhau), cao su trên mặt đường có hệ số ma sát lớn(hai loại vật liệu không thể dễ dàng trượt trên bề mặt của nhau). Các hệ số ma sát có thể nằm trong khoảng từ 0 cho tới một giá trị lớn hơn 1. Trong điều kiện tốt, lốp xe trượt trên bê tông có thể tạo ra hệ số ma sát với giá trị là 1,7.
+Lực ma sát luôn luôn có xu hướng chống lại chuyển động (đối với lực ma sát động) hoặc xu hướng chuyển động (đối với ma sát nghỉ) giữa hai bề mặt tiếp xúc nhau. Ví dụ như, một hòn đá trượt trên băng đã chịu tác dụng của lực ma sát động làm chậm nó lại. Một ví dụ về lực ma sát chống lại xu hướng chuyển động của vật, bánh xe của một chiếc xe đang tăng tốc chịu tác dụng của lực ma sát hướng vế phía trước; nếu không có nó bánh xe sẽ bị trượt ra phía sau. Chú ý rằng trong trường hợp này lực ma sát không chống lại chiều chuyển động của phương tiện mà nó chống lại xu hướng trượt trên đường của lốp xe.
+Hệ số ma sát là một đại lượng mang tính thực nghiệm; nó được xác định ra trong quá trình thí nghiệm chứ không phải từ tính toán. Những bề mặt ráp có khả năng tạo nên những giá trị cao hơn cho hệ số ma sát. Hầu hết các vật liệu khô kết hợp với nhau cho ta hệ số ma sát nằm trong khoảng từ 0.3 đến 0.7. Các giá trị ngoài tầm này thường rất hiếm gặp, nhưng Teflon có thể có hệ số ma sát thấp với giá trị là 0,04. Hệ số ma sát có giá trị không chỉ xuất hiện trong trường hợp bay lên nhờ có từ trường. Cao su trên các mặt tiếp xúc khác thường có hệ số ma sát nằm trong khoảng 1,0 đến 2.0.
+Một số hệ số ma sát.
+Trong điều kiện nhất định, một số vật liệu có hệ số ma sát rất thấp. Ví dụ như graphite (nhiệt phân có trật tự cao) mà hệ số ma sát là dưới 0,01.
+Kiểu này được gọi là siêu trơn.
+Ứng dụng của ma sát trong cuộc sống xã hội.
+Lực ma sát có thể được ứng dụng để làm biến dạng các bề mặt như trong kỹ thuật đánh bóng, mài gương, sơn mài... Nó được dùng để hãm tốc độ các phương tiện giao thông, chuyển động năng của phương tiện thành nhiệt năng và một phần động năng của Trái Đất.
+Nhiệt năng sinh ra bởi lực ma sát còn được ứng dụng để đánh lửa, trong đá lửa, hoặc các dụng cụ tạo lửa của người tiền sử như theo một số giả thuyết.
+Giảm lực ma sát.
+Lực ma sát cũng gây nhiều ảnh hưởng đôi khi ngược với mong muốn. Nó ngăn trở chuyển động, gây thất thoát năng lượng. Nó mài mòn các hệ thống cơ học cho đến lúc các hệ thống này bị biến dạng vượt qua ngưỡng cho phép của thiết kế. Nhiệt năng sinh ra bởi lực ma sát có thể gây chảy hoặc biến chất vật liệu, thay đổi hệ số ma sát. Trong các trường hợp như vậy, có thể áp dụng các phương pháp làm giảm ma sát liệt kê dưới đây.
+Chuyển ma sát trượt thành ma sát lăn.
+Các ổ bi, chuyển ma sát trượt thành ma sát lăn, giúp giảm đáng kể ma sát trong các hệ thống cơ học.
+Giảm ma sát tĩnh.
+Đối với các đoàn tàu hỏa trước đây, khi khởi động, đầu tàu được đẩy giật lùi, tạo khe hở giữa các toa tàu, trước khi tiến. Động tác này giúp đầu tàu kéo từng toa tàu một, chỉ phải chống lại lực ma sát tĩnh của mỗi toa một lúc.
+Thay đổi bề mặt.
+Việc sử dụng các chất bôi trơn, như dầu mỡ hay bột than chì, giữa các bề mặt rắn có tác dụng giảm hệ số ma sát.
+Hiện tượng siêu trơn vừa được khám phá đối với than chì: một lượng rất nhỏ động năng bị chuyển thành nhiệt năng nhờ vào tương tác giữa các điện tử và/hoặc dao động mạng nguyên tử.
+Bôi trơn âm học dùng âm thanh để tạo ra tương tác giảm ma sát.
+

@@ -1,0 +1,10 @@
+Liên minh Dữ liệu Hành tinh Quốc tế
+
+Liên minh Dữ liệu Hành tinh Quốc tế, viết tắt là IPDA (International Planetary Data Alliance) là một "tổ chức phi chính phủ, phi lợi nhuận quốc tế" hoạt động trong lĩnh vực liên kết chia sẻ dữ liệu nghiên cứu hành tinh.
+IPDA thành lập năm 2006 . Năm 2008, "Ủy ban Nghiên cứu Vũ trụ" (COSPAR) quyết định IPDA là cơ quan chính thức để thiết lập các tiêu chuẩn trên thế giới về việc lưu trữ dữ liệu hành tinh.
+Hoạt động.
+IPDA quan hệ đối tác hợp tác chặt chẽ để duy trì chất lượng và hiệu suất của dữ liệu (bao gồm cả các định dạng dữ liệu) từ nghiên cứu hành tinh bằng cách sử dụng các công cụ trong không gian.
+Nhiệm vụ cụ thể bao gồm việc thúc đẩy sự giao lưu quốc tế các dữ liệu khoa học có chất lượng cao, được tổ chức theo một tập hợp các tiêu chuẩn về quản lý dữ liệu.
+Hệ thống dữ liệu hành tinh của NASA là tiêu chuẩn de facto cho việc lưu trữ dữ liệu hành tinh.
+Tổ chức thành viên tham gia Hội đồng quản trị của nó và cả các dự án cụ thể liên quan đến các tiêu chuẩn xây dựng và các hệ thống tương thích.
+

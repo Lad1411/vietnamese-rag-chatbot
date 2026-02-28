@@ -1,0 +1,59 @@
+Số nguyên
+
+Trong toán học, số nguyên được định nghĩa một cách thông dụng là một số có thể được viết mà không có thành phần phân số. Ví dụ: 21, 4, 0 và −2048 là các số nguyên, trong khi 9,75, và formula_1 không phải là số nguyên.
+Tập hợp các số nguyên bao gồm 0, các số tự nhiên dương (, , ...), còn được gọi là "số đếm", và các nghịch đảo phép cộng của chúng (là các số nguyên âm, tức là, −1, −2, −3, ...). Tập hợp các số nguyên thường được biểu thị bằng chữ in đậm () hoặc chữ lớn có viền formula_2 với chữ cái "Z" bắt nguồn từ tiếng Đức "Zahlen" (nghĩa là "số").
+formula_3 là một tập hợp con của tập hợp các số hữu tỷ formula_4, đến lượt nó là một tập hợp con của tập hợp các số thực formula_5. Giống như tập hợp các số tự nhiên, formula_3 là tập hợp vô hạn đếm được.
+Các số nguyên tạo thành nhóm nhỏ nhất và vành nhỏ nhất chứa các số tự nhiên. Trong lý thuyết số đại số, các số nguyên đôi khi được coi là số nguyên hữu tỉ để phân biệt chúng với các số nguyên đại số tổng quát hơn. Trên thực tế, số nguyên (hữu tỉ) là số nguyên đại số mà cũng là số hữu tỉ.
+Ký hiệu.
+Biểu tượng formula_3 có thể được dùng để biểu thị các tập hợp khác nhau, với cách sử dụng khác nhau giữa các tác giả khác nhau: formula_8, formula_9 hoặc formula_10 đối với các số nguyên dương, formula_11 hoặc formula_12 cho các số nguyên không âm và formula_13 cho các số nguyên khác 0. Một số tác giả sử dụng ký hiệu formula_14 cho các số nguyên khác 0, trong khi những người khác sử dụng nó cho các số nguyên không âm hoặc cho . Ngoài ra, formula_15 được sử dụng để biểu thị tập các số nguyên modulo (tức là tập các lớp đồng dư của các số nguyên) hoặc tập các số nguyên -adic.
+Tính chất.
+Giống như các số tự nhiên, formula_3 là tập hợp đóng với các phép toán cộng và nhân, tức là tổng và tích của hai số nguyên bất kỳ là một số nguyên. Tuy nhiên, với việc bao gồm cả các số nguyên âm (và quan trọng là 0), formula_3, không giống như các số tự nhiên, cũng là tập hợp đóng với phép trừ.
+Các số nguyên tạo thành một vành đơn vị, vốn là vành cơ bản nhất, theo nghĩa sau: đối với bất kỳ vành đơn vị nào, đều có một phép đồng cấu duy nhất từ các số nguyên vào vành này. Thuộc tính phổ quát này, cụ thể là một đối tượng ban đầu trong loại vành, là đặc trưng cho vành formula_3.
+formula_3 không đóng với phép chia, vì thương của hai số nguyên (ví dụ: 1 chia cho 2) có thể không là số nguyên. Mặc dù các số tự nhiên là đóng với phép lũy thừa, nhưng các số nguyên thì không (vì kết quả có thể là một phân số khi số mũ là âm).
+Bảng sau liệt kê một số tính chất cơ bản của phép cộng và phép nhân đối với bất kỳ số nguyên , và :
+Trong ngôn ngữ của đại số trừu tượng, năm thuộc tính đầu tiên được liệt kê ở trên khẳng định rằng formula_3 là một nhóm abel với phép cộng. Nó cũng là một nhóm cyclic, vì mọi số nguyên khác 0 đều có thể được viết dưới dạng tổng hữu hạn hoặc . Trên thực tế, formula_3 với phép cộng là "nhóm tuần hoàn vô hạn duy nhất" — theo nghĩa là bất kỳ nhóm tuần hoàn vô hạn nào đều là đẳng cấu với formula_3.
+Bốn thuộc tính đầu tiên được liệt kê ở trên cho phép nhân nói rằng formula_3 cùng với phép nhân là một monoid giao hoán. Tuy nhiên, không phải mọi số nguyên đều có nghịch đảo nhân (như trường hợp của số 2), có nghĩa là formula_3 với phép nhân không phải là một nhóm.
+Tất cả các quy tắc từ bảng thuộc tính trên (ngoại trừ quy tắc cuối cùng), khi được kết hợp với nhau, nói rằng formula_3 cùng với phép cộng và phép nhân là một vành giao hoán có phần tử đơn vị. Nó là nguyên mẫu của tất cả các đối tượng của cấu trúc đại số như vậy. Chỉ những đẳng thức của biểu thức là đúng trong formula_3 cho tất cả các giá trị của biến, thì cũng là đúng trong bất kỳ vành giao hoán có đơn vị nào. Một số số nguyên khác 0 ánh xạ tới 0 trong một số vành nhất định.
+Việc thiếu các ước số của 0 trong các số nguyên (thuộc tính cuối cùng trong bảng) có nghĩa là vành giao hoán formula_3 là một miền nguyên.
+Việc thiếu các phép nghịch đảo của phép nhân, tương đương với thực tế là formula_3 không phải là đóng với phép chia, có nghĩa là formula_3 "không phải" là một trường. Trường nhỏ nhất chứa các số nguyên dưới dạng một vành con là trường các số hữu tỉ. Quá trình xây dựng các số hữu tỉ từ các số nguyên có thể được bắt chước để tạo thành trường phân số của bất kỳ miền nguyên nào. Và ngược lại, bắt đầu từ trường số đại số (phần mở rộng của số hữu tỉ), vành số nguyên của nó có thể được trích xuất, bao gồm formula_3 như là vành con của nó.
+Mặc dù phép chia thông thường không được định nghĩa trên formula_3, phép chia "với phần dư" được xác định trên chúng. Nó được gọi là phép chia Euclid, và có tính chất quan trọng sau: cho hai số nguyên và với , tồn tại các số nguyên và duy nhất sao cho và , ở đâu biểu thị giá trị tuyệt đối của . Số nguyên được gọi là "thương" và được gọi là "phần dư" của phép chia cho . Thuật toán Euclid để tính ước số chung lớn nhất hoạt động với một chuỗi các phép chia Euclid.
+Một lần nữa, trong ngôn ngữ của đại số trừu tượng, phần trên nói rằng formula_3 là một vành Euclid. Điều này ngụ ý rằng formula_3 là một vành ideal chính và bất kỳ số nguyên dương nào cũng có thể được viết dưới dạng tích của các số nguyên tố theo một cách cơ bản duy nhất. Đây là định lý cơ bản của số học.
+Thuộc tính lý thuyết thứ tự.
+formula_3 là một tập hợp có thứ tự hoàn toàn không có giới hạn trên hoặc dưới. Thứ tự của formula_3 được định nghĩa là: Một số nguyên là "dương" nếu nó lớn hơn 0 và "âm" nếu nó nhỏ hơn 0. Số không (0) được định nghĩa là không âm cũng không dương.
+Thứ tự của các số nguyên tương thích với các phép toán đại số theo cách sau:
+Vì vậy, ta kết luận rằng formula_3 cùng với thứ tự trên là một vành có thứ tự.
+Các số nguyên là nhóm abel có thứ tự hoàn toàn không tầm thường duy nhất có các phần tử dương được sắp xếp theo thứ tự hợp lý. Điều này tương đương với tuyên bố rằng bất kỳ vành đánh giá Noether nào cũng là một trường — hoặc một vành định giá vô cùng quan trọng.
+Xây dựng.
+Trong quá trình dạy học ở trường tiểu học, các số nguyên thường được định nghĩa một cách trực quan là các số tự nhiên (dương), số 0 và các số đối của các số tự nhiên. Tuy nhiên, kiểu định nghĩa này dẫn đến nhiều trường hợp khác nhau (mỗi phép toán số học cần được xác định trên mỗi tổ hợp các kiểu số nguyên) và khiến việc chứng minh rằng các số nguyên tuân theo các định luật số học khác nhau trở nên tẻ nhạt. Do đó, trong toán học lý thuyết tập hợp hiện đại, một cấu trúc trừu tượng hơn cho phép người ta xác định các phép toán số học mà không có bất kỳ phân biệt trường hợp nào thường được sử dụng để thay thế. Do đó, các số nguyên có thể được xây dựng chính thức như các lớp tương đương của các cặp số tự nhiên có thứ tự .
+Trực giác là là viết tắt của kết quả của phép trừ -. Để xác nhận kỳ vọng của chúng ta rằng và biểu thị cùng một số, chúng ta xác định quan hệ tương đương trên các cặp này với quy tắc sau:
+formula_37
+chỉ khi
+formula_38
+Phép cộng và phép nhân các số nguyên có thể được định nghĩa theo các phép toán tương đương trên các số tự nhiên; bằng cách sử dụng để biểu thị lớp tương đương có là thành viên, lớp này có:
+Số đối (hoặc phép nghịch đảo của phép cộng) của một số nguyên có được bằng cách đảo ngược thứ tự của cặp:
+formula_41
+Do đó phép trừ có thể được định nghĩa là phép cộng với nghịch đảo của phép cộng:
+formula_42
+Thứ tự tiêu chuẩn trên các số nguyên được đưa ra với bất đẳng thức:
+formula_43 khi và chỉ khi formula_44
+Dễ dàng xác minh rằng các định nghĩa này không phụ thuộc vào việc lựa chọn đại diện của các lớp tương đương.
+Mọi lớp tương đương có một thành viên duy nhất có dạng hoặc (hoặc cả hai cùng một lúc). Số tự nhiên được xác định với lớp (nghĩa là, các số tự nhiên được nhúng vào các số nguyên bằng cách ánh xạ gửi tới ) và lớp được ký hiệu (điều này bao gồm tất cả các lớp còn lại và cho lớp 2 lần do 
+Do đó, được ký hiệu là
+formula_45
+Nếu các số tự nhiên được xác định với các số nguyên tương ứng (sử dụng phép nhúng được đề cập ở trên), thì quy ước này không tạo ra sự mơ hồ.
+Ký hiệu này phục hồi biểu diễn quen thuộc của các số nguyên là } } } }.
+Một số ví dụ:
+formula_46
+Trong khoa học máy tính lý thuyết, các cách tiếp cận khác để xây dựng các số nguyên được sử dụng bởi các máy dò định lý tự động và các công cụ viết lại thuật ngữ. Số nguyên được biểu diễn dưới dạng các thuật ngữ đại số được xây dựng bằng cách sử dụng một vài phép toán cơ bản (ví dụ: zero, succ, pred) và, có thể, sử dụng các số tự nhiên, được giả định là đã được xây dựng (sử dụng phương pháp Peano).
+Tồn tại ít nhất mười cách xây dựng các số nguyên có dấu. Các cấu trúc này khác nhau theo một số cách: số lượng các phép toán cơ bản được sử dụng cho cấu trúc, số lượng (thường là từ 0 đến 2) và các loại đối số được các phép toán này chấp nhận; sự hiện diện hay vắng mặt của các số tự nhiên làm đối số của một số phép toán này và thực tế là các phép toán này có phải là hàm tạo tự do hay không, tức là cùng một số nguyên có thể được biểu diễn chỉ bằng một hoặc nhiều số hạng đại số.
+Kỹ thuật xây dựng các số nguyên được trình bày ở trên trong phần này tương ứng với trường hợp cụ thể trong đó có một cặp phép toán cơ bản duy nhất formula_47 nhận đối số là hai số tự nhiên formula_48 và formula_49 và trả về một số nguyên (bằng formula_50). Thao tác này không tự do vì số nguyên 0 có thể được viết là cặp (0,0), hoặc cặp (1,1) hoặc cặp (2,2), v.v. Kỹ thuật xây dựng này được sử dụng bởi trợ lý chứng minh Isabelle; tuy nhiên, nhiều công cụ khác sử dụng các kỹ thuật xây dựng thay thế, đáng chú ý là những kỹ thuật dựa trên các cấu trúc tự do, đơn giản hơn và có thể được thực hiện hiệu quả hơn trong máy tính.
+Máy tính.
+Một số nguyên thường là một kiểu dữ liệu nguyên thủy trong các ngôn ngữ máy tính. Tuy nhiên, kiểu dữ liệu số nguyên chỉ có thể đại diện cho một tập hợp con của tất cả các số nguyên, vì máy tính thực tế có dung lượng hữu hạn. Ngoài ra, trong biểu diễn phép bù hai phổ biến, định nghĩa cố hữu của dấu phân biệt giữa "âm" và "không âm" thay vì "âm, dương và 0 ". (Tuy nhiên, chắc chắn máy tính có thể xác định được liệu một giá trị số nguyên có thực sự là số dương hay không.) Các kiểu dữ liệu xấp xỉ số nguyên có độ dài cố định (hoặc tập hợp con) được ký hiệu là "int" hoặc Integer trong một số ngôn ngữ lập trình (chẳng hạn như Algol68, C, Java, Delphi, v.v..).
+Các biểu diễn số nguyên có độ dài thay đổi, chẳng hạn như bignum, có thể lưu trữ bất kỳ số nguyên nào vừa với bộ nhớ của máy tính. Các kiểu dữ liệu số nguyên khác được triển khai với kích thước cố định, thường là một số bit là lũy thừa của 2 (4, 8, 16, v.v.) hoặc một số chữ số thập phân (ví dụ: 9 hoặc 10).
+Lực lượng.
+Lực lượng của tập hợp các số nguyên bằng (aleph-null). Điều được dễ dàng chứng minh bằng việc xây dựng một song ánh, đó là một hàm đơn ánh và toàn ánh từ formula_3 đến formula_52. Nếu như formula_53 sau đó xem xét hàm sau:
+formula_54
+Nếu như formula_55 thì ta xem xét hàm sau:
+formula_56
+Nếu miền bị hạn chế trong formula_3 vậy thì mỗi và mọi phần tử của formula_3 có một và chỉ một phần tử tương ứng của formula_52 và theo định nghĩa của bình đẳng lực lượng thì hai tập hợp này có lực lượng bằng nhau.
+

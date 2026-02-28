@@ -1,0 +1,18 @@
+Kiểm tra Solovay-Strassen
+
+Kiểm tra Solovay-Strassen là một trong các phương pháp kiểm tra tính nguyên tố theo xác suất do Robert M. Solovay và Volker Strassen phát triển.
+Ký hiệu Legendre và tiêu chuẩn Euler.
+Ký hiệu Legendre.
+Legendre đưa ra ký hiệu mang tên ông cho số nguyên tố lẻ "p" và số nguyên "a" 
+là
+Tiêu chuẩn Euler.
+Euler chứng minh rằng với mọi số nguyên tố "p" và số a, formula_2,
+Ký hiệu Jacobi và số giả nguyên tố Euler.
+Ký hiệu Jacobi.
+Ký hiệu Jacobi là mở rộng của Ký hiệu Legendre cho số tự nhiên lẻ "n". Giả sử
+là dạng phân tích tiêu chuẩn của "n" và số nguyên "a" bất kỳ, ký hiẹu Jacobi 
+Số giả nguyên tố Euler.
+Xem tiêu chuẩn Euler là mệnh đề Q(p,a). Khi đó Q(p,a) đúng với mọi số nguyên tố "p" và mọi số tự nhiên "a", 1 &lt; "a" &lt; p.
+Thay số nguyên tố "p" bằng số lẻ "n" và ký hiệu Legendre bằng ký hiệu Jacobi, ta định nghĩa:
+trong đó formula_7 là ký hiệu Jacobi.
+

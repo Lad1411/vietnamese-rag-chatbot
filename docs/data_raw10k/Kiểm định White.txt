@@ -1,0 +1,5 @@
+Kiểm định White
+
+Trong thống kê, kiểm định White (tiếng Anh: White test) là một kiểm định thống kê kiểm tra xem phương sai thặng dư có bất biến hay không. Nếu bất biến thì tốt. Lúc đó phép hồi quy đạt tiêu chuẩn về tính hiệp phương sai đồng nhất.
+Kiểm định này, và một estimator cho heteroscedasticity-consistent standard errors lần đầu tiên được Halbert White đưa ra vào năm 1980. Kiểm định này được dùng phổ biến đến mức bài báo của White trở thành một trong những bài báo được trích dẫn nhiều nhất trong kinh tế học. Hiện tại hầu như tất cả các phép hồi quy đều sử dụng kiểm định này để kiểm tra tính đúng đắn của mô hình.
+

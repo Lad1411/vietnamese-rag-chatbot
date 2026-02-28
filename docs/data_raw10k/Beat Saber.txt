@@ -1,0 +1,13 @@
+Beat Saber
+
+Beat Saber là một trò chơi nhịp điệu thực tế ảo 2018 được tạo ra bởi studio độc lập Beat Games (trước đây có tên Hyperbolic Magnetism), trong đó người chơi chém các khối đại diện cho nhịp đập âm nhạc với một cặp lưỡi kiếm năng lượng giống như thanh kiếm ánh sáng. Trò chơi đã được phát hành để truy cập sớm cho HTC Vive, Oculus Rift, Windows Hỗn hợp thực tế trên PC Microsoft Windows, và trên PlayStation VR. Beat Saber có thể chơi được trên Linux thông qua bản phân phối Wine được sửa đổi của Valve.
+Trò chơi.
+Trò chơi bao gồm một số bài hát, mỗi bài có bốn hoặc năm mức độ khó. Trong mỗi bài hát, trò chơi trình bày cho người chơi một luồng các khối tiếp cận đồng bộ với nhịp đập và nốt nhạc của bài hát. Người chơi sử dụng bộ điều khiển chuyển động VR để sử dụng một cặp đèn chiếu sáng được sử dụng để cắt các khối. Mỗi khối được tô màu đỏ hoặc xanh dương để cho biết nên sử dụng thanh kiếm màu đỏ hoặc màu xanh để cắt nó (màu đỏ cho bên trái và màu xanh cho bên phải) và có thể được đánh dấu bằng một mũi tên cho một trong tám hướng có thể để xuyên qua khối. Ngoài ra còn có các khối có dấu chấm thay vì mũi tên, mà người chơi có thể đánh theo bất kỳ hướng nào. Khi một khối bị chém bởi một thanh kiếm, nó sẽ bị phá hủy và điểm số được trao, dựa trên chiều dài và góc của cú swing và độ chính xác của vết cắt. Ngoài ra, đôi khi có những quả mìn mà người chơi không nên đánh và những chướng ngại vật dưới dạng những bức tường sắp tới mà đầu người chơi nên tránh.
+Trong phiên bản truy cập sớm, trò chơi bao gồm chế độ một người chơi cũng như chế độ nhóm có tính năng bảng xếp hạng được tạo dựa trên tên được nhập sau mỗi bài hát được phát..
+Phát hành.
+Trò chơi được phát hành đồng thời trên Steam Early Access và Oculus Store vào ngày 1 tháng 5 năm 2018, bao gồm hai chế độ trò chơi (Đơn và Tiệc) và 10 bài hát.
+Một trình soạn thảo đã được công bố để phát hành, cho phép tạo ra các bài hát của người dùng tùy chỉnh, nhưng sau đó nó đã bị hoãn vô thời hạn. Vào ngày 25 tháng 6 năm 2018, các nhà phát triển đã thông báo rằng nhiều người chơi đang được làm việc trong trò chơi.
+Trò chơi được phát hành trên PlayStation 4 vào ngày 20 tháng 11 năm 2018. Trò chơi sử dụng Tai nghe PS VR và hai bộ điều khiển PS Move. Một chế độ kiếm đơn cũng có sẵn.
+Tiếp nhận.
+ Trong Early Access "Beat Saber" đã nhận được những đánh giá tích cực, trở thành trò chơi được đánh giá cao nhất trên Steam chưa đầy một tuần sau khi phát hành quyền truy cập sớm.
+

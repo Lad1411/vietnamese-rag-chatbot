@@ -1,0 +1,8 @@
+Định lý Bolzano–Weierstrass
+
+Nội dung của định lý: Mọi dãy vô hạn bị chặn đều chứa một dãy con hội tụ.
+Chứng minh cho định lý:
+Ta lấy ví dụ 1 dãy {Un}n là một dãy bị chặn, khi đó tồn tại hai số a, b sao cho formula_1 với mọi n thuộc N*. Ta chia [a, b] thành hai đoạn bằng nhau. Khi đó ít nhất một trong hai đoạn đó chứa vô số số hạng của dãy vì nếu không chính [a, b] chỉ chứa một số hữu hạn của dãy. Gọi [x, y] là một đoạn con có tính chất đó, ta có (y-x) = (b-a)/2. Ta lại chia [x, y] thành hai đoạn bằng nhau, và gọi [x', y'] là đoạn con chứa vô số số hạng của dãy. Ta có:
+y'-x' = formula_2
+Cứ tiếp tục như vậy ta xây dựng được dãy đoạn lồng nhau formula_3, với formula_4 (với k dần tiến tới vô cùng). Mỗi đoạn này đều chứa vô số các số hạng của dãy {Un}n.
+

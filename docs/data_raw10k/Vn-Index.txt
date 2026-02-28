@@ -1,0 +1,15 @@
+Vn-Index
+
+VnIndex thể hiện biến động giá cổ phiếu giao dịch tại TTGDCK TP.HCM. Công thức tính chỉ số áp dụng đối với toàn bộ các cổ phiếu niêm yết tại TTGDCK nhằm thể hiện xu hướng giá cổ phiếu hàng ngày.
+Phương pháp tính.
+VnIndex được Ủy ban Chứng khoán Nhà nước tính toán theo phương pháp chỉ số giá bình quân Passcher.
+VN - Index được tính theo công thức sau:
+Trong đó:
+Các trường hợp điều chỉnh và cách điều chỉnh.
+Trong đó:
+Chọn rổ đại diện.
+Rổ đại diện.
+Cho đến giữa tháng 11/2008, rổ đại diện để tính VnIndex bao gồm tất cả các cổ phiếu được niêm yết trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh.
+Danh sách công ty được chọn vào rổ đại diện.
+Chỉ số chứng khoán Việt Nam ký hiệu là VN - Index. VN - Index xây dựng căn cứ vào giá trị thị trường của tất cả các cổ phiếu được niêm yết. Với hệ thống chỉ số này, nhà đầu tư có thể đánh giá và phân tích thị trường một cách tổng quát.
+

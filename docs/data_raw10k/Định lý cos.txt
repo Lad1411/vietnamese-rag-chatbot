@@ -1,0 +1,43 @@
+Định lý cos
+
+Trong lượng giác, Định lý cos (hay công thức cosine, luật cosine hoặc Định lý al-Kashi) biểu diễn sự liên quan giữa chiều dài của các cạnh của một tam giác với cosin của góc tương ứng. Sử dụng các kí hiệu trong Hình 1, ta có thể phát biểu định lý cos dưới dạng công thức như sau: 
+Định lý cos được biểu diễn tương tự cho hai cạnh còn lại:
+Định lý cos là trường hợp tổng quát của định lý Pythagoras khi mà định lý này chỉ đúng trong tam giác vuông, khi mà góc "γ" là một góc vuông, từ đó dẫn tới formula_4 và khiến cho định lý cos suy biến trở thành định lý Pythagoras: 
+formula_5
+Định lý này được sử dụng để tính một cạnh chưa biết của tam giác - khi biết được hai cạnh còn lại và góc đối cạnh đó. 
+Ứng dụng.
+Định lý cos được dùng trong phép đạc tam giác để giải một tam giác hoặc một đường tròn. Ví dụ trong Hình 3, định lý cos được dùng để tìm:
+Công thức thứ ba có được nhờ giải phương trình bậc hai với ẩn "a". Phương trình này có hai nghiệm dương nếu một nghiệm dương nếu hoặc "c" = "b" sin "γ", và vô nghiệm nếu 
+Chứng minh.
+Sử dụng công thức tính khoảng cách.
+Trong hệ tọa độ Descartes, cho tam giác "ABC" có ba cạnh "a", "b", "c" và "γ" là góc đối diện cạnh "c" với tọa độ ba đỉnh lần lượt là
+Sử dụng công thức tính khoảng cách, ta có
+do đó
+Công thức này sử dụng được cả trường hợp tam giác nhọn và tam giác tù.
+Sử dụng công thức lượng giác.
+Hạ đường cao tương ứng với cạnh "c" như hình 4 ta có
+(Công thức trên vẫn đúng nếu "α" hoặc "β" là góc tù, khi đó đường cao nằm ngoài tam giác và cos α hoặc cos β mang dấu âm). Nhân hai vế với "c" ta được
+Tương tự ta có 
+Cộng vế theo vế hai phương trình sau ta có 
+Trừ vế theo vế phương trình đầu ta có 
+đơn giản còn
+Sử dụng định lý Pytago.
+Trường hợp tam giác tù. Euclid chứng minh đinh lý bằng cách áp dụng Định lý Pytago cho hai tam giác vuông trong Hình 5. Đặt "CH" = "d" và "BH" = "h", trong tam giác "AHB" ta có 
+và trong tam giác "CHB" ta có 
+Khai triển đa thức phương trình đầu tiên: 
+thế phương trình thứ hai vào: 
+Đây là mệnh đề 12 của Euclid trong tập 2 của bộ "Cơ sở". Chú ý rằng
+Trường hợp tam giác nhọn. Được chứng minh trong mệnh đề 13 của Euclid ngay sau mệnh đề 12: ông áp dụng Định lý Pytago cho hai tam giác vuông có được bằng cách kẻ đường cao tương ứng với một trong hai cạnh kề góc "γ" và đơn giản bằng nhị thức.
+Cách khác trong trường hợp tam giác nhọn. Dựa vào Hình 6 ta có: 
+với lưu ý rằng 
+Cũng từ Hình 6 ta có: 
+Công thức này được dùng để tính một góc khi biết hai cạnh và góc xen giữa hai cạnh đó.
+Sử dụng định lý Ptolemy.
+Vẽ đường tròn ngoại tiếp tam giác "ABC". Dựng tam giác "ABD" bằng tam giác "ABC" với "AD" = "BC" và "BD" = "AC". Hạ đường cao từ "D" và "C", cắt "AB" lần lượt tại "E" và "F". Ta có:
+Áp dụng định lý Ptolemy cho tứ giác nội tiếp "ABCD":
+Trong tam giác cân.
+Trong tam giác cân, do formula_29 nên formula_30, định lí cos trở thành:
+hay
+Sự tương đồng trong hình tứ diện.
+Cho một tứ diện với "α", "β", "γ", "δ" là diện tích bốn mặt của tứ diện đó. Ký hiệu các góc nhị diện là formula_33 và tương tự, ta có
+

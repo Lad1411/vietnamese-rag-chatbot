@@ -1,0 +1,27 @@
+Sukhoi Su-37
+
+Sukhoi Su-37 Терминатор (tên ký hiệu của NATO "Flanker-F" - Kẻ tấn công sát sườn F). Đây là loại máy bay chiến đấu đa nhiệm vụ, bay trong mọi thời tiết và là phiên bản mới nhất của dòng máy bay chiến đấu dựa trên mẫu máy bay chiến đấu Su-27, vốn đã được phát triển vào năm 1977 bởi Phòng thiết kế thử nghiệm Sukhoi ở Moskva.
+Khả năng thao diễn.
+Đặc trưng mới của khả năng thao diễn siêu việt của Su-37 là các động cơ đẩy hai chiều vừa có hướng vừa có tốc độ tốt, cho phép máy bay hồi phục sau khi xoay tròn và tắt máy ở hầu như mọi độ cao, và nó cũng được trang bị hệ thống kiểm soát fly-by-wire số hoàn toàn.
+Chuyến bay đầu tiên của mẫu Su-37 thứ nhất diễn ra vào 2 tháng 4 năm 1996, khi nó xuất hiện ở triển lãm hàng không Moskva. Sau đó nó tiếp tục có một chuyến bay biểu diễn ở triển lãm hàng không Farnborough 96. Máy bay đã chứng tỏ khả năng thao diễn mới, như khả năng chúi mũi ra khỏi hướng bay ở một số giai đoạn, quay mũi quanh 360 độ và hồi phục sau khi rơi vào vệt khí đuôi bằng cách lao vào vệt khí này của một máy bay khác. Vốn ngân sách dành cho chiếc máy bay này đã bị ngắt một khoảng thời gian, nhưng sau đó nó được tiếp tục năm 1999 và Su-37 đang trải qua các chuyến bay thử nghiệm.
+Buồng lái.
+Buồng lái được trang bị bốn màn hình hiển thị tinh thể lỏng (HUD) cho các dữ liệu chiến lược và hoa tiêu, các hệ thống máy tính và thanh điều khiển các điều kiện hoạt động (HOTAS). Phi công có một thanh điều khiển di chuyển ngắn ở bên cạnh thay cho thanh điều khiển trung tâm, một tay cầm điều khiển điện tử và điều khiển sức phụt động cơ strain-gauging (pressure-to-throttle). Các thiết bị điện tử của máy bay được chế tạo tại xưởng Kronstadt, Sankt-Peterburg.
+Vũ khí.
+Su-37 có thể mang tới 14 tên lửa không đối không và tới 8.000 kg đạn dược. Mười hai điểm treo cứng bên ngoài có thể mang các tên lửa không đối không, tên lửa không đối đất, bom, rocket và ECM (bộ phận phản ứng điện tử). Máy bay được lắp một súng GSh-301 30 mm với tốc độ bắn tối đa 1.500 viên/phút.
+Máy bay được trang bị tên lửa không đối không tầm ngắn Vympel R-73E có radar dẫn đường. R-73E (tên ký hiệu của NATO AA-11 Archer) là một tên lửa cận chiến mọi hướng có khả năng tiêu diệt các mục tiêu đang đuổi phía sau hay đang đối đầu phía trước ở độ cao từ 0.02 và 20 km, và mục tiêu g-load lên đến 12 g. Tên lửa không đối không Vympel RVV-AE (AA-12 Adder) cũng được gọi là R-77, có thể chặn đứng các mục tiêu có tốc độ lên tới 3.600 km/h và ở độ cao từ 0.02 đến 25 km.
+Su-37 có thể được lắp thêm các tên lửa không đối đất như tên lửa tầm ngắn Kh-25 (AS-12 Kegler) và Kh-29 (AS-14 Kedge) với đầu đạn 317 kg.
+Radar.
+Máy bay được lắp đặt một radar mạng quét điện tử bị động, chia pha xung Doppler đa chức năng theo dõi phía trước NO-11M có thể truy theo 15 mục tiêu cùng lúc và chỉ định mục tiêu cũng như dẫn đường cho tên lửa không đối không. NO-11M được chế tạo bởi NIIP, Viện nghiên cứu khoa học thiết kế công cụ. Nó cũng có radar theo dõi phía sau NIIP NO-12 và hệ thống giám sát, kiểm soát bắn.
+Động cơ.
+Su-37 được trang bị hai động cơ phản lực cánh quạt đẩy trong AL-31FU TVC ("thrust vector control" - kiểm soát hướng và tốc độ phụt). Động cơ này được phát triển bởi Phòng thiết kế động cơ Lyulka (NPO Saturn) và dựa trên nguyên mẫu động cơ phản lực cánh quạt đẩy trục đôi AL-31F của chiếc Su-27. Động cơ được thiết kế máy nén bốn giai đoạn áp lực thấp (LP), máy nén chín giai đoạn áp lực cao (HP), buồng đốt hình khuyên và các turbine áp lực thấp và áp lực cao một giai đoạn, đốt lần hai ("afterburner") và máy trộn. Mỗi động cơ cung cấp sức đẩy 83.36 kN và tăng lên 142 kN khi tăng lực và có thể lái được từ 15 đến +15 độ dọc theo chiều đứng máy bay.
+Bộ phận kiểm soát hướng và tốc độ phụt được tích hợp hoàn toàn với hệ thống kiểm soát bay digital. Miệng TVC có thể làm lệch cả theo kiểu đồng thời và khác biệt dựa vào thao diễn. Miệng được nối với khớp xoay hình khuyên và có thể được di chuyển trong pitch của máy bay bằng hai cặp kích thủy lực. TVC cho phép máy bay trình diễn ở tốc độ gần bằng không mà không bị giới hạn về góc bắn. Bộ phận kiểm soát này có thể được phi công điều khiển bằng tay hay hoàn toàn tự động nhờ hệ thống kiểm soát bay.
+Xem thêm.
+Danh sách tiếp theo.
+Su-33 -
+Su-34 -
+Su-35 -
+Su-37 -
+Su-38 -
+Su-39 -
+Su-47
+

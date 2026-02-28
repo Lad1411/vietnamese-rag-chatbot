@@ -1,0 +1,17 @@
+Candy Crush Saga
+
+Candy Crush Saga là trò chơi điện tử được phát triển bởi hãng King Mobile. Trò chơi đã thu hút được lượng người chơi khổng lồ và mang về những khoản lợi nhuận lớn. Candy Crush Saga đã chạm mốc 1 tỉ lượt tải về trên App Store, Google Play và Facebook từ tháng 4 năm 2020, đứng thứ hai thế giới trong bảng xếp hạng "các trò chơi có nhiều người chơi nhất". Theo Appdata, Candy Crush Saga đứng đầu danh sách các ứng dụng có doanh thu cao nhất trên ba loại hệ điều hành: Android, iOS, Windows trong khoảng thời gian mới ra mắt. Doanh thu 1,9 tỷ và lợi nhuận 567 triệu đô la Mỹ đã giúp King nằm trong top 10 nhà phát hành game có tổng doanh thu cao nhất.
+Thiết kế đồ hoạ.
+Giới thiệu chung.
+Candy Crush Saga được thiết kế với hình ảnh kẹo ngọt, gameplay đơn giản nhưng thú vị. Số lượng màn chơi phong phú, hệ thống nhiệm vụ gồm năm loại được sắp xếp xen kẽ sẽ luôn tạo sự mới mẻ cho người chơi. Độ khó của game chỉ ở mức vừa phải nhưng lại tạo sự bất ngờ cho người chơi. Ví dụ như ở ván 100, bạn phải chơi đi chơi lại nhiều lần mới qua cửa thì ở ván 101, chỉ cần vài nước đi là bạn đã chiến thắng. Điều đó khiến gamer cảm thấy có động lực vượt qua từng màn, không nản chí khi gặp màn chơi khó. Khác với Bejeweled, ngoài các màn chơi giới hạn thời gian (ví dụ như ở ván 20), Candy Crush Saga không yêu cầu nhanh tay mà cho game thủ suy nghĩ để tìm ra giải pháp hợp lý.
+Các màn chơi.
+Trò chơi hiện có hơn 10800 màn trên phiên bản di động và 10900 màn trên phiên bản Windows 10 (tính đến ngày 22 tháng 12 năm 2021). Trong thế giới thực, người chơi sẽ tham gia thế giới kỳ diệu cùng Mr.Toffee và Tiffi cũng như giúp đỡ những người bạn ở đây. Các tập sẽ được cập nhật cho người chơi hàng tuần (thông thường 30-60 bàn/tuần). Tuy nhiên, nếu người chơi chơi đến tận cùng thì sẽ chờ đợi những màn tiếp theo, trước đây thường được cập nhật vào thứ tư hàng tuẩn, nhưng qua năm 2020 này, có lẽ được cập nhật nhanh hơn.
+Cách chơi, dụng cụ và công cụ trong trò chơi.
+Cách chơi:.
+Ghép 3 kẹo có cùng dạng thẳng hàng, ngang hàng. Mỗi lượt ghép được coi là một nước. Ghép 4 kẹo theo một hàng hoặc một cột sẽ ra kẹo sọc (striped candy) và ghép kẹo theo hình chữ L hoặc T, hiếm khi + sẽ ra kẹo bọc (wrapped candy). Ghép 5 kẹo thẳng thành một hàng hoặc một cột trở lên sẽ ra quả bom (colored bomb). Tùy thuộc vào từng bàn và yêu cầu của chúng, người chơi cần hoàn thiện yêu cầu bất kể có bao nhiêu sao đi nữa (trừ bàn có yêu cầu giới hạn về điểm). Hoàn thành sẽ chiến thắng. Các bàn được phân cấp theo các độ khó khác nhau và sẽ có các vật phẩm trợ lực để mình qua (xem phần 3 mục II: công cụ hỗ trợ)
+Nhận xét và kĩ thuật.
+Đại diện của King chia sẻ: "Candy Crush Saga có mặt trên nhiều nền tảng và có sự kết hợp yếu tố xã hội"
+Game Candy Crush Saga vừa mang tính giải trí cao vừa tạo khả năng suy đoán nhanh nhạy, khả năng tính toán để có thể vượt qua các màn một cách nhanh nhất và điểm số cao nhất.
+Kĩ thuật, yêu cầu và tính tương tác.
+Game thủ có thể giải trí với Candy Crush Saga ở bất cứ nơi đâu, bất cứ lúc nào và trên mọi loại thiết bị, song cách chơi vẫn giống nhau, quá trình chơi vẫn xuyên suốt mà không phải chơi lại từ đầu như các game khác. Candy Crush Saga trên thiết bị di động không yêu cầu kết nối tài khoản Facebook hay kết nối internet khi chơi.
+

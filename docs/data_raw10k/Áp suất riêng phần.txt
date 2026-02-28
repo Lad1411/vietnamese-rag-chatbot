@@ -1,0 +1,14 @@
+Áp suất riêng phần
+
+Trong một hỗn hợp các chất khí, mỗi khí có một áp suất riêng phần hay áp suất từng phần là áp suất của khí đó nếu giả thiết rằng một mình nó chiếm toàn bộ thể tích của hỗn hợp ban đầu ở cùng một nhiệt độ. Áp suất tổng của một hỗn hợp khí lý tưởng là tổng của các áp suất riêng phần của những khí trong hỗn hợp.
+Nó dựa trên quan hệ đẳng nhiệt sau:
+formula_1
+Áp suất riêng phần của một khí là một tiêu chuẩn để đo độ hoạt động nhiệt động học của các phân tử khí. Các phân tử khí hòa tan, khuếch tán, và phản ứng theo áp suất riêng phần, và không phụ thuộc vào nồng độ của chúng trong hỗn hợp khí hoặc chất lỏng.
+Ký hiệu.
+Ký hiệu của áp suất thường là "P" hoặc "p", có thể sử dụng thêm chữ nhỏ ở dưới để xác định áp suất, và các loại khí cũng được chỉ rõ ở chữ dưới.
+Ví dụ:
+Định luật Dalton về áp suất riêng phần.
+Định luật Dalton phát biểu rằng áp suất tổng của một hỗn hợp khí bằng tổng của các áp suất riêng phần của từng khí riêng lẻ trong hỗn hợp. Phương trình này bắt nguồn từ cơ sở lập luận cho rằng trong khí lý tưởng các phân tử cách xa nhau nên chứng không tương tác với nhau. Hầu hết các khí trong thực tế cũng khá tương tự ở điều kiện lý tưởng. Ví dụ, cho một hỗn hợp khí gồm nitơ (N2), hydro (H2) và amonia (NH3):
+Trong y tế.
+Các áp suất riêng phần của oxy (formula_9) và cacbon dioxide (formula_9) là những thông số rất quan trong trong việc đo lường khí máu động mạch, nhưng cũng có thể được đo trong, ví dụ như dịch tủy não.
+

@@ -1,0 +1,6 @@
+Đồng vị của natri
+
+Khoa học đã tìm ra 21 đồng vị của natri (11Na), từ 18Na tới 37Na và hai đồng phân hạt nhân (22mNa và 24mNa). 23Na là đồng vị duy nhất ổn định (và là đồng vị nguyên thủy). Do vậy, natri được coi là nguyên tố đồng vị đơn và có khối lượng nguyên tử tiêu chuẩn . Natri có hai đồng vị vũ trụ phóng xạ (22Na, chu kỳ bán rã = 2.605 năm; và 24Na, chu kỳ bán rã ≈ 15 giờ). Ngoại trừ hai đồng vị trên, tất cả các đồng vị khác có chu kỳ bán rã dưới một phút, hấu hết dưới một giây. Đồng vị có chu kỳ bán rã ngắn nhất là 18Na, với chu kỳ giây.
+Phơi nhiễm bức xạ neutron cấp tính (ví dụ, từ tai nạn hạt nhân nguy hiểm) sẽ chuyển đổi một số đồng vị ổn định 23Na trong máu người sang đồng vị 24Na. Bằng cách đo nồng độ của đồng vị này, có thể tính được liều lượng phóng xạ neutron của nạn nhân bị phơi nhiễm.
+22Na là một đồng vị phát ra positron với chu kỳ bán rã dài đáng kể. Nó được sử dụng để tạo ra các đối tượng thử nghiệm và các nguồn điểm cho chụp cắt lớp positron.
+

@@ -1,0 +1,16 @@
+Hình thoi
+
+ 
+Hình thoi trong hình học Euclide là tứ giác có bốn cạnh bằng nhau. Đây là hình bình hành có hai cạnh kề bằng nhau hay hình bình hành có hai đường chéo vuông góc với nhau.
+Định nghĩa.
+Hình thoi là tứ giác có bốn cạnh bằng nhau.
+Tính chất.
+Trong hình thoi:
+Diện tích.
+Diện tích của hình thoi bằng một nửa tích độ dài của hai đường chéo:
+Chu vi.
+Chu vi của hình thoi bằng độ dài một cạnh nhân với 4:
+Dấu hiệu nhận biết.
+Hình bình hành đặc biệt.
+Hình thoi là một dạng đặc biệt của một hình bình hành vì nó có đầy đủ tính chất của hình bình hành và còn có một số tính chất khác:
+

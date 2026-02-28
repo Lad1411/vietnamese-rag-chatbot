@@ -1,0 +1,43 @@
+Tích phân
+
+Tích phân là một khái niệm toán học và cùng với nghịch đảo của nó vi phân ("differentiation") đóng vai trò là 2 phép tính cơ bản và chủ chốt trong lĩnh vực giải tích ("calculus"). Có thể hiểu đơn giản tích phân như là diện tích hoặc diện tích tổng quát hóa. Giả sử cần tính diện tích một hình phẳng được bao bởi các đoạn thẳng, ta chỉ việc chia hình đó thành các hình nhỏ đơn giản hơn và đã biết cách tính diện tích như hình tam giác, hình vuông, hình thang, hình chữ nhật... Tiếp theo, xét một hình phức tạp hơn mà nó được bao bởi cả đoạn thẳng lẫn đường cong, ta cũng chia nó thành các hình nhỏ hơn, nhưng bây giờ kết quả có thêm các hình thang cong. Tích phân giúp ta tính được diện tích của hình thang cong đó.
+Hoặc giải thích bằng toán học như sau: Cho một hàm f của một biến thực x và một miền giá trị thực ["a", "b"]. Như vậy một tích phân xác định ("definite integral") từ a đến b của f(x), ký hiệu là: 
+được định nghĩa là diện tích của một vùng trong không gian phẳng xy được bao bởi đồ thị của hàm f, trục hoành, và các đường thẳng và , sao cho các vùng trên trục hoành sẽ được tính vào tổng diện tích, còn dưới trục hoành sẽ bị trừ vào tổng diện tích.
+Ta gọi a là cận dưới của tích phân, còn b là cận trên của tích phân.
+Cho "F"("x") là nguyên hàm của "f"("x") trong ("a", "b"). Khi đó, tích phân bất định ("indefinite integral") được viết như sau:
+Nhiều định nghĩa tích phân có thể được xây dựng dựa vào lý thuyết độ đo ("measure"). Ví dụ, tích phân Riemann dựa trên độ đo Jordan, còn tích phân Lebesgue dựa trên độ đo Lebesgue. Tích phân Riemann là định nghĩa đơn giản nhất của tích phân và thường xuyên được sử dụng trong vật lý và giải tích cơ bản.
+Lược sử tích phân.
+Những phép tính tích phân đầu tiên đã được thực hiện từ cách đây trên 2.100 năm bởi Archimedes (287–212 trước Công nguyên), khi ông tính diện tích bề mặt và thể tích khối của một vài hình như hình cầu, hình parabol và hình nón. Phương pháp tính của Archimedes rất hiện đại dù vào thời ấy chưa có khái niệm về đại số, hàm số hay thậm chí cách viết số dạng thập phân.
+Tích phân, vi phân và môn toán học của những phép tính này, giải tích, đã chính thức được khám phá bởi Leibniz (1646–1716) và Isaac Newton (1642–1727). Ý tưởng chủ đạo là tích phân và vi phân là hai phép tính nghịch đảo của nhau. Sử dụng mối liên hệ hình thức này, hai nhà toán học đã giải được một số lượng khổng lồ các bài toán quan trọng trong toán học, vật lý và thiên văn học.
+J. B. Fourier (1768–1830) khi nghiên cứu sự truyền nhiệt đã tìm ra chuỗi các hàm lượng giác có thể dùng để biểu diễn nhiều hàm số khác. Biến đổi Fourier (biến đổi từ hàm số thành chuỗi các hàm lượng giác và ngược lại) và biến đổi tích phân ngày nay được ứng dụng rất rộng rãi không chỉ trong khoa học cơ bản mà cả trong Y học, âm nhạc và ngôn ngữ học.
+Người đầu tiên lập bảng tra cứu các tích phân tính sẵn là Gauss (1777–1855). Ông đã cùng nhiều nhà toán học khác ứng dụng tích phân vào các bài toán của toán học và vật lý. Cauchy (1789–1857) mở rộng tích phân sang cho số phức. Riemann (1826–1866) và Lebesgue (1875–1941) là những người tiên phong đặt nền tảng lô-gíc vững chắc cho định nghĩa của tích phân.
+Liouville (1809–1882) xây dựng một phương pháp để tìm xem khi nào tích phân vô định của hàm cơ bản lại là một hàm cơ bản. Hermite (1822–1901) tìm thấy một thuật toán để tính tích phân cho các hàm phân thức. Phương pháp này đã được mở rộng cho các phân thức chứa lô-ga-rít vào những năm 1940 bởi A. M. Ostrowski.
+Vào những năm trước thời đại máy tính của thế kỷ 20, nhiều lý thuyết giúp tính các tích phân khác nhau đã không ngừng được phát triển và ứng dụng để lập các bảng tra cứu tích phân và biến đổi tích phân. Một số những nhà toán học đóng góp cho công việc này là G. N. Watson, E. C. Titchmarsh, E. W. Barnes, H. Mellin, C. S. Meijer, W. Grobner, N. Hofreiter, A. Erdelyi, L. Lewin, Y. L. Luke, W. Magnus, A. Apelblat, F. Oberhettinger, I. S. Gradshteyn, H. Exton, H. M. Srivastava, A. P. Prudnikov, Ya. A. Brychkov, và O. I. Marichev.
+Vào năm 1969, R. H. Risch đã đóng góp một phát triển vượt bậc cho các thuật toán tính tích phân vô định bằng công trình của ông về lý thuyết tổng quát và ứng dụng trong tích phân các hàm cơ bản. Phương pháp đã chưa thể được ứng dụng ngay cho mọi hàm cơ bản vì cốt lõi của phương pháp là giải một phương trình vi phân khá khó. Những phát triển tiếp nối của nhiều nhà toán học khác đã giúp giải được phương trình vi phân này cho nhiều dạng hàm cơ bản khác nhau, ngày càng hoàn thiện phương pháp của Risch. Trong những năm 1980 đã có những tiến bộ mở rộng phương pháp này cho cả các hàm không cơ bản đặc biệt.
+Từ thập niên 1990 trở lại đây, các thuật toán để tính biểu thức tích phân vô định được chuyển giao sang và tối ưu hoá cho tính toán bằng máy tính điện tử. Máy tính đã giúp loại bỏ sai sót con người, tạo nên khả năng tính hàng nghìn tích phân mới chưa bao giờ xuất hiện trong các bảng tra cứu. Một số phần mềm máy tính thương mại có khả năng tính biểu thức tích phân hiện nay là Mathematica, Maple...
+Thuật ngữ và ký pháp.
+Đối với trường hợp đơn giản nhất, tích phân của một hàm số thực f(x) trên x, được viết là:
+Với:
+Danh sách các tích phân cơ bản.
+Còn gọi là danh sách của các nguyên hàm của một số hàm số thường gặp.
+Phân loại tích phân.
+Tích phân Riemann.
+Có hai dạng tích phân Riemann, tích phân xác định (có cận trên và cận dưới) và tích phân bất định. Tích phân Riemann xác định của hàm "f"("x") với "x" chạy trong khoảng từ "a" (cận dưới) đến "b" (cận trên) được viết là:
+Dạng bất định (không có cận) được viết là:
+Theo định lý cơ bản thứ nhất của giải tích, nếu "F"("x") là tích phân bất định của "f"("x") thì "f"("x") là vi phân của "F"("x"). Tích phân xác định được tính từ tích phân bất định như sau:
+Còn đối với tích phân bất định, tồn tại cùng lúc nhiều hàm số sai khác nhau bằng hằng số tích phân "C" thoả mãn điều kiện cùng có chung vi phân, bởi vì vi phân của hằng số bằng 0:
+Ngày nay biểu thức toán học của tích phân bất định có thể được tính cho nhiều hàm số tự động bằng máy tính. Giá trị số của tích phân xác định có thể được tìm bằng các phương pháp số, ngay cả khi biểu thức toán học của tích phân bất định tương ứng không tồn tại.
+Định lý cơ bản thứ nhất của giải tích được thể hiện ở đẳng thức sau:
+Tồn tại những hàm số mà tích phân bất định của chúng không thể biểu diễn bằng các hàm toán học cơ bản. Dưới đây là một vài ví dụ:
+Tích phân Lebesgue.
+Một hàm formula_17 được gọi là một hàm đơn giản nếu tập ảnh của nó là hữu hạn. Gọi các giá trị của tập ảnh là formula_18 và đặt formula_19, ta có
+formula_20
+trong đó formula_21 là hàm chỉ thị của tập hợp formula_22.
+Gọi formula_23 là một độ đo không âm trên một không gian độ đo formula_24 và formula_17 là một hàm đơn giản formula_26. Hàm formula_17 là đo được khi và chỉ khi các tập hợp formula_22 là đo được. Tích phân của formula_17 theo độ đo formula_23 trên một tập con đo được formula_31 được định nghĩa là
+formula_32
+Nếu formula_33 là một hàm không âm đo được, ta định nghĩa formula_34.
+Một hàm formula_33 được gọi là khả tích Lebesgue nếu formula_36. Ký hiệu formula_37 và formula_38. Đây đều là các hàm không âm. Thế thì tích phần của formula_33 là
+formula_40
+Các loại tích phân khác.
+Ngoài tích phân Riemann và Lebesgue được sử dụng rộng rãi, còn có một số loại tích phân khác như:
+

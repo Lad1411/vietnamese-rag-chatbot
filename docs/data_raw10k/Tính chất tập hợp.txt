@@ -1,0 +1,19 @@
+Tính chất tập hợp
+
+Tính chất tập hợp là một trong những tính chất của dung dịch, phụ thuộc vào số lượng phân tử chất tan trong một thể tích dung môi cho trước và không liên quan đến tính chất riêng của phân tử tan (ví dụ: kích thước, khối lượng...). Tính chất tập hợp gồm bốn hiện tượng: giảm áp suất hơi; nâng nhiệt độ sôi; hạ nhiệt độ đông đặc; và áp suất thẩm thấu ("xem thêm": Thẩm thấu và Thẩm thấu ngược). Việc đo lường sự biến đổi tính chất của dung dịch loãng chứa chất tan không điện ly có thể cho ta biết khối lượng mol của chất tan tương đối chính xác. Đối với chất tan phân ly, việc đo lường có thể cho ta kết quả về phần trăm ion có mặt trong dung dịch.
+Áp suất hơi.
+Định luật Raoult nêu rõ mối quan hệ giữa độ giảm áp suất hơi và nồng độ chất tan, phát biểu như sau:
+Nhiệt độ sôi và đông đặc.
+Cả hai hiện tượng nâng nhiệt độ sôi và giảm nhiệt độ đông đặc đều là kết quả của hiện tượng giảm áp suất hơi của dung dịch loãng.
+Nâng điểm sôi.
+trong đó 
+Vì nhiệt độ sôi chỉ đạt được khi cân bằng giữa pha khí và pha lỏng được thiết lập, có nghĩa là, số lượng phân tử đi vào bằng số phân tử đi từ pha lỏng ra pha khí (rời khỏi pha lỏng), cho nên lượng chất tan thêm vào sẽ tạo ra tương tác với dung môi khiến phân tử dung môi khó rời khỏi hệ dung dịch. Bù lại hệ sẽ chuyển sang trạng thái cân bằng mới, nhiệt độ sôi tăng lên.
+Hạ điểm đông đặc.
+trond đó:
+Nhiệt độ đông đặc, và cân bằng giữa pha lỏng và pha rắn nhìn chung bị giảm so với dung môi tinh khiết do sự có mặt của chất tan. Các tiểu phân dung môi không thể đi vào pha rắn, nên số phân tử trong cân bằng ít hơn. Và, cân bằng sẽ được tái thiết lập ở nhiệt độ thấp hơn.
+Áp suất thẩm thấu.
+Hai định luật về áp suất thẩm thấu của dung dịch loãng được hai nhà thực vật học W. F. P. Pfeffer (người Đức) và nhà hoá học J. H. van’t Hoff (Hà Lan) khám phá, được phát biểu như sau:
+Hai phát biểu trên gần như tương tự các định luật Boyle-Mariotte và Charles của khí lý tưởng. Và công thức biểu diễn cũng tương tự:
+hay
+trong đó: π = áp suất thẩm thấu; [ ] là nồng độ mol chất tan; V là thể tích; nhiệt độ tuyệt đối T; n là số mol chất tan; R = 8.3145 J/mol.K, hằng số khí lý tưởng; "i" = hệ số van 't Hoff.
+

@@ -1,0 +1,10 @@
+Tỷ lệ di cư
+
+Tỷ lệ di cư là sự chênh lệch giữa số người nhập cư và số người xuất cư trong một thời kỳ của một vùng lãnh thổ (thường) được tính trên 1000 người (được tính đến trong dân cư). Tỷ lệ này sẽ dương nếu số người chuyển tới nhiều hơn số người chuyển đi và sẽ âm nếu số người chuyển tới ít hơn số người chuyển đi.
+Ví dụ: Vào ngày 1 tháng 1, năm 2000 ở quốc gia A có dân số là 1.000.000 người. Đến ngày 1 tháng 1 năm 2001, có 200.000 người đã nhập cư đến nước A và cũng trong thời kỳ đó có 100.000 người rời khỏi nước đó. Cũng trong thời kỳ đó có 100.000 trẻ em sinh ra và không có người chết đi. Vì thế dân số nước A vào ngày 1 tháng 1 năm 2001 là 1.200.000.
+Chúng ta quan tâm tới thời điểm ngày 1 tháng 7 năm 2000 (giữa khoảng thời gian trên) ở đó có 1.100.000 người và kể từ đó có 100.000 đi và 200.000 tới, sự chênh lệch là +100.000
+formula_1
+Nhưng đó mới là tỷ lệ tính trên 1 người muốn tính trên 1000 người ta phải:
+formula_2
+Con số này là ý tưởng có thể so sánh về sự nhập cư của một quốc gia.
+

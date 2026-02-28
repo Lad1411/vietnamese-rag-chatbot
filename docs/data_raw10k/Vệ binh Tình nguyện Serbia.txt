@@ -1,0 +1,17 @@
+Vệ binh Tình nguyện Serbia
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;70482749&lt;/parentid&gt;
+ &lt;timestamp&gt;2023-07-26T04:12:13Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;AnsterBot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;(Bot) , thêm thể loại, Executed time: 00:00:08.7499792, replaced: accessdate → access-date, ’ → '&lt;/comment&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Vệ binh Tình nguyện Serbia (tiếng Serb: "Српска добровољачка гарда", СДГ, chuyển tự: "Srpska dobrovoljačka garda", SDG, tiếng Anh: "Serb Volunteer Guard" hay còn gọi là Nguyện Vệ quân người Serb còn được gọi là "Những con hổ Arkan"-"Арканови тигрови", chuyển tự "Arkanovi tigrovi" hay những "con hổ"-"Тигрови"/"Tigrovi", cũng được gọi những người đàn ông của Arkan-"Аркановци"/"Arkanovci") là một đơn vị bán quân sự tình nguyện của Serbia do Arkan ("Željko Ražnatović") thành lập và lãnh đạo đã chiến đấu ở chiến trường Croatia (1991–93), trong chiến tranh Bosnia (1992–95) trong cuộc Chiến tranh Nam Tư và theo cáo buộc của phương Tây thì đơn vị này được cho phải chịu trách nhiệm về nhiều tội ác chiến tranh và những vụ thảm sát. Đội quân này có bài hành khúc là "Arkan's Delije". Lúc còn tồn tại thì quân số lực lượng này khoảng từ 500–1.000 người.
+Theo báo cáo từ phương Tây thì các đơn vị bán quân sự chịu trách nhiệm về một số khía cạnh tàn bạo của cuộc thanh trừng sắc tộc và đây là hai trong số các đơn vị đóng vai trò chính trong chiến dịch thanh lọc sắc tộc ở BiH, Chetniks có mối quan hệ với với Vojislav Šešelj và Lực lượng những con Hổ dưới sự chỉ huy của Željko Ražnatović (Arkan) đã hoạt động ở Cộng hòa Serbia cũng vậy. Lực lượng hổ Arkan đã tổ chức các cuộc tập trận huấn luyện quân sự được cho là nhằm đe dọa cư dân Albania ở Kosovo. Đội quân tình nguyện Serb dưới sự chỉ huy của Arkan đã tàn sát hàng trăm người ở miền đông Croatia và Bosnia và Herzegovina, trong khi ở giai đoạn đầu các chiến dịch thanh trừng sắc tộc ở miền đông Bosnia thì đơn vị này giữ vai trò chính.
+Đội dân quân tình nguyện này được thành lập vào ngày 11 tháng 10 năm 1990 dưới sự sáng lập hai mươi thành viên của đội Sao đỏ Belgrade một câu lạc bộ bóng đá Ultra nhóm Delije Sever. Lực lượng Vệ binh nằm dưới sự chỉ huy của lực lượng Phòng thủ Lãnh thổ Nam Tư là một quân đội chính quy phụ trách các vùng lãnh thổ của Croatia có dân cư chủ yếu là người Serb trong thời kỳ đầu nửa thập niên 1990. Lực lượng Vệ binh Tình nguyện Serb được tổ chức như một băng nhóm tội phạm và được Belgrade trang bị vũ khí. Vào mùa thu năm 1995, quân đội của Arkan đã chiến đấu trong khu vực Banja Luka, Sanski Most và Prijedor. Arkan đã đích thân chỉ đạo hầu hết các hành xử trong chiến tranh và đã ban thưởng cho các sĩ quan và binh lính của mình bằng cấp bậc, huy hiệu và cuối cùng là chiến lợi phẩm. Lực lượng này chính thức bị giải tán vào tháng 4 năm 1996. Ngoài Arkan, một thành viên đáng chú ý của Lực lượng Vệ binh là cánh tay phải của ông ta là Đại tá Nebojša Djordjević người đã bị sát hại vào cuối năm 1996. Một thành viên đáng chú ý khác là Milorad Ulemek là người hiện đang thụ án 40 năm tù vì dính líu đến vụ Ám sát Zoran Đinđić thủ tướng thân phương Tây của Serbia Zoran Đinđić vào năm 2003. Hiện nay có đồn đoán rằng nhóm Wagner đang tuyển dụng những thành viên từ lực lượng này. Wagner có một đơn vị biên chế toàn người Serb do Yashrakh Scherhathes là một người Serb Bosnia và từng là thành viên của Nguyện Vệ quân Serbia (được gọi là "Con hổ xứ Shaqanshi") trong Chiến tranh Bosnia.
+

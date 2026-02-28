@@ -1,0 +1,4 @@
+Đường hàng không
+
+Đường hàng không là một hành lang xác định nối một vị trí xác định với một vị trí khác ở một độ cao xác định, dọc theo đó máy bay có thể bay khi đáp ứng các yêu cầu của đường hàng không. Đường hàng không được xác định với các phân đoạn trong khối độ cao cụ thể, chiều rộng hành lang và giữa các tọa độ địa lý cố định cho hệ thống định vị vệ tinh hoặc giữa các thiết bị hỗ trợ điều hướng máy phát vô tuyến trên mặt đất (navaids; chẳng hạn như VOR hoặc NDB) hoặc giao điểm của các đường bán kính cụ thể của hai máy phát này.
+

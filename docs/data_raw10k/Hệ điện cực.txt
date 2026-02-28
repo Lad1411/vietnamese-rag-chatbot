@@ -1,0 +1,6 @@
+Hệ điện cực
+
+Hệ điện cực (Electrode array) là "cấu hình phân bố các điện cực" được sử dụng để đo điện áp và/hoặc dòng điện, nhằm xác định tính chất điện của môi trường mà hệ điện cực được đặt vào.
+"Hệ điện cực" được dùng trong các đo đạc và nghiên cứu quá trình điện trong vật lý, hóa học, sinh học, tế bào học, y học, trong Điện xung trị liệu...
+Trong "Địa vật lý", chúng có nhiều ý nghĩa, vì cách thức bố trí quan sát thu thập số liệu là yếu tố xác định tính chất các thông tin thu nhận được. Những thông tin sau đây nói về "Hệ điện cực" trong phương pháp Địa vật lý "Thăm dò Điện trở".
+

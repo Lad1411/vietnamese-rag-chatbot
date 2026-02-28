@@ -1,0 +1,19 @@
+Tập hợp liên thông
+
+Tập hợp liên thông là tập hợp không thể biểu diễn dưới dạng hợp của hai tập hợp mở không rỗng rời nhau.
+Một không gian tôpô gọi là liên thông nếu không thể biểu diễn dưới dạng hợp của 2 tập mở không rỗng rời nhau, nói cách khác nó không chứa một tập con thực sự vừa đóng vừa mở.
+Một không gian tôpô E gọi là liên thông đường (hay liên thông cung) nếu với mọi cặp hai điểm x, y trên E đều có thể xác lập một ánh xạ liên tục f từ đoạn thẳng đơn vị [0, 1] vào E sao cho f(0)=x, f(1)=y
+Liên thông.
+Định nghĩa không gian tô pô liên thông.
+Không gian tôpô X được gọi là không liên thông nếu nó là hội của hai Tập mở rời nhau khác rỗng. Ngược lại là liên thông.
+Nói cách khác một không gian tôpô gọi là không gian tô pô liên thông nếu không thể biểu diễn dưới dạng hợp của 2 tập mở khác rỗng rời nhau, hoặc không chứa một tập con thực sự vừa là Tập đóng vừa là Tập mở.
+Thành phần liên thông.
+Những tập con liên thông lớn nhất của không gian topo khác rỗng được gọi là thành phần liên thông của không gian đó.
+Hai điểm x, y trong không gian topo X gọi là thông nhau nếu nó cùng nằm trong 1 tập liên thông. Khi đó quan hệ "thông nhau" là 1 quan hệ tương đương trên X. Quan hệ này chia X thành các lớp rời nhau, mỗi lớp đó gọi là một thành phần liên thông trong X. Ký hiệu một thành phần liên thông chứa x là C(x).
+Liên thông địa phương.
+Định nghĩa: formula_10 là liên thông địa phương nếu và chỉ nếu với mọi formula_41 trong formula_10 và mọi Lân cận formula_43 của formula_41 thì có một lân cận liên thông formula_45 của formula_41 sao formula_47.
+Định nghĩa: ("Liên thông địa phương yếu") Không gian formula_10 là liên thông địa phương yếu nếu mọi lân cận formula_43 của formula_41 có một không gian con liên thông của formula_10 chứa trong formula_43 và chứa formula_41.
+Liên thông đường địa phương.
+Định nghĩa Tập X là liên thông đường địa phương nếu và chỉ nếu với mọi formula_41 trong formula_10 và mọi lân cận formula_43 của formula_41 thì có một lân cận liên thông đường formula_45 của formula_41 sao cho formula_47.
+Định nghĩa("Liên thông địa phương yếu") Không gian formula_10 là liên thông đường địa phương yếu tại formula_41 nếu với mọi lân cận formula_43 của formula_41 có một không gian con liên thông đường của formula_10 chứa trong formula_43 và chứa formula_41.
+

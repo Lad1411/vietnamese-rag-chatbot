@@ -1,0 +1,8 @@
+Phông chữ
+
+Trong "typesetting", phông chữ là kích thước, trọng lượng và kiểu chữ xác định cụ thể. Mỗi phông chữ là một tập hợp khối kim loại phù hợp cho mỗi ký tự. Một kiểu chữ bao gồm nhiều phông chữ khác nhau có chung một thiết kế.
+Khi sắp chữ, những người thợ cất các khối đúc chữ trong một cái kệ, những chữ nào thường được dùng nhất thì cất ở kệ dưới "Lower-case" để dễ lấy hơn. Trong khi đó, các chữ in hoa thì được cất trên cao một tí, ở những kệ trên "Upper-case".
+Theo cách sử dụng hiện đại, với sự ra đời của máy tính. Phông chữ được xem như là một từ đồng nghĩa có thể thay thế gần như hoàn toàn nghĩa gốc
+Tên gọi.
+Phông chữ là một từ bắt nguồn từ tiếng Pháp, các hợp kim đúc chữ in phải được đúc thành từ các hợp kim nóng chảy ở các nhà máy luyện kim (Foundries) mà trong tiếng Pháp gọi là "Foundue" nghĩa là "thứ bị nóng chảy". Và chính bởi từ "Foundue" mà ngày nay chúng ta gọi một bộ các ký tự cùng một kiểu chữ là một phông (Font).
+

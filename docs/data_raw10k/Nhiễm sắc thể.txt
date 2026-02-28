@@ -1,0 +1,26 @@
+Nhiễm sắc thể
+
+Nhiễm sắc thể là bào quan chứa bộ gen chính của một sinh vật, là cấu trúc quy định sự hình thành protein, có vai trò quyết định trong di truyền tồn tại ở cả sinh vật nhân thực và sinh vật nhân sơ.
+Trong ngôn ngữ của nhiều quốc gia, khái niệm này được gọi là chromosome (IPA: /ˈkrəʊməsəʊm/). NST là bào quan quan trọng nhất của sinh vật về mặt di truyền, cũng là một trong những bào quan được nghiên cứu kĩ lưỡng nhất để tìm hiểu về quá trình di truyền, các rối loạn di truyền, quá trình phát triển cá thể và cả quá trình phát sinh chủng loại liên quan tới NST. Dưới đây, từ Nhiễm sắc thể viết tắt là NST.
+Cấu trúc.
+Mức hiển vi.
+Ở tế bào thực vật, động vật sau khi nhân đôi mỗi NST có 2 crômatit, mỗi crômatit có một sợi phân tử DNA mà một nửa là nguyên liệu cũ, một nửa nguyên liệu mới lấy từ môi trường tế bào. Các crômatit này đóng xoắn tới giá trị xoắn cực đại nên cùng có hình dạng và kích thước đặc trưng. Mỗi NST (NST) có 2 crômatit đính nhau ở tâm động tại eo thứ nhất. Một số NST còn có eo thứ 2, tại eo này là nơi tổng hợp RNA. Các RNA tích tụ lại tạo nên nhân con. Lúc bước vào phân bào, NST ngừng hoạt động, nhân con biến mất. Khi phân bào kết thúc, NST hoạt động, nhân con lại tái hiện.
+NST của các loài có hình dạng khác nhau: hình hạt, hình que, hình chữ V và hình móc. Ở một số loài sinh vật trong vòng đời có trải qua giai đoạn ấu trùng có xuất hiện các NST có kích thước lớn dần hàng nghìn lần gọi là NST khổng lồ (như ấu trùng của loài ruồi giấm và các loài thuộc bộ hai cánh). Điển hình là NST có hình chữ V với 2 cánh kích thước bằng nhau hoặc khác nhau. chiều dài của NST từ 0.5 đến 50 micrômét, chiều ngang từ 0,2 đến 2 micrômét.
+NST được cấu tạo từ chất nhiễm sắc bao gồm DNA và prôtêin (chủ yếu là loại Histôn). Phân tử DNA quấn quanh khối cầu prôtêin tạo nên nuclêôxôm là đơn vị cấu trúc cơ bản theo chiều dọc của NST. Mỗi nuclêôxôm gồm 8 phân tử prôtêin histôn tạo nên khối cầu dẹt phía ngoài được gói bọc bởi 7/4 vòng xoắn DNA có khoảng 146 cặp nuclêôtit. Các nuclêôxôm được nối với nhau bằng các đoạn DNA và một prôtêin histôn. Mỗi đoạn có khoảng 15-100 cặp nuclêôtit. Tổ hợp DNA với prôtêin histôn tạo thành sợi cơ bản có chiều ngang 11 nm, sợi cơ bản cuộn xoắn thứ cấp thành sợi nhiễm sắc có chiều ngang 30 nm. Sợi nhiễm sắc tiếp tục đóng xoắn tạo thành một ống rỗng có chiều ngang 300 nm gọi là sợi siêu xoắn, sợi siêu xoắn tiếp tục đóng xoắn tạo thành crômatit có chiều ngang khoảng 700 nm
+Nhờ cấu trúc xoắn cuộn như vậy nên NST có chiều dài ngắn lại khoảng 15000- 20000 lần so với chiều dài phân tử DNA. NST dài nhất của người chứa DNA dài khoảng 82 mm, sau khi đóng xoắn cực đại ở kì giữa chỉ dài 10 micrômét. sự thu gọn cấu trúc không gian như thế thuận lợi cho việc tổ hợp và phân li của NST trong quá trình phân bào,còn để thuận tiện di chuyển.
+-Hai crômatit hoạt động như một thể thống nhất.
+-Các gen tồn tại ở trạng thái đồng hợp.
+-Tồn tại vào cuối kì trung gian, đầu kì giữa của quá trình phân bào.
+-Chức năng: phân li ở kì giữa nhằm phân chia đồng đều NST cho 2 tế bào con.
+- Hai NST của cặp tương đồng hoạt động độc lập với nhau.
+-Các gen tồn tại ở trạng thái đồng hợp hoặc dị hợp.
+-Tồn tại ở đầu kì trung gian, tế bào sinh dưỡng, kì cuối của quá trình phân bào.
+Mức siêu hiển vi.
+Ở mức độ kính hiển vi không thể quan sát được, bằng nhiều phương pháp khác nhau, nhất là phương pháp dựng cấu hình sợi nhiễm sắc, đã cho người ta biết cấu trúc này (xem hình bên). Trong Sinh học phổ thông Việt Nam, mô hình này đã giới thiệu cho học sinh và sinh viên từ khoảng những năm 1990. Theo mô hình này, cấu trúc NST nhân thực gồm 5 - 6 bậc, chủ yếu là: DNA - nuclêoxôm - sợi nhiễm sắc - nhiễm sắc tử.
+Đặc điểm của bộ NST.
+Bộ NST là số lượng NST có trong 1 tế bào của 1 loài. Tế bào của mỗi loài sinh vật khác nhau thì có bộ NST khác nhau, đặc trưng về số lượng và hình dạng của mỗi loài. Bộ NST chứa các cặp NST tương đồng gọi là bộ NST lưỡng bội (ký hiệu là 2n). Bộ NST trong giao tử chỉ chứa một NST của mỗi cặp tương đồng gọi là bộ NST đơn bội (ký hiệu là n). Số lượng bộ NST trong bộ lưỡng bội không phản ánh được trình độ tiến hóa của loài.
+Số lượng bộ NST lưỡng bội.
+Bộ NST lưỡng bội (2n) của loài thường đặc trưng về hình thái, kích thước và nhất là phân bố gen trên NST. Sau đây là trị số 2n của một số loài:
+Danh sách.
+Xem tại trang Danh sách số nhiễm sắc thể ở các loài
+

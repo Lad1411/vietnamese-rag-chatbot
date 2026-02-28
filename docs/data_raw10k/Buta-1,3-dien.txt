@@ -1,0 +1,20 @@
+Buta-1,3-dien
+
+Buta-1,3-dien (hay butadien) là hợp chất hữu cơ có công thức (CH2=CH)2. Đây là chất khí không màu, dễ dàng ngưng tụ thành chất lỏng. Butadien có vai trò quan trọng trong công nghiệp hóa chất: là monome sản xuất cao su tổng hợp. Có thể thấy hai nhóm vinyl ghép vào nhau trong phân tử. Butadien là dien liên hợp đơn giản nhất.
+Mặc dù dễ dàng bị phân hủy nhanh chóng trong bầu khí quyển, butadien vẫn được tìm thấy trong không khí ở khu vực ngoại thành và ngoại ô do hậu quả của việc phát thải liên tục từ xe cơ giới.
+Tên butadien cũng chỉ đồng phân alen 1,2-butadien có cấu trúc H2C=C=CH−CH3. Alen này không có ý nghĩa công nghiệp.
+Lịch sử.
+Năm 1863, nhà hóa học người Pháp E. Caventou đã phân lập butadien từ quá trình nhiệt phân rượu amyl. Hydrocarbon này được xác định là butadien vào năm 1886, sau khi Henry Edward Armstrong phân lập nó trong số các sản phẩm nhiệt phân của dầu mỏ. Năm 1910, nhà hóa học người Nga Sergei Lebedev đã trùng hợp butadien và thu được một vật liệu có đặc tính giống như cao su. Tuy nhiên, loại polymer này quá mềm để thay thế cao su tự nhiên trong nhiều ứng dụng, đặc biệt là lốp ô tô.
+Ngành công nghiệp butadien bắt nguồn từ những năm trước Thế chiến II. Nhiều quốc gia hiếu chiến nhận ra rằng trong trường hợp chiến tranh, họ có thể bị cắt khỏi các đồn điền cao su do Đế quốc Anh kiểm soát và tìm cách giảm sự phụ thuộc vào cao su tự nhiên. Năm 1929, Eduard Tschunker và Walter Bock, làm việc cho IG Farben ở Đức, đã tạo ra một chất đồng trùng hợp của styren và butadien có thể được sử dụng trong lốp ô tô. Sản xuất trên toàn thế giới nhanh chóng được đảm bảo, với butadien được sản xuất từ rượu ngũ cốc ở Liên Xô và Hoa Kỳ, và từ acetylen có nguồn gốc từ than đá ở Đức.
+Sản xuất.
+Trong phòng thí nghiệm.
+Buta-1,3-dien khá bất tiện điều chế trong phòng thí nghiệm. Các quy trình thí nghiệm đã được tối ưu hóa để điều chế từ các tiền chất không độc hại. Phản ứng retro-Diels-Alder của cyclohexen, hay sulfolen là nguồn cung cấp buta-1,3-dien. Sulfolen giải phóng dien và lưu huỳnh dioxide khi đun
+Ứng dụng.
+Hầu hết butadien được thực hiện phản ứng trùng hợp để sản xuất cao su tổng hợp. Polybutadien là vật liệu rất mềm, và rẻ tiền. Các polyme đồng trùng hợp được điều chế từ butadien và styren, butadien và acrylonitril bao gồm acrylonitrile butadien styren (ABS), acrylonitrile butadien (NBR) và styren-butadien (SBR) là vật liệu được sử dụng phổ biến nhất để sản xuất lốp ô tô.
+Phản ứng.
+Phản ứng trùng hợp butadien được sử dụng rộng rãi trong công nghiệp. Xu hường phản ứng cộng 1,4 được minh họa bằng phản ứng hydrocyan hóa. Giống như nhiều dien, butadien khi có xúc tác Pd, phản ứng tiến hành thông qua phức allyl. Butadien tham gia phản ứng Diels-Alder, ví dụ: butadien phản ứng với anhydride maleic tạo thành anhydrid tetrahydrophthalic.
+Giống như các dien khác, butadien là phối tử cho các phức kim loại hóa trị thấp, ví dụ các dẫn xuất Fe(butadien)(CO)3 và Mo(butadien)3. 
+Sức khỏe và an toàn môi trường.
+Butadien có độc tính cấp tính thấp. LC50 là 12,5-11,5 vol% trong cơ thể chuột khi chúng hít phải.
+Tiếp xúc lâu dài có thể dẫn đến bệnh tim mạch, bệnh bạch cầu và các bệnh ung thư khác.
+

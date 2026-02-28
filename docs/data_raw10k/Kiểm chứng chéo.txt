@@ -1,0 +1,8 @@
+Kiểm chứng chéo
+
+Trong thống kê, kiểm chứng chéo (cross validation) là việc phân nhóm một mẫu dữ liệu thành các mẫu con để cho việc phân tích ban đầu chỉ thực hiện trên một mẫu con đơn, còn các mẫu con còn lại được giữ "kín" để dùng cho việc xác nhận và kiểm chứng lại lần phân tích đầu tiên đó.
+Kiểm chứng chéo là quan trọng trong việc đảm bảo tránh được kiểm tra tổng hợp từ dữ liệu, đặc biệt khi mà các mẫu là may rủi, chi phí cao hay không thể (khoa học không thuận lợi thu thập).
+Kiểm chứng chéo gồm hai loại: kiểm chứng chéo toàn diện và kiểm chứng chéo không toàn diện.
+Tham khảo.
+Kohavi, Ron (1995). "A study of cross-validation and bootstrap for accuracy estimation and model selection". "Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence". San Mateo, CA: Morgan Kaufmann. 
+

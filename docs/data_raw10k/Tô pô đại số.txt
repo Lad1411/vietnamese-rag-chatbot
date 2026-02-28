@@ -1,0 +1,15 @@
+Tô pô đại số
+
+Tôpô đại số là một nhánh của toán học sử dụng các công cụ của đại số để nghiên cứu các không gian tôpô.
+Phương pháp bất biến đại số.
+Mục đích là xem xét các không gian tôpô và phân loại chúng. Ngày nay, phương pháp cơ bản của tô pô đại số là nghiên cứu các không gian thông qua các bất biến đại số bằng cách ánh xạ chúng thành các đối tượng đại số, ví dụ các nhóm, sau đó xem xét cấu trúc các đối tượng đó để suy ra tính chất đồng phôi của các không gian. Điều này cho phép chuyển các phát biểu về không gian tô pô thành các phát biểu về nhóm làm cho bài toán trở nên dễ chứng minh hơn.
+Theo hướng này có hai phương pháp chính là thông qua các nhóm cơ bản, hay tổng quát hơn là lý thuyết đồng luân, và thông qua các nhóm đồng điều và đối đồng điều. Nhóm cơ bản cho ta những thông tin cơ bản về cấu trúc của không gian tôpô, nhưng chúng thường là không Abel và khó để làm việc.
+Trái lại, các nhóm đồng điều và đối đồng điều là Abel và trong nhiều trường hợp quan trọng là hữu hạn sinh. Các nhóm Abel hữu hạn sinh đã được phân loại đầy đủ và dễ làm việc hơn.
+Các kết quả của lý thuyết đồng điều.
+Một số kết quả suy ra trực tiếp khi làm việc với các nhóm Abel hữu hạn sinh. Hạng tự do của nhóm đồng điều thứ "n" của phức đơn hình bằng số Betti thứ "n", do đó ta có thể sử dụng nhóm đồng điều của phức đơn hình để tính đặc trưng Euler-Poincaré của nó. Một ví dụ khác là nhóm đối đồng điều nguyên chiều cao nhất của một đa tạp đóng cho biết tính định hướng được của đa tạp đó: nhóm này hoặc đẳng cấu với nhóm các số nguyên hoặc bằng 0, tương ứng với việc đa tạp định hướng được hay không. Vì vậy các nhóm đồng điều của không gian tôpô chứa rất nhiều thông tin không gian đó.
+Ngoài đồng điều đơn hình chỉ định nghĩa cho các phức đơn hình, người ta còn sử dụng cấu trúc khả vi của đa tạp trơn qua đối đồng điều de Rham, đối đồng điều Čech hoặc đối đồng điều bó để nghiên cứu tính giải được của phương trình vi phân xác định trên đa tạp. De Rham đã chỉ ra rằng tất những hướng tiếp cận này có quan hệ với nhau, và với một đa tạp định hướng, đóng, các số Betti định nghĩa trong đồng điều đơn hình cũng bằng các số Betti định nghĩa trong đối đồng điều de Rham.
+Quan hệ với lý thuyết phạm trù.
+Nói chung, tất cả các xây dựng trong tôpô đại số đều có tính chất hàm tử. Các nhóm cơ bản, đồng điều, đối đồng điều không chỉ là "các bất biến" (theo nghĩa hai không gian tôpô đồng phôi thì có các nhóm liên kết đẳng cấu) của không gian tôpô nền, một ánh xạ liên tục giữa các không gian còn cảm sinh một đồng cấu giữa các nhóm liên kết. Những đồng cấu này có thể dùng để chỉ ra sự không tồn tại (hoặc sâu sắc hơn, chỉ ra sự tồn tại) của các ánh xạ.
+Ứng dụng của tôpô đại số.
+Các ứng dụng cổ điển của tôpô đại số:
+

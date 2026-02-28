@@ -1,0 +1,39 @@
+Nhóm hữu hạn
+
+Trong đại số trừu tượng, nhóm hữu hạn là nhóm có tập của nó có hữu hạn số phần tử. Nhóm hữu hạn thường xuất hiện khi xét đối xứng của các đối tượng toán học hay vật lý, nhất là khi các đối tượng có hữu hạn số biển đổi bảo toàn cấu trúc của nó. Các ví dụ quan trọng của nhóm hữu hạn bao gồm nhóm cyclic và nhóm hoán vị.
+Nghiên cứu các nhóm hữu hạn đã trở thành chủ đề quan trọng trong lý thuyết nhóm kể từ lần đầu nó xuất hiện trong thế kỷ 19. Một mảng được nghiên cứu nhiều trong đó là phân loại: Phân loại nhóm đơn hữu hạn (là các nhóm không có nhóm con chuẩn tắc không tầm thường nào) đã được hoàn thành vào năm 2004.
+Lịch sử.
+Trong thế kỷ 20, các nhà toán học đã nghiên cứu kỹ một số tính chất của lý thuyết các nhóm hữu hạn, đặt biệt là trong lý thuyết địa phương của các nhóm hữu hạn và lý thuyết của các nhóm giải được và nhóm luỹ linh. Nhờ đó, ta mới hoàn thiện phân loại nhóm đơn hữu hạn, nghĩa là mọi nhóm đơn hữu hạn mà các nhóm hữu hạn có thể xây lên đều đã được biết.
+Vào nửa sau của thế kỷ 20, các nhà toán học như Chevalley và Steinberg tăng sự hiểu biết của ta về các tương tự hữu hạn của nhóm cổ điển, và các nhóm có liên hệ. Một ví dụ về họ các nhóm đó là họ các nhóm tuyến tính tổng quát trên các trường hữu hạn.
+Nhóm hữu hạn hay xuất hiện khi xét các đối xứng của đối tượng toán học hay vật lý, và khi các đối tượng đó có hữu hạn số các biến đổi bảo toàn cấu trúc. Lý thuyết các nhóm Lie thường được xem là xét cho các "đối xứng liên tục", bị ảnh hưởng nhiều từ các nhóm Weyl. Đây là các nhóm hữu hạn được sinh từ các phản xạ tác động trên không gian Euclid. Tính chất của các nhóm này đóng vai trò quan trọng trong vật lý lý thuyết và hoá học.
+Các ví dụ.
+Nhóm hoán vị.
+Nhóm đối xứng S"n" trên tập hữu hạn chứa "n" dấu là nhóm trong đó các phần tử là hoán vị của "n" dấu đó và phép toán nhóm là phép hợp hai hoán vị đó, mỗi phần tử đều có thể được coi là song ánh từ tập các dấu tới chính tập đó. Bởi "n"! là số hoán vị của một tập có "n" dấu, nên cấp (số phần tử) của nhóm đối xứng S"n" là "n"!.
+Nhóm cyclic.
+Nhóm cyclic Z"n" là nhóm mà tất cả các phần tử đều là luỹ thừa của phần tử "a" nào đó, trong đó là phần tử đơn vị. Một ví dụ thường thấy của nhóm này là trong căn đơn vị thứ.
+Nhóm abel hữu hạn.
+Nhóm Abel, hay còn gọi là nhóm giao hoán, là nhóm mà khi khi kết quả của phép toán của hai phần tử trong nhóm không phụ thuộc vào thứ tự của nó (tiên đề giao hoán). Nhóm abel được đặt tên theo nhà toán học Niels Henrik Abel.
+Nhóm abel hữu hạn tuỳ ý đằng cấu với tổng trực tiếp của các nhóm cyclic có cấp là số nguyên tố, và các cấp này đều xác định được độc nhất, tạo thành hệ thống các bất biến. Nhóm tự đẳng cấu của nhóm abel hữu hạn có thể được mô tả trực tiếp bằng các bất biến này. Lý thuyết này được lần đầu phát triển trong bài viết năm 1879 của Georg Frobenius và Ludwig Stickelberger. Sau đó phát biểu này được giản hoá đi và tổng quát hoá sang cho các module hữu hạn sinh trên miền ideal chính, đóng vai trò quan trọng trong đại số tuyến tính.
+Nhóm dưới dạng Lie.
+Nhóm dạng Lie là các nhóm có liên hệ gần với nhóm "G"("k") của các điểm hữu tỉ của nhóm tuyến tính tổng quát "G" cùng với trường "k". Nhóm hữu hạn dạng Lie là một phần của các nhóm đơn hữu hạn không giao hoán. Các trường hợp đặc biệt bao gồm các nhóm cổ điển, nhóm Chevalley, nhóm Steinberg và nhóm Suzuki-Ree.
+Các định lý chính.
+Định lý Lagrange.
+Cho bất kỳ nhóm hữu hạn "G", cấp (số phần tử) của bất kỳ nhóm con "H" của "G" là ước của cấp của "G". Định lý được đặt tên theo nhà toán học Joseph-Louis Lagrange.
+Các định lý Sylow.
+Cho phép xét ngược lại một chút với định lý Lagrange, bằng việc đưa ra có bao nhiêu nhóm con có cấp "n" nằm trong "G".
+Định lý Cayley.
+Định lý Cayley, được đặt tên để vinh danh nhà toán học Arthur Cayley, phát biểu rằng mọi nhóm "G" đều đẳng cấu với một nhóm con của nhóm đối xứng tác động trên "G". Ta cũng có thể hiểu đây là Tác động nhóm của "G" trên các phần tử của "G".
+Định lý Burnside.
+Định lý Burnside trong lý thuyết nhóm phát biểu rằng nếu "G" là nhóm hữu hạn có cấp "p""q", trong đó "p" và "q" là hai số nguyên tố, và "a" và "b" là số nguyên không âm thì "G" giải được. Do đó, mọi nhóm đơn hữu hạn không giao hoán đều có chia hết bởi ít nhất ba số nguyên tố phân biệt.
+Định lý Feit–Thompson.
+Định lý Feit–Thompson, hay định lý cấp lẻ, phát biểu rằng mọi nhóm có cấp lẻ đều giải được. Định lý này được chứng minh bởi 
+Phân loại các nhóm đơn hữu hạn.
+Phân loại nhóm đơn hữu hạn là định lý phát biểu rằng các finite simple group thuộc một trong các họ sau:
+Các nhóm đơn hữu hạn được xem là các khối xây của các nhóm, tương tự như cách các số nguyên tố là khối xây của các số tự nhiên. Định lý Jordan–Hölder nói rõ hơn về điều này. Tuy nhiên, một số khác biệt lớn so với phân tích nguyên tố là các "khối xây" đó không nhất thiết định nghĩa duy nhất một nhóm, bởi có thể có nhiều nhóm không đẳng cấu với nhau nhưng lại có chung chuỗi hợp thành hay nói cách khác, bài toán mở rộng nhóm không có duy nhất một lời giải.
+Bài chứng minh bao gồm hàng nghìn bài viết trong hàng trăm tạp chí khoa học và được viết bởi 100 tác giả, được xuất bản chủ yếu giữa 1955 và 2004. Hiện Gorenstein (d.1992), Lyons, và Solomon đang xuất bản dần các bài chứng minh đơn giản hơn và được sửa lại.
+Số các nhóm với cấp cho trước.
+Cho số tự nhiên "n", ta không thể dễ dàng đếm được có bao nhiêu loại đẳng cấu của nhóm có cấp "n". Mọi nhóm có cấp nguyên tố thì đều là nhóm cyclic, bởi theo định lý Lagrange, bất cứ nhóm con cyclic sinh bởi một phần tử không tầm thường sẽ là toàn bộ nhóm đó.
+Nếu "n" là bình phương của số nguyên tố, thì có hai loại đẳng cấu của nhóm có cấp "n", cả hai đều giao hoán. Nếu "n" là luỹ thừa cao hơn của số nguyên tố, thì các kết quả của Graham Higman và Charles Sims sẽ đưa ước lượng chính xác về số các loại đẳng cấu của nhóm có cấp "n", và giá trị này tăng rất nhanh khi luỹ thừa tăng dần.
+Dựa trên phân tích thừa số nguyên tố "n", ta có thể đặt một số giới hạn cho cấu trúc của các nhóm có cấp "n", một trong trong những kết quả nói đến đó là các định lý Sylow. Lấy ví dụ, mọi nhóm có cấp "pq" là nhóm cyclic khi là số nguyên tố và không chia hết cho "q". Đối với điều kiện cần và đủ, xem số cyclic.
+Xét số tự nhiên "n", hầu như mọi nhóm có cấp "n" đều giải được. Bài toán chứng minh cho một cấp bất kỳ không phải bài toán khó (ví dụ như, khi xê xích đẳng cấu, sẽ có một nhóm không giải được và 12 nhóm giải được có cùng cấp 60) nhưng để chứng minh nó đúng với mọi cấp yêu cầu ta phải dùng phân loại nhóm đơn hữu hạn. Cho bất kỳ số nguyên dương "n", có tối đa hai nhóm đơn cấp "n", và có vô số số nguyên dương "n" sao cho có hai nhóm đơn không đẳng cấu với nhau và cùng cấp "n".
+

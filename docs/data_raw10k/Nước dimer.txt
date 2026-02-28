@@ -1,0 +1,7 @@
+Nước dimer
+
+Nước dimer bao gồm hai phân tử nước liên kết lỏng lẻo bởi một liên kết hydro. Đó là cụm nước nhỏ nhất.
+Công thức hoá học: &lt;chem&gt;(H2O)2&lt;/chem&gt;.
+Cấu tạo phân tử - Tính chất.
+Năng lượng liên kết ab initio giữa hai phân tử nước được ước tính là 5-6 kcal/mol, mặc dù các giá trị từ 3 đến 8 đã thu được tùy thuộc vào phương pháp. Năng lượng phân ly được đo bằng thực nghiệm (bao gồm cả hiệu ứng lượng tử hạt nhân) của nước dimer &lt;chem&gt;(H2O)2&lt;/chem&gt; và nước nặng dimer &lt;chem&gt;(D2O)2&lt;/chem&gt; là 3,16 ± 0,03 kcal/mol (13,22 ± 0,12 kJ/mol) và 3,56 ± 0,03 kcal / mol (14,88 ± 0,12 kJ/mol), tương ứng. Các giá trị phù hợp tuyệt vời với các tính toán. Khoảng cách O-O của trạng thái rung động được đo bằng thực nghiệm tại ca. 2,98 Å; liên kết hydro gần như tuyến tính, nhưng góc với mặt phẳng của phân tử chấp nhận là khoảng 57°. Trạng thái mặt đất rung động được gọi là dimer nước tuyến tính (hiển thị trong hình bên phải), là một đỉnh gần prolate (viz., Xét về hằng số quay, formula_1). Các cấu hình quan tâm khác bao gồm dimer tuần hoàn và dimer chia đôi.
+

@@ -1,0 +1,18 @@
+Điện cực hydro tiêu chuẩn
+
+ 
+Điện cực hydro tiêu chuẩn hay "SHE" (Standard hydrogen electrode) hay còn được gọi là điện cực hydro thông thường hay NHE là loại điện cực có cấu tạo đặc biệt, điện thế điện cực của nó được dùng làm tiêu chuẩn để xác định điện thế điện cực của các điện cực khác.
+"Điện cực hydro tiêu chuẩn" có điện thế điện cực tuyệt đối là 0,41 ± 0,02 V ở 25 °C.
+Trong mạch điện hóa, "điện cực hydro tiêu chuẩn" được mắc vào mạch với vai trò là điện cực so sánh. Điện thế của nó được quy ước bằng 0V ở 25oC, dung dịch có hoạt độ H+bằng 1, áp suất 1 atm.
+Cấu tạo.
+Bán phản ứng khử của điện cực hydro như sau:
+Phản ứng trên xảy ra trên điện cực bạch kim (thực ra là điện cực titan phủ muội bạch kim), dung dịch có hoạt độ H+bằng 1.
+Phương trình Nernst được viết trong trường hợp này như sau:
+or
+Trong đó:
+Điện cực bạch kim.
+Điện cực bạch kim được sử dụng là loại điện cực titan được mạ một lớp bạch kim rất xốp (bạch kim đen). Diện tích bề mặt điện cực được tăng lên một cách đáng kể. Điện cực bạch kim được sử dụng trong trường hợp này bởi vì nó cho quá thế thoát hydro nhỏ nhất và mật độ dòng trao đổi khá nhỏ
+Tham khảo.
+2. a b D.T. Sawyer, A. Sobkowiak, J.L. Roberts, Jr., "Electrochemistry for Chemists, 2nd edition", John Wiley and Sons, Inc., 1995.
+3 D.J.G. Ives, G.J. Janz, "Reference Electrodes. Theory and Practice", Academic Press, 1961.
+

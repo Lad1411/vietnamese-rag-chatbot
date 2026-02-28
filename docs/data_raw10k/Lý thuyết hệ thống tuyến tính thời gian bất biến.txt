@@ -1,0 +1,97 @@
+Lý thuyết hệ thống tuyến tính thời gian bất biến
+
+Lý thuyết thời gian bất biến tuyến tính, thường được gọi là lý thuyết hệ thống LTI, xuất phát từ toán ứng dụng và có các ứng dụng trực tiếp trong quang phổ học cộng hưởng từ hạt nhân, địa chấn học, mạch điện, xử lý tín hiệu, lý thuyết điều khiển, và các lĩnh vực kỹ thuật khác. Nó nghiên cứu đáp ứng của một hệ thống tuyến tính và thời gian bất biến đối với một tín hiệu đầu vào tùy ý. Quỹ đạo của các hệ thống này thường được đo lường và theo dõi khi chúng di chuyển theo thời gian (ví dụ như, một dạng sóng âm), nhưng trong các ứng dụng như xử lý hình ảnh và lý thuyết trường, các hệ thống LTI cũng có quỹ đạo theo chiều không gian. Do đó, các hệ thống này cũng được gọi là "tuyến tính dịch chuyển bất biến "để tạo cho lý thuyết này tính tổng quát nhất có thể. Trong trường hợp các hệ thống thời gian rời rạc nói chung (tức là, lấy mẫu), tuyến tính "dịch chuyển bất biến "là một thuật ngữ tương ứng. Một ví dụ tốt về hệ thống LTI là mạch điện mà được tạo thành từ điện trở, tụ điện và cuộn cảm.
+Tổng quan.
+Các tính chất xác định của bất kỳ hệ thống LTI nào là tuyến tính và thời gian bất biến.
+Kết quả cơ bản trong lý thuyết hệ thống LTI là bất kỳ hệ thống LTI nào đều cũng có thể được miêu tả hoàn toàn bởi một hàm duy nhất được gọi là đáp ứng xung của hệ thống. Đầu ra của hệ thống chỉ đơn giản là tích chập của đầu vào của hệ thống với đáp ứng xung của hệ thống. Phương pháp phân tích này thường được gọi là quan điểm miền thời gian. Kết quả tương tự cũng đúng với các hệ thống thời gian rời rạc tuyến tính thay đổi bất biến, trong đó các tín hiệu được lấy mẫu theo thời gian rời rạc, và tích chập được xác định theo trình tự.
+Một cách tương đương, bất kỳ hệ thống LTI nào cũng có thể được miêu tả trong miền tần số bởi hàm truyền của hệ thống đó, đó là biến đổi Laplace của đáp ứng xung của hệ thống (hoặc biến đổi Z trong trường hợp của các hệ thống thời gian rời rạc). Do tính chất của các phép biến đổi này, đầu ra của hệ thống trong miền tần số là tích của hàm truyền và biến đổi của đầu vào hệ thống đó. Nói cách khác, tích chập trong miền thời gian là tương đương với phép nhân trong miền tần số.
+Đối với tất cả các hệ thống LTI, các hàm riêng và các hàm cơ bản của các bộ biến đổi, là các hàm mũ phức. Do đó, nếu đầu vào của một hệ thống có dạng sóng phức formula_19 với biên độ phức formula_20 và tần số phức formula_21, thì đầu ra sẽ là hằng số phức nào đó nhân với đầu vào, đó là formula_22 với biên độ phức mới formula_23.TỈ số formula_24 là hàm truyền tại tần số formula_21.
+Bởi vì sóng sin là một tổng của các hàm mũ phức tạp với các tần số phức liên hợp, nếu đầu vào của hệ thống là một hình sin, thì đầu ra của hệ thống cũng sẽ là một hình sin, có lẽ với một biên độ khác  và một pha khác, nhưng luôn luôn cùng tần số khi đạt đến trạng thái ổn định. Các hệ thống LTI không thể tạo ra các thành phần tần số mà không có trong đầu vào.
+Lý thuyết hệ thống LTI mô tả nhiều hệ thống quan trọng rất tốt. Hầu hết các hệ thống LTI được coi là "dễ" để phân tích, ít nhất so với các trường hợp thời gian biến đổi và/hoặc phi tuyến. Bất kỳ hệ thống nào có thể được mô hình hóa bằng một phương trình vi phân tuyến tính thuần nhất với các hệ số không đổi là một hệ thống LTI. Ví dụ về các hệ thống như vậy là mạch điện gồm các điện trở, cuộn cảm, và tụ điện (mạch RLC). Các hệ thống giảm xóc bằng lò xo lý tưởng cũng là những hệ thống LTI, và tương đương toán học với các mạch RLC.
+Hầu hết các khái niệm hệ thống LTI là tương tự nhau giữa các trường hợp thời gian liên tục và thời gian rời rạc (dịch chuyển bất biến tuyến tính). Trong xử lý ảnh, các biến thời gian được thay thế bằng hai biến không gian, và khái niệm thời gian bất biến được thay thế bởi dịch chuyển bất biến hai chiều. Khi phân tích các giàn bộ lọc và các hệ thống MIMO, thường rất hữu ích để xem xét các vectơ của tín hiệu.
+Một hệ thống tuyến tính mà không phải là thời gian bất biến có thể được giải bằng cách sử dụng các phương pháp khác như phương pháphàm Green. Phương pháp tương tự cũng phải được sử dụng khi các điều kiện ban đầu của bài toán không phải là rỗng.
+Các hệ thống thời gian liên tục.
+Đáp ứng xung và tích chập.
+Hành vi của một hệ thống tuyến tính, thời gian liên tục, thời gian bất biến với tín hiệu đầu vào x(t) và tín hiệu đầu ra y(t) được mô tả bởi tích phân tích chập:
+trong đó formula_26 là đáp ứng của hệ thống đối với một xung:  formula_27   formula_28 do đó tỷ lệ với một trọng số trung bình của hàm đầu vào formula_29  Hàm trọng số là formula_30 dịch chuyển đơn giản một lượng  formula_31   Khi formula_32 thay đổi, hàm trọng số làm nổi bật các phần khác nhau trong hàm đầu vào. Khi formula_33 bằng không cho tất cả formula_34âm,   formula_28 chỉ phụ thuộc vào các giá trị củaf formula_36 hơn là thời gian formula_37  và hệ thống được xem là nhân quả.
+Để hiểu lý do tại sao tích chập tạo ra ở đầu ra của một hệ thống LTI, ta ký hiệuformula_38 để biểu diễn hàm formula_39 với biến formula_40 và hằng số formula_41 Và ký hiệu ngắn hơn formula_42 để biểu diễn formula_43Sau đó một hệ thống thời gian liên tục chuyển đổi một hàm đầu vào, formula_44 thành một hàm đầu ra, formula_45 Và nói chung, mỗi giá trị của đầu ra có thể phụ thuộc vào tất cả giá trị của đầu vào. Khái niệm này được biểu diễn bởi:
+trong đó formula_46 là toán tử biến đổi theo thời gian formula_31  Trong một hệ thống điển hình, formula_28 phụ thuộc nhiều nhất vào các giá trị của formula_36 xảy ra gần thời gian formula_31  Trừ phi tự biến đổi chính nó theo formula_37 hàm đầ ra là hằng số, và hệ thống này chả có gì để chú ý.
+Đối với một hệ thống tuyến tính, formula_52 phải thỏa mãn Eq.1 :
+Và yêu cầu thời gian bất biến là:
+Chúng ta có thể viết đáp ứng xung này theo ký hiệu trên như sau  formula_53
+Tương tự:
+Thay kết quả này vào tích chập:
+which has the form of the right side of Eq.2 for the case formula_54 and formula_55
+Eq.2 then allows this continuation:
+Tóm lại, hàm đầu vào, formula_44  có thể được mô tả bởi một continuum của các hàm xung dịch chuyển theo thời gian, liên kết "tuyến tính", như phương trình Eq.1 ở trên. Thuộc tính tuyến tính của hệ thống cho phép đáp ứng của hệ thống được thể hiện bởi continuum của các đáp ứng xung tương ứng, liên kết cùng cách thức tương tự. Và thuộc tính thời gian bất biến cho phép liên kết đó được mô tả bởi tích phân tích chập.
+Các phép toán trên có một mô phỏng đồ họa đơn giản.
+Dùng hàm mũ làm hàm riêng.
+Một hàm riêng là một hàm mà đầu ra của phép toán là một bản đồng dạng tỷ lệ của cùng hàm số. Đó là,
+trong đó "f" là hàm riêng và formula_58 là vectơ riêng, một hằng số.
+Các hàm mũ formula_59, trong đó formula_60, là các hàm riêng của một toán tử bất biến thời gia, tuyến tính. Một ví dụ minh họa đơn giản khái niệm này. Giả sử đầu vào là is formula_61. Đầu ra của hệ thống với đáp ứng xung formula_62 sẽ là
+trong đó, với thuộc tính giao hoán của tích chập, tương đương với
+Trong đó đại lượng vô hướng
+chỉ phụ thuộc vào tham số s.
+Vì vậy đáp ứng của hệ thống là tỉ lệ đồng dạng với đầu vào. Đặc biệt, đối với bất kỳ formula_60, đầu ra của hệ thống là tích của đầu vào formula_19 và hằng số formula_65. Trong đó, formula_59 là một hàm riêng của một hệ thống LTI, và vectơ riêng tương ứng là formula_65.
+Biến đổi Fourier và Laplace.
+Tính chất hàm mũ của hàm riêng rất hữu ích cho việc phân tích và tìm hiểu các hệ thống LTI. Các biến đổi Laplace
+chính la cách để có được các giá trị riêng từ đáp ứng xung. Đăch biệt là các tín hiệu theo hình sin chuẩn (nghĩa là các hàm mũ có dạng formula_68 trong đó formula_69 và formula_70). Chúng thường được gọi là các hàm mũ phức ngay cả khi argument chỉ có phần ảo. Biến đổi Fourier formula_71 cho ta các giá trị riêng cho các tín hiệu thuần sin phức. Cả formula_65 và formula_73 đều được gọi là "hàm hệ thống", "đáp ứng hệ thống, hoặc hàm truyền."
+Biến đổi Laplace thường được sử dụng trong bối cảnh của các tín hiệu một chiều, tức là tín hiệu là zero cho tất cả các giá trị của "t "ít hơn so với một số giá trị khác. Thông thường, "thời gian bắt đầu" này được thiết lập bằng zero, để thuận tiện và không mất tính tổng quát, với biến đổi tích phân được lấy từ zero đến vô cùng (các biến đổi chỉ ra ở trên cùng với giới hạn dưới của tích phân âm vô cùng được chính thức biết đến là biến đổi Laplace song phương).
+Các thuộc tính quan trọng của hệ thống.
+Hai tính chất quan trọng nhất của một hệ thống là tính nhân quả và tính ổn định. Tính nhân quả là một điều cần thiết nếu biến độc lập là thời gian, nhưng không phải tất cả các hệ thống đều lấy thời gian là một biến độc lập. Ví dụ, một hệ thống xử lý hình ảnh tĩnh không cần phải có tính nhân quả. Các hệ thống phi nhân quả có thể được xây dựng và có thể hữu ích trong nhiều tình huống. Ngay cả các hệ thống không thực có thể được xây dựng và rất hữu ích trong nhiều trường hợp.
+Tính nhân quả.
+Một hệ thống là nhân quả nếu đầu ra chỉ phụ thuộc vào hiện tại và quá khứ, mà không phụ thuộc đầu vào tương lai. Một điều kiện cần và đủ của quan hệ nhân quả là(đoạn này khó hiểu thế)
+trong đó formula_62 là đáp ứng xung. Nói chung không thể  xác định tính nhân quả từ biến đổi Laplace, vì biến đổi nghịch đảo là không duy nhất. Khi một vùng hội tụ được xác định, thì tính nhân quả có thể được xác định.
+Tính ôn định.
+Một hệ thống là ổn định giới hạn đầu vào, giới hạn đầu ra (ổn định BIBO) nếu, với mỗi đầu vào bị chặn, đầu ra là hữu hạn. Về mặt toán học, nếu mỗi đầu vào đáp ứng
+sẽ dẫn tới một đầu ra thỏa mãn
+(do đó, một giá trị tuyệt đối cực đại của formula_15 bao hàm giá trị tuyệt đối cực đại của formula_16), thì hệ thống đó là ổn định. Một điều kiện cần và đủ là đáp ứng xung formula_62 phải nằm trong L1 (có một chuẩn mực L1 hữu hạn):
+Trong miền tần số, vùng hội tụ phải chứa trục ảo  formula_82.
+As an example, the ideal low-pass filter with impulse response equal to a sinc function is not BIBO stable, because the sinc function does not have a finite L1 norm. Thus, for some bounded input, the output of the ideal low-pass filter is unbounded. In particular, if the input is zero for formula_83 and equal to a sinusoid at the cut-off frequency for formula_84, then the output will be unbounded for all times other than the zero crossings.
+Các hệ thống thời gian rời rạc.
+Hầu hết tất cả mọi thứ trong các hệ thống thời gian liên tục đều có một bản sao trong các hệ thống thời gian rời rạc.
+Các hệ thống thời gian rời rạc từ các hệ thống thời gian liên tục.
+Trong nhiều trường hợp, một hệ thống thời gian rời rạc (DT-discrete time) thực sự là một phần của một hệ thống thời gian liên tục (CT-continuous time) lớn hơn. Ví dụ, một hệ thống ghi âm kỹ thuật số có một âm thanh analog, số hóa nó, có thể xử lý tín hiệu kỹ thuật số này, và phát lại một âm thanh analog tương tự cho mọi người nghe.
+Về mặt hình thức, các tín hiệu DT được nghiên cứu hầu như luôn luôn là các phiên bản lấy mẫu đồng đều của tín hiệu CT. Nếu formula_15 là một tín hiệu CT, thì mộtbộ chuyển đổi từ analog sang kỹ thuật số sẽ chuyển đổi nó thành tín hiệu DT:
+Trong đó "T" là chu kỳ lấy mẫuperiod. Việc giới hạn dải  tần số trong tín hiệu đầu vào để thể hiện chính xác trong tín hiệu DT là rất quan trọng, vì định lý lấy mẫu đảm bảo rằng không có thông tin về tín hiệu CT bị mất. Một tín hiệu DT có thể chỉ chứa một dải tần số bằng formula_86; các tần số khác bịlàm méo (qui) về dải lấy mẫu.
+Đáp ứng xung và tích chập.
+Cho formula_87 thể hiện chuỗi {"x"["m-k"]; đối với tất cả các giá trị nguyên của m}.
+And let the shorter notation formula_88 represent formula_89
+Một hệ thống rời rạc biến đổi một chuỗi đầu vào, formula_90 thành một chuỗi đầu ra, formula_91 Tổng quát, mọi thành phần của đầu ra có thể phụ thuộc vào mọi thành phần của đầu vào. Biểu diễn phép toán biến đổi này bởi formula_92, chúng ta có thể viết:
+Lưu lý rằng trừ phi biến đổi này tư nó thay đổi theo n, chuỗi đầu ra chỉ là hằng số, và hệ thống là đơn điệu. (Do đó chỉ số dưới, n.) Trong một hệ thống điển hình, y[n] hầu như phụ thuộc phần lớn vào thành phần x, thành phần có chỉ số gần như n.
+Trong trường hợp đặc biệt của hàm delta Kronecker, formula_93  chuỗi đầu ra là đáp ứng xung:
+Đối với một hệ thống tuyến tính, formula_92 phải thỏa mãn:
+Và thời gian bất biến yêu cầu là:
+Trong một hệ thống như vậy, đáp ứng xung, formula_95 mô tả đặc điểm của hệ thống hoàn toàn. Tức là, đối với bất kỳ chuỗi đầu vào nào, chuỗi đầu ra có thể được tính toán trong điều kiện của đầu vào và đáp ứng xung. Để xem điều này được thực hiện như thế nào hãy xem đồng nhất thức sau:
+trong đó biểu thức formula_88 theo tổng các hàm trọng số delta.
+Do đó:
+trong đó chúng ta viện dẫn phương trình  trong trường hợp  formula_97 và formula_98
+VÀ bởi vì phương trình , chúng ta có thể viết:
+Do đó:
+đó là công thức chập rời rạc quen thuộc. Toán tử O_n\,  có thể được hiểu là tỷ lệ thuận với trung bình trọng số của hàm x[k]. Hàm trọng số này là h[k], chỉ đơn giản là thay đổi bởi lượng n. Khi n thay đổi, hàm trọng số nhấn mạnh các phần khác nhau của hàm đầu vào. Một cách tương đương, đáp ứng của hệ thống đối với một xung tại n = 0 là một bản sao đảo ngược "thời gian"  của hàm trọng số không dịch chuyển. Khi h[k] là zero cho tất cả số âm k, hệ thống được gọi là nhân quả.
+Dùng hàm mũ làm hàm riêng.
+Hàm riêng là một hàm mà đầu ra của các toán hạng có hàm tương đương, chỉ thay đổi bởi một lượng tỉ lệ. Trong các biểu tượng,
+trong đó "f "là hàm riêng và formula_58 là vectơ riêng, một hằng số.
+Hàm mũ formula_101, trong đó formula_102, là hàm riêng của toán tử tuyến tính, thời gian bất biến. formula_103 khoảng thời gian lấy mẫu, và formula_104. Một ví dụ đơn giản minh họa khái niệm này.
+Cho đầu vào là formula_105. Đầu ra của hệ thống với đáp ứng xung formula_106 sẽ là
+là tương đương với tính chất giao hoán sau của tích chập
+chỉ phụ thuộc vào tham số z.
+Do đó formula_107 là một hàm riêng của một hệ thống LTI bởi vì đáp ứng của hệ thống đó là tương đương với đầu vào nhân với hằng số formula_108.
+Biếu đổi Z và biến đổi Fourier thời gian rời rạc.
+Thuộc tính riêng của hàm mũ là rất hữu ích cho cả việc phân tích và nghiên cứu sâu vào các hệ thống LTI. Biến đổi Z
+chính là cách để lấy vectơ riêng từ đáp ứng xung. Đặc biệt là đối với các tín hiệu thuần sin, nghĩa là hàm mũ có dạng formula_109, trong đó formula_69. Biểu thức này cũng có thể viết lại theo formula_107 với formula_112. Điều này thường được gọi là hàm mũ phức ngay cả khi argument chỉ toàn là phần ảo. Biến đổi Fourier thời gian rời rạc (DTFT) formula_113 cho các vectơ rieng của hàm sin chuẩn. Cả formula_108 và formula_115 đều được gọi là "hàm hệ thống, đáp ứng hệ thống, hoặc hàm truyền."
+Biến đổi Z thường được sử dụng trong bối cảnh của các tín hiệu một chiều, tức là tín hiệu mà zero cho tất cả các giá trị của t nhỏ hơn so với một số giá trị. Thông thường, "thời gian bắt đầu" này được thiết lập bằng không, để thuận tiện và không mất tính tổng quát. Biến đổi Fourier được sử dụng để phân tích các tín hiệu trong phạm vi vô tận.
+Do tính chất tích chập của cả hai biến đổi này, tích chập cung cấp đầu ra của hệ thống có thể được biến đổi thành một phép nhân trong miền biến đổi. Đó là,
+Cũng như với biến đổi Laplace của hàm truyền trong phân tích hệ thống thời gian liên tục, biến đổi Z làm cho việc phân tích các hệ thống dễ dang hơn và hiểu sâu hơn về hành vi của chúng. Người ta có thể nhìn vào các mô đun hàm hệ thống |"H(z)"| để xem liệu đầu vào z^n được thông qua (cho qua) bởi hệ thống, hoặc bị "từ chối "hoặc bị "suy giảm "bởi hệ thống (không cho qua).
+Các thuộc tính quan trọng của hệ thống.
+Các đặc tính đầu vào-đầu ra của hệ thống thời gian rời rạc LTI hoàn toàn được mô tả bởi đáp xung "h[n]". Một số thuộc tính quan trọng nhất của một hệ thống là tính nhân quả và ổn định. Không giống như các hệ thống CT, các hệ thống phi nhân quả DT có thể được thực hiện. Làm cho một hệ thống FIR phi nhân quả thành nhân quả bằng cách thêm các trễ thì không quan trọng. Ta thậm chí có thể làm cho các hệ thống IIR phi nhân quả. Các hệ thống không ổn định có thể được xây dựng và có thể hữu ích trong nhiều tình huống. Ngay cả hệ thống không thực cũng có thể được xây dựng và rất hữu ích trong nhiều trường hợp.
+Tính nhân quả.
+Một hệ thống LTI thời gian rời rạc là nhân quả nếu giá trị hiện tại của đầu ra chỉ phụ thuộc vào giá trị hiện tại và giá trị quá khứ của đầu vào., Một điều kiện cần và đủ cho tính nhân quả là
+trong đó formula_106 là đáp ứng xung. Không thể tổng quát khi xác định quan hệ nhân quả từ biến đổi Z, vì biến đổi nghịch đảo là không duy nhất. Khi một vùng hội tụ được xác định, thì quan hệ nhân quả có thể được xác định.
+Tính ổn định.
+Một hệ thống là giới hạn đầu vào, ổn định giới hạn đầu ra (ổn định BIBO) nếu, với mỗi đầu vào bị chặn, đầu ra là hữu hạn. Về mặt toán học, nếu
+có nghĩa là
+(nghĩa là, nếu đầu vào bị chặn bao gồm cả đầu ra bị chặn, nghĩa là các giá trị tuyệt đối lớn nhất của formula_120 và formula_121 là có giới hạn), thì hệ thống đó là ổn định. Một điều kiện cần và đủ là đáp ứng xung formula_106, thỏa mãn
+Độ ổn định.
+Trong miền tần số,vùng hội tụ phải chứa vòng tròn đơn vị (nghĩa là, quỹ đạo nghiệm số phải thỏa mãn formula_126 với "z "là số phức).
+

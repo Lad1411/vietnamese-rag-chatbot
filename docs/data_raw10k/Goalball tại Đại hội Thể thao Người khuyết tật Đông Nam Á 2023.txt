@@ -1,0 +1,53 @@
+Goalball tại Đại hội Thể thao Người khuyết tật Đông Nam Á 2023
+
+Goalball tại Đại hội Thể thao Người khuyết tật Đông Nam Á 2023 được tổ chức tại Trung tâm thể thao trong nhà Morodok Techo, Phnom Penh.
+Kết quả.
+Giải đấu nam.
+&lt;section begin=A /&gt;
+Bảng A.
+&lt;section end=A /&gt;
+&lt;section begin=A1 /&gt;
+&lt;section end=A1 /&gt;
+&lt;section begin=A2 /&gt;
+&lt;section end=A2 /&gt;
+&lt;section begin=A3 /&gt;
+&lt;section end=A3 /&gt;
+&lt;section begin=B /&gt;
+Bảng B.
+&lt;section end=B /&gt;
+&lt;section begin=B1 /&gt;
+&lt;section end=B1 /&gt;
+&lt;section begin=B2 /&gt;
+&lt;section end=B2 /&gt;
+&lt;section begin=B3 /&gt;
+&lt;section end=B3 /&gt;
+Vòng đấu loại trực tiếp.
+Sơ đồ thi đấu.
+&lt;section begin=knockout /&gt;&lt;section end=knockout /&gt;
+Giải đấu nữ.
+Vòng bảng.
+&lt;section end=C /&gt;
+&lt;section begin=C1 /&gt;
+&lt;section end=C1 /&gt;
+&lt;section begin=C2 /&gt;
+&lt;section end=C2 /&gt;
+&lt;section begin=C3 /&gt;
+&lt;section end=C3 /&gt;
+&lt;section begin=C4 /&gt;
+&lt;section end=C4 /&gt;
+&lt;section begin=C5 /&gt;
+&lt;section end=C5 /&gt;
+&lt;section begin=C6 /&gt;
+&lt;section end=C6 /&gt;
+&lt;section begin=C7 /&gt;
+&lt;section end=C7 /&gt;
+&lt;section begin=C8 /&gt;
+&lt;section end=C8 /&gt;
+&lt;section begin=C9 /&gt;
+&lt;section end=C9 /&gt;
+&lt;section begin=C10 /&gt;
+&lt;section end=C10 /&gt;
+Vòng đấu loại trực tiếp.
+Sơ đồ thi đấu.
+&lt;section begin=knockout /&gt;&lt;section end=knockout /&gt;
+

@@ -1,0 +1,20 @@
+Rich snippets
+
+Đoạn mã chi tiết (tiếng Anh là "Rich snippets") là các đoạn mã nội dung nhỏ bổ sung cho nội dung chính của trang Web trên các trang kết quả tìm kiếm do các công cụ tìm kiếm như Google , Yahoo và Bing gọi là. Sử dụng các "đoạn mã chi tiết này" , người dùng có thể biết trước liệu các trang web được liệt kê trong kết quả tìm kiếm có liên quan để tìm kiếm thêm hay không. Việc sử dụng "đoạn mã chi tiết" cũng nhằm mục đích trợ giúp người dùng với một số truy vấn tìm kiếm nhất định. 
+Trái ngược với các "đoạn trích" thông thường, xuất hiện dưới dạng thông tin văn bản ngắn trong các kết quả tìm kiếm tương ứng, các tiện ích mở rộng này chứa các bổ sung thông tin đơn giản khác cho kết quả tìm kiếm, chẳng hạn như B. xếp hạng sao hoặc giá sản phẩm của trang web được đề cập.
+Giới thiệu.
+Vào ngày 12 tháng 5 năm 2009, công cụ tìm kiếm Google đã giới thiệu "Rich Snippets" .  Vào tháng 4 năm 2012, Google thông báo rằng họ sẽ hỗ trợ "rich snippets" cho các sản phẩm trên toàn thế giới. 
+Các định dạng đánh dấu được hỗ trợ.
+Microdata.
+Thông qua (vi dữ liệu) nội dung có thể được mô tả trong một loại thông tin cụ thể. Nó có thể đánh giá, thông tin thêm về người hoặc sự kiện được mô tả.
+"Ví dụ về mã HTML có đánh dấu vi dữ liệu:"
+Microformats.
+ (Vi định dạng) là các thực thể đơn giản cũng có thể được sử dụng trên các trang web để mô tả một số loại thông tin. Mỗi thực thể có những đặc điểm riêng. Ví dụ, về vi định dạng với các thuộc tính như tên, địa chỉ, địa chỉ e-mail, v.v.
+"Ví dụ về mã HTML có đánh dấu vCard" "vi định dạng (Người):"
+RDFa.
+Các kiểu thông tin còn được gọi là các thực thể hoặc phần tử. Mỗi thực thể lần lượt có một số thuộc tính. Ở một người z. B. tên tài sản, v.v. 
+"Ví dụ về mã HTML có đánh dấu RDFa:"
+Ngữ nghĩa của đoạn mã chi tiết.
+Đoạn mã chi tiết cho phép quản trị viên web hiển thị các ý nghĩa bổ sung trong trang web của họ. Những ý nghĩa như vậy thường được gọi là ngữ nghĩa . Xu hướng đối với các mã như vậy đã tồn tại từ lâu và đang được thảo luận trên toàn cầu dưới tiêu đề "web ngữ nghĩa" .
+Với Lợi ích của Rich Snippets (đoạn trích chi tiết) các chủ trang web có thể làm nổi bật hơn kết quả của mình trên bảng tìm kiếm góp phần làm tăng tỷ lệ nhấp chuột, lưu lượng truy cập tự nhiên.
+

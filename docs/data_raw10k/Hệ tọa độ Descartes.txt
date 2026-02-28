@@ -1,0 +1,58 @@
+Hệ tọa độ Descartes
+
+Một Hệ tọa độ Descartes (tiếng Anh: Cartesian coordinate system) xác định vị trí của một điểm ("point") trên một mặt phẳng ("plane") cho trước bằng một cặp số tọa độ ("x", "y"). Trong đó, "x" và "y" là 2 giá trị được xác định bởi 2 đường thẳng có hướng vuông góc với nhau (cùng đơn vị đo). 2 đường thẳng đó gọi là trục tọa độ ("coordinate axis") (hoặc đơn giản là "trục"); trục nằm ngang gọi là trục hoành, trục đứng gọi là trục tung; điểm giao nhau của 2 đường gọi là gốc tọa độ (origin) và nó có giá trị là (0, 0).
+Hệ tọa độ này là ý tưởng của nhà toán học và triết học người Pháp René Descartes thể hiện vào năm 1637 trong hai bài viết của ông. Trong phần hai của bài Phương pháp luận (Descartes) (tiếng Pháp: "Discours de la méthode", tựa "Pour bien conduire sa raison, et chercher la vérité dans les sciences"), ông đã giới thiệu ý tưởng mới về việc xác định vị trí của một điểm hay vật thể trên một bề mặt bằng cách dùng hai trục giao nhau để đo. Còn trong bài La Géométrie, ông phát triển sâu hơn khái niệm trên.
+Descartes là người đã có công hợp nhất đại số và hình học Euclide. Công trình này của ông có ảnh hưởng đến sự phát triển của ngành hình học giải tích, tích phân, và khoa học bản đồ.
+Ngoài ra, ý tưởng về hệ tọa độ có thể được mở rộng ra không gian ba chiều ("three-dimensional space") bằng cách sử dụng 3 tọa độ Descartes (nói cách khác là thêm một trục tọa độ vào một hệ tọa độ Descartes). Một cách tổng quát, một hệ tọa độ n-chiều có thể được xây dựng bằng cách sử dụng n tọa độ Descartes (tương đương với n-trục).
+Hệ tọa độ trên mặt phẳng (2 chiều).
+Là 2 trục vuông góc x'Ox và y'Oy mà trên đó đã chọn 2 vectơ đơn vị formula_1, formula_2 sao cho độ dài của 2 véc-tơ này bằng nhau
+Trục x'Ox (hay trục Ox) gọi là trục hoành.
+Trục y'Oy (hay trục Oy) gọi là trục tung.
+Điểm O được gọi là gốc tọa độ 
+Tọa độ vecto.
+Nếu formula_3 thì cặp số (x;y) được gọi là tọa độ của vecto formula_4. x được gọi là hoành độ và y được gọi là tung độ của formula_4.
+Ký hiệu formula_6
+Tọa độ điểm.
+Mỗi điểm M được xác định bởi một cặp số M(x,y), được gọi là tọa độ điểm M, x được gọi là hoành độ và y được gọi là tung độ của điểm M
+Tính chất:
+Tìm tọa độ của vecto biết tọa độ điểm đầu và cuối.
+Cho 2 điểm formula_10 và formula_11, khi đó ta có formula_12
+Độ dài vecto và khoảng cách giữa 2 điểm.
+Cho formula_13, khi đó formula_14 là độ dài của vectơ formula_4
+Cho 2 điểm formula_10 và formula_11, khi đó độ dài đoạn thẳng AB hay khoảng cách giữa A và B là formula_18
+Góc giữa 2 vecto.
+Cho formula_13 và formula_20. Gọi formula_21 là góc giữa 2 vecto formula_4 và formula_23. Khi đó formula_24
+Một số biểu thức tọa độ.
+Cho formula_13 ta có formula_26
+Cho formula_13 và formula_20 ta có
+Cho đoạn thẳng AB có formula_10 và formula_11, Khi đó formula_34 là tọa độ trung điểm đoạn thẳng AB
+Cho formula_35 có formula_10, formula_11 và formula_38, khi đó formula_39 là tọa độ trọng tâm của formula_35
+Hệ tọa độ trong không gian (3 chiều).
+Là 3 trục vuông góc nhau từng đôi một x'Ox, y'Oy, z'Oz mà trên đó đã chọn 3 véc-tơ đơn vị formula_41, formula_42, formula_43 sao cho độ dài của 3 véc-tơ này bằng nhau
+Trục x'Ox (hay trục Ox) gọi là trục hoành.
+Trục y'Oy (hay trục Oy) gọi là trục tung.
+Trục z'Oz (hay trục Oz) gọi là trục cao.
+Điểm O được gọi là gốc tọa độ
+3 trục tọa độ nói trên vuông góc với nhau tạo thành 3 mặt phẳng tọa độ là Oxy, Oyz và Ozx vuộng góc với nhau từng đôi một 
+Tọa độ của điểm.
+Trong không gian, mỗi điểm M được xác định bởi bộ số M(x,y,z). và ngược lại, bộ số đó được gọi là tọa độ của điểm M, x được gọi là hoành độ, y được gọi là tung độ và z được gọi là cao độ của điểm M.
+Tính chất
+Tọa độ của vector.
+Trong không gian, cho vectơ formula_50, khi đó bộ số (x;y;z) được gọi là tọa độ của vecto formula_4.
+Ký hiệu: formula_52
+Liên hệ giữa tọa độ vectơ và tọa độ điểm.
+Cho 2 điểm formula_53 và formula_54, khi đó ta có formula_55
+Cho điểm formula_56, khi đó ta có formula_57 và ngược lại
+Độ dài vecto và khoảng cách giữa 2 điểm.
+Cho formula_58, khi đó formula_59 là độ dài của vectơ formula_4
+Cho 2 điểm formula_53 và formula_54, khi đó độ dài đoạn thẳng AB hay khoảng cách giữa A và B là formula_63
+Góc giữa 2 vecto.
+Cho formula_58 và formula_65. Gọi formula_21 là góc giữa 2 vecto formula_4 và formula_23. Khi đó
+formula_69
+formula_70
+Một số biểu thức tọa độ.
+Cho formula_58 ta có formula_72
+Cho formula_58 và formula_65 ta có
+Cho đoạn thẳng AB có formula_53 và formula_54, Khi đó formula_81 là tọa độ trung điểm đoạn thẳng AB
+Cho formula_35 có formula_53, formula_54 và formula_85, khi đó formula_86 là tọa độ trọng tâm của formula_35
+

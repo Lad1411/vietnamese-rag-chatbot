@@ -1,0 +1,8 @@
+Định lý Hopf–Rinow
+
+Định lý Hopf–Rinow là một tập hợp các phát biểu về tính đầy trắc địa của các đa tạp Riemann. Nó được đặt theo tên của Heinz Hopf và sinh viên Willi Rinow, người đã xuất bản nó vào năm 1931.
+Phát biểu.
+Đặt ("M","g") là một đa tạp Riemann liên thông. Các khẳng định sau là tương đương:
+Nếu "M" là một không gian thỏa mãn các khẳng định trên, ta gọi "M" là một không gian đầy trắc địa.
+Nếu "M" là một không gian đầy trắc địa, giữa hai điểm bất kỳ "p" và "q" thuộc "M," tồn tại một đường trắc địa tối thiểu khoảng cách nối hai điểm này (các đường trắc địa nói chung là cực điểm của phiếm hàm khoảng cách, và có thể là cực đại hoặc cực tiểu; nếu "M" là một không gian đầy trắc địa, ta khẳng định tồn tại một đường trắc địa cực tiểu).
+

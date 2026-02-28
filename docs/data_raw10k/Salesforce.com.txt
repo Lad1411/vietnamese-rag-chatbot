@@ -1,0 +1,74 @@
+Salesforce.com
+
+Salesforce.com, Inc. hay Salesforce (tạm dịch: "Mại lực", thường được viết tắt là SF hoặc SFDC) là một công ty phần mềm dựa trên đám mây của Mỹ có trụ sở tại San Francisco, California. Mặc dù phần lớn doanh thu đến từ dịch vụ quản lý quan hệ khách hàng (CRM), Salesforce cũng bán một bộ ứng dụng doanh nghiệp bổ sung tập trung vào dịch vụ khách hàng, tự động hóa tiếp thị, phân tích và phát triển ứng dụng.
+Salesforce được xếp hạng đầu tiên trong "tạp chí Fortune" của 100 công ty tốt nhất để làm việc vào năm 2018.
+Lịch sử.
+Công ty được thành lập vào năm 1999 bởi cựu giám đốc điều hành của Oracle Marc Benioff, Parker Harris, Dave Moellenhoff và Frank Martinsuez là một công ty chuyên về phần mềm như một dịch vụ (SaaS). Harris, Moellenhoff và Sebastuez, ba nhà phát triển phần mềm trước đây tại công ty tư vấn Left Coast Software, đã được giới thiệu với Benioff thông qua một người bạn và đồng nghiệp cũ của Oracle Bobby Yazdani. Harris và nhóm đã viết phần mềm tự động hóa bán hàng ban đầu, và bán cho những khách hàng đầu tiên của mình trong tháng 9-tháng 11 năm 1999.
+Vào tháng 6 năm 2004, công ty đã có đợt chào bán công khai lần đầu trên Sàn giao dịch chứng khoán New York với mã chứng khoán CRM và huy động được 110 triệu đô la Mỹ. Các nhà đầu tư ban đầu bao gồm Larry Ellison, Magdalena Yesil, Halsey Minor, Stewart Henderson, Mark Iscaro và Igor Sill của Geneva Partners Partners.
+Vào tháng 10 năm 2014, Salesforce đã công bố phát triển Customer Success Platform để gắn kết các dịch vụ của Salesforce, bao gồm bán hàng, dịch vụ, tiếp thị, phân tích, cộng đồng và ứng dụng di động. Vào tháng 10 năm 2017, Salesforce đã ra mắt công cụ Phân tích Facebook dành cho các nhà tiếp thị từ doanh nghiệp đến doanh nghiệp. Vào tháng 9 năm 2018, Salesforce hợp tác với Apple dự định cải thiện ứng dụng cho doanh nghiệp.
+Dịch vụ.
+Dịch vụ quản lý quan hệ khách hàng (CRM) của Salesforce.com bao gồm một số danh mục rộng: Commerce Cloud, Sales Cloud, Service Cloud, Data Cloud (bao gồm Jigsaw), Marketing Cloud, Community Cloud (bao gồm Chatter), Analytics Cloud, App Cloud và IoT với hơn 100.000 khách hàng.
+Dịch vụ đang hoạt động.
+Salesforce.
+Salesforce là doanh nghiệp chính được cung cấp trong nền tảng Salesforce. Nó cung cấp cho các công ty một giao diện để quản lý trường hợp và quản lý tác vụ và một hệ thống để tự động định tuyến và leo thang các sự kiện quan trọng. Cổng thông tin khách hàng của Salesforce cung cấp cho khách hàng khả năng theo dõi các trường hợp của họ, bao gồm một plug-in mạng xã hội cho phép người dùng tham gia cuộc trò chuyện về công ty của họ trên các trang web mạng xã hội, cung cấp các công cụ phân tích và các dịch vụ khác bao gồm cảnh báo email, tìm kiếm Google và truy cập vào quyền lợi và hợp đồng của khách hàng.
+Lightning Platform.
+Lightning Platform (còn được gọi là Force.com) là một nền tảng dưới dạng dịch vụ (PaaS) cho phép các nhà phát triển tạo các ứng dụng bổ trợ tích hợp vào ứng dụng Salesforce.com chính.   Các ứng dụng của bên thứ ba này được lưu trữ trên cơ sở hạ tầng của Salesforce.com.
+Các ứng dụng Force.com được xây dựng bằng các công cụ khai báo, được hỗ trợ bởi Lightning   và Apex (ngôn ngữ lập trình giống Java độc quyền cho Force.com) và Lightning và Visualforce (khung bao gồm cú pháp XML thường được sử dụng để tạo HTML). Nền tảng Force.com thường nhận được ba bản phát hành hoàn chỉnh một năm. Vì nền tảng được cung cấp như một dịch vụ cho các nhà phát triển của nó, mọi phiên bản phát triển đơn lẻ cũng nhận được tất cả các cập nhật này.
+Trong phiên bản Xuân 2015, một khung mới để xây dựng giao diện người dùng - Lightning Components - đã được giới thiệu trong phiên bản beta. Các thành phần Lightning được xây dựng bằng Aura Framework nguồn mở nhưng có hỗ trợ Apex làm ngôn ngữ phía máy chủ thay vì phụ thuộc Javascript của Aura. Điều này đã được mô tả như là một lựa chọn, không nhất thiết phải thay thế, cho các trang Visualforce.
+Theo báo cáo của Gartner Group tháng 9 năm 2009, Force.com có hơn 1.000 tài khoản khách hàng. Tính đến năm 2013, nền tảng Force.com có 1,4 triệu nhà phát triển đã đăng ký.
+Community Cloud.
+Community Cloud cung cấp cho khách hàng của Salesforce khả năng tạo các thuộc tính web trực tuyến để cộng tác bên ngoài, dịch vụ khách hàng, bán hàng theo kênh và các cổng tùy chỉnh khác trong ví dụ về Salesforce của họ. Được tích hợp chặt chẽ với Sales Cloud, Service Cloud và App Cloud, Community Cloud có thể được tùy chỉnh nhanh chóng để cung cấp nhiều thuộc tính web khác nhau.
+Work.com.
+Work.com, trước đây là Rypple, là một nền tảng quản lý hiệu suất xã hội giúp người quản lý và nhân viên cải thiện hiệu suất công việc thông qua huấn luyện liên tục, phản hồi thời gian thực và công nhận. Nó được bán trên thị trường như một giải pháp cho hiệu suất bán hàng, dịch vụ khách hàng, tiếp thị và là một dịch vụ có thể được sử dụng bởi các bộ phận nhân sự.
+Work.com, sau đó được gọi là "Rypple", được thành lập bởi Daniel Debow và David Stein, người muốn tạo ra một cách đơn giản để yêu cầu phản hồi ẩn danh tại nơi làm việc. Công ty được thành lập vào tháng 5 năm 2008 và danh sách khách hàng của họ bao gồm Mozilla, Facebook, LinkedIn và Gilt Groupe. Rypple "'đảo ngược trách nhiệm về nhu cầu phản hồi nhiều hơn" bằng cách khiến nhân viên xây dựng và quản lý mạng lưới huấn luyện của riêng họ ".
+Vào tháng 9 năm 2011, Rypple tuyên bố rằng họ đã thuê Bohdan Zabawskyj làm Giám đốc Công nghệ.
+Năm 2011, Rypple đã phát triển một phương pháp quản lý chính thức hơn được gọi là OKR ("Mục tiêu và kết quả chính") cho Spotify. Rypple cũng hợp tác với Facebook để tạo ra "Vòng lặp" ("Loops"), viết tắt của "vòng phản hồi" ("feedback loops"), tập hợp phản hồi từ đồng nghiệp, "cảm ơn", tiến bộ chống lại các mục tiêu và huấn luyện từ các giám sát viên thành một kênh vì một "đánh giá hiệu suất giàu có, mạnh mẽ, liên tục".
+Vào tháng 12 năm 2011, Salesforce.com đã thông báo rằng họ sẽ mua Rypple. Giao dịch được hoàn thành vào năm 2012 và Rypple được đổi tên thành Work.com vào tháng 9 năm 2012.
+AppExchange.
+Ra mắt vào năm 2005, Salesforce AppExchange là một thị trường ứng dụng trực tuyến cho các ứng dụng của bên thứ ba chạy trên nền tảng Force.com. Các ứng dụng có sẵn miễn phí, cũng như thông qua các mô hình đăng ký hàng năm hoặc hàng tháng. Các ứng dụng có sẵn từ tích hợp với SharePoint đến quản lý phê duyệt di động. Tính đến tháng 6 năm 2016, nó có 2.948 ứng dụng đã thúc đẩy hơn 3 triệu lượt cài đặt. "AppExchange" cũng là nơi khách hàng có thể tìm kiếm các đối tác tư vấn đám mây để giúp họ triển khai công nghệ trong tổ chức của mình. Đám mây đối tác tư vấn cho Salesforce bao gồm các công ty lớn như IBM 's 'Bluewolf' và Accenture cũng như những cái nhỏ hơn như Cloudreach.
+myTrailhead.
+Được công bố vào năm 2017 và ra mắt vào năm 2019, myTrailhead của Salesforce là một nền tảng đào tạo trực tuyến có thể được tùy chỉnh cho các nhu cầu cụ thể của khách hàng. Nền tảng mở rộng chức năng mà Salesforce xây dựng để cung cấp cho người dùng nội dung đào tạo cụ thể theo cách sử dụng Salesforce của họ và cho phép người dùng tạo và xuất bản nội dung và chương trình đào tạo của riêng họ.
+Nền tảng Blockchain.
+Được công bố vào ngày 29 tháng 5 năm 2019, Salesforce đã ra mắt nền tảng blockchain để tạo điều kiện xây dựng mạng blockchain và các ứng dụng được tích hợp với CRM.
+Các dịch vụ đã nghỉ hưu hoặc cuối vòng đời.
+Data.com.
+Data.com, trước đây gọi là Jigsaw, là một hệ thống tự động dựa trên đám mây để có được và quản lý các bản ghi CRM trong tài khoản Salesforce.com của người dùng.
+Data.com cũng là một thư mục kinh doanh trực tuyến của các công ty và chuyên gia kinh doanh được xây dựng, duy trì và truy cập bởi một cộng đồng trên một triệu người đăng ký trên toàn thế giới., Thông tin bao gồm những gì thường thấy trên danh thiếp.
+Các đối thủ cạnh tranh của Data.com bao gồm các dịch vụ như Dun &amp; Bradstreet/Avention và ZoomInfo.
+Data.com được tạo thành từ ba sản phẩm: Data.com Connect, Data.com Clean và Data.com Prospector.
+Vào tháng 4 năm 2018, Salesforce tuyên bố sẽ nghỉ hưu Data.com Connect vào ngày 4 tháng 5 năm 2019.
+Salesforce cũng tuyên bố sẽ kết thúc Data Prospector và Data.com Prospector và các dịch vụ này sẽ đóng cửa vào ngày 31 tháng 7 năm 2020.
+Desk.com.
+Desk.com là một bàn trợ giúp saas và sản phẩm hỗ trợ khách hàng có thể truy cập qua đám mây. Desk.com thuộc sở hữu của Salesforce.com và trước đây được gọi là Hỗ trợ. Desk.com có trụ sở tại San Francisco, California.
+Sau khi được Salesforce.com mua lại với giá 50 triệu đô la vào năm 2011 Assly đã được đổi tên thành Desk.com vào năm 2012 dưới dạng phần mềm hỗ trợ khách hàng.
+Desk.com là một ứng dụng dịch vụ khách hàng của Saas. Sản phẩm này khác biệt với nền tảng dịch vụ khác của Salesforce trong Desk.com đặc biệt nhắm mục tiêu đến các doanh nghiệp nhỏ với các tính năng và chức năng của nó. Desk.com tích hợp với nhiều sản phẩm và ứng dụng của bên thứ ba bao gồm Salesforce CRM, Salesforce IQ, Atlassian JIRA, Mailchimp và các ứng dụng khác. Desk.com cũng hỗ trợ tới 50 ngôn ngữ.
+Salesforce đã thông báo nghỉ hưu của Desk.com, thay thế nó bằng Service Cloud Lightning. Sau ngày 13 tháng 3 năm 2018, không có giấy phép Desk.com mới nào được bán và ngày nghỉ hưu được công bố là ngày 13 tháng 3 năm 2020.
+Do.com.
+Do.com là một hệ thống quản lý tác vụ dựa trên đám mây cho các nhóm nhỏ và doanh nghiệp, được giới thiệu vào năm 2011 và ngừng hoạt động vào năm 2014. Salesforce không đưa ra bất kỳ lý do nào để tắt dịch vụ, tuy nhiên, nó cung cấp công cụ Xuất để lưu dữ liệu được nhập trong giao diện Do.com. Tên miền Do.com đã được bán cho một người khởi nghiệp vào năm 2014.
+Cấu hình.
+Người dùng Salesforce có thể định cấu hình ứng dụng CRM của họ. Trong hệ thống, có các tab như "Danh bạ", "Báo cáo" và "Tài khoản". Mỗi tab chứa thông tin liên quan. Cấu hình có thể được thực hiện trên mỗi tab bằng cách thêm các trường tùy chỉnh do người dùng xác định.
+Cấu hình cũng có thể được thực hiện ở cấp độ "nền tảng" bằng cách thêm các ứng dụng được định cấu hình vào đối tượng Salesforce, đó là thêm các bộ tab tùy chỉnh / tiểu thuyết cho các tính năng cụ thể theo cấp độ dọc hoặc cấp chức năng (Tài chính, Nhân sự, v.v.).
+Dịch vụ web.
+Ngoài giao diện web, Salesforce còn cung cấp giao diện lập trình ứng dụng dịch vụ Web (API) SOAP / REST cho phép tích hợp với các hệ thống khác.
+Công nghệ.
+Salesforce hoạt động trên kiến trúc Model–view–controller.
+Apex.
+Apex là ngôn ngữ lập trình độc quyền được cung cấp bởi nền tảng Force.com cho các nhà phát triển tương tự như Java và C #. Nó là một ngôn ngữ lập trình không phân biệt chữ hoa, hướng đối tượng, không phân biệt chữ hoa chữ thường, theo cú pháp dấu chấm và dấu ngoặc nhọn. Apex có thể được sử dụng để thực thi các chức năng được lập trình trong hầu hết các quy trình trên nền tảng Force.com bao gồm các nút và liên kết tùy chỉnh, trình xử lý sự kiện khi chèn, cập nhật hoặc xóa bản ghi, thông qua lập lịch hoặc thông qua bộ điều khiển tùy chỉnh của các trang Visualforce.
+Do tính chất đa dạng của nền tảng, ngôn ngữ đã áp đặt nghiêm ngặt các giới hạn để bảo vệ chống lại bất kỳ mã nào độc quyền các tài nguyên được chia sẻ. Salesforce cung cấp một loạt các phương thức xử lý không đồng bộ cho Apex để cho phép các nhà phát triển sản xuất mã Apex dài hơn và phức tạp hơn.
+Lightning.
+Vào năm 2014, Salesforce đã công khai front-end của nền tảng của mình, được gọi là Lightning. Khung dựa trên thành phần này là những gì ứng dụng di động Salesforce được xây dựng trên. Salesforce được xây dựng trên khung này vào năm 2015 bằng cách phát hành Lightning Design System, một khung kiểu HTML với kiểu dáng CSS mặc định được tích hợp. Khung này cho phép khách hàng xây dựng các thành phần của riêng họ để sử dụng trong các trường hợp nội bộ của họ hoặc bán trên AppExchange.
+Salesforce Lightning App Builder là một công cụ để phát triển ứng dụng nhanh các giao diện web đáp ứng. Giao diện này cho phép các màn hình khác nhau được đặt cùng nhau dựa trên các thành phần Lightning. Điều này có thể được sử dụng như bố trí cho các mục hoặc các ứng dụng cụ thể.
+Lightning Experience là giao diện được thiết kế lại mới trong Salesforce để cải tiến quy trình. Nó được phát hành vào năm 2016. Kể từ đó, tất cả các ứng dụng có sẵn trên AppExchange cần phải là Lightning và những ứng dụng được xây dựng trên Classic phải chuyển sang Lightning vì Classic sẽ không được Salesforce cập nhật thêm nữa. Nền tảng cung cấp tùy chọn cho các nhà phát triển sử dụng các kỹ thuật di chuyển để cho phép giao diện người dùng mới và chuyển sang Lightning.
+Hoạt động.
+Salesforce có trụ sở tại San Francisco, với trụ sở khu vực tại Morges, Thụy Sĩ (bao gồm Châu Âu, Trung Đông và Châu Phi, Singapore), Ấn Độ (bao gồm Châu Á Thái Bình Dương trừ Nhật Bản) và Tokyo (bao gồm Nhật Bản). Các văn phòng lớn khác ở Toronto, Chicago, Thành phố New York, Luân Đôn, Sydney, Dublin, Hyderabad, San Mateo, California, Indianapolis, và Hillsboro, Oregon. Salesforce.com có các dịch vụ được dịch sang 16 ngôn ngữ khác nhau và tính đến ngày 31 tháng 7 năm 2011, đã có 104.000 khách hàng và hơn 2,1 triệu người đăng ký. Salesforce sẽ chuyển trụ sở khu vực Trung Tây đến Indianapolis vào năm 2017. 
+Standard &amp; Poor's bao gồm Salesforce, cùng lúc với Fastenal, vào Chỉ số S&amp;P 500 vào tháng 9 năm 2008, sau khi chính phủ tiếp quản Fannie Mae và Freddie Mac và loại bị bỏ khỏi chỉ số.
+Tài chính.
+Trong năm tài chính 2018, Salesforce đã báo cáo thu nhập 127 triệu đô la Mỹ, với doanh thu hàng năm là 10,480 tỷ đô la Mỹ, tăng 24,9% so với chu kỳ tài chính trước đó. Cổ phiếu của Salesforce được giao dịch ở mức hơn $ 131 mỗi cổ phiếu và vốn hóa thị trường của nó là hơn 102,5 tỷ đô la Mỹ vào tháng 10 năm 2018. Salesforce xếp thứ 285 trong danh sách Fortune 500 năm 2018 của các công ty lớn nhất Hoa Kỳ theo doanh thu. 
+Cơ sở hạ tầng công nghệ thông tin.
+Salesforce đã chuyển sang các máy chủ Dell có bộ xử lý Advanced Micro Devices chạy Linux từ máy chủ Sun Fire E25K với bộ xử lý SPARC chạy Solaris vào năm 2008 Công ty sử dụng nền tảng Momentum từ Message Systems để cho phép khách hàng của mình gửi số lượng lớn email.
+Năm 2012, Salesforce đã công bố kế hoạch xây dựng một trung tâm dữ liệu ở Anh để xử lý dữ liệu cá nhân của công dân châu Âu.
+Vào năm 2013, Salesforce và Oracle đã công bố mối quan hệ đối tác kéo dài 9 năm, trong đó Salesforce sẽ sử dụng Oracle Linux, Oracle Exadata, Oracle Database và nền tảng Java để cung cấp năng lượng cho các ứng dụng và nền tảng SaaS của Salesforce.
+Vào năm 2016, Salesforce đã thông báo rằng họ sẽ sử dụng dịch vụ lưu trữ Amazon Web Services cho các quốc gia có yêu cầu cư trú dữ liệu hạn chế và nơi không có trung tâm dữ liệu Salesforce nào đang hoạt động. Vào tháng 7 năm 2017, trường hợp Salesforce đầu tiên như vậy đã xuất hiện ở Canada, với Salesforce thông báo rằng điều này cho phép ký kết một số khách hàng Canada.
+Mua lại.
+Sau đây là danh sách các vụ mua lại của Salesforce: 
+

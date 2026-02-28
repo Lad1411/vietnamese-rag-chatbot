@@ -1,0 +1,19 @@
+Quy mô hiệu quả tối thiểu
+
+ &lt;ns&gt;0&lt;/ns&gt;
+ &lt;revision&gt;
+ &lt;parentid&gt;54508043&lt;/parentid&gt;
+ &lt;timestamp&gt;2020-08-21T11:50:51Z&lt;/timestamp&gt;
+ &lt;contributor&gt;
+ &lt;username&gt;JohnsonLee01Bot&lt;/username&gt;
+ &lt;/contributor&gt;
+ &lt;minor /&gt;
+ &lt;comment&gt;clean up, replaced: → (5) using &lt;/comment&gt;
+ &lt;model&gt;wikitext&lt;/model&gt;
+ &lt;format&gt;text/x-wiki&lt;/format&gt;
+Trong tổ chức công nghiệp, quy mô hiệu quả tối thiểu (MES) hoặc quy mô sản xuất hiệu quả là điểm thấp nhất mà nhà máy (hoặc công ty) có thể sản xuất sao cho giảm thiểu chi phí trung bình dài hạn.
+Mối quan hệ với chi phí trung bình và chi phí cận biên.
+Thang đo hiệu quả tối thiểu có thể được tính bằng cách đánh giá chi phí trung bình (AC) với chi phí cận biên (MC). Lý do đằng sau điều này là nếu một công ty sản xuất một số lượng nhỏ đơn vị, chi phí trung bình trên mỗi đơn vị sẽ cao vì phần lớn chi phí sẽ đến từ chi phí cố định. Nhưng nếu công ty sản xuất nhiều đơn vị hơn, chi phí trung bình phát sinh trên mỗi đơn vị sẽ thấp hơn do chi phí cố định được trải trên một số lượng lớn hơn các đơn vị; chi phí cận biên dưới mức chi phí trung bình, kéo giá sau xuống. Quy mô sản xuất hiệu quả sau đó đạt được khi chi phí trung bình ở mức tối thiểu và do đó giống như chi phí cận biên.
+Mối quan hệ với cấu trúc thị trường.
+Khái niệm quy mô hiệu quả tối thiểu rất hữu ích trong việc xác định cấu trúc thị trường có khả năng của một thị trường. Ví dụ, nếu quy mô hiệu quả tối thiểu nhỏ so với quy mô chung của thị trường (nhu cầu hàng hóa), sẽ có một số lượng lớn các công ty. Các công ty trong thị trường này sẽ có khả năng hành xử một cách cạnh tranh hoàn hảo do số lượng lớn các đối thủ cạnh tranh.
+

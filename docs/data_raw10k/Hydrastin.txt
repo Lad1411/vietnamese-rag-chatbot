@@ -1,0 +1,7 @@
+Hydrastin
+
+Hydrastin là một alkaloid được Alfred P. Durand phát hiện năm 1851. Thủy phân hydrastin tạo ra hydrastinin, được Bayer xin cấp bằng sáng chế như là một loại dược phẩm có tác dụng cầm máu trong thập niên 1910. Nó có trong loài cỏ kim ấn ("Hydrastis canadensis"), vì thế mà có tên gọi này, cũng như trong các loài thực vật khác trong họ Ranunculaceae.
+Tổng hợp toàn phần.
+Cố gắng đầu tiên để tổng hợp toàn phần hydrastin được Robert Robinson và cộng sự công bố năm 1931. Các nghiên cứu tiếp theo chủ yếu gặp khó khăn trong việc tổng hợp chất trung gian cơ bản là amit lactonic (cấu trúc 4 trong hình). Đột phá chính đạt được năm 1981 khi J. R. Falck và cộng sự thông báo một quy trình tổng hợp toàn phần hydrastin gồm 4 bước từ các hóa chất đơn giản ban đầu. Bước cơ bản trong tổng hợp Falck là sử dụng phản ứng Passerini để tạo ra chất trung gian amit lactonic.
+Bắt đầu từ một biến thể của phenyl bromide 1 đơn giản, phản ứng alkyl hóa với lithi methylisoxyanua tạo ra trung gian isoxyanua 2. Cho trung gian isoxyanua 2 phản ứng với axit opianic 3 khởi động phản ứng Passerini nội phân tử tạo ra trung gian amit lactonic cơ bản 4. Vòng tetrahydro-isoquinolin được tạo ra đầu tiên bởi phản ứng khép vòng trong các điều kiện khử nước sử dụng photphoryl chloride (POCl3) và sau đó bằng phản ứng hydro hóa có xúc tác là platin dioxide (PtO2, tức chất xúc tác Adam). Cuối cùng, hydrastin được tổng hợp by installing nhóm N-methyl thông qua amin hóa khử với formaldehyd.
+

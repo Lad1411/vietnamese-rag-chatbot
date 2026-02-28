@@ -1,0 +1,9 @@
+UDP-galactopyranose mutase
+
+Trong enzyme học, UDP-galactopyranose mutase() là enzyme xúc tác cho phản ứng hóa học
+Enzyme có khả năng biến cơ chất là UDP-D-galactopyranose thành sản phẩm UDP-D-galacto-1,4-furanose.
+Enzyme này thuộc họ các đồng phân, đặc biệt là các chất chuyển nội phân tử chuyển các nhóm khác. Tên hệ thống của lớp enzyme này là UDP-D-galactopyranose furanomutase.
+UDP-D-galactofuranose đóng vai trò tác nhân hoạt hóa đường để sinh tổng hợp glycoconjugates (chất liên hợp glucid) galactofuranose.
+Nghiên cứu cấu trúc.
+Do UGM không có trong động vật có vú nhưng lại tồn tại trong số một số vi khuẩn gây bệnh, nên enzyme là một mục tiêu kháng sinh khá hấp dẫn. Vào cuối năm 2007, 5 cấu trúc enzyme đã được tìm thấy. Trong PDB, mã của các enzyme là 1I8T, 1V0J, 1WAM, 2BI7 và 2BI8.
+

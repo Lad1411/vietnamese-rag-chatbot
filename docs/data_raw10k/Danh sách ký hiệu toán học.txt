@@ -1,0 +1,27 @@
+Danh sách ký hiệu toán học
+
+Một ký hiệu toán học là một hình hoặc tổ hợp các hình dùng để biểu diễn một vật thể toán học, một tác động lên vật thể toán học, một tương quan giữa các vật thể toán học, hoặc để sắp xếp những ký hiệu khác xuất hiện trong một công thức. Vì công thức sử dụng nhiều loại ký hiệu khác nhau, để biểu diễn toàn bộ toán học cần nhiều ký hiệu.
+Những ký hiệu toán học đơn giản nhất bao gồm các chữ số thập phân (0, 1, 2, 3, 4, 5, 6, 7, 8, 9), và các chữ cái trong bảng chữ cái Latin. Các chữ số thập phân được dùng để biểu diễn số qua hệ ghi số Ấn Độ–Ả Rập. Theo thông lệ, chữ cái viết hoa được dùng để biểu diễn điểm trong hình học, và chữ cái viết thường dùng cho biến và hằng số. Chữ cái cũng được dùng để biểu diễn nhiều loại vật thể toán học khác. Với sự phát triển của toán học và sự gia tăng về số lượng các đối tượng nghiên cứu, các nhà toán học cũng dùng đến bảng chữ cái Hy Lạp và Hebrew. Trong công thức toán học, kiểu chữ tiêu chuẩn là in nghiêng chữ cái Latin và chữ cái Hy Lạp viết thường, và in đứng cho chữ cái Hy Lạp viết hoa. Để có thêm nhiều ký hiệu nữa, những kiểu chữ khác được sử dụng, bao gồm chữ đậm formula_1, chữ viết tay formula_2 (chữ viết tay in thường ít được sử dụng vì dễ nhầm lẫn với kiểu chữ thông thường), fraktur tiếng Đức formula_3, và in đậm bảng đen formula_4 (những chữ cái khác ít khi được sử dụng trong kiểu chữ này).
+Những ký hiệu toán học sử dụng chữ cái Latin và Hy Lạp không được liệt kê ở đây. Đối với những ký hiệu đó, xem Biến số và Danh sách các hằng số toán học. Tuy nhiên, một số ký hiệu ở đây có hình dạng giống với chữ cái nguồn gốc của nó, ví dụ như formula_5 và formula_6.
+Những chữ cái này thôi không đủ để đáp ứng nhu cầu của các nhà toán học, và nhiều ký hiệu khác được sử dụng. Một số xuất phát từ dấu câu và dấu phụ thường được dùng trong typography, trong khi một số khác hình thành bằng việc biến dạng chữ cái, như là formula_7 và formula_8. Ngoài ra, những ký hiệu như và được thiết kế đặc biệt cho toán học.
+Hướng dẫn.
+Thông thường, những mục từ trong một bảng chú giải được sắp xếp theo chủ đề và theo thứ tự bảng chữ cái. Việc này là bất khả thi với danh sách này bởi các ký hiệu không có thứ tự nào rõ ràng, và nhiều ký tự được sử dụng ở nhiều nhánh toán học khác nhau với ý nghĩa khác nhau, nhiều khi không liên quan đến nhau. Do đó, bài viết phải đưa ra một số quyết định tùy ý, được tóm tắt sau đây.
+Bài viết được chia thành các phần xếp theo mức độ chuyên môn tăng dần: tức là phần đầu tiên chứa các ký hiệu thường gặp trong hầu hết các văn bản toán học, và cần phải biết ngay cả đối với người mới bắt đầu. Ngược lại, những phần cuối chứa các ký hiệu chuyên dụng cho một số lĩnh vực toán học và không được sử dụng bên ngoài các lĩnh vực này. Tuy nhiên, phần về dấu ngoặc đã được đặt gần cuối vì độ dài, mặc dù hầu hết các ký hiệu trong phần nàylà sơ cấp: điều này giúp việc tìm kiếm mục ký hiệu dễ dàng hơn.
+Hầu hết các ký hiệu đa nghĩa thường được phân biệt theo ngành học mà nó được dùng hoặc theo "cú pháp" của chúng, nghĩa là vị trí của chúng bên trong công thức và bản chất của các phần khác của công thức gần với chúng.
+Vì người đọc có thể không nhận thức được lĩnh vực toán học có liên quan đến ký hiệu mà họ đang tìm kiếm, các ý nghĩa khác nhau của ký hiệu được nhóm lại trong phần tương ứng với ý nghĩa phổ biến nhất của chúng.
+Trong trường hợp ý nghĩa phụ thuộc vào cú pháp, biểu tượng formula_9 được sử dụng để biểu thị các thành phần lân cận của công thức chứa ký hiệu đó. Xem phần cho ví dụ chi tiết.
+Phần lớn các ký hiệu có thể được hiển thị bằng hai cách: bằng ký tự Unicode, hoặc bằng LaTeX. Phiên bản Unicode cho phép sử dụng công cụ tìm kiếm và sao chép và dán dễ hơn. Mặt khác, hiển thị bằng LaTeX cho kết quả đẹp hơn, và là tiêu chuẩn được sử dụng trong toán học. Do đó, trong bài viết này, phiên bản Unicode của ký hiệu được dùng (khi có thể) để đánh dấu mục, và phiên bản LaTeX được dùng trong phần giải thích. Để tìm cách gõ ký hiệu bằng LaTeX, người đọc có thể coi mã nguồn của bài viết.
+Với hầu hết ký hiệu, dẫn mục là ký tự Unicode tương ứng. Vì vậy, để tìm mục của một ký tự, người đọc chỉ cần gõ hoặc dán ký tự Unicode vào thanh tìm kiếm. Tương tự, khi tên của biểu tượng cũng là một nếu có thể, cho phép dẫn những bài viết Wikipedia khác dễ dàng.
+Basic logic.
+Several logical symbols are widely used in all mathematics, and are listed here. For symbols that are used only in mathematical logic, or are rarely used, see List of logic symbols.
+Blackboard bold.
+The blackboard bold typeface is widely used for denoting the basic number systems. These systems are often also denoted by the corresponding uppercase bold letter. A clear advantage of blackboard bold is that these symbols cannot be confused with anything else. This allows using them in any area of mathematics, without having to recall their definition. For example, if one encounters formula_12 in combinatorics, one should immediately know that this denotes the real numbers, although combinatorics does not study the real numbers (but it uses them for many proofs).
+Calculus.
+ (here an actual box, not a placeholder)
+Linear and multilinear algebra.
+ 
+Advanced group theory.
+ 
+Brackets.
+Many sorts of brackets are used in mathematics. Their meanings depend not only on their shapes, but also on the nature and the arrangement of what is delimited by them, and sometimes what appears between or before them. For this reason, in the entry titles, the symbol is used for schematizing the syntax that underlies the meaning.
+

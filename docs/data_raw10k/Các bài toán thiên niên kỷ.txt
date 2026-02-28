@@ -1,0 +1,30 @@
+Các bài toán thiên niên kỷ
+
+Các bài toán thiên niên kỷ (tiếng Anh: "Millennium Prize Problems") là bảy bài toán nổi tiếng và phức tạp, được lựa chọn bởi Viện Toán học Clay vào ngày 24 tháng 5 năm 2000. Viện này cũng đồng thời treo phần thưởng trị giá một triệu đô cho bất cứ ai có được lời giải chính xác cho mỗi bài toán trong danh sách này. 
+Tính tới nay, chỉ có duy nhất một bài toán trong danh sách này mới được giải, đó là giả thuyết Poincaré bởi nhà toán học người Nga Grigori Yakovlevich Perelman vào năm 2010, tuy nhiên ông đã từ chối nhận giải thưởng từ viện Clay do người cộng sự đắc lực của ông - Richard Streit Hamilton không được chia thưởng hoặc đồng vinh danh. 
+Sáu bài toán còn lại vẫn chưa được giải là: 
+Những bài toán đã được giải.
+Giả thuyết Poincaré.
+Trong không gian 2 chiều, mặt cầu là mặt phẳng đóng và đơn liên duy nhất. Giả thuyết Poincaré nói rằng điều này cũng đúng trong không gian 3 chiều. Đây là bài toán trọng điểm để giải quyết vấn đề tổng quát hơn trong việc phân loại mọi đa tạp 3 chiều. Giả thuyết được phát biểu chặt chẽ hơn như sau: 
+Chứng minh cho giả thuyết này được đưa ra bởi Grigori Perelman. Lời giải của ông dựa trên lý thuyết dòng Ricci của Richard Hamilton. Tuy nhiên, lời giải này chủ yếu nhờ vào sự cải tiến độc đáo của Perelman, đồng thời tận dụng nhiều kết quả về không gian metric của Cheeger, Gromov và của chính ông. Ngoài ra, Perelman còn chứng minh luôn cả giả thuyết hình học hoá của William Thurston (một trường hợp đặc biệt của giả thuyết Poincaré), đây là mảnh ghép vô cùng quan trọng để chứng minh giả thuyết Poincaré. Lời giải được công nhận vào tháng 8 năm 2006 và Perelman chính thức được trao giải bài toán thiên niên kỷ vào ngày 18 tháng 3 năm 2010. Nhưng ông đã từ chối nhận thưởng và mọi số tiền liên quan đến giải thưởng đó, điều mà ông cũng đã từng làm với giải Fields. Theo như The Interfax đưa tin, Perelman cho rằng giải thưởng không hề công bằng, vì những đóng góp của ông cũng chẳng hơn gì so với đóng góp của Hamilton.
+Những bài toán chưa có lời giải.
+Giả thuyết Birch và Swinnerton.
+Giả thuyết Birch và Swinnerton-Dyer quan tâm đến một số loại phương trình, cụ thể là những phương trình định nghĩa lên đường cong elliptic trên trường số hữu tỉ. Giả thuyết nói rằng có một cách đơn giản để xác định xem phương trình đó có hữu hạn hay vô hạn nghiệm hữu tỉ. Bài toán thứ mười của Hilbert quan tâm đến những loại phương trình tổng quát hơn, và trong trường hợp tổng quát đó thì người ta đã chứng minh được rằng không có bất kì cách nào để xác định xem với phương trình được cho thì nó có nghiệm hay không.
+Andrew Wiles là người đã đưa ra mệnh đề chính thức cho bài toán.
+Bài toán Navier-Stokes.
+Phương trình Navier-Stokes là phương trình giúp ta mô tả chuyển động của chất lưu, là một trong những công cụ trụ cột trong cơ học chất lưu, có ảnh hưởng rất lớn đến với khoa học kỹ thuật trong thực tiễn. Tuy nhiên về mặt lý thuyết thì những hiểu biết của ta đối với nghiệm của phương trình này là chưa hoàn thiện. Cụ thể, đặt phương trình trong không gian 3 chiều và cho hệ một số điều kiện ban đầu, các nhà toán học đến nay vẫn chưa chứng minh được liệu hệ có luôn tồn tại nghiệm trơn hay không.
+Phát biểu chính thức cho bài toán được đặt ra bởi Charles Fefferman.
+P so với NP.
+Câu hỏi được đặt ra rằng liệu đúng hay không, bất kì bài toán nào mà lời giải có thể kiểm chứng được nhanh chóng (tức trong thời gian đa thức) thì cũng có thể giải một cách nhanh chóng. Lớp các bài toán ở vế đầu và vế sau được đặt lần lượt là NP và P, nên ta có thể phát biểu bài toán một cách ngắn gọn hơn đó là liệu có phải mọi bài toán thuộc lớp NP cũng đều thuộc lớp P không. Đây được coi là một trong những câu hỏi mở quan trọng nhất trong toán học và khoa học máy tính vì nó ảnh hưởng trực tiếp đến nhiều vấn đề trong các lĩnh vực khác như triết học và mật mã. Bài toán SAT là một ví dụ điển hình cho bài toán thuộc lớp NP nhưng vẫn chưa biết liệu nó có thuộc lớp P hay không.
+Hầu hết các nhà toán học và nhà khoa học máy tính tin rằng P ≠ NP. Tuy nhiên điều này vẫn chưa được chứng minh.
+Stephen Cook là người đã đưa ra mệnh đề chính thức cho bài toán này.
+Giả thuyết Riemann.
+Hàm zeta Riemann formula_2 được định nghĩa là thác triển giải tích của hàm
+có nghiệm tại các số nguyên âm chẵn, nói cách khác thì formula_4 khi formula_5 Những nghiệm này được gọi là nghiệm tầm thường. Tuy nhiên đấy không phải là toàn bộ nghiệm của hàm zeta, những nghiệm khác được gọi là nghiệm không tầm thường. Giả thuyết Riemann quan tâm đến vị trí của những nghiệm không tầm thường này, cụ thể giả thuyết nói rằng:
+Bất kì chứng minh nào về tính đúng sai của giả thuyết cũng đều sẽ ảnh hưởng sâu sắc đến lý thuyết số, đặc biệt là về sự phân phối của số nguyên tố. Đây là bài toán thứ tám của Hilbert, và đến nay nó vẫn được coi là bài toán mở quan trọng nhất của thế kỷ.
+Enrico Bombieri là người đã đưa ra mệnh đề chính thức cho bài toán này.
+Bài toán Yang-Mills.
+Bài toán Yang-Mills là một trong những bài toán quan trọng nhất của vật lý lý thuyết hiện đại, được đặt ra bởi nhà vật lý học Chen Ning Yang và Robert Mills vào năm 1954. Bài toán này liên quan đến mô tả các tương tác giữa các hạt cơ bản thông qua trường Yang-Mills.
+Trong lý thuyết Yang-Mills, trường được xác định bởi một ma trận trường, thường được gọi là trường gauge. Bài toán Yang-Mills là bài toán tìm trường gauge để giải quyết các phương trình Yang-Mills, đó là các phương trình đặc biệt trong vật lý lý thuyết về tương tác giữa các hạt cơ bản.
+Bài toán Yang-Mills rất khó khăn, và hiện vẫn chưa có phương pháp giải quyết chính xác toàn bộ bài toán này. Tuy nhiên, các nhà toán học và vật lý học đã đưa ra nhiều kết quả quan trọng trong việc giải quyết các trường hợp đặc biệt của bài toán Yang-Mills, qua đó giúp cho việc hiểu rõ hơn về tính chất của tương tác giữa các hạt cơ bản trong vật lý lý thuyết.
+

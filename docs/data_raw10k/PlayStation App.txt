@@ -1,0 +1,9 @@
+PlayStation App
+
+PlayStation App là một phần mềm ứng dụng cho hệ điều hành di động iOS và Android và được phát triển bởi Sony Computer Entertainment. Nó cho phép người dùng kết nối với PlayStation Network từ máy tính bảng và điện thoại thông minh và biến thiết bị di động thành màn hình thứ hai cho PlayStation 4.
+Chức năng.
+Ứng dụng này cho phép người dùng xem hoạt động trên PSN của họ, như gửi và nhận tin nhắn, và sử dụng thiết bị di động của họ như một màn hình thứ hai để sử dụng với PS4. Kể cả,
+Nó cũng cung cấp một nguồn tin tức, ngoài việc có thể đọc và đưa lên ý kiến trên PlayStation Blog. Ứng dụng cũng cho phép người dùng xem video nhúng, và chia sẻ tin tức hoặc sản phẩm trên Facebook, Twitter hoặc các tài khoản email của họ.
+Lịch sử cập nhật.
+Phiên bản 1.0 của ứng dụng đã được phát hành vào ngày 11 tháng 1 năm 2011 tại Úc và Châu Âu và phát hành ở Bắc Mỹ vào ngày 14 tháng 11 năm 2013 trước khi phát hành PlayStation 4 ở khu vực đó. Hiện tại, ứng dụng có thể được sử dụng trên các thiết bị chạy iOS 6 trở lên hoặc Android 4.0 trở lên.
+

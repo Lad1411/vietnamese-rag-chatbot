@@ -1,0 +1,11 @@
+Exynos
+
+Exynos là dòng sản phẩm của ARM-based System-on-Chips (SoCs) phát triển và sản xuất bởi Samsung Electronics là sự tiếp nối dòng S3C, S5L và S5P của SoCs Samsung.
+Lịch sử.
+Vào 2010 Samsung ra mắt S5PC110 (hiện là Exynos 3 đơn) trên chiếc điện thoại Samsung Galaxy S, trong đó đã cấp phép cho ARM Cortex-A8 CPU.
+Đầu năm 2011, Samsung lần đầu ra mắt Exynos 4210 SoC trên điện thoại Samsung Galaxy S II. Các mã điều khiển cho Exynos 4210 được có sẵn trong Linux kernel và hỗ trợ được thêm vào trong bản 3.2 vào tháng 11 năm 2011.
+Ngày 29 tháng 9 năm 2011, Samsung giới thiệu Exynos 4212 như sự thừa kế cho 4210; có tần số đồng hồ cao hơn và "cao hơn 0% hiệu suất đồ hoạ 3D so vi xử lý thế hệ trước". Bản 32 nm High-K Metal Gate (HKMG) tiêu thụ điện thấp; nó hứa hẹn "giảm tiêu thụ điện 30% so với thế hệ trước."
+Ngày 30 tháng 11 năm 2011, Samsung công bố thông tin về SoC sắp tới của họ với CPU lõi kép ARM Cortex-A15, ban đầu được đặt tên là "Exynos 5250" và được đặt tên thành Exynos 5 Dual. SoC này cung cấp giao diện bộ nhớ 12.8 GB/giây băng thông bộ nhớ, hỗ trợ USB 3.0 và SATA 3, có thể giải mã video 1080p ở 60 fps đồng thời có thể hiển thị WQXGA-độ phân giải(2560x1600) trên thiết bị di động cũng như 1080p trên HDMI.
+Ngày 26 tháng 4 năm 2012, Samsung phát hành Exynos 4 Quad, sức mạnh trên Samsung Galaxy S III và Samsung Galaxy Note II. Exynos 4 Quad SoC sử dụng thấp hơn 20% năng lượng hơn SoC trên Samsung Galaxy SII. Samsung đã thay đổi một số tên SoCs, Exynos 3110 thành Exynos 3 Single, Exynos 4210 và 4212 thành Exynos 4 Dual 45 nm, and Exynos 4 Dual 32 nm và Exynos 5250 thành Exynos 5 Dual.
+Ngày 1 tháng 3 năm 2015, Samsung phát hành Exynos 7 octa (Exynos 7420) dùng trong Galaxy S6 và Galaxy S6 Edge. Exynos 7420 được sản xuất trên tiến trình 14 nm FinFet đầu tiên trên thế giới.
+

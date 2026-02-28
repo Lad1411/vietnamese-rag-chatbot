@@ -1,0 +1,9 @@
+Sony Ericsson P900
+
+P900 là một trong những chiếc điện thioại thông minh ("Smartphone") hiện đại bậc nhất thế giới vào khoảng năm 2003.
+Về thiết kế, điện thoại này được đánh giá là khá độc đáo và sáng tạo ở thời điểm nó ra mắt, với 1 màn hình cảm ứng lớn nhưng được che làm cho nhỏ bớt bởi 1 bàn phím QWERTY. Còn phần các kết nối, vì là dòng smartphone đời đầu nên nó chỉ có các kết nối thông thường như Bluetooth, Hồng ngoại, USB.
+Tổng quan.
+Ở thời điểm ra mắt, p900 được xem là một chiếc điện thoại all in one với đầy đủ các tính năng hiện đại nhất và được đánh giá rất cao trên các diễn đàn công nghệ. Với màn hình cảm ứng "to" và "cực nét", thiết kế độc đáo và hỗ trợ tốt cho công việc. Giá của P900 lúc đó cũng thuộc hàng cao nhất thị trường.
+Màn hình máy chỉ có 65k màu, bộ nhớ trong của máy là 16MB và hỗ trợ thẻ ngoài (M2) tối đa cũng là 128MB. Về mặt giải trí thì P900 chỉ hỗ trợ quay video và chụp hình với độ phân giải thấp là 0,3mpx. Xem video ở P900 rất thú vị nhưng chỉ lưu được một ít phim và nhạc nên chính điều đó đã làm cho P900 mất điểm.
+Tuy là người tiên phong nhưng P900 đã có 1 hệ điều hành khá tân tiến so với các điện thoại cùng thời, đó là "Symbian OS v7.0 UIQ".
+

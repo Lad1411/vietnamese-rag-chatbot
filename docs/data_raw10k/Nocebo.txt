@@ -1,0 +1,5 @@
+Nocebo
+
+Trong y học, nocebo (từ tiếng Latinh có nghĩa "Tôi sẽ gây hại") là một chất vô hại nhưng có thể tạo ra tác dụng có hại cho bệnh nhân dùng nó. "Hiệu ứng nocebo" là phản ứng tiêu cực mà bệnh nhân trải qua khi nhận được nocebo. Ngược lại, một placebo là một chất trơ không có tác dụng gì nhưng nó lại có thể tạo ra các phản ứng tích cực cho người dùng nó.
+Cả hiệu ứng nocebo và placebo hoàn toàn mang tính tâm lý, chứ không phải được gây ra bởi một hợp chất hay hoạt tính sinh học trong bản thân cái nocebo hoặc placebo, những phản ứng này là kết quả của sự mong đợi của người bệnh về loại thuốc và phương pháp điều trị sẽ tác dụng lên họ. Mặc dù nó có nguồn gốc hoàn toàn từ các nguồn tâm lý, tác động nocebo cũng có thể đến từ cả tâm lý và sinh lý.
+

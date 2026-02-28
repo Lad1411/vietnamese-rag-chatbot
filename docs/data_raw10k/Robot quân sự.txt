@@ -1,0 +1,17 @@
+Robot quân sự
+
+Robot quân sự là robot di động tự hoạt động hoặc có điều khiển từ xa, được thiết kế cho các ứng dụng quân sự, từ vận chuyển, trinh sát, tìm kiếm, cứu hộ đến tấn công.
+Một số hệ thống robot như vậy với tên gọi Drone, Thiết bị bay không người lái UAV, vũ khí sát thương tự động... hiện đang được sử dụng, và nhiều hệ thống đang được phát triển.
+Tác động.
+Ưu điểm.
+Robot tự động sẽ tiết kiệm và bảo tồn cuộc sống cho binh sĩ bằng cách giảm bớt cho họ sự có mặt tại các vị trí độc hại và nguy hiểm tính mạng. Điều này thể hiện rõ ở Quân đội Hoa Kỳ, nơi được hỗ trợ bởi nền công nghiệp vũ khí hàng đầu thế giới . Nó được diễn tả là "Máy không mệt mỏi, không hề sợ hãi, không nhắm mắt lại, không trốn dưới cây khi trời mưa, không nói chuyện với bạn bè...".
+Robot không bị ảnh hưởng của mệt mỏi, căng thẳng, cảm xúc, adrenaline... là yếu tố thường ảnh hưởng đến các quyết định của binh sĩ con người. Nó có thể cho phép giảm đáng kể các trường hợp hành vi phi đạo đức trong thời chiến. Các robot tự động được tạo ra không phải là một "robot đạo đức thực sự", mà là những robot tuân theo luật chiến tranh (LOW, laws of war) và các quy tắc cam kết trong xung đột .
+Nhược điểm.
+Việc sử dụng robot chiến đấu trước hết đem lại lợi thế cho đội quân có được sự hỗ trợ của công nghiệp chế tạo robot, trong đó nổi bật là Quân đội Hoa Kỳ. Các đội quân không có sự hỗ trợ này có thể bị tiêu diệt.
+Khả năng nhận dạng đối tượng mục tiêu của robot cũng có thể mắc lỗi, kể cả nhận dạng của người điều khiển robot di động có điều khiển từ xa. Những tai nạn như trong robot công nghiệp có thể xảy ra như với robot quân sự.
+Các robot có thể bị đối phương chiếm quyền điều khiển, và điều này đặc biệt nguy hiểm khi lực lượng khủng bố chiếm cứ robot. Những robot có trình điều khiển có thể trang bị khả năng tự hủy hoặc tự vô hiệu khi nhận thấy rơi vào tay kẻ lạ, nhưng không có nghĩa là không thể bị "hack".
+Phản đối.
+Các nhóm nhân quyền và các tổ chức phi chính phủ như Tổ chức Theo dõi Nhân quyền và Chiến dịch Ngăn chặn Robot giết người đã bắt đầu kêu gọi các chính phủ và Liên Hợp Quốc ban hành chính sách cấm việc phát triển cái gọi là "hệ thống vũ khí giết người tự động" (LAWS, lethal autonomous weapons systems) .
+Tháng 7/2015 hơn 1.000 chuyên gia trong lĩnh vực trí tuệ nhân tạo đã ký một lá thư cảnh báo về mối đe dọa của một cuộc chạy đua vũ trang trong trí tuệ nhân tạo quân sự và kêu gọi cấm các vũ khí tự hành. Bức thư được trình bày tại Hội nghị quốc tế về trí tuệ nhân tạo lần thứ 24 (IJCAI-15) tại Buenos Aires, và được đồng sáng lập bởi Stephen Hawking, Elon Musk, Steve Wozniak, Noam Chomsky, người đồng sáng lập Skype Jaan Tallinn, người đồng sáng lập Google DeepMind Demis Hassabis, và nhiều người khác .
+Lá thư đệ trình trong bối cảnh Liên Hợp Quốc đã bỏ phiếu đồng ý bắt đầu các cuộc thảo luận chính thức về vấn đề vũ khí sát thương tự động bao gồm thiết bị bay không người lái, xe tăng và súng máy tự động. Các học giả cảnh báo rằng việc chạy đua phát triển vũ khí sát thương tự động có thể dẫn đến cuộc "cách mạng vũ khí thứ ba" sau thuốc súng và vũ khí hạt nhân. "Vũ khí sát thương tự động khi được phát triển sẽ khiến xung đột vũ trang diễn ra ở quy mô chưa từng thấy với tốc độ nhanh hơn con người có thể tưởng tượng". Mặt khác các lực lượng khủng bố có thể dùng loại vũ khí này để sát hại dân thường thông qua việc dùng hoặc chiếm quyền điều khiển thiết bị .
+

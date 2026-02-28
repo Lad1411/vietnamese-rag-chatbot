@@ -1,0 +1,87 @@
+Định lý giá trị trung bình
+
+Trong giải tích, định lý giá trị trung bình khẳng định rằng: cho một cung phẳng, trơn nối hai điểm phân biệt, khi đó tồn tại một điểm trên cung mà tiếp tuyến với cung tại điểm này song song với đường thẳng nối hai đầu cung.
+Định lý này được sử dụng đề chứng minh các kết quả toàn cục về một hàm trên một khoảng xuất phát từ các giả thuyết địa phương về đạo hàm tại các điểm của khoảng đó.
+Chính xác hơn, nếu một hàm số formula_1 liên tục trên khoảng đóng formula_2 với formula_3 thì tồn tại một điểm formula_4 sao cho
+Một trường hợp đặc biệt của định lý này được mô tả lần đầu tiên bởi Parameshvara (1370-1460). Định lý giá trị trung bình ở dạng hiện đại của nó được phát biểu sau đó bởi Augustin Louis Cauchy (1789-1857). Nó là một trong những kết quả quan trọng nhất của phép tính vi phân, cũng như một trong những định lý quan trọng nhất của giải tích toán học, và được sử dụng để chứng minh định lý cơ bản của giải tích. Định lý giá trị trung bình có thể được suy ra từ một trường hợp đặc biệt của nó là định lý Rolle, và có thể được sử dụng để chứng minh một kết quả tổng quát hơn là định lý Taylor (với phần dư dạng Lagrange).
+Phát biểu chính thức.
+Cho formula_6 là một hàm số liên tục trên khoảng đóng formula_2 và khả vi trên khoảng mở formula_8, với &lt;math&gt;a. Khi đó tồn tại formula_4 sao cho
+Định lý giá trị trung bình là một tổng quát hóa của định lý Rolle, trong đó giả sử formula_11, khi đó vế phải của hệ thức bên trên bằng 0.
+Định lý giá trị trung bình vẫn đúng với một giả thiết tổng quát hơn. Ta chỉ cần điều kiện formula_12 liên tục trên formula_2, và với mọi formula_14, giới hạn
+tồn tại (hữu hạn hoặc bằng formula_16). Nếu hữu hạn, giới hạn trên bằng formula_17. Một ví dụ mà phiên bản này của định lý được áp dụng là hàm số formula_18, với đạo hàm tiến đến vô cùng tại gốc tọa độ.
+Chú ý rằng định lý này sai nếu ta áp dụng cho hàm phức khả vi thay vì hàm thực. Ví dụ, lấy formula_19 với mọi số thực formula_20. Khi đó
+trong khi formula_22.
+Chứng minh.
+Biểu thức formula_23 cho chúng ta hệ số góc của đường thẳng nối hai điểm formula_24 và formula_25, trong khi formula_17 là hệ số góc của tiếp tuyến của đường cong tại điểm formula_27. Do đó định lý giá trị trung bình phát biểu rằng: cho một cung bất kì của một đường cong phẳng, trơn, ta có thể tìm được một điểm nằm giữa hai đầu cung sao cho tiếp tuyến tại điểm đó của cung song song với dây cung. Cách chứng minh sau đây mô tả ý tưởng này.
+Đặt formula_28, với formula_29 là một hằng số mà ta sẽ xác định sau. Vì formula_1 liên tục trên formula_2 và khả vi trên formula_8, điều tương tự cũng đúng với formula_33. Ta sẽ chọn formula_29 sao cho formula_33 thỏa mãn các điều kiện của định lý Rolle, tức là
+Theo định lý Rolle, vì formula_33 liên tục và formula_38 nên tồn tại một điểm formula_39 thuộc formula_8 sao cho formula_41. Khi đó, từ đẳng thức formula_28, ta có
+Đây chính là điều phải chứng minh.
+Một ứng dụng đơn giản.
+Giả sử rằng formula_1 là một hàm thực liên tục, xác định trên một khoảng formula_45 bất kì trên trục số thực. Nếu đạo hàm của formula_1 tại mọi điểm trong của formula_45 tồn tại và bằng 0, khi đó formula_1 là hàm hằng.
+Chứng minh: Giả sử rằng đạo hàm của formula_1 tại mọi điểm trong của formula_45 tồn tại và bằng 0. Đặt formula_8 là một khoảng mở bất kì trong formula_45. Theo định lý giá trị trung bình, tồn tại một điểm formula_4 sao cho
+Từ đó suy ra formula_55. Do đó formula_1 là hàm hằng trên mọi khoảng con của formula_45, và vì vậy, nó là hàm hằng trên formula_45 do tính liên tục.
+Nhận xét:
+Định lý giá trị trung bình Cauchy.
+Định lý giá trị trung bình Cauchy, còn được biết dưới tên định lý giá trị trung bình mở rộng, là một tổng quát hóa của định lý giá trị trung bình. Nó phát biểu rằng: Nếu các hàm số formula_1 và formula_33 cùng liên tục trên khoảng đóng formula_2 và khả vi trên khoảng mở formula_8, khi đó tồn tại một điểm formula_4 sao cho
+Nếu formula_71 và formula_72, điều này tương đương với
+Nói theo ngôn ngữ hình học, điều này có nghĩa là tồn tại một tiếp tuyến với đồ thị của đường cong
+sao cho tiếp tuyến này song song với đường thẳng nối hai điểm formula_75. Tuy nhiên, định lý Cauchy không khẳng định sự tồn tại của một tiếp tuyến như thế trong mọi trường hợp formula_76 và formula_77 là các điểm phân biệt, bởi vì điều này được thỏa mãn chỉ khi tồn tại một giá trị formula_39 sao cho formula_79, nói cách khác, một giá trị mà tại đó đường cong dừng. Một ví dụ cho trường hợp này là đường cong được cho bởi
+trên khoảng formula_2 đi từ điểm (-1,0) đến điểm (1,0), không có một tiếp tuyến nằm ngang. Tuy nhiên nó có một điểm dừng tại formula_82.
+Định lý giá trị trung bình Cauchy có thể được dùng để chứng minh quy tắc l'Hôpital. Định lý giá trị trung bình là một trường hợp đặc biệt của định lý giá trị trung bình Cauchy khi formula_33 là hàm số đồng nhất: formula_84.
+Chứng minh của định lý trung bình Cauchy.
+Chứng minh của định lý trung bình Cauchy được dựa trên ý tưởng tương tự với chứng minh của định lý giá trị trung bình.
+Đặt formula_85, với formula_29 là một hằng số ta sẽ xác định sau. Vì formula_87 là các hàm số liên tục trên formula_2 và khả vi trên formula_8, điều tương tự cũng đúng với formula_90. Ta sẽ chọn formula_29 sao cho formula_92 thỏa mãn các điều kiện của định lý Rolle, tức là
+Theo định lý Rolle, tồn tại một điểm formula_4 sao cho formula_95, và từ đẳng thức formula_85, ta suy ra
+Đây chính là điều cần chứng minh.
+Tổng quát hóa cho định thức.
+Giả sử rằng formula_87 và formula_90 là các hàm liên tục trên formula_2 và khả vi trên formula_8. Đặt
+Khi đó tồn tại formula_4 sao cho formula_104.
+Để ý rằng
+và nếu ta lấy formula_106, ta thu được định lý giá trị trung bình Cauchy. Nếu ta thay formula_106 và formula_108, ta thu được định lý giá trị trung bình.
+Chứng minh của tổng quát hóa này khá đơn giản: Ta có formula_109 và formula_110 là các định thức có hai hàng bằng nhau, do đó formula_111. Từ định lý Rolle, ta suy ra tồn tại formula_4 sao cho formula_104.
+Định lý giá trị trung bình với hàm nhiều biến.
+Định lý giá trị trung bình với hàm một biến được tổng quát lên với hàm nhiều biến bằng cách sử dụng tham số. Đặt formula_114 là một tập con mở của formula_115, và đặt formula_116 là một hàm khả vi. Cố định các điểm formula_117 sao cho khoảng mở formula_118 nằm trong formula_114 và đặt formula_120. Vì formula_33 là hàm một biến khả vi, áp dụng định lý giá trị trung bình, ta có
+với formula_123. Lại có formula_124 và formula_125, tính trực tiếp formula_126, ta có
+trong đó formula_128 là vector gradient và formula_129 ký hiệu tích vô hướng. Chú ý rằng đây chính là phiên bản tương tự của định lý với hàm một biến. Theo bất đẳng thức Cauchy-Schwarz, đẳng thức trên cho ta
+Đặc biệt, khi các đạo hàm riêng của formula_1 bị chặn, formula_1 liên tục Lipschitz (và do đó hội tụ đều). Chú ý rằng formula_1 không được giả sử rằng khả vi liên tục cũng như liên tục trên bao đóng của formula_114. Tuy nhiên, ta đã sử dụng quy tắc xích, do đó sự tồn tại của formula_135 là không cần thiết.
+Ta sẽ chứng minh rằng formula_1 là hàm hàng nếu formula_114 liên thông và mọi đạo hàm riêng của formula_1 đều bằng 0. Lấy formula_139 và đặt formula_140. Ta sẽ chỉ ra rằng formula_141 với mọi formula_142. Thật vậy, đặt formula_143. Khi đó formula_144 đóng và khác rỗng. Đồng thời formula_144 cũng là tập mở: với mọi formula_146, ta có
+với mọi formula_148 trong một lân cận nào đó của formula_20. Vì formula_114 liên thông, ta suy ra formula_151.
+Chú ý rằng tất cả các lập luận bên trên không phụ thuộc vào tọa độ, do đó, trên thực tế chúng ta đã tổng quát cho trường hợp formula_114 là tập con của một không gian Banach.
+Định lý giá trị trung bình với hàm nhận giá trị vector.
+Không có một sự tương tự chính xác của định lý giá trị trung bình cho hàm nhận giá trị vector. Trong bộ sách "Foundations of Modern Analysis" của mình, Jean Dieudonné đã bỏ qua định lý giá trị trung bình và thay thế nó bởi bất đẳng thức trung vì cách chứng minh không có tính xây dựng và chúng ta không thể tìm được giá trị trung bình. Serge Lang, trong quyển "Analysis I" đã sử dụng định lý giá trị trung bình dạng tích phân, nhưng cách này yêu cầu tính liên tục của đạo hàm. Nếu sử dụng tích phân Henstock-Kurzweil thì ta có thể có định lý giá trị trung bình dưới dạng tích phân mà không cần giả thiết thêm đạo hàm phải liên tục, có điều này là vì mọi đạo hàm đều khả tích Henstock-Kurzweil.
+Bài toán có thể được phát biểu như sau: Nếu formula_153 là một hàm khả vi (với formula_154 là tập mở) và nếu formula_155 là một đoạn thẳng nằm trong formula_156, khi đó ta có thể áp dụng quá trình tham số hóa bên trên cho một hàm thành phần formula_157 của formula_1 (với ký hiệu như trên, đặt formula_159). Như vậy, ta có thể tìm các điểm formula_160 trên đoạn thẳng sao cho
+Tuy nhiên, với trường hợp tổng quát, không tồn tại một điểm "duy nhất" formula_162 trên đoạn thẳng sao cho
+đồng thời với mọi formula_164. Để minh họa, ta có thể lấy formula_165 được xác định bởi các hàm thành phần formula_166. Khi đó formula_167. Tuy nhiên formula_168 và formula_169 không đồng thời bằng 0 với mọi formula_20.
+Tuy nhiên, một cách tổng quát hóa của định lý giá trị trung bình với hàm nhận giá trị vector có thể nhận được như sau: Đặt formula_1 là một hàm thực khả vi liên tục được xác định trên một khoảng mở formula_45, và đặt formula_173 là các điểm của formula_45. Từ định lý giá trị trung bình với hàm một biến, ta suy ra tồn tại một điểm formula_175 sao cho
+Mặt khác, theo định lý cơ bản của giải tích, ta có
+Do đó, giá trị formula_178 tại điểm formula_179 được thay thế bởi giá trị trung bình
+Công thức này có thể được tổng quát cho hàm nhận giá trị vector: Đặt formula_154 là tập mở, formula_153 khả vi liên tục, và formula_183 là các vector sao cho toàn bộ đoạn thẳng formula_184 nằm trong formula_156. Khi đó ta có
+Với tích phân của ma trận được lấy theo từng thành phần. (formula_187 ký hiệu ma trận Jacobi của formula_1.)
+Từ điều này, ta còn có thể suy ra rằng nếu formula_189 bị chặn với formula_190 bởi một hằng số formula_191 nào đó, khi đó
+Chứng minh (*). Ký hiệu formula_157 cho các hàm thành phần của formula_1. Xác định formula_195 bởi formula_196. Khi đó ta có
+Khẳng định được suy ra từ việc formula_187 là ma trận gồm các thành phần formula_199.
+Chứng minh (**). Từ (*), ta có
+Ở đây ta đã sử dụng bổ đề sau:
+Bổ đề. Đặt formula_201 là hàm liên tục được xác định trên đoạn formula_202. Khi đó ta có
+Chứng minh (***). Đặt formula_204 là giá trị của tích phân
+Khi đó ta có
+suy ra formula_207. (Ở đây ta đã sử dụng bất đẳng thức Cauchy-Schwarz.) Từ đây ta có (***) được chứng minh, và (**) cũng được chứng minh.
+Định lý giá trị trung bình dạng tích phân.
+Định lý giá trị trung bình dạng tích phân thứ nhất.
+Định lý giá trị trung bình dạng tích phân thứ nhất khẳng định rằng:
+Đặc biệt, nếu formula_213 với mọi formula_214, khi đó tồn tại formula_14 sao cho
+Đẳng thức này thường được viết dưới dạng
+Giá trị formula_218 được gọi là "giá trị trung bình" của formula_219 trên đoạn formula_2.
+Chứng minh của định lý giá trị trung bình dạng tích phân thứ nhất.
+Không mất tính tổng quát, giả sử formula_221 với mọi formula_222. Từ định lý cực trị, hàm liên tục formula_114 có các giá trị cực tiểu formula_224 và giá trị cực đại formula_191 hữu hạn trên đoạn formula_2. Từ tính đơn điệu của tích phân và bất đẳng thức formula_227, cùng với giả thiết formula_228 không âm, ta có
+với formula_230
+ký hiệu tích phân của formula_228 trên formula_2. Do đó, nếu formula_233, ta có đẳng thức xảy ra với mọi formula_14. Vì vậy, ta có thể giả sử formula_235. Chia cả hai vế cho formula_45 và ta nhận được
+Từ định lý giá trị trung gian, ta suy ra hàm liên tục formula_219 đạt được mọi giá trị trong đoạn formula_239, đặc biệt, tồn tại formula_240 sao cho
+Từ đây ta có điều cần chứng minh.
+Định lý giá trị trung bình cho tích phân thứ hai.
+Có nhiều định lý khác nhau đôi chút cùng được gọi là "định lý giá trị trung bình thứ hai dạng tích phân". Một phiên bản thông dụng như sau:
+Ở đây formula_246 ký hiệu cho formula_247, từ các điều kiện đã cho có thể suy ra giới hạn này tồn tại. Chú ý rằng formula_244 có chứa điểm formula_249 là một điều kiện quan trọng. Một biến thể khác của định lý không có điều kiện này như sau:
+Định lý này được chứng minh bởi Hiroshi Okamura vào năm 1947.
+Công thức xác suất tương tự định lý giá trị trung bình.
+Giả sử formula_254 là các biến ngẫu nhiên với formula_255 và formula_256 (tức là formula_257 nhỏ hơn formula_258 theo thứ tự ngẫu nhiên thông thường). Khi đó tồn tại một biến ngẫu nhiên không âm, liên tục tuyệt đối formula_259 có hàm mật độ xác suất
+

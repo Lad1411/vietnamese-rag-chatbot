@@ -1,0 +1,70 @@
+Hành vi đa màn hình
+
+Hành vi đa màn hình (Multiscreen Behavior) là hành vi mà người dùng sử dụng kết hợp nhiều màn hình thiết bị công nghệ một cách vô thức hoặc có chủ đích để phục vụ cho các nhu cầu sử dụng của mình.
+Nguồn gốc của hành vi đa màn hình.
+Kỷ nguyên "hội tụ số" trở nên bùng nổ vào những năm gần đây dẫn đến việc con người ứng dụng rộng rãi các thiết bị kỹ thuật số cũng như các phương tiện truyền thông kỹ thuật số vào đời sống của mình. Cũng từ đó, người tiêu dùng không còn hài lòng với các hành vi đơn màn hình (chỉ sử dụng một màn hình trong một thời điểm) và bắt đầu hình thành hành vi đa màn hình (nội dung được phân phối liền mạch trên nhiều thiết bị và loại màn hình). Chính sự xuất hiện mạnh mẽ của hành vi đa màn hình trong hành vi người tiêu dùng, đặc biệt là người tiêu dùng thuộc thế hệ Z đã thúc đẩy doanh nghiệp thực hiện chuỗi các hoạt động về tiếp thị kỹ thuật số.
+Một số nghiên cứu đã ghi nhận sự xuất hiện của hành vi đa màn hình. Đầu tiên, theo một nghiên cứu được thực hiện bởi Google năm 2012, 90% người dùng di chuyển giữa các thiết bị để hoàn thành mục tiêu. Trong khi xem một chương trình trên TV, họ có thể tương tác với chương trình đó trên mạng xã hội bằng điện thoại thông minh, hoặc điều chỉnh cài đặt ghi của đầu ghi hình kỹ thuật số bằng máy tính bảng. Những hoạt động này không còn giới hạn trong một màn hình duy nhất. Ngoài ra theo nghiên cứu của Forrester vào năm 2015, 18% chủ sở hữu máy tính bảng kết nối máy tính bảng của họ với TV. Vào cuối năm 2015, DisplaySearch dự báo rằng hơn nửa tỷ TV có tính năng kết nối với các thiết bị khác sẽ được bán ra. Sự phổ biến của trải nghiệm đa màn hình đã sẵn sàng thay đổi đáng kể thói quen tiêu dùng nội dung, với những tác động sâu rộng đến các nhà tiếp thị cũng như các công ty điện tử viễn thông (Telco-Media).
+Phân loại.
+Phân loại
+Theo nghiên cứu của Google được thực hiện vào tháng 08/2012, hành vi đa màn hình bao gồm 2 hình thức chính dựa trên trình tự sử dụng các thiết bị:
++ Sequential Screening Behavior: Là hành vi sử dụng tuần tự từ thiết bị này sang thiết bị khác. Hành vi này phổ biến và thường được hoàn thành trong một ngày, 90% người dùng sử dụng các thiết bị theo hình thức này để hoàn thành công việc. Những hoạt động phổ biến trong quá trình sử dụng: Lướt web (81%), Tương tác trên mạng xã hội (72%), Mua sắm online (67%), Tìm kiếm thông tin (63%), Quản lý tài chính (46%), Lên kế hoạch du lịch (43%), Xem video (43%). Smartphone là thiết bị phổ biến để bắt đầu trong các hoạt động online thông thường. Máy tính là thiết bị phổ biến để bắt đầu khi thực hiện các công việc phức tạp hơn. Tablet là thiết bị phổ biến để bắt đầu khi mua sắm online hoặc lên kế hoạch du lịch.
++ Simultaneous Screening Behavior: Là hành vi sử dụng cùng một lúc nhiều thiết bị trong cùng một khoảng thời gian để thực hiện các công việc có liên quan hoặc không liên quan với nhau. Có 3 tổ hợp phổ biến khi sử dụng đa thiết bị cùng lúc: Smartphone và Tablet (81%), Smartphone và PC (66%), PC và TV (66%). Smartphone là thiết bị phổ biến nhất được sử dụng song song với các thiết bị khác:
+Những hoạt động phổ biến nhất khi sử dụng nhiều thiết bị cùng lúc là: Xử lý Mail (66%), Lướt web (44%), Tương tác mạng xã hội (42%), Chơi game (25%), Tìm kiếm (23%), Xử lý tài liệu (15%), Xem video (9%). 78% người dùng đa thiết bị cùng lúc là những người đa nhiệm và thực hiện nhiều hoạt động khác nhau. 22% người dùng đa thiết bị cùng lúc là những người muốn hoàn thành công việc còn đang dang dở.
+Phân loại dựa trên hành vi của người dùng, có 6 phân khúc người dùng đa màn hình: Digital Dynamos, Mega Multiscreeners, Couch Chatters, Phonistas, Laptoperati và Passivists.
+Ưu điểm và nhược điểm của hành vi đa màn hình đối với người dùng.
+Ưu điểm.
+Đối với Sequential Screening:
++ Tạo trải nghiệm liền mạch giữa các thiết bị và tránh gián đoạn công việc đang được thực hiện.
++ Có sự đồng bộ và liên kết giữa các thiết bị số.
+Đối với Simultaneous Screening:
++ Mỗi thiết bị đóng một vai trò nhất định và được tối ưu chức năng của nó.
++ Các thiết bị hỗ trợ qua lại lẫn nhau và củng cố thành một bộ máy làm việc hiệu quả giúp tăng năng suất công việc.
++ Không bị quá tải cho bất cứ thiết bị nào và rút ngắn thời gian chờ đợi.
+Nhược điểm.
++ Dễ gây mất tập trung khi sử dụng nhiều màn hình.
++ So với hình thức truyền thống thì việc dùng nhiều thiết bị cần sự đầu tư chi phí hơn.
++ Không gian làm việc trở nên chật hẹp hơn khi có nhiều thiết bị.
++ Do cấu hình giữa các thiết bị là khác nhau nên trải nghiệm của người dùng giữa các thiết bị không đồng nhất.
+Các phát hiện về hành vi đa màn hình của người dùng.
+Các kết quả và số liệu được dựa trên nghiên cứu của Google được thực hiện vào tháng 08/2012:
+Phần lớn thời gian tương tác online được thực hiện trên màn hình: 90% các tương tác được thực hiện trên màn hình thông qua các thiết bị như Laptop, Smartphone, Tablet. 10% các tương tác được thực hiện không thông qua màn hình (qua radio, báo, tạp chí). Trung bình người dùng sử dụng 4.4h trong thời gian rảnh rỗi để tương tác qua màn hình mỗi ngày.
+Thời gian online được trải đều trên 4 thiết bị chủ yếu: Smartphones (17 phút), Tablets (30 phút), PC/Laptop (39%), TV (43 phút)
+Việc lựa chọn thiết bị phù hợp được quyết định dựa trên bối cảnh cuộc sống: Quỹ thời gian mà người dùng cần, những mục tiêu mà họ muốn hoàn thành, thái độ và tâm trạng của họ.
+Đặc điểm tương tác trên từng thiết bị khác nhau:
+PC/Laptop giúp người dùng năng suất và cập nhật thông tin kịp thời: 24% các tương tác diễn ra trên PC (trong đó 69% ở nhà và 31% ở ngoài), được chủ yếu sử dụng để tìm kiếm thông tin (40%) và cập nhật thông tin (29%). Đặc điểm các bối cảnh khi sử dụng PC/Laptop: Sử dụng ở văn phòng và ở nhà, cần nhiều thời gian, tập trung và có thái độ nghiêm túc.
+Smartphone giúp người dùng kết nối: 38% các tương tác truyền thông diễn ra trên smartphone (60% ở nhà và 40% ở ngoài), được chủ yếu sử dụng để giao tiếp (54%) và giải trí (33%). Đặc điểm các bối cảnh khi sử dụng smartphone: luôn luôn bận rộn và có ít thời gian, cần được giao tiếp và kết nối với mọi người xung quanh, cần thông tin nhanh chóng và kịp thời.
+Tablet giúp người dùng giải trí: 9% các tương tác diễn ra trên máy tính bảng (79% ở nhà và 21% ở ngoài), được sử dụng chủ yếu để giải trí (63%) và giao tiếp (32%). Đặc điểm các bối cảnh khi sử dụng tablet: Chủ yếu sử dụng ở nhà, lướt web và giải trí, thư thả về mặt thời gian.
+Đặc điểm mua sắm của người dùng đa màn hình:
+Đối với Smartphone, 59% người dùng để sử dụng khi mua sắm khi ở nhà và 41% còn lại sử dụng để mua sắm khi ở ngoài
+Đối với PC/Laptop: 84% sử dụng để mua sắm khi ở nhà và 16% còn lại sử dụng để mua sắm khi ở ngoài
+Sự tự phát có tác động lớn đến quyết định mua sắm của người dùng đa màn hình:
++ Đối với Smartphone: 81% hành vi mua sắm được thực hiện một cách tự phát và 19% được thực hiện có kế hoạch.
++ Đối với PC/Laptop: 58% hành vi mua sắm được thực hiện một cách tự phát và 42% được thực hiện có kế hoạch.
+Ứng dụng hành vi đa màn hình đối với doanh nghiệp.
+Cơ hội ứng dụng hành vi đa màn hình cho doanh nghiệp.
+Mức độ tiếp nhận quảng cáo trên thiết bị TV là tốt nhất, trong khi đó đối với các thiết bị khác có sự thấp hơn ở hai tiêu chí mức độ thuận tiện và mức độ chú ý:
++ TV: Mức độ thuận tiện (41%), mức độ chú ý (72%)
++ Laptop: Mức độ thuận tiện (25%), Mức độ chú ý (52%)
++ Smartphone: Mức độ thuận tiện (24%), Mức độ chú ý (51%)
++ Tablet: Mức độ thuận tiện (23%), Mức độ chú ý (52%)
+Mức độ tiếp nhận quảng cáo hiển thị có sự khác nhau giữa các quốc gia. Người Nigeria (71%) và Kenya (69%) có thái độ tích cực nhất đối với các quảng cáo đa thiết bị nhất. Trong khi đó người Pháp (22%) tỏ ra không hứng thú với các quảng cáo này. Việt Nam xếp hạng thứ 14 trong các quốc gia có thái độ tích cực đối với các quảng cáo đa màn hình.
+Những khu vực tiềm năng để triển khai quảng cáo đa màn hình: Châu Á, Châu Phi và Mỹ La Tinh. Những khu vực đối diện nhiều thách thức khó khăn là Bắc Mỹ và Châu Âu.
+Quảng cáo đa màn hình.
+Ý nghĩa của ứng dụng quảng cáo đa màn hình:
++ Nâng cao nhận thức về thương hiệu tạo ra lợi thế cạnh tranh trên thị trường. Một nghiên cứu được thực hiện tại Nielsen Media Labs đã chứng minh rằng đối với các nhóm đã xem một quảng cáo cụ thể trên nhiều màn hình - TV, PC, điện thoại thông minh và máy tính bảng - mức độ liên tưởng thương hiệu đã tăng lên 74%, so với 50% khi chỉ có một mình TV
++ Theo nghiên cứu trên trang Republic, 78% người dùng đa màn hình quyết định sử dụng các sản phẩm và dịch vụ có chất lượng cao, trong khi đó đối với những người không sử dụng đa màn hình là 66%
+Một số chiến dịch tiêu biểu ứng dụng hành vi đa màn hình.
+Chiến dịch "Sân đấu siêu cấp" của Milo.
+Tháng 4/2015, nhãn hàng Nestle Milo và công ty Ogilvy &amp; Mather đã đưa ra chiến dịch với tên gọi "Sân đấu siêu cấp": mô phỏng lại 4 môn thể thao được ưa chuộng là bóng đá, bóng chày, bóng rổ và bowling dưới dạng mini cùng với những dụng cụ thể thao như giày đá bóng, áo, rổ bóng... được làm từ giấy bìa cứng đính kèm với các lốc sữa. Bé và người thân có thể cùng nhau cắt và sắp xếp các dụng cụ thể thao.
+Chiến dịch truyền thông tung ra với một đoạn phim quảng cáo 15 giây được chiếu trên TV để tạo độ nhận biết rộng rãi cho chiến dịch. Đồng thời 5 video hướng dẫn lắp ráp và gợi ý cách chơi được chiếu online giúp bé và người thân của bé có thể tra cứu cách làm, cách chơi một cách thuận tiện thông qua các thiết bị kỹ thuật số như laptop, máy tính bảng và điện thoại thông minh. Trên nền tảng Facebook, chiến dịch còn trực tiếp tăng tương tác với các mẹ thông qua các câu chuyện về thể thao giữa mẹ và con với cuộc thi ảnh "Khoảnh khắc của chúng ta".
+Chỉ sau một tháng chiến dịch bắt đầu, Milo ghi nhận kết quả 800.000 lượt xem video (gần 200% so với mức xem tiêu chuẩn của các video khác của nhãn hàng và số tiền media bỏ ra). Bên cạnh đó chiến dịch còn giúp tiết kiệm hiệu quả việc sản xuất quà tặng, lan toả đến hơn 4 triệu người.
+Chiến dịch "Find your Greatness" của Nike trong Olympics 2012.
+Tháng 7/2012, Nike đã lên kế hoạch kĩ càng cho chiến dịch của mình để kiếm tiền từ cơn sốt Olympics và giành chiến thắng trước đối thủ là Adidas. Nike đã khởi động chiến dịch truyền hình toàn cầu với các vận động viên thi đấu hàng ngày trong Olympics. Greg Hoffman, người đứng đầu Nike chia sẻ: "Ý tưởng đơn giản chỉ là truyền cảm hứng và tiếp thêm năng lượng cho vận động viên hàng ngày ở khắp mọi nơi để ăn mừng thành tích của họ, tham gia và tận hưởng cảm giác hồi hộp khi đạt tới cấp độ cao trong sự nghiệp thể thao của họ".
+Địa điểm quảng cáo truyền hình của Nike bao gồm East London ở Nam Phi, Little London ở Jamaica, London Ohio ở Mỹ và một câu lạc bộ sức khoẻ có tên London Gym.
+Trên Twitter, Nike cũng hỗ trợ tiếp thị bằng cách sử dụng hashtag #findgreatness.
+Ngoài ra, Nike còn thực hiện bộ phim trực tuyến bao gồm các sự kiện và kinh nghiệm giúp các vận động viên cải thiện thành tích thể thao của họ.
+Chiến dịch "Get Hyped for Halftime" của Pepsi.
+Chiến dịch "Get Hyped for the Half Time" là một chiến dịch đa màn hình dài hơi thành công của Pepsi, chiến dịch này đã lên tới đỉnh cao khi đã xuất hiện vào khung giờ giải lao của giải Super Bowl. Pepsi chính là nhà tài trợ hàng đầu cho chương trình này trong suốt 11 năm từ năm 2009, trở thành một đối tác chiến lược với NFL (National Football League) - đơn vị nắm gữ hình ảnh bản quyền của Super Bowl. Pepsi đã rót hàng triệu USD để có riêng một TVC phát trực tiếp vào giờ nghỉ giữa mỗi trận. Các quảng cáo được đầu tư nghiêm túc và liên tục lọt "Top 10 quảng cáo" do NBC (National Broadcasting Company) bầu chọn và "Top 1 quảng cáo có lượt xem nhiều nhất YouTube" năm 2010.
+Đến năm 2013, Pepsi đã thể hiện tham vọng của mình trong việc khẳng định hình ảnh của mình tại thị trường nội địa khi tổ chức riêng Halftime Show - chương trình ca nhạc giữa trận. Người Mỹ có một câu nói là: "Không phải người Mỹ nào cũng xem ca nhạc, nhưng mọi người Mỹ đều xem Super Bowl". Với việc đầu tư bằng cách mời các ngôi sao có tầm ảnh hưởng như: Maroon 5, Cardi B, Maria Carey... Pepsi đã nhận được lượng theo dõi đông đảo của khán giả với độ sóng cực lớn vào mùa giải đó.
+Bên cạnh đó cũng vào năm 2013, Pepsi còn tổ chức cuộc thi "Crash the Super Bowl" - cuộc thi trực tuyến thường niên do Frito - Lay (công ty con của Pepsico) tổ chức. Người dùng có thể tự tạo quảng cáo cho dòng sản phẩm snack Doritos (do Frito - Lay sản xuất). Mỗi năm Pepsi sẽ chọn một quảng cáo và gửi về để phát sóng trên Super Bowl.
+

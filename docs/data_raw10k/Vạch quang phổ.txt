@@ -1,0 +1,14 @@
+Vạch quang phổ
+
+Các vạch quang phổ là các vạch tối hoặc sáng trong một quang phổ liên tục và đồng dạng, do sự phát xạ hoặc hấp thụ ánh sáng trong một dải tần hẹp, so với các tần số lân cận. Quang phổ chứa các vạch quang phổ được gọi là quang phổ vạch.
+Các loại vạch phổ.
+Các vạch quang phổ là kết quả của sự tương tác giữa một hệ lượng tử (thường là các nguyên tử, nhưng đôi khi là các phân tử hoặc hạt nhân nguyên tử) và một photon đơn lẻ. Khi một photon có đúng lượng năng lượng để cho phép một sự thay đổi trong trạng thái năng lượng của hệ thống (trong trường hợp của một nguyên tử này thường là một electron làm thay đổi quỹ đạo), các photon được hấp thụ. Sau đó, nó sẽ truyền lại một cách tự nhiên, ở cùng tần số với nguyên bản hoặc theo tầng, trong đó tổng năng lượng của các photon phát ra sẽ bằng năng lượng của năng lượng được hấp thụ (giả sử hệ thống trở về trạng thái ban đầu).
+Một vạch quang phổ có thể được quan sát là vạch phát xạ hoặc vạch hấp thụ. Loại nào được quan sát đều phụ thuộc vào loại vật liệu và nhiệt độ của nó so với nguồn phát xạ khác. Một vạch hấp thụ được tạo ra khi các photon từ nguồn phổ rộng, nóng đi qua vật liệu lạnh. Cường độ ánh sáng, trên một dải tần số hẹp, bị giảm do sự hấp thụ của vật liệu và phát xạ lại theo các hướng ngẫu nhiên. Ngược lại, một vạch phát xạ sáng được tạo ra khi các photon từ vật liệu nóng được phát hiện với sự có mặt của phổ rộng từ nguồn lạnh. Cường độ ánh sáng, trên một dải tần số hẹp tăng lên do sự phát xạ của vật liệu.
+Các vạch quang phổ có tính đặc hiệu nguyên tử cao và có thể được sử dụng để xác định thành phần hóa học của bất kỳ môi trường nào có khả năng cho ánh sáng đi qua nó. Một số nguyên tố được phát hiện bằng các quang phổ trung gian, bao gồm heli, thali và cesi. Các vạch quang phổ cũng phụ thuộc vào các điều kiện vật lý của chất khí, vì vậy chúng được sử dụng rộng rãi để xác định thành phần hóa học của các ngôi sao và các thiên thể khác không thể phân tích bằng các phương tiện khác, cũng như các điều kiện và tính chất vật lý của chúng.
+Các cơ chế khác ngoài tương tác nguyên tử – photon có thể tạo ra các vạch quang phổ. Tùy thuộc vào tương tác vật lý chính xác (với các phân tử, các hạt đơn lẻ, v.v.), tần số của các photon có liên quan sẽ rất khác nhau và các vạch đó có thể được quan sát trên phổ điện từ, từ sóng vô tuyến đến tia gamma.
+Đường quang phổ của các nguyên tố hóa học.
+Ánh sáng nhìn thấy được.
+Đối với mỗi phần tử, bảng dưới đây cho thấy các vạch quang phổ hiển thị trong phổ nhìn thấy được, từ khoảng 400 nm-700 nm. 
+Bước sóng khác.
+"Các vạch quang phổ" thường ngụ ý rằng người ta đang nói về các vạch có bước sóng rơi vào phạm vi của phổ nhìn thấy được. Tuy nhiên, cũng có nhiều vạch quang phổ xuất hiện ở bước sóng ngoài phạm vi này. Ở bước sóng ngắn hơn nhiều của tia X, chúng được gọi là tia X đặc trưng. Các tần số khác cũng có các vạch phổ nguyên tử, chẳng hạn như dãy Lyman, nằm trong dải cực tím. 
+

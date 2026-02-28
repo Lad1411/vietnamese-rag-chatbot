@@ -1,0 +1,13 @@
+Chỉ số giảm phát GDP
+
+Chỉ số giảm phát GDP (t"GDP deflator"), còn gọi là Chỉ số điều chỉnh GDP thường được ký hiệu là DGDP, là chỉ số tính theo phần trăm phản ánh mức giá chung của tất cả các loại hàng hoá, dịch vụ sản xuất trong nước. Chỉ số điều chỉnh GDP cho biết một đơn vị GDP điển hình của kỳ nghiên cứu có mức giá bằng bao nhiêu phần trăm so với mức giá của năm cơ sở. (Số liệu thống kê của Việt Nam công bố đang tính GDP theo giá của năm 1994).
+Công thức tính chỉ số giảm phát GDP.
+Người ta tính chỉ số giảm phát GDP theo công thức sau:
+So sánh Chỉ số giảm phát GDP và CPI.
+Khác với Chỉ số giá tiêu dùng CPI, DGDP được tính trên giỏ hàng hoá thay đổi do vậy nó phản ánh được sự thay thế giữa các hàng hoá, dịch vụ với nhau. Mặc dù vậy nó lại không phản ánh được sự giảm sút phúc lợi của người tiêu dùng trong trường hợp phải tiêu dùng ít hơn một loại hàng nào đó. Ví dụ: do sau dịch cúm gà, giá gà trở nên quá đắt so với giá thịt lợn nên người tiêu dùng sẽ mua ít thịt gà hơn và mua nhiều thịt lợn hơn. Phúc lợi của người tiêu dùng đã giảm xuống do họ phải tiêu dùng thịt gà ít hơn nhưng DGDP không phản ánh được điều này cho dù nó phản ánh được sự thay thế giữa thịt gà và thịt lợn.
+CPI chỉ phản ánh mức giá của hàng tiêu dùng còn DGDP phản ánh giá của cả hàng hoá do doanh nghiệp, chính phủ mua. Vì thế DGDP được coi là phản ánh đúng hơn mức giá chung.
+DGDP chỉ phản ánh mức giá của những hàng hoá sản xuất trong nước (vì GDP chỉ tính sản phẩm trong nước) còn CPI phản ánh mức giá của cả hàng hoá nhập khẩu. Ví dụ: khi giá một chiếc xe ô tô Toyota nhập khẩu tăng thì nó được phản ánh ở CPI nhưng không được phản ánh ở DGDP.
+Tuy nhiên, trên thực tế, số liệu thống kê cho thấy sự khác biệt giữa CPI và DGDP không lớn.
+Xem thêm.
+Chỉ số giá tiêu dùng - CPI
+

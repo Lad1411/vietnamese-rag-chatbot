@@ -1,0 +1,20 @@
+Trục khuỷu
+
+Trục khuỷu là một bộ phận của động cơ dùng để biến đổi chuyển động tịnh tiến của piston thành chuyển động quay. Nó nhận lực từ piston để tạo ra mô men xoắn sinh công quay rồi đưa ra bộ phận công tác và nhận năng lượng từ bánh đà truyền lại cho piston (động cơ diesel) để thực hiện các quá trình sinh công. Trong quá trình làm việc, trục khuỷu chịu tác dụng của lực khí thể, lực quán tính và lực quán tính ly tâm. Có hai loại trục khuỷu là trục khuỷu nguyên và trục khuỷu ghép.
+Các bộ phận chính.
+Đầu trục khuỷu.
+Đầu trục khuỷu thường được lắp vấu để khởi động hoặc để quay, puly dẫn động quạt gió, bơm nước, các bánh răng dẫn động trục cam,…. Nó có thể được lắp thêm bộ giảm chấn xoắn
+Cổ trục khuỷu.
+Các động cơ đa số có cùng một đường kính. Nó thường được làm rỗng để chứa dầu bôi trơn, các bánh răng dẫn động trục cam,…. Nó có thể được lắp thêm bộ giảm chấn xoắn.
+Chốt khuỷu.
+- Là bộ phận để lắp với đầu to thanh truyền, được gia công chính xác có độ bóng cao và được nhiệt luyện để nâng cao độ cứng như cổ trục. 
+- Số chốt khuỷu bao giờ cũng bằng số xi lanh động cơ (động cơ một hàng xi lanh). Đường kính chốt khuỷu thường nhỏ hơn đường kính cổ trục, nhưng cũng có những động cơ cao tốc, do lực quán tính lớn nên đường kính chốt khuỷu có thể làm bằng đường kính cổ trục để tăng độ cứng vững.
+- Cũng như cổ trục, chốt khuỷu có thể làm rỗng để giảm trọng lượng trục khuỷu và chứa dầu bôi trơn, đồng thời các khoang trống còn có tác dụng lọc dầu bôi trơn.
+Má khuỷu.
+Đa số má khuỷu có hình dạng elip để phân bố ứng suất được hợp lý nhất. Nó là bộ phận nối liền cổ trục và cổ chốt.
+Đối trọng.
+Đối trọng có tác dụng nhằm cân bằng các lực và mô men quán tính không cân bằng của động cơ. Nó còn có tác dụng giảm tải cho ổ trục, và là nơi khoan bớt các khối lượng thừa khi cân bằng trục khuỷu.
+Nó có thể được chế tạo liền với má khuỷu hoặc làm rời sau đó hàn hoặc bắt bu long với má khuỷu.
+Đuôi trục khuỷu.
+Đây là nơi truyền công suất ra ngoài. Trên đuôi của nó có lắp mặt bích để lắp bánh đà.
+

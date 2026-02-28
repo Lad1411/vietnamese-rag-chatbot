@@ -1,0 +1,5 @@
+Android TV
+
+Android TV là một phiên bản của hệ điều hành Android được thiết kế cho các TV và các Android Box. Thay thế cho Google TV, hệ điều hành này có giao diện người dùng được thiết kế xung quanh việc phát hiện nội dung và tìm kiếm bằng giọng nói, hiển thị lên bề mặt các nội dung từ các ứng dụng và dịch vụ đa phương tiện khác nhau và tích hợp với các công nghệ khác của Google gần đây như Assistant, Cast, và Knowledge Graph.
+Nền tảng này lần đầu tiên được công bố vào tháng 6 năm 2014, với Nexus Player công bố vào tháng 10 năm đó. Nền tảng này cũng đã được chấp nhận như là một middleware của TV thông minh của một số công ty sản xuất TV như Sony và Sharp.
+

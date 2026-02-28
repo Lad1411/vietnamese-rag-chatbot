@@ -1,0 +1,4 @@
+Southern blot
+
+Southern blot đã được dịch là phương pháp thấm Southern, do Edwin Southern phát minh năm 1975, là một trong những kỹ thuật lai axit nuclêic giữa DNA với DNA, nhằm chuyển DNA từ gel lên màng lai. Phương pháp này được E. Southern dùng để lai và chuyển các đoạn DNA phân tách bằng điện phân sang màng lọc và phát hiện các mảnh tiếp theo bằng phương pháp thăm dò. Do đó, phương pháp được đặt tên theo nhà phát minh Edwin Southern, nhà sinh học người Anh. Các phương pháp blotting khác (tức là western blot, northern blot, eastern blot, southwestern blot) sử dụng các nguyên lý tương tự, nhưng sử dụng RNA hoặc protein, sau này được đặt tên theo tên của Edwin Southern. Vì được đặt theo tên riêng, nên chữ Southern được viết hoa (southern nghĩa là phía Nam trong tiếng anh). Tên của các phương pháp blotting khác được đặt cùng trường nghĩa (northern, eastern, southwestern lần lượt nghĩa là miền Bắc, Đông và Tây Nam) 
+

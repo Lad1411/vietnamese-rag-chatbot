@@ -1,0 +1,8 @@
+Ngôn ngữ lập trình đa năng
+
+Trong phần mềm máy tính, ngôn ngữ lập trình đa năng (tiếng Anh: general-purpose programming language) là ngôn ngữ lập trình được thiết kế để sử dụng cho việc xây dựng phần mềm trong nhiều lĩnh vực ứng dụng. Ngược lại với ngôn ngữ lập trình có mục đích chung là ngôn ngữ lập trình miền chuyên biệt, được thiết kế để sử dụng trong một khu vực cụ thể, ví dụ như truy vấn cơ sở dữ liệu .
+Lịch sử.
+Các ngôn ngữ lập trình ban đầu được thiết kế cho tính toán khoa học (tính toán số) hoặc xử lý dữ liệu thương mại, cũng như phần cứng máy tính. Các ngôn ngữ khoa học như Fortran và Algol hỗ trợ tính toán dấu phẩy động và mảng đa chiều, trong khi các ngôn ngữ kinh doanh như COBOL hỗ trợ các định dạng tập tin với trường cố định và bản ghi dữ liệu. Ít được sử dụng hơn là các ngôn ngữ chuyên dụng như IPL-V và LISP đểxử lý danh sách tượng trưng; COMIT để thao tác chuỗi; APT cho các máy điều khiển số. Lập trình hệ thống yêu cầu thao tác với con trỏ thường được thực hiện bằng hợp ngữ, mặc dù JOVIAL đã được sử dụng cho một số ứng dụng quân sự.
+Danh sách.
+Sau đây là một số ngôn ngữ lập trình đa năng:
+

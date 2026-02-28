@@ -1,0 +1,20 @@
+Vòng đời phát triển hệ thống
+
+Trong kỹ thuật hệ thống, hệ thống thông tin và công nghệ phần mềm, vòng đời phát triển hệ thống (tiếng Anh: systems development life cycle), hay còn được gọi là vòng đời phát triển ứng dụng (tiếng Anh: application development life-cycle), là quá trình lập kế hoạch, tạo ra, kiểm thử và triển khai một hệ thống thông tin. Khái niệm vòng đời phát triển hệ thống áp dụng cho một loạt cấu hình phần cứng và phần mềm, vì một hệ thống có thể được tạo nên từ chỉ phần cứng, chỉ phần mềm, hoặc kết hợp cả hai.
+Tổng quan.
+Một vòng đời phát triển hệ thống được tạo thành bởi một số giai đoạn làm việc được định nghĩa rõ ràng và tách biệt vốn được sử dụng bởi các kỹ sư hệ thống và nhà phát triển hệ thống để lên kế hoạch, thiết kế, xây dựng, kiểm thử và cung cấp hệ thống thông tin.
+Giai đoạn.
+Khung vòng đời phát triển hệ thống cung cấp một chuỗi các hoạt động cho kỹ sư hệ thống và nhà phát triển tuân theo. Nó bao gồm một loạt các bước hay giai đoạn mà mỗi giai đoạn đó của vòng đời phát triển hệ thống sẽ dùng kết quả của giai đoạn trước.
+Điều tra hệ thống.
+Hệ thống điều tra đề của công nghệ thông tin. Trong bước này, chúng ta phải xem xét tất cả các ưu tiên hiện tại sẽ bị ảnh hưởng và nó sẽ được xử lý ra sao. Trước khi lập kế hoạch hệ thống, một nghiên cứu khả thi sẽ được tiến hành để xác định nếu tạo mới hoặc cải tiến hệ thống là một giải pháp khả thi.
+Phân tích hệ thống.
+Mục tiêu của phân tích hệ thống là xác định vấn đề nằm ở đâu, trong nỗ lực sửa chữa hệ thống.
+Thiết kế.
+Trong thiết kế hệ thống, các chức năng và hoạt động được mô tả chi tiết, bao gồm bố cục màn hình, quy tắc kinh doanh (business rule), sơ đồ tiến trình và tài liệu khác. Đầu ra của giai đoạn này sẽ mô tả hệ thống như một tập hợp các mô đun hay hệ thống con.
+Kiểm thử.
+Mã được kiểm thử ở nhiều mức độ khác nhau trong kiểm thử phần mềm.
+Hoạt động và bảo trì.
+Việc triển khai của hệ thống bao gồm thay đổi và cải tiến trước khi hệ thống ngừng hoạt động. Bảo trì hệ thống là một mặt quan trọng của vòng đời phát triển hệ thống.
+Đánh giá.
+Giai đoạn cuối cùng của vòng đời phát triển hệ thống là để đo lường hiệu quả của hệ thống và đánh giá các cải tiến tiềm năng.
+

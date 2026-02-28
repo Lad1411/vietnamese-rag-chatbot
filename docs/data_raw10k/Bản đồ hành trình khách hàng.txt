@@ -1,0 +1,34 @@
+Bản đồ hành trình khách hàng
+
+Bản đồ hành trình khách hàng (Customer Journey Mapping) hay Bản đồ hành trình trải nghiệm của khách hàng là một công cụ trực quan để hiểu những gì thúc đẩy khách hàng tương tác với mỗi doanh nghiệp - nhu cầu của họ là gì, sự do dự và mối quan tâm của họ. Mặc dù hầu hết các tổ chức rất giỏi trong việc thu thập dữ liệu về khách hàng của họ, nhưng một mình dữ liệu không thể truyền đạt được sự thất vọng và trải nghiệm khách hàng. Một câu chuyện có thể làm điều đó, và một trong những công cụ kể chuyện tốt nhất trong kinh doanh là bản đồ hành trình của khách hàng.
+Bản đồ hành trình của khách hàng sử dụng cách kể chuyện và hình ảnh để minh họa mối quan hệ của khách hàng với doanh nghiệp trong một khoảng thời gian. Câu chuyện đang được kể từ góc độ của khách hàng, cung cấp cái nhìn sâu sắc về tổng số trải nghiệm của khách hàng. Nó giúp doanh nghiệp hiểu rõ hơn và giải quyết các nhu cầu của khách hàng và các điểm tiếp xúc khi họ trải nghiệm sản phẩm hoặc dịch vụ của doanh nghiệp. Nói cách khác, việc vạch ra hành trình khách hàng mang đến cho doanh nghiệp cơ hội để xem thương hiệu của mình: trước tiên thu hút khách hàng tiềm năng như thế nào và sau đó di chuyển qua các điểm tiếp xúc của toàn bộ quy trình bán hàng.
+Lợi ích của việc xây dựng bản đồ hành trình khách hàng.
+Mỗi doanh nghiệp, nhiệm vụ hàng đầu là thu hút, lôi kéo, giữ chân khách hàng. Chính vì điều đó, thiết kế một hành trình bản đồ mà khách hàng muốn tham gia từ đầu đến cuối là rất cần thiết.
+Việc xây dựng bản đồ hành trình sẽ giúp cho doanh nghiệp hiểu rõ những điểm tiếp xúc (touchpoints) và chính xác những gì khách hàng tương tác. Đồng thời đảm bảo tính nhất quán và trải nghiệm liền mạch ở tất cả các điểm tiếp xúc và trên tất cả các kênh. Với bản đồ hành trình trải nghiệm khách hàng, doanh nghiệp có thể:
+Các bước xây dựng bản đồ hành trình khách hàng: Gồm sáu bước.
+Hoàn thiện hồ sơ chân dung khách hàng (persona).
+Chân dung khách hàng (persona) là một hình mẫu giả định, đại diện cho khách hàng lý tưởng của doanh nghiệp. Persona giúp doanh nghiệp thấu hiểu cặn kẽ hành vi, nhu cầu, sở thích và tính cách của khách hàng từ đó định hình chiến lược cho rất nhiều các hoạt động của doanh nghiệp, từ phát triển sản phẩm, marketing, sales đến chăm sóc khách hàng.
+Để thu thập thông tin giá trị để xây dựng chân dung khách hàng cách tốt nhất là sử dụng phương thức nghiên cứu khách hàng – thông qua survey, interview. Dưới đây là một vài ghi chú về thu thập dữ liệu cần lưu tâm để xây dựng persona:
+Một persona hoàn chỉnh cơ bản cần các đề mục như sau:
+Phác thảo các giai đoạn chính của quá trình trải nghiệm Khách hàng.
+Từ những thông tin đã thu thập, xác định các bước cụ thể, tuần tự mà khách hàng có thể thực hiện khi tương tác với doanh nghiệp. Tuy vậy, tùy thuộc vào quan điểm và nhu cầu của khách hàng mà các bước này có thể khác biệt. Đó là lý do vì sao doanh nghiệp cần tạo ra sự đa dạng trong việc phác họa và xây dựng bản đồ trải nghiệm khách hàng.
+Xác định các điểm tiếp xúc khách hàng (touchpoints).
+Điểm tiếp xúc hay điểm chạm khách hàng đề cập đến bất cứ khi nào khách hàng tiếp xúc với thương hiệu của doanh nghiệp - trước, trong hoặc sau khi họ mua thứ gì đó từ doanh nghiệp. Những tương tác này diễn ra ở nhiều nơi (cả trực tuyến và ngoại tuyến, thông qua tiếp thị trực tiếp hoặc qua điện thoại) và vào nhiều thời điểm khác nhau.
+Các điểm tiếp xúc có thể là tại các cửa hàng, tìm kiếm online, cuộc gọi điện thoại, truy cập website, bàn hỗ trợ, chiến dịch email, dịch vụ trò chuyện trực tuyến, hội nghị, các cuộc trưng bày sản phẩm hoặc các cuộc gọi bán hàng…
+Bởi vì có rất nhiều cách khác nhau để khách hàng trải nghiệm thương hiệu của doanh nghiệp, ý tưởng tìm ra tất cả các điểm tiếp xúc tiềm năng có thể có vẻ khó khăn lúc đầu. Và một phương pháp phổ biến được nhiều người sử dụng trong việc xác định các điểm tiếp xúc khách hàng là đặt mình vào vị trí của khách hàng và tự mình bước qua hành trình của họ.Hãy tự hỏi mình những điều sau:
+Điều này sẽ tiết lộ tất cả các điểm tiếp xúc khá rõ ràng.
+Một cách khác để hoàn thành nhiệm vụ này là hỏi trực tiếp khách hàng về trải nghiệm của họ với thương hiệu của bạn - hoặc đưa các câu hỏi trên vào một cuộc khảo sát.
+Đo lường cảm xúc khách hàng tại mỗi giai đoạn và xác định điểm đau của khách hàng (Paint point).
+Mọi hành động khách hàng đưa ra được thúc đẩy bởi yếu tố cảm xúc và cảm xúc của khách hàng cũng sẽ thay đổi tùy thuộc vào từng giai đoạn trong hành trình. Cảm xúc của khách hàng có thể tác động đến lòng trung thành của khách hàng, giá trị đơn hàng và liệu khách hàng của bạn đang truyền bá tốt hay xấu về doanh nghiệp.
+Bản đồ hành trình khách hàng nên xây dựng cụ thể hóa cảm xúc của khách hàng như vui vẻ, hài lòng, mãn nguyện, buồn chán, thất vọng, ấn tượng,…dựa trên mong muốn, trải nghiệm người dùng (User Experience) chân thực. Do vậy sẽ có những cảm xúc tiêu cực xuất hiện, tuy nhiên điều này giúp ích cho doanh nghiệp khi phát hiện ra những vấn đề cần được cải thiện thông qua sự tương tác cảm xúc từ khách hàng.
+Cảm xúc tiêu cực đến từ các điểm đau - những vấn đề cụ thể mà khách hàng gặp phải. Các bốn nhóm điểm đau chính:
+Đề xuất cải thiện và sửa chữa các rào cản.
+Nếu nhìn nó từ góc độ vi mô, đây là một số câu hỏi doanh nghiệp có thể tự hỏi: Điều gì cần được sửa chữa hoặc xây dựng? Có cần phải phá vỡ mọi thứ và bắt đầu lại từ đầu không? Hay một vài thay đổi đơn giản tất cả những gì cần thiết cho một tác động lớn?
+Chẳng hạn, nếu khách hàng thường xuyên phàn nàn về quá trình đăng ký của doanh nghiệp phức tạp như thế nào, có lẽ đã đến lúc phải tân trang lại và làm cho mọi việc dễ dàng hơn.
+Sau khi đã xác định được các rào cản đã tạo nên điểm đau của khách hàng, doanh nghiệp cần nhìn vào bức tranh lớn từ góc độ vĩ mô. Nhận ra rằng mục tiêu cuối cùng không phải là tối ưu hóa từng bước hay điểm chạm chỉ nhằm mục đích tối ưu hóa nó, mà để bạn có thể đẩy khách hàng của mình xuống kênh và đưa họ một bước gần hơn để chuyển đổi. Mọi điều chỉnh trong mỗi điểm tiếp xúc của khách hàng đều phải đóng góp cho mục tiêu chung của doanh nghiệp.
+Cập nhật và cải thiện.
+Bản đồ hành trình khách hàng của doanh nghiệp không nên để lại bụi trên kệ sau khi hoàn thành. Bởi vì khách hàng của doanh nghiệp liên tục thay đổi và phát triển, bản đồ hành trình khách hàng cũng sẽ được thực hiện tương tự. Hãy coi đó là một tài liệu sống sẽ tiếp tục tăng trưởng và phát triển.
+Thường xuyên kiểm tra, cập nhật và cải thiện bản đồ hành trình khách hàng. Ngoài ra, bản đồ hành trình của khách hàng cũng nên được điều chỉnh phù hợp bất cứ khi nào doanh nghiệp giới thiệu những thay đổi quan trọng cho sản phẩm / dịch vụ.
+Định kỳ rà soát lại và cập nhật bản đồ thường xuyên, đặc biệt nếu doanh nghiệp đưa ra bất kỳ thay đổi quan trọng nào – như bổ sung hoặc xóa bỏ một điểm tiếp xúc.
+Theo dõi bản đồ giúp doanh nghiệp kiểm soát được mức độ hài lòng của khách hàng và đảm bảo chất lượng dịch vụ đạt tiêu chuẩn cao nhất.
+

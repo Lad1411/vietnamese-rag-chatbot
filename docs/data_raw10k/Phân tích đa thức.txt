@@ -1,0 +1,7 @@
+Phân tích đa thức
+
+Trong toán học và đại số máy tính, việc phân tích đa thức  là quá trình diễn đạt một đa thức với hệ số thuộc một trường hoặc là số nguyên thành một tích của các đa thức không thể phân tích được có hệ số trong cùng một miền. Sự phân tích đa thức là một trong những công cụ cơ bản của các hệ thống đại số máy tính.
+Lịch sử của việc phân tích đa thức bắt đầu với Hermann Schubert, người năm 1793 mô tả thuật toán phân tích đa thức đầu tiên, và Leopold Kronecker, người đã khám phá lại thuật toán của Schubert vào năm 1882 và mở rộng nó tới đa thức đa biến số và các hệ số trong một phép mở rộng đại số. Nhưng hầu hết các kiến thức về chủ đề này không phát triển cho đến năm 1965 với hệ thống đại số máy tính đầu tiên.Trong một cuộc khảo sát về chủ đề này, Erich Kaltofen đã viết vào năm 1982 (xem các thư mục dưới đây):
+Khi các thuật toán bước hữu hạn đã biết trước được đưa ra lần đầu tiên trên máy tính, chúng tỏ ra không hiệu quả. Thực tế là hầu hết bất kỳ một đa thức đơn hoặc nhiều đa thức có bậc lên đến 100 và có các hệ số có kích thước vừa phải (lên tới 100 bit) có thể được tính toán theo các thuật toán hiện đại trong một vài phút của thời gian máy tính cho thấy bài toán này đã được nỗ lực giải quyết trong suốt mười lăm năm qua.
+Ngày nay, các thuật toán hiện đại và máy tính có thể nhanh chóng phân tích các đa thức đơn biến với bậc hơn 1000 có hệ số với hàng ngàn chữ số.
+

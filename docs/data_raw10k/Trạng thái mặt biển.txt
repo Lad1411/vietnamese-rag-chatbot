@@ -1,0 +1,11 @@
+Trạng thái mặt biển
+
+Trong hải dương học, trạng thái mặt biển là tình trạng chung của bề mặt tự do trên một khối nước lớn có liên quan đến sóng biển và làm nhô lên một vị trí và thời điểm nhất định. Trạng thái biển được đặc trưng bởi các số liệu thống kê, bao gồm chiều cao sóng, chu kỳ và mật độ phổ năng lượng. Trạng thái mặt biển thay đổi theo thời gian, khi điều kiện gió hoặc điều kiện nhô lên thay đổi. Trạng thái mặt biển có thể được đánh giá bởi một người quan sát có kinh nghiệm, như một thủy thủ được đào tạo, hoặc thông qua các công cụ như phao thời tiết, radar sóng hoặc vệ tinh viễn thám.
+Trong trường hợp đo phao, số liệu thống kê được xác định trong một khoảng thời gian trong đó trạng thái,mặt biển có thể được coi là không đổi. Thời lượng này phải dài hơn nhiều so với chu kỳ sóng riêng lẻ, nhưng nhỏ hơn khoảng thời gian trong đó điều kiện gió và sự nhấp nhô thay đổi đáng kể. Thông thường, các bản ghi của một trăm đến một nghìn chu kỳ sóng được sử dụng để xác định số liệu thống kê sóng.
+Số lượng lớn các biến liên quan đến việc tạo trạng thái mặt biển không thể được tóm tắt nhanh chóng và dễ dàng, vì vậy các thang đo đơn giản hơn được sử dụng để đưa ra mô tả gần đúng nhưng ngắn gọn về các điều kiện để báo cáo trong nhật ký tàu hoặc trong các hồ sơ tương tự.
+Mã trạng thái mặt biển của Tổ chức khí tượng thế giới biển.
+Mã trạng thái mặt biển WMO chủ yếu áp dụng định nghĩa 'biển gió' của Quy mô Biển Douglas. 
+Trạng thai mặt biển trong kỹ thuật hàng hải.
+Trong các ứng dụng kỹ thuật, các trạng thái biển thường được đặc trưng bởi hai tham số sau:
+formula_1
+

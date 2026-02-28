@@ -1,0 +1,4 @@
+Multihoming
+
+Multihoming (còn gọi là Đa chủ hay Kết nối nhiều mạng) là một thành phần dịch vụ mạng quan trọng với cơ chế cho phép một trang mạng có thể đáp ứng một lượng lớn các yêu cầu ở mức cao. Theo cách khác, nó còn được mô tả là sự kết nối từ một máy tính hay thiết bị đến nhiều hơn một mạng máy tính. Điều này giúp tăng sự đáng tin cậy của một IP, chẳng hạn như người dùng sử dụng nhiều hơn một Nhà cung cấp dịch vụ Internet. Multihoming cũng có thể tăng chi phí bao gồm:
+

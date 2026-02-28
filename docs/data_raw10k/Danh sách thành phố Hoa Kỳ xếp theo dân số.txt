@@ -1,0 +1,7 @@
+Danh sách thành phố Hoa Kỳ xếp theo dân số
+
+Đây là danh sách các thành phố tại Hoa Kỳ có từ 100 nghìn người trở lên. Theo định nghĩa của Cục Thống kê Dân số Hoa Kỳ, một khu hợp nhất ("incorporated area") có thể sử dụng nhiều tên, bao gồm thành phố, thị trấn, làng, và khu. Trong danh sách này, dựa trên những dân số ước lượng ngày 1 tháng 7 năm 2005 của Cục Thống kê, phần nhiều của những khu vực này được tổ chức là thành phố. Những thành phố-quận hỗn hợp thuộc loại chính phủ đặc biệt tại vì có những khu vực tổ chức khác nằm ở trong thành phố hỗn hợp. Danh sách này chỉ tính những vùng (gọi "balance") của thành phố hỗn hợp mà không thuộc về thành phố, thị trấn, hay làng khác.
+Những con số này ít hơn dân số tổng cộng trong khu vực đô thị, ý nghĩa chính của từ "thành phố" ở nhiều nước. Trong một số trường hợp, hai ba thành phố ở dưới cùng khu vực đô thị.
+Các thành phố có dân số hơn 100.000.
+Danh sách dưới đây bao gồm các khu vực được hợp nhất ở Hoa Kỳ với dân số trên 100.000 người tại thời điểm ngày 1 tháng 4 năm 2010 theo kết quả điều tra dân số Hoa Kỳ năm 2010.. Thủ phủ bang được bôi đậm.
+
