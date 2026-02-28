@@ -1,32 +1,56 @@
 # Vietnamese RAG Chatbot
 
-An advanced, locally-hosted Retrieval-Augmented Generation (RAG) chatbot designed specifically for the Vietnamese language. This pipeline ensures high-quality, context-aware responses by combining local document retrieval with intelligent web search fallbacks.
+A **Retrieval-Augmented Generation (RAG) chatbot for Vietnamese**, combining hybrid search (semantic + keyword retrieval) with a Vietnamese-optimized Large Language Model to generate accurate, context-grounded responses.
 
-## 🚀 Features
+## 📌 Introduction
 
-- **LLM Engine:** Powered by the `AITeamVN/Vi-Qwen2-7B-RAG` model for native, high-fidelity Vietnamese text generation.
+Large Language Models often hallucinate when answering factual questions. This issue becomes more serious for **Vietnamese**, where high-quality RAG systems are less available.
+
+This project builds a **hybrid RAG pipeline** that:
+
+- Retrieves relevant documents using both semantic embeddings and keyword search (BM25)
+- Generates grounded answers using a Vietnamese LLM
+- Falls back to web search when local retrieval fails
+- Evaluates performance using RAGAS metrics
+
+The goal is to create a **more reliable Vietnamese question-answering system**.
+
+## ✨ Key Features
+
+- **LLM Engine:** Powered by the `AITeamVN/Vi-Qwen2-7B-RAG` model with quantized version for native, high-fidelity Vietnamese text generation and memory efficiency
 - **Vector Database:** Utilizes **ChromaDB** for fast, local vector storage and retrieval.
-- **Hybrid Search:** Implements a robust retrieval pipeline combining **Semantic Search** (dense vector embeddings) and **BM25** (sparse keyword matching) to maximize document relevance.
+- **Hybrid Search:** Implements a robust retrieval pipeline combining **Semantic Search** (dense vector embeddings) and **BM25** (sparse keyword matching) to maximize document relevance with RRF score for ranking
 - **Smart Fallback Mechanism:** If the hybrid search fails to find a high-confidence match in the local vector database, the system automatically falls back to **Google Search** to retrieve real-time, external information.
 - **Customizable Prompting:** Easy-to-edit system prompts to adjust the assistant's behavior and response boundaries.
 
+## 🏗️ System Architecture
+![img_3.png](img_3.png)
 
 ## 🛠️ How to Use the Repo
 
-### 1. Prerequisites
-Ensure you have Python 3.9+ installed on your system. 
+### 1. Requirements
+### Software
+- Python 3.10+
+- pip
+- CUDA (optional, but recommended for GPU acceleration)
+
+### Hardware
+- Minimum 16GB RAM
+- GPU recommended (8GB+ VRAM for 7B model)
+- CPU-only mode works but slower
+
 
 ### 2. Installation
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/your-username/vietnamese-rag-chatbot.git](https://github.com/your-username/vietnamese-rag-chatbot.git)
+git clone https://github.com/Lad1411/vietnamese-rag-chatbot.git
 cd vietnamese-rag-chatbot
 pip install -r requirements.txt
 ```
 
 ### 3. Environment Setup
-Generate API key at https://developers.google.com/custom-search/docs/paid_element#api_key
+Generate a Google Custom Search API key: https://developers.google.com/custom-search/docs/paid_element#api_key
 
 
 Create a .env file in the `Retrieval_pipeline` directory of the project to configure your API keys (required for the Google Search fallback):
@@ -94,9 +118,7 @@ Evaluation:""",
 )
 ```
 
-Reported Metric: > End-to-End Pass Rate (%)
-
-### 4. Result
+### 3. Result
 
 | Evaluation Type | Metric                  | Score |
 | :--- |:------------------------|:------|
