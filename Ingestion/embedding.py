@@ -21,7 +21,7 @@ def create_keyword_retriever(chunks, vietnamesetokenizer):
     )
     return retriever
 
-def create_vector_db(chunks, db_dir='../vector_db', embed_model = '/home/lad/AI/vietnamese-rag-chatbot/my_local_models/vietnamese-bi-encoder'):
+def create_vector_db(chunks, db_dir='../vector_db', embed_model = 'my_local_models/vietnamese-bi-encoder'):
     """
         Create Chroma vector DB
         Args:

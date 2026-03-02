@@ -4,7 +4,7 @@ from .embedding import create_vector_db, create_keyword_retriever
 
 
 class IngestionPipeline:
-    def __init__(self,tokenizer, doc_dir = '/home/lad/AI/vietnamese-rag-chatbot/docs'):
+    def __init__(self,tokenizer, doc_dir = 'docs'):
         self.doc_dir = doc_dir
         self.tokenizer = tokenizer
 

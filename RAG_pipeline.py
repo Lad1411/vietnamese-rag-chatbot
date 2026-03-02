@@ -1,11 +1,10 @@
 from Retrieval_pipeline import Retriever
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
-from transformers import Qwen2TokenizerFast
 import torch
 
 
 class RAG_pipeline:
-    def __init__(self, keyword_retriever, vector_db, chunking_func, llm_model=r'/home/lad/AI/vietnamese-rag-chatbot/Vi-Qwen2-7B-RAG'):
+    def __init__(self, keyword_retriever, vector_db, chunking_func, llm_model=r"Vi-Qwen2-7B-RAG"):
         # Define LLM model
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
