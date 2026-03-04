@@ -24,7 +24,38 @@ The goal is to create a **more reliable Vietnamese question-answering system**.
 - **Customizable Prompting:** Easy-to-edit system prompts to adjust the assistant's behavior and response boundaries.
 
 ## 🏗️ System Architecture
-![img_3.png](img_3.png)
+**Ingestion pipeline**    
+
+    Raw Document (pdf, txt, json,...)
+            ↓
+    Document Loader
+            ↓
+    Text Chunking (Recursive Character Text Split)
+            ↓
+    Embedding Model (vietnamese-bi-encoder)
+            ↓
+    Store layer
+        ├── ChromaDB Vector Store 
+        └── BM25 index
+
+**Inference pipeline**
+
+    User Question
+            ↓
+    Retrieval Layer
+        ├── BM25
+        ├── Semantic Search
+        └── RRF Fusion
+            ↓
+    (Relevance Check)
+       ├── High → Use Retrieved Docs
+       └── Low → Google Search API
+            ↓
+    Context Builder
+            ↓
+    Vi-Qwen2-7B-RAG LLM
+            ↓
+    Generated Answer
 
 ## 🛠️ How to Use the Repo
 
@@ -50,6 +81,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Environment Setup
+***Google Search API key***
+
+
 Generate a Google Custom Search API key: https://developers.google.com/custom-search/docs/paid_element#api_key
 
 
@@ -59,9 +93,29 @@ GOOGLE_CSE_ID = ""
 GOOGLE_API_KEY = ""
 ```
 
+***Documents***
+
+Add your documents inside `docs`
+
+Supported formats:
+
+- .txt
+- .pdf
+- .json
+- .csv
+
 ### 4. Running the chatbot
 ```bash
 python main.py
+```
+
+### 5. Running with Docker
+```bash
+# 1. Build the image
+docker build -t chatbot .
+
+# 2. Run the container
+docker run -it --gpus all chatbot
 ```
 
 ## 🤖 Chatbot Demo
