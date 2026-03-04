@@ -12,7 +12,6 @@ ENV PATH="/chatbot/venv/bin:$PATH"
 
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
-RUN pip install sentence-transformers
 
 COPY docs/ docs/
 COPY Ingestion/ Ingestion/
