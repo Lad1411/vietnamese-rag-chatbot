@@ -19,7 +19,8 @@ The goal is to create a **more reliable Vietnamese question-answering system**.
 
 - **LLM Engine:** Powered by the `AITeamVN/Vi-Qwen2-7B-RAG` model with quantized version for native, high-fidelity Vietnamese text generation and memory efficiency
 - **Vector Database:** Utilizes **ChromaDB** for fast, local vector storage and retrieval.
-- **Hybrid Search:** Implements a robust retrieval pipeline combining **Semantic Search** (dense vector embeddings) and **BM25** (sparse keyword matching) to maximize document relevance with RRF score for ranking
+- **Hybrid Search:** Implements a robust retrieval pipeline combining **Semantic Search** (dense vector embeddings) and **BM25** (sparse keyword matching) fused via **RRF (Reciprocal Rank Fusion)**.
+- **Context evaluation**: Rigorously scores and filters the retrieved documents using a **Cross-Encoder** model to ensure only highly relevant context is passed to the LLM.
 - **Smart Fallback Mechanism:** If the hybrid search fails to find a high-confidence match in the local vector database, the system automatically falls back to **Google Search** to retrieve real-time, external information.
 - **Customizable Prompting:** Easy-to-edit system prompts to adjust the assistant's behavior and response boundaries.
 
