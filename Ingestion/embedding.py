@@ -19,6 +19,7 @@ def create_keyword_retriever(chunks, vietnamesetokenizer):
         documents=chunks,
         preprocess_func=vietnamesetokenizer
     )
+    retriever.k = 2
     return retriever
 
 def create_vector_db(chunks, db_dir='../vector_db', embed_model = 'my_local_models/vietnamese-bi-encoder'):

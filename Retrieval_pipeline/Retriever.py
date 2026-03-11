@@ -5,6 +5,7 @@ from itertools import chain
 from dotenv import load_dotenv
 import os
 from langchain_core.documents import Document
+from sentence_transformers import CrossEncoder
 
 load_dotenv()
 
@@ -106,23 +107,37 @@ class RAGRetriever:
         GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
         self.search = GoogleSearchAPIWrapper()
 
-    def retrieve(self, query, top_k=5, threshold=0.016):
+        self.reranked = CrossEncoder('cross-encoder/mmarco-mMiniLMv2-L12-H384-v1')
+
+    def retrieve(self, query, top_k=5, threshold=0.016, ce_threshold = 2.5):
         """
             Retrieve relevant chunks for a query
             Args:
                 query: The string of search query
                 top_k: Number of relevant documents returned
                 threshold: Threshold score for chunks
+                ce_threshold: Final threshold score for chunks
         """
         docs = self.ensemble_retriever.invoke(input=query)
         # print(docs)
         relevant_docs = [doc[0] for doc in docs if doc[1]>=threshold][:top_k]
 
+        pairs = [(query, doc.page_content) for doc in relevant_docs]
+        scores = self.reranked.predict(pairs)
+
+        reranked = sorted(
+            zip(relevant_docs, scores),
+            key=lambda x: x[1],
+            reverse=True
+        )
+
+        final_context = [doc for doc, score in reranked[:3] if score>=ce_threshold]
+
         # No relevant docs -> use Google search
-        if len(relevant_docs) == 0:
+        if len(final_context) == 0:
             print("Không tìm thấy thông tin hữu ich -> Tra Google")
             raw_relevant_docs = self.search.results(query, top_k)
 
-            relevant_docs = self.fall_back.fallback(new_docs=raw_relevant_docs)
+            final_context = self.fall_back.fallback(new_docs=raw_relevant_docs)
 
-        return relevant_docs
+        return final_context
