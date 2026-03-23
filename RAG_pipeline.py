@@ -25,16 +25,85 @@ class RAG_pipeline:
         # Define retriever
         self.retriever = Retriever.RAGRetriever(keyword_retriever=keyword_retriever, chunking_func=chunking_func, vectordb=vector_db)
 
+        self.chat_history = []
+
+    def format_chathistory(self):
+        formatted_text = ""
+        for msg in self.chat_history:
+            role = "Người dùng" if msg["role"] == "user" else "Hệ thống"
+            formatted_text += f"{role}: {msg['content']}\n"
+        return formatted_text.strip()
+
+    def rewrite_query(self, query):
+        system_prompt = """
+            Bạn là một công cụ xử lý ngôn ngữ tự nhiên. Nhiệm vụ DUY NHẤT của bạn là viết lại câu hỏi để làm từ khóa tìm kiếm.
+            TUYỆT ĐỐI KHÔNG TRẢ LỜI CÂU HỎI. KHÔNG GIẢI THÍCH. CHỈ IN RA CÂU HỎI.
+            
+            Dưới đây là các ví dụ bạn PHẢI tuân theo:
+
+            [Ví dụ 1]
+            Lịch sử: Chưa có lịch sử trò chuyện.
+            Câu hỏi mới: Mã độc tống tiền là gì?
+            => Kết quả: Mã độc tống tiền là gì?
+
+            [Ví dụ 2]
+            Lịch sử: 
+            Người dùng: Malware là gì?
+            Hệ thống: Malware là phần mềm độc hại.
+            Câu hỏi mới: Cách phòng chống nó?
+            => Kết quả: Cách phòng chống Malware?
+
+            [Ví dụ 3]
+            Lịch sử:
+            Người dùng: BM25 hoạt động ra sao?
+            Hệ thống: BM25 đếm tần suất từ khóa.
+            Câu hỏi mới: Thời tiết hôm nay thế nào?
+            => Kết quả: Thời tiết hôm nay thế nào?
+            """
+
+        template = """
+                ### Lịch sử trò chuyện (từ cũ đến mới):
+                {chat_history}
+
+                ### Câu hỏi mới của người dùng:
+                {question}
+
+                ### Câu hỏi độc lập được viết lại:"""
+
+        conversation = [{"role": "system", "content": system_prompt},
+                        {"role": "user", "content": template.format(chat_history=self.format_chathistory(), question=query)}]
+        text = self.tokenizer.apply_chat_template(
+            conversation,
+            tokenize=False,
+            add_generation_prompt=True)
+        model_inputs = self.tokenizer(text, return_tensors="pt").to(self.model.device)
+        generated_ids = self.model.generate(
+            model_inputs.input_ids,
+            attention_mask=model_inputs.attention_mask,
+            max_new_tokens=256,
+            temperature=0.1,
+            pad_token_id=self.tokenizer.eos_token_id
+        )
+        generated_ids = [
+            output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+        ]
+        rewrite_query = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+        return rewrite_query
 
     def generate(self, query, context_text=None, evaluation=False):
+        # Rewrite query
+        new_query = self.rewrite_query(query)
+
+        print("Original query:{}".format(query))
+        print("New query: {}".format(new_query))
+
         # Retrieve
         if context_text is None:
-            relevant_docs = self.retriever.retrieve(query=query)
+            relevant_docs = self.retriever.retrieve(query=new_query)
             docs = [doc.page_content for doc in relevant_docs]
             context_text = "\n\n".join(docs)
 
         # Prompt
-        # system_prompt = "Bạn là một quản gia hữu ích và hài hước. Hãy ưu tiên sử dụng [Ngữ cảnh] dưới đây để trả lời câu hỏi của người dùng."
         system_prompt = """
         Bạn là một quản gia AI trung thành, hữu ích và hài hước.
         QUY TẮC BẮT BUỘC:
@@ -59,7 +128,7 @@ class RAG_pipeline:
 
         ### Trả lời :'''
         conversation = [{"role": "system", "content": system_prompt},
-                        {"role": "user", "content": template.format(context=context_text, question=query)}]
+                        {"role": "user", "content": template.format(context=context_text, question=new_query)}]
         text = self.tokenizer.apply_chat_template(
             conversation,
             tokenize=False,
@@ -77,11 +146,18 @@ class RAG_pipeline:
             output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
         ]
         response = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+        
+            
+        self.chat_history.extend(
+            [{'role': "user", 'content': query},
+            {'role': "assistant", 'content': response}]
+        )
+
+        if len(self.chat_history) > 6:
+            self.chat_history = self.chat_history[-6:]
 
         if evaluation:
             return response, docs
 
         return response
-
-
 

@@ -109,7 +109,7 @@ class RAGRetriever:
 
         self.reranked = CrossEncoder('cross-encoder/mmarco-mMiniLMv2-L12-H384-v1')
 
-    def retrieve(self, query, top_k=5, threshold=0.016, ce_threshold = 2.5):
+    def retrieve(self, query, top_k=5, threshold=0.016, ce_threshold = 2):
         """
             Retrieve relevant chunks for a query
             Args:
@@ -123,18 +123,19 @@ class RAGRetriever:
         relevant_docs = [doc[0] for doc in docs if doc[1]>=threshold][:top_k]
 
         pairs = [(query, doc.page_content) for doc in relevant_docs]
-        scores = self.reranked.predict(pairs)
 
-        reranked = sorted(
-            zip(relevant_docs, scores),
-            key=lambda x: x[1],
-            reverse=True
-        )
+        if len(pairs) > 0:
+            scores = self.reranked.predict(pairs)
 
-        final_context = [doc for doc, score in reranked[:3] if score>=ce_threshold]
+            reranked = sorted(
+                zip(relevant_docs, scores),
+                key=lambda x: x[1],
+                reverse=True
+            )
 
-        # No relevant docs -> use Google search
-        if len(final_context) == 0:
+            final_context = [doc for doc, score in reranked[:3] if score>=ce_threshold]
+
+        else: # No relevant docs -> use Google search
             print("Không tìm thấy thông tin hữu ich -> Tra Google")
             raw_relevant_docs = self.search.results(query, top_k)
 
